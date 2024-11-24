@@ -28,14 +28,14 @@ a, a:hover {
 h1 {
     font-family: Lora;
     font-weight: 600;
-    color: #000;
+    color: #000000;
     font-size: 44px;
     line-height: 150%;  
 }
 p {
     font-family: 'Roboto';
     margin: 16px 8px;
-    color: #000;
+    color: #000000;
     font-size: 16px;
     line-height: 150%;
 }
