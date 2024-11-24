@@ -10,7 +10,7 @@ body {
     overflow-x: hidden; /* Soluciona el scroll horizontal no deseado */
 }
 a, a:hover {
-    color: #F6C63B;
+    color: #000;
 }
 .container {
     margin: 0 auto;
