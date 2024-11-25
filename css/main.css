@@ -10,7 +10,7 @@ body {
     overflow-x: hidden; /* Soluciona el scroll horizontal no deseado */
 }
 a, a:hover {
-    color: #000;
+    color: #fff;
 }
 .container {
     margin: 0 auto;
@@ -28,14 +28,14 @@ a, a:hover {
 h1 {
     font-family: Lora;
     font-weight: 600;
-    color: #000000;
+    color: #fff;
     font-size: 44px;
     line-height: 110%;  
 }
 p {
     font-family: 'Roboto';
     margin: 16px 8px;
-    color: #000000;
+    color: #fff;
     font-size: 16px;
     line-height: 150%;
 }
