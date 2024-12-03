@@ -10,7 +10,7 @@ body {
     overflow-x: hidden; /* Soluciona el scroll horizontal no deseado */
 }
 a, a:hover {
-    color: #000;
+    color: #fff;
 }
 .container {
     margin: 0 auto;
@@ -28,14 +28,14 @@ a, a:hover {
 h1 {
     font-family: Lora;
     font-weight: 600;
-    color: #000000;
+    color: #fff;
     font-size: 44px;
     line-height: 110%;  
 }
 p {
     font-family: 'Roboto';
     margin: 16px 8px;
-    color: #000000;
+    color: #fff;
     font-size: 16px;
     line-height: 150%;
 }
@@ -56,7 +56,7 @@ h1, h2, p, .author {
     left: 0;
     width: 100vw;
     height: 100%; /* Deja que el fondo cubra el contenido dinámicamente */
-    background: url(https://picsum.photos/id/63/3000/2000) no-repeat center center fixed;
+    background: url(https://picsum.photos/id/922/3000/2000) no-repeat center center fixed;
     background-size: cover;
     z-index: -3;
 
