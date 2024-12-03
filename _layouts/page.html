@@ -33,10 +33,31 @@ layout: default
         </li>
         {% endfor %}
       </ul>
-      <h2>Quién es Quién</h2>
+      <!-- <h2>Quién es Quién</h2>
       {% for persona in page.quien_es_quien %}
-      <p><strong>{{ persona.nombre }}</strong><br />{{ persona.descripcion }}</p>
-      {% endfor %}
+      <div class="who-is-who">
+        <div class="item">
+          <span class="">
+            {{ persona.nombre }}
+          </span>
+          <p>{{ persona.descripcion }}</p>
+        </div>
+      </div>
+      {% endfor %} -->
+      <!-- Glossary terms -->
+      {% if page.glosario_terminos|length > 0 %}
+      <h2>Glosario de Términos</h2>
+      <div class="glossary"> 
+        <div class="card-container">
+          {% for termino in page.glosario_terminos %}
+          <div class="card">
+            <h3>{{ termino.termino }}</h3>
+            <p><em>{{ termino.definicion }}</em></p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
 
       
 
@@ -89,9 +110,6 @@ layout: default
         <span class="">{{ page.url_canonical }}</span>
       </div>
     </div>
-    
-  </div>
-  
 
 
 

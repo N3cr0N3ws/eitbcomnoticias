@@ -251,5 +251,75 @@
         ],
         "reflexion_breve": "Este trágico incidente subraya la necesidad urgente de revisar y fortalecer los mecanismos de protección para las víctimas de violencia de género, garantizando que las denuncias previas resulten en medidas efectivas que eviten futuras tragedias.",
         "bsky_msg": "Conmoción y repulsa – El acusado de matar a su expareja en Pasaia declara hoy ante el juez."
+    },
+    {
+      "titular": "El Manifiesto del Día Internacional del Euskera recuerda que 'tejer la lengua es responsabilidad de todos'",
+      "categoria_emocional": "Inspirador",
+      "fecha_publicacion": "3 de diciembre de 2024",
+      "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9641884/el-manifiesto-del-dia-internacional-del-euskera-recuerda-que-tejer-lengua-es-responsabilidad-de-todos/",
+      "url_imagen": "https://picsum.photos/800/900",
+      "resumen": "El manifiesto del Día Internacional del Euskera enfatiza que la responsabilidad de mantener viva la lengua recae en toda la sociedad, incluyendo instituciones públicas y agentes sociales.",
+      "contexto": "El Día Internacional del Euskera se celebra cada 3 de diciembre para promover el uso y la revitalización de la lengua vasca, destacando su importancia cultural y social en el estado.",
+      "linea_tiempo": [
+        {
+          "fecha": "3 de diciembre de 1949",
+          "descripcion": "Primera celebración del Día Internacional del Euskera, promovida por comunidades de la diáspora vasca."
+        },
+        {
+          "fecha": "3 de diciembre de 2023",
+          "descripcion": "El Lehendakari subraya la importancia de la presencia del euskera en el ámbito digital durante la celebración del Día Internacional del Euskera."
+        }
+      ],
+      "quien_es_quien": [
+        {
+          "nombre": "Eneko Sagardoy",
+          "descripcion": "Actor vasco que condujo el acto del Día Internacional del Euskera en 2024."
+        }
+      ],
+      "glosario_terminos": [
+        {
+          "termino": "Euskera",
+          "definicion": "Lengua ancestral del País Vasco, hablada en regiones del norte del estado y suroeste de Francia."
+        },
+        {
+          "termino": "Lehendakari",
+          "definicion": "Presidente del Gobierno Vasco."
+        },
+        {
+          "termino": "EUDEL",
+          "definicion": "Asociación de Municipios Vascos."
+        },
+        {
+          "termino": "UEMA",
+          "definicion": "Unión de Municipios Vascoparlantes."
+        }
+      ],
+      "impacto_esperado": "Se espera que el manifiesto impulse una mayor colaboración entre instituciones y sociedad civil para fortalecer el uso del euskera en diversos ámbitos, promoviendo su normalización y vitalidad.",
+      "comparativas": "En Cataluña, la promoción del catalán ha involucrado tanto a instituciones como a la sociedad civil, logrando una presencia significativa en la educación y medios de comunicación.",
+      "opinion_publica": [
+        {
+          "fuente": "Kontseilua",
+          "reaccion": "Ha llamado a situar la normalización del euskera en el centro de la agenda política y social, destacando la necesidad de pasar de la 'emergencia a la fortaleza' del idioma."
+        }
+      ],
+      "posibles_proximos_pasos": "Se prevé la implementación de políticas públicas que fomenten el uso del euskera en ámbitos digitales y educativos, así como campañas de sensibilización para involucrar a la ciudadanía en su promoción.",
+      "datos_relevantes": [
+        {
+          "dato": "El euskera es una de las lenguas más antiguas de Europa y no está relacionada con ninguna otra familia lingüística conocida.",
+          "fuente": "Euskaltzaindia"
+        }
+      ],
+      "chequeo_datos": [
+        {
+          "afirmacion": "El manifiesto afirma que 'el ejercicio de tejer el euskera es responsabilidad de todos'.",
+          "verificacion": {
+            "estado": "Confirmado",
+            "explicacion": "El manifiesto del Día Internacional del Euskera de 2024 enfatiza la responsabilidad colectiva en la revitalización del idioma."
+          }
+        }
+      ],
+      "reflexion_breve": "La revitalización del euskera depende de un compromiso colectivo que trasciende generaciones, integrando esfuerzos institucionales y ciudadanos para asegurar su futuro.",
+      "bsky_msg": "Inspirador – El manifiesto del Día Internacional del Euskera destaca la responsabilidad compartida en la revitalización de la lengua."
     }
+    
 ] 
