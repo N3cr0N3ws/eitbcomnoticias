@@ -13,5 +13,8 @@ page_gen:
 
 # Archivos y carpetas excluidos del procesamiento
 exclude:
-  - README.md             # Archivo de documentación que no será incluido en el sitio
-  # - css                   # Libreria de estilos página principal
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _posts/
+  - _layouts/post.html
