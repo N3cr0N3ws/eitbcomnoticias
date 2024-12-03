@@ -1,0 +1,255 @@
+[
+    {
+        "titular": "La ultraderechista Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que tumbará el Gobierno francés",
+        "categoria_emocional": "Tensión política",
+        "fecha_publicacion": "2 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9640803/la-ultraderechista-marine-le-pen-acusa-a-barnier-de-falta-de-dialogo-y-anuncia-que-tumbara-gobierno-frances/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/02/22/3204262/20240222122848_jose-luis-avalos-y-koldo-_foto610x342.jpg",
+        "resumen": "Marine Le Pen, líder de la extrema derecha francesa, ha acusado al primer ministro Michel Barnier de rechazar el diálogo con su partido y ha anunciado que votará a favor de una moción de censura para derrocar al Gobierno.",
+        "contexto": "La líder de la extrema derecha francesa, Marine Le Pen, ha acusado al primer ministro, Michel Barnier, de rechazar el diálogo con su partido, Agrupación Nacional (RN), y ha anunciado que votará a favor de una moción de censura para hacer caer a su Gobierno el próximo miércoles. Le Pen ha señalado que presentó sus 'líneas rojas' al primer ministro, pero este no las aceptó, calificando los presupuestos propuestos como 'profundamente injustos' y acusando al presidente Emmanuel Macron de incompetencia. La líder de la extrema derecha, cuyos 140 diputados son fundamentales para la supervivencia del Ejecutivo, ha anunciado que su grupo presentará su propia moción de censura, pero que también están dispuestos a votar la que anunció la izquierda. Con esta posición, las horas del Ejecutivo de Barnier, nombrado el pasado 5 de septiembre, están contadas. Le Pen ha minimizado la gravedad de la situación, afirmando que se aplicarán los presupuestos del año pasado y que habrá un nuevo primer ministro que adoptará un nuevo presupuesto. Además, ha acusado a Barnier de querer seguir las políticas de Macron y ha criticado que no accediera a la última de sus demandas, la de renunciar a retrasar medio año la subida de las pensiones en 2025 para absorber la inflación y dejar de subvencionar ciertos medicamentos.",
+        "linea_tiempo": [
+            {
+            "fecha": "5 de septiembre de 2024",
+            "descripcion": "Michel Barnier es nombrado primer ministro de Francia por el presidente Emmanuel Macron."
+            },
+            {
+            "fecha": "7 de septiembre de 2024",
+            "descripcion": "Se realizan protestas en Francia contra el nombramiento de Barnier como primer ministro."
+            },
+            {
+            "fecha": "9 de octubre de 2024",
+            "descripcion": "El gobierno de Barnier sobrevive a una moción de censura presentada por el Nuevo Frente Popular."
+            },
+            {
+            "fecha": "1 de diciembre de 2024",
+            "descripcion": "El gobierno de Barnier utiliza el artículo 49.3 de la Constitución para aprobar los presupuestos de la Seguridad Social de 2025 sin votación parlamentaria."
+            },
+            {
+            "fecha": "3 de diciembre de 2024",
+            "descripcion": "El Nuevo Frente Popular y la extrema derecha de Marine Le Pen presentan mociones de censura contra el gobierno de Barnier."
+            }
+        ],
+        "quien_es_quien": [
+          {
+            "nombre": "Marine Le Pen",
+            "descripcion": "Líder del partido de extrema derecha Agrupación Nacional en Francia."
+          },
+          {
+            "nombre": "Michel Barnier",
+            "descripcion": "Primer ministro de Francia desde el 5 de septiembre de 2024."
+          },
+          {
+            "nombre": "Emmanuel Macron",
+            "descripcion": "Presidente de Francia desde 2017."
+          }
+        ],
+        "glosario_terminos": [
+          {
+            "termino": "Moción de censura",
+            "definicion": "Procedimiento parlamentario mediante el cual se puede destituir al Gobierno si no cuenta con la confianza de la mayoría de la Asamblea Nacional."
+          },
+          {
+            "termino": "Agrupación Nacional (RN)",
+            "definicion": "Partido político francés de extrema derecha liderado por Marine Le Pen."
+          }
+        ],
+        "impacto_esperado": "La aprobación de una moción de censura podría provocar la caída del Gobierno de Michel Barnier, generando inestabilidad política en Francia y afectando la implementación de políticas públicas y la confianza en las instituciones.",
+        "comparativas": "En Italia, en 2019, el entonces ministro del Interior, Matteo Salvini, presentó una moción de censura contra el primer ministro Giuseppe Conte, lo que llevó a la dimisión de Conte y a la formación de un nuevo gobierno de coalición.",
+        "opinion_publica": [
+          {
+            "fuente": "Le Monde",
+            "reaccion": "Analistas políticos señalan que la estrategia de Le Pen busca fortalecer su posición de cara a las próximas elecciones presidenciales."
+          },
+          {
+            "fuente": "Le Figaro",
+            "reaccion": "Editoriales critican la falta de diálogo entre el Gobierno y la oposición, advirtiendo sobre las consecuencias de una crisis política en medio de desafíos económicos."
+          }
+        ],
+        "posibles_proximos_pasos": "Si la moción de censura es aprobada, el presidente Emmanuel Macron deberá nombrar un nuevo primer ministro y formar un nuevo gobierno. Además, se podrían convocar elecciones anticipadas si no se logra una mayoría estable en la Asamblea Nacional.",
+        "datos_relevantes": [
+          {
+            "dato": "El partido Agrupación Nacional cuenta con 140 diputados en la Asamblea Nacional francesa.",
+            "fuente": "Asamblea Nacional de Francia"
+          },
+          {
+            "dato": "El déficit público de Francia se sitúa en el 5,5% del PIB en 2023.",
+            "fuente": "Ministerio de Economía y Finanzas de Francia"
+          }
+        ],
+        "chequeo_datos": [
+          {
+            "afirmacion": "Le Pen afirma que los presupuestos propuestos son 'profundamente injustos' y que hacen pagar a los franceses la incompetencia del presidente Macron.",
+            "verificacion": {
+              "estado": "Opinión",
+              "explicacion": "La afirmación refleja la opinión de Le Pen sobre los presupuestos y la gestión del presidente, sin aportar datos específicos que puedan ser verificados."
+            }
+          },
+          {
+            "afirmacion": "Le Pen asegura que, de caer el Gobierno, se aplicarán los presupuestos del año pasado.",
+            "verificacion": {
+              "estado": "Confirmado",
+              "explicacion": "Según la legislación francesa, en caso de no aprobarse nuevos presupuestos, se prorrogan automáticamente los del año anterior."
+            }
+          }
+        ],
+        "reflexion_breve": "La actual crisis política en Francia pone de manifiesto la fragilidad de las coaliciones gubernamentales y la importancia del diálogo entre las distintas fuerzas políticas para garantizar la estabilidad y el bienestar de la ciudadanía.",
+        "bsky_msg": "Tensión política – Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que votará a favor de una moción de censura para derrocar al Gobierno francés."
+    },
+    {
+        "titular": "El Supremo cita a Ábalos para declarar el 12 de diciembre",
+        "categoria_emocional": "Investigación judicial",
+        "fecha_publicacion": "2 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9640611/el-supremo-cita-a-abalos-para-declarar-12-de-diciembre-de-2024/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/03/3290024/20241203082521_primerministrofranciamich_foto610x342.jpg",
+        "resumen": "El Tribunal Supremo ha citado al exministro de Transportes, José Luis Ábalos, para declarar el 12 de diciembre de 2024 en relación con una investigación sobre presuntas comisiones ilegales en contratos de mascarillas durante la pandemia. Además, el alto tribunal asumirá la investigación contra su exasesor, Koldo García, y el empresario Víctor de Aldama, quienes también han sido citados a declarar los días 16 y 17 de diciembre, respectivamente.",
+        "contexto": "El Tribunal Supremo ha decidido investigar al exministro de Transportes, José Luis Ábalos, en el marco de una causa que examina la adjudicación de contratos de material sanitario durante la pandemia de COVID-19. Se sospecha que, aprovechando la situación de emergencia, se pudieron haber otorgado contratos de manera irregular, beneficiando a ciertas empresas a cambio de comisiones ilegales. Esta investigación también involucra a su exasesor, Koldo García, y al empresario Víctor de Aldama, quienes supuestamente actuaron como intermediarios en estas operaciones.",
+        "linea_tiempo": [
+            {
+            "fecha": "5 de septiembre de 2024",
+            "descripcion": "Michel Barnier es nombrado primer ministro de Francia por el presidente Emmanuel Macron."
+            },
+            {
+            "fecha": "7 de septiembre de 2024",
+            "descripcion": "Se realizan protestas en Francia contra el nombramiento de Barnier como primer ministro."
+            },
+            {
+            "fecha": "9 de octubre de 2024",
+            "descripcion": "El gobierno de Barnier sobrevive a una moción de censura presentada por el Nuevo Frente Popular."
+            },
+            {
+            "fecha": "1 de diciembre de 2024",
+            "descripcion": "El gobierno de Barnier utiliza el artículo 49.3 de la Constitución para aprobar los presupuestos de la Seguridad Social de 2025 sin votación parlamentaria."
+            },
+            {
+            "fecha": "3 de diciembre de 2024",
+            "descripcion": "El Nuevo Frente Popular y la extrema derecha de Marine Le Pen presentan mociones de censura contra el gobierno de Barnier."
+            }
+        ],
+        "quien_es_quien": [
+          {
+            "nombre": "José Luis Ábalos",
+            "descripcion": "Exministro de Transportes y actual diputado del Congreso, investigado por presunta participación en una trama de corrupción relacionada con contratos de mascarillas durante la pandemia."
+          },
+          {
+            "nombre": "Koldo García",
+            "descripcion": "Exasesor de José Luis Ábalos en el Ministerio de Transportes, presuntamente actuó como enlace entre la Administración y empresas privadas en la adjudicación de contratos irregulares."
+          },
+          {
+            "nombre": "Víctor de Aldama",
+            "descripcion": "Empresario señalado como supuesto comisionista en la adjudicación de contratos de mascarillas, habría utilizado su influencia para obtener beneficios económicos en colaboración con funcionarios públicos."
+          }
+        ],
+        "glosario_terminos": [
+          {
+            "termino": "Suplicatorio",
+            "definicion": "Solicitud formal que realiza un tribunal al Parlamento para levantar la inmunidad parlamentaria de un diputado y poder proceder judicialmente contra él."
+          },
+          {
+            "termino": "Cohecho",
+            "definicion": "Delito que consiste en que una autoridad o funcionario público solicite o reciba, por sí o por persona interpuesta, dádiva o presente o acepte ofrecimiento o promesa para realizar en el ejercicio de su cargo un acto contrario a los deberes inherentes al mismo."
+          },
+          {
+            "termino": "Tráfico de influencias",
+            "definicion": "Delito que consiste en influir en una autoridad o funcionario público prevaliéndose de cualquier situación derivada de su relación personal con él u otra autoridad para conseguir una resolución que le pueda generar un beneficio económico."
+          }
+        ],
+        "impacto_esperado": "La citación de un exministro para declarar ante el Tribunal Supremo por presuntos delitos de corrupción puede tener significativas repercusiones políticas y sociales. Este proceso podría afectar la imagen pública de las instituciones y generar debates sobre la integridad en la gestión pública, especialmente en contextos de emergencia como la pandemia.",
+        "posibles_proximos_pasos": "Tras la declaración de José Luis Ábalos el 12 de diciembre, el Tribunal Supremo evaluará si existen indicios suficientes para continuar con el proceso judicial. Dependiendo de las evidencias presentadas, podría solicitarse al Congreso el levantamiento de su inmunidad parlamentaria para proceder formalmente contra él. Paralelamente, las declaraciones de Koldo García y Víctor de Aldama aportarán información adicional que podría influir en el curso de la investigación.",
+        "bsky_msg": "Investigación judicial – El Supremo cita a José Luis Ábalos para declarar el 12 de diciembre por presuntas irregularidades en contratos de mascarillas durante la pandemia."
+    },
+    {
+        "titular": "El acusado de matar a su expareja con un arma de fuego en Pasaia declarará hoy ante el juez",
+        "categoria_emocional": "Conmoción y repulsa",
+        "fecha_publicacion": "3 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9641057/el-acusado-de-matar-a-su-expareja-con-arma-de-fuego-en-pasaia-declarara-hoy-ante-juez/",
+        "url_imagen": "https://picsum.photos/800/900",
+        "resumen": "El hombre de 53 años detenido por presuntamente asesinar a su expareja en Pasaia ha sido puesto a disposición judicial en Donostia-San Sebastián.",
+        "contexto": "El 30 de noviembre de 2024, una mujer de 45 años fue asesinada en Pasaia, Gipuzkoa, presuntamente por su expareja de 53 años, quien se entregó a la policía posteriormente. La víctima había denunciado al agresor por violencia de género en 2020, pero el caso fue archivado en 2022.",
+        "linea_tiempo": [
+          {
+            "fecha": "2020",
+            "descripcion": "La víctima presenta una denuncia por violencia de género contra su expareja."
+          },
+          {
+            "fecha": "2022",
+            "descripcion": "El caso de violencia de género es archivado."
+          },
+          {
+            "fecha": "30 de noviembre de 2024",
+            "descripcion": "La víctima es asesinada en su domicilio en Pasaia; el presunto agresor se entrega a la policía en Villabona."
+          },
+          {
+            "fecha": "1 de diciembre de 2024",
+            "descripcion": "Se realizan concentraciones en Pasaia y Villabona en repulsa al asesinato machista."
+          },
+          {
+            "fecha": "3 de diciembre de 2024",
+            "descripcion": "El acusado es puesto a disposición judicial en Donostia-San Sebastián."
+          }
+        ],
+        "quien_es_quien": [
+          {
+            "nombre": "Leonor",
+            "descripcion": "Mujer de 45 años, víctima del asesinato en Pasaia; había denunciado a su expareja por violencia de género en 2020."
+          },
+          {
+            "nombre": "Presunto agresor",
+            "descripcion": "Hombre de 53 años, expareja de la víctima; se entregó a la policía tras el incidente y está detenido."
+          },
+          {
+            "nombre": "Miren Elgarresta",
+            "descripcion": "Directora de Emakunde, institución que ha valorado los protocolos de actuación en casos de violencia machista."
+          }
+        ],
+        "glosario_terminos": [
+          {
+            "termino": "Violencia de género",
+            "definicion": "Cualquier acto de violencia basado en el género que resulta en daño físico, sexual o psicológico para las mujeres."
+          },
+          {
+            "termino": "Emakunde",
+            "definicion": "Instituto Vasco de la Mujer, encargado de promover la igualdad y combatir la violencia de género en el País Vasco."
+          }
+        ],
+        "impacto_esperado": "Este trágico suceso ha generado una profunda conmoción en la sociedad y ha reavivado el debate sobre la eficacia de los protocolos de protección a las víctimas de violencia de género en el estado.",
+        "opinion_publica": [
+          {
+            "fuente": "Ararteko",
+            "reaccion": "Condena el asesinato y demanda una revisión seria del caso y de sus circunstancias para entender por qué, a pesar de las denuncias, no se ha protegido a la mujer."
+          },
+          {
+            "fuente": "Movimiento Feminista de Euskal Herria",
+            "reaccion": "Critica los protocolos actuales y cuestiona las valoraciones positivas de las instituciones sobre su funcionamiento."
+          }
+        ],
+        "posibles_proximos_pasos": "Se espera que el proceso judicial determine la culpabilidad del acusado y, de ser hallado culpable, se le imponga una pena acorde a la gravedad del delito. Además, es probable que se revisen y refuercen los protocolos de protección a víctimas de violencia de género.",
+        "datos_relevantes": [
+          {
+            "dato": "43 mujeres han sido asesinadas por sus parejas o exparejas en el estado en 2024.",
+            "fuente": "Ministerio de Igualdad"
+          },
+          {
+            "dato": "Desde 2003, 1.288 mujeres han fallecido por violencia machista en el estado.",
+            "fuente": "Ministerio de Igualdad"
+          }
+        ],
+        "chequeo_datos": [
+          {
+            "afirmacion": "La víctima había denunciado a su expareja en 2020.",
+            "verificacion": {
+              "estado": "Confirmado",
+              "explicacion": "El Departamento de Seguridad del Gobierno Vasco confirmó que la víctima presentó una denuncia por violencia de género en 2020."
+            }
+          },
+          {
+            "afirmacion": "El caso fue archivado en 2022.",
+            "verificacion": {
+              "estado": "Confirmado",
+              "explicacion": "El Departamento de Seguridad del Gobierno Vasco informó que el caso fue archivado dos años después de la denuncia."
+            }
+          }
+        ],
+        "reflexion_breve": "Este trágico incidente subraya la necesidad urgente de revisar y fortalecer los mecanismos de protección para las víctimas de violencia de género, garantizando que las denuncias previas resulten en medidas efectivas que eviten futuras tragedias.",
+        "bsky_msg": "Conmoción y repulsa – El acusado de matar a su expareja en Pasaia declara hoy ante el juez."
+    }
+] 
