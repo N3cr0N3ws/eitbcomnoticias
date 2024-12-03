@@ -1,31 +1,35 @@
-name: Build and Deploy Jekyll Site
+name: Deploy Jekyll site to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # O la rama que prefieras
+      - main
 
 jobs:
-  build-deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
+      # Paso 1: Descargar el código del repositorio
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Ruby
+      # Paso 2: Configurar Ruby para Jekyll
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.6'  # Especifica la versión de Ruby
+          ruby-version: '3.3.6'
+          bundler-cache: true
 
+      # Paso 3: Instalar dependencias
       - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+        run: bundle install
 
+      # Paso 4: Construir el sitio estático con Jekyll
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      # Paso 5: Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
