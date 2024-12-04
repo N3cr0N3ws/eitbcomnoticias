@@ -784,5 +784,44 @@
     "impacto_esperado": "La falta de acuerdo en la definición de los principios que guiarán la reforma sanitaria podría retrasar la implementación de mejoras en el sistema de salud del estado, afectando la calidad y eficiencia de los servicios prestados a la ciudadanía.",
     "posibles_proximos_pasos": "Se espera que los participantes de la Mesa analicen las propuestas en detalle con sus equipos para, en la reunión del 29 de enero, alcanzar un acuerdo definitivo sobre los principios que guiarán la reforma del sistema sanitario.",
     "bsky_msg": "Neutral – Sin acuerdo en la Mesa para el Pacto Vasco de Salud; próxima reunión el 29 de enero."
+  },
+  {
+    "titular": "Detenido tras amenazar y herir gravemente a un hombre en el monte Ulía de San Sebastián",
+    "categoria_emocional": "Violencia",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643100/detenido-tras-amenazar-y-herir-gravemente-a-hombre-en-monte-ulia-de-san-sebastian/",
+    "url_imagen": "https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg",
+    "resumen": "La Ertzaintza ha detenido a un hombre acusado de intento de homicidio tras agredir con un arma blanca a otro individuo en el monte Ulía de Donostia-San Sebastián. La víctima, con lesiones graves, fue trasladada a un centro hospitalario.",
+    "contexto": "El monte Ulía es una zona arbolada en Donostia-San Sebastián, conocida por su tranquilidad y rutas de senderismo. Incidentes de esta naturaleza son inusuales en el área.",
+    "linea_tiempo": [
+      {
+        "fecha": "4 de noviembre de 2024",
+        "descripcion": "Dos hombres fueron detenidos en San Sebastián por intento de homicidio tras agredir a una persona en la estación de autobuses, dejándola inconsciente y con heridas graves."
+      },
+      {
+        "fecha": "21 de agosto de 2024",
+        "descripcion": "Un ertzaina fue apartado del servicio tras ser detenido por amenazar con un cuchillo a su esposa e hijas en San Sebastián."
+      }
+    ],
+    "quien_es_quien": [],
+    "glosario_terminos": [
+      {
+        "termino": "Ertzaintza",
+        "definicion": "Policía autónoma del País Vasco encargada de la seguridad ciudadana en la región."
+      },
+      {
+        "termino": "Intento de homicidio",
+        "definicion": "Acción de intentar causar la muerte a otra persona sin lograrlo."
+      }
+    ],
+    "impacto_esperado": "Este incidente podría generar preocupación entre los residentes y visitantes del monte Ulía, afectando la percepción de seguridad en la zona.",
+    "comparativas": "En otras ciudades europeas, se han implementado patrullajes policiales adicionales en áreas naturales tras incidentes similares para reforzar la seguridad.",
+    "opinion_publica": [],
+    "posibles_proximos_pasos": "Se espera que el detenido sea puesto a disposición judicial y que las autoridades locales refuercen la vigilancia en áreas similares para prevenir futuros incidentes.",
+    "datos_relevantes": [],
+    "chequeo_datos": [],
+    "reflexion_breve": "Este suceso resalta la importancia de mantener la seguridad en espacios públicos y naturales, y la necesidad de una respuesta efectiva por parte de las autoridades para garantizar la tranquilidad de la ciudadanía.",
+    "bsky_msg": "Violencia – Detenido en San Sebastián por agredir gravemente a un hombre en el monte Ulía."
   }  
 ] 
+
