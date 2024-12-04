@@ -10,35 +10,35 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      # Paso 1: Descargar el código del repositorio
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Paso 2: Configurar Ruby para Jekyll
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3.6'
           bundler-cache: true
 
-      # Paso 3: Instalar dependencias
+      - name: Clean _site directory
+        run: |
+          rm -rf _site || true
+          mkdir _site
+
       - name: Install dependencies
         run: bundle install
 
-      # Paso 4: Construir el sitio estático con Jekyll
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build
 
-      # Paso 5: Verificar archivos generados
-      - name: List generated files
+      - name: Verify _site directory
         run: |
-          echo "Verificando contenido de _site:"
+          echo "Contents of _site directory:"
           ls -la _site
 
-      # Paso 6: Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
           publish_branch: gh-pages
+          exclude: '.*'
