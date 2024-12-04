@@ -665,7 +665,78 @@
     ],
     "reflexion_breve": "La situación de estas 183 familias refleja una problemática más amplia sobre el acceso a la vivienda y la necesidad de políticas públicas que garanticen este derecho fundamental.",
     "bsky_msg": "Alarma social – 183 familias en San Sebastián, Irun y Errenteria enfrentan desahucios; Stop Desahucios pide prórroga del Real Decreto 11/2020."
-  }
-  
-   
+  },
+  {
+    "titular": "Unos 160 000 autónomos de Euskadi podrán empezar este año a suscribir nuevas EPSVs",
+    "categoria_emocional": "Positiva",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9642682/unos-160-000-autonomos-de-euskadi-podran-empezar-este-ano-a-suscribir-nuevas-epsvs/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/04/3290666/20241204162402_epsvautonomosgobiernovasc_foto610x342.jpg",
+    "resumen": "A partir de este año, alrededor de 160 000 autónomos en Euskadi podrán suscribir nuevas Entidades de Previsión Social Voluntaria (EPSV) impulsadas por el Gobierno Vasco y las Cámaras de Comercio de Álava, Bizkaia y Gipuzkoa. Estas EPSV ofrecerán ventajas fiscales específicas, con aportaciones deducibles en el IRPF, facilitando a los autónomos complementar sus pensiones públicas.",
+    "contexto": "Las EPSV son instrumentos de previsión social complementaria en Euskadi, diseñadas para mejorar las pensiones de colectivos como los autónomos, cuyas cotizaciones históricamente bajas resultan en prestaciones inferiores a las de los trabajadores por cuenta ajena.",
+    "linea_tiempo": [
+      {
+        "fecha": "13 de febrero de 2024",
+        "descripcion": "El Gobierno Vasco aprueba un nuevo decreto para las EPSV, consolidando el sistema de empleo preferente y estableciendo aportaciones compartidas entre trabajadores y empresas."
+      },
+      {
+        "fecha": "26 de enero de 2024",
+        "descripcion": "El Consejo Vasco de la Previsión Social ratifica el nuevo decreto de las EPSV, avanzando en la regulación de estas entidades como modelo complementario de pensiones en Euskadi."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Noël d'Anjou",
+        "descripcion": "Consejero de Hacienda y Finanzas del Gobierno Vasco, lidera la implementación de las nuevas EPSV para autónomos en colaboración con las Cámaras de Comercio."
+      },
+      {
+        "nombre": "Mauricio Arregui",
+        "descripcion": "Presidente de la Cámara de Comercio de Gipuzkoa, participa en la iniciativa para ofrecer EPSV a los autónomos de la región."
+      },
+      {
+        "nombre": "Jose Ignacio Zudaire",
+        "descripcion": "Presidente de la Cámara de Comercio de Bilbao, colabora en la puesta en marcha de las nuevas EPSV para autónomos en Bizkaia."
+      },
+      {
+        "nombre": "Olaia Arrieta",
+        "descripcion": "Secretaria general de la Cámara de Álava, involucrada en la implementación de las EPSV destinadas a los autónomos alaveses."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "EPSV",
+        "definicion": "Entidades de Previsión Social Voluntaria, instrumentos de ahorro previsional complementario al sistema público de pensiones en Euskadi."
+      },
+      {
+        "termino": "IRPF",
+        "definicion": "Impuesto sobre la Renta de las Personas Físicas, tributo que grava la renta obtenida por las personas físicas en un año."
+      }
+    ],
+    "impacto_esperado": "La implementación de estas EPSV permitirá a los autónomos de Euskadi mejorar su cobertura previsional, reduciendo la brecha entre sus pensiones y las de los trabajadores por cuenta ajena, y fomentando una mayor equidad en el sistema de pensiones.",
+    "comparativas": "Iniciativas similares en Navarra han promovido la incorporación de autónomos extranjeros para fortalecer el tejido empresarial y mejorar la sostenibilidad del sistema de pensiones.",
+    "opinion_publica": [
+      {
+        "fuente": "Noël d'Anjou",
+        "reaccion": "Destacó que las cotizaciones históricamente bajas de los autónomos han resultado en pensiones inferiores, subrayando la importancia de las nuevas EPSV para mejorar su protección social."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que los autónomos interesados comiencen a suscribir las nuevas EPSV este mes, aprovechando las ventajas fiscales antes de posibles cambios normativos en 2025.",
+    "datos_relevantes": [
+      {
+        "dato": "La pensión media de los autónomos en Euskadi es de 1.150,94 euros mensuales, inferior a la de los trabajadores por cuenta ajena.",
+        "fuente": "https://www.eitb.eus/es/noticias/economia/detalle/9642682/unos-160-000-autonomos-de-euskadi-podran-empezar-este-ano-a-suscribir-nuevas-epsvs/"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Las cotizaciones a la Seguridad Social de los autónomos han sido históricamente bajas, resultando en pensiones inferiores.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Datos oficiales muestran que las pensiones de los autónomos son, en promedio, inferiores a las de los trabajadores por cuenta ajena, debido a cotizaciones más bajas."
+        }
+      }
+    ],
+    "reflexion_breve": "La introducción de EPSV específicas para autónomos en Euskadi representa un avance significativo hacia la equidad en la protección social, ofreciendo a este colectivo una herramienta efectiva para mejorar su bienestar en la jubilación.",
+    "bsky_msg": "Positiva – 160 000 autónomos en Euskadi podrán suscribir nuevas EPSV este año, mejorando su protección social."
+  }  
 ] 
