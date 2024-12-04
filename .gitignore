@@ -9,13 +9,6 @@ _config.local.yml
 Gemfile.lock
 node_modules/
 
-# Archivos y directorios generados por Jekyll
-_site/
-pages/
-
-# Datos de prueba
-_data/test.json
-
 # Archivos de log y temporales
 *.log
 *.tmp

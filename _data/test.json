@@ -1,0 +1,99 @@
+[
+    {
+      "titular": "La ultraderechista Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que tumbará el Gobierno francés",
+      "categoria_emocional": "Tensión política",
+      "fecha_publicacion": "2 de diciembre de 2024",
+      "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9640803/la-ultraderechista-marine-le-pen-acusa-a-barnier-de-falta-de-dialogo-y-anuncia-que-tumbara-gobierno-frances/",
+      "url_imagen": "https://media.eitb.eus/multimedia/images/2024/02/22/3204262/20240222122848_jose-luis-avalos-y-koldo-_foto610x342.jpg",
+      "resumen": "Marine Le Pen, líder de la extrema derecha francesa, ha acusado al primer ministro Michel Barnier de rechazar el diálogo con su partido y ha anunciado que votará a favor de una moción de censura para derrocar al Gobierno.",
+      "contexto": "La líder de la extrema derecha francesa, Marine Le Pen, ha acusado al primer ministro, Michel Barnier, de rechazar el diálogo con su partido, Agrupación Nacional (RN), y ha anunciado que votará a favor de una moción de censura para hacer caer a su Gobierno el próximo miércoles. Le Pen ha señalado que presentó sus 'líneas rojas' al primer ministro, pero este no las aceptó, calificando los presupuestos propuestos como 'profundamente injustos' y acusando al presidente Emmanuel Macron de incompetencia. La líder de la extrema derecha, cuyos 140 diputados son fundamentales para la supervivencia del Ejecutivo, ha anunciado que su grupo presentará su propia moción de censura, pero que también están dispuestos a votar la que anunció la izquierda. Con esta posición, las horas del Ejecutivo de Barnier, nombrado el pasado 5 de septiembre, están contadas. Le Pen ha minimizado la gravedad de la situación, afirmando que se aplicarán los presupuestos del año pasado y que habrá un nuevo primer ministro que adoptará un nuevo presupuesto. Además, ha acusado a Barnier de querer seguir las políticas de Macron y ha criticado que no accediera a la última de sus demandas, la de renunciar a retrasar medio año la subida de las pensiones en 2025 para absorber la inflación y dejar de subvencionar ciertos medicamentos.",
+      "linea_tiempo": [
+          {
+          "fecha": "5 de septiembre de 2024",
+          "descripcion": "Michel Barnier es nombrado primer ministro de Francia por el presidente Emmanuel Macron."
+          },
+          {
+          "fecha": "7 de septiembre de 2024",
+          "descripcion": "Se realizan protestas en Francia contra el nombramiento de Barnier como primer ministro."
+          },
+          {
+          "fecha": "9 de octubre de 2024",
+          "descripcion": "El gobierno de Barnier sobrevive a una moción de censura presentada por el Nuevo Frente Popular."
+          },
+          {
+          "fecha": "1 de diciembre de 2024",
+          "descripcion": "El gobierno de Barnier utiliza el artículo 49.3 de la Constitución para aprobar los presupuestos de la Seguridad Social de 2025 sin votación parlamentaria."
+          },
+          {
+          "fecha": "3 de diciembre de 2024",
+          "descripcion": "El Nuevo Frente Popular y la extrema derecha de Marine Le Pen presentan mociones de censura contra el gobierno de Barnier."
+          }
+      ],
+      "quien_es_quien": [
+        {
+          "nombre": "Marine Le Pen",
+          "descripcion": "Líder del partido de extrema derecha Agrupación Nacional en Francia."
+        },
+        {
+          "nombre": "Michel Barnier",
+          "descripcion": "Primer ministro de Francia desde el 5 de septiembre de 2024."
+        },
+        {
+          "nombre": "Emmanuel Macron",
+          "descripcion": "Presidente de Francia desde 2017."
+        }
+      ],
+      "glosario_terminos": [
+        {
+          "termino": "Moción de censura",
+          "definicion": "Procedimiento parlamentario mediante el cual se puede destituir al Gobierno si no cuenta con la confianza de la mayoría de la Asamblea Nacional."
+        },
+        {
+          "termino": "Agrupación Nacional (RN)",
+          "definicion": "Partido político francés de extrema derecha liderado por Marine Le Pen."
+        }
+      ],
+      "impacto_esperado": "La aprobación de una moción de censura podría provocar la caída del Gobierno de Michel Barnier, generando inestabilidad política en Francia y afectando la implementación de políticas públicas y la confianza en las instituciones.",
+      "comparativas": "En Italia, en 2019, el entonces ministro del Interior, Matteo Salvini, presentó una moción de censura contra el primer ministro Giuseppe Conte, lo que llevó a la dimisión de Conte y a la formación de un nuevo gobierno de coalición.",
+      "opinion_publica": [
+        {
+          "fuente": "Le Monde",
+          "reaccion": "Analistas políticos señalan que la estrategia de Le Pen busca fortalecer su posición de cara a las próximas elecciones presidenciales."
+        },
+        {
+          "fuente": "Le Figaro",
+          "reaccion": "Editoriales critican la falta de diálogo entre el Gobierno y la oposición, advirtiendo sobre las consecuencias de una crisis política en medio de desafíos económicos."
+        }
+      ],
+      "posibles_proximos_pasos": "Si la moción de censura es aprobada, el presidente Emmanuel Macron deberá nombrar un nuevo primer ministro y formar un nuevo gobierno. Además, se podrían convocar elecciones anticipadas si no se logra una mayoría estable en la Asamblea Nacional.",
+      "datos_relevantes": [
+        {
+          "dato": "El partido Agrupación Nacional cuenta con 140 diputados en la Asamblea Nacional francesa.",
+          "fuente": "Asamblea Nacional de Francia"
+        },
+        {
+          "dato": "El déficit público de Francia se sitúa en el 5,5% del PIB en 2023.",
+          "fuente": "Ministerio de Economía y Finanzas de Francia"
+        }
+      ],
+      "chequeo_datos": [
+        {
+          "afirmacion": "Le Pen afirma que los presupuestos propuestos son 'profundamente injustos' y que hacen pagar a los franceses la incompetencia del presidente Macron.",
+          "verificacion": {
+            "estado": "Opinión",
+            "explicacion": "La afirmación refleja la opinión de Le Pen sobre los presupuestos y la gestión del presidente, sin aportar datos específicos que puedan ser verificados."
+          }
+        },
+        {
+          "afirmacion": "Le Pen asegura que, de caer el Gobierno, se aplicarán los presupuestos del año pasado.",
+          "verificacion": {
+            "estado": "Confirmado",
+            "explicacion": "Según la legislación francesa, en caso de no aprobarse nuevos presupuestos, se prorrogan automáticamente los del año anterior."
+          }
+        }
+      ],
+      "reflexion_breve": "La actual crisis política en Francia pone de manifiesto la fragilidad de las coaliciones gubernamentales y la importancia del diálogo entre las distintas fuerzas políticas para garantizar la estabilidad y el bienestar de la ciudadanía.",
+      "bsky_msg": "Tensión política – Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que votará a favor de una moción de censura para derrocar al Gobierno francés."
+    }
+  ] 
+  

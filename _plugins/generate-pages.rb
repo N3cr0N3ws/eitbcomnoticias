@@ -7,10 +7,21 @@ module Jekyll
 
       # Leer el nombre del archivo JSON desde la configuración
       json_source = site.config['json_source']
+      json_path = site.in_source_dir('_data', json_source)
+      Jekyll.logger.info "DEBUG:", "Ruta absoluta del JSON: #{json_path}"
+
+      # Verificar si el archivo JSON existe en la ruta esperada
+      unless File.exist?(json_path)
+        Jekyll.logger.warn "DEBUG:", "El archivo JSON no existe en la ruta: #{json_path}"
+        return
+      end
+
+      # Cargar los datos del archivo JSON
       articles = site.data[json_source]
 
-      # Validar si los datos existen
+      # Depuración: verifica si los datos son nulos o están vacíos
       if articles.nil? || articles.empty?
+        Jekyll.logger.warn "DEBUG:", "Datos cargados: #{articles.inspect}"
         Jekyll.logger.warn "PageGenerator:", "No se encontraron datos en '_data/#{json_source}'."
         return
       end
