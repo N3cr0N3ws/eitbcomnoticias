@@ -3,6 +3,7 @@ title: Eitb Noticias
 description: "Noticias con contexto."
 baseurl: "" # Dejar vacío para GitHub Pages si se publica en el root
 url: "https://www.eitbnoticias.com" # URL base del sitio
+repository: N3cr0N3ws/eitbnoticias # Reemplaza con tu usuario y repositorio de GitHub
 
 # Configuración del generador de páginas
 page_gen:
