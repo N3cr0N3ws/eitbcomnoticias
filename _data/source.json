@@ -481,5 +481,106 @@
     ],
     "reflexion_breve": "Este caso subraya la complejidad de proteger a los menores en disputas internacionales y la necesidad de una cooperación judicial efectiva para salvaguardar su bienestar.",
     "bsky_msg": "Preocupación – Juana Rivas solicita protección para su hijo menor tras el procesamiento de su exmarido por maltrato habitual."
-  }  
+  },
+  {
+    "titular": "El Gobierno Vasco no renuncia a un acuerdo presupuestario con EH Bildu, pero mantienen diferencias en vivienda",
+    "categoria_emocional": "Tensión política",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9642186/el-gobierno-vasco-no-renuncia-a-acuerdo-presupuestario-con-eh-bildu-pero-mantienen-diferencias-en-vivienda/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/07/17/3250814/20240717100311_imanol-pradales-ajuria-en_foto610x342.jpg",
+    "resumen": "El lehendakari Imanol Pradales afirma que, aunque el Gobierno Vasco busca un acuerdo presupuestario con EH Bildu, existen diferencias significativas en materia de vivienda debido a modelos divergentes. Además, señala que si EH Bildu no se compromete con las cuentas públicas, será difícil alcanzar acuerdos más amplios en el futuro.",
+    "contexto": "El Gobierno Vasco, liderado por el PNV en coalición con el PSE-EE, está en proceso de negociación de los presupuestos para 2025. EH Bildu, como principal partido de la oposición, ha presentado propuestas significativas en áreas como vivienda y salarios, buscando influir en las políticas públicas del gobierno.",
+    "linea_tiempo": [
+      {
+        "fecha": "12 de noviembre de 2024",
+        "descripcion": "EH Bildu propone al Gobierno Vasco modificaciones presupuestarias por valor de 350 millones de euros, enfocadas en vivienda, cuidados y salarios."
+      },
+      {
+        "fecha": "26 de noviembre de 2024",
+        "descripcion": "EH Bildu continúa las negociaciones con el Gobierno Vasco, buscando mejorar la propuesta presupuestaria con aportaciones en vivienda y un acuerdo para un SMI propio."
+      },
+      {
+        "fecha": "29 de noviembre de 2024",
+        "descripcion": "EH Bildu decide no presentar enmienda a la totalidad al proyecto de presupuestos, optando por seguir dialogando con el Gobierno Vasco."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Imanol Pradales",
+        "descripcion": "Lehendakari del Gobierno Vasco, miembro del Partido Nacionalista Vasco (PNV)."
+      },
+      {
+        "nombre": "Pello Otxandiano",
+        "descripcion": "Portavoz parlamentario de EH Bildu en el Parlamento Vasco."
+      },
+      {
+        "nombre": "Nerea Kortajarena",
+        "descripcion": "Coportavoz parlamentaria de EH Bildu en el Parlamento Vasco."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Lehendakari",
+        "definicion": "Presidente del Gobierno Vasco."
+      },
+      {
+        "termino": "EH Bildu",
+        "definicion": "Coalición política soberanista de izquierda en el País Vasco."
+      },
+      {
+        "termino": "PNV",
+        "definicion": "Partido Nacionalista Vasco, formación política de centroderecha en el País Vasco."
+      },
+      {
+        "termino": "PSE-EE",
+        "definicion": "Partido Socialista de Euskadi-Euskadiko Ezkerra, federación del PSOE en el País Vasco."
+      },
+      {
+        "termino": "SMI",
+        "definicion": "Salario Mínimo Interprofesional, remuneración mínima que un trabajador debe recibir por su jornada laboral."
+      }
+    ],
+    "impacto_esperado": "Las diferencias en materia de vivienda entre el Gobierno Vasco y EH Bildu podrían influir en la aprobación de los presupuestos y en la implementación de políticas públicas en este sector. Un acuerdo o desacuerdo afectará la inversión en vivienda y las medidas destinadas a mejorar el acceso a la misma.",
+    "comparativas": "En Cataluña, partidos como Esquerra Republicana han negociado acuerdos presupuestarios con el gobierno regional, logrando incluir medidas específicas en áreas como vivienda y políticas sociales.",
+    "opinion_publica": [
+      {
+        "fuente": "Elkarrekin Podemos",
+        "reaccion": "Critica que los presupuestos no responden adecuadamente a las necesidades sociales y climáticas."
+      },
+      {
+        "fuente": "Partido Popular",
+        "reaccion": "Abandonó las negociaciones presupuestarias, argumentando que las propuestas del Gobierno Vasco no incrementan suficientemente las partidas en Sanidad y Seguridad."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que continúen las negociaciones entre el Gobierno Vasco y EH Bildu para intentar alcanzar un acuerdo que permita la aprobación de los presupuestos. Si no se logra consenso, el Gobierno podría buscar apoyos en otros partidos o proceder a la aprobación en solitario.",
+    "datos_relevantes": [
+      {
+        "dato": "EH Bildu ha propuesto modificaciones presupuestarias por valor de 350 millones de euros.",
+        "fuente": "https://www.europapress.es/euskadi/noticia-eh-bildu-propone-gobierno-vasco-modificaciones-presupuestarias-valor-350-millones-euros-20241112182015.html"
+      },
+      {
+        "dato": "El Gobierno Vasco planea que el presupuesto de 2025 sea el más alto de la historia.",
+        "fuente": "https://www.eitb.eus/es/tag/presupuestos-vascos/"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "El lehendakari Imanol Pradales ha afirmado que no renuncian a un acuerdo presupuestario con EH Bildu.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "En una entrevista, Pradales expresó la disposición del Gobierno Vasco a alcanzar un acuerdo con EH Bildu, aunque reconoció diferencias en materia de vivienda."
+        }
+      },
+      {
+        "afirmacion": "EH Bildu ha propuesto modificaciones presupuestarias por valor de 350 millones de euros.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "EH Bildu presentó una propuesta de modificaciones presupuestarias centradas en vivienda, cuidados y salarios, valoradas en 350 millones de euros."
+        }
+      }
+    ],
+    "reflexion_breve": "La negociación presupuestaria entre el Gobierno Vasco y EH Bildu refleja la complejidad de alcanzar consensos en políticas clave como la vivienda. La disposición al diálogo y la búsqueda de soluciones compartidas serán determinantes para el bienestar de la ciudadanía.",
+    "bsky_msg": "Tensión política – Gobierno Vasco busca acuerdo presupuestario con EH Bildu, pero persisten diferencias en vivienda."
+  }
+   
 ] 
