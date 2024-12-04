@@ -581,6 +581,7 @@
     ],
     "reflexion_breve": "La negociación presupuestaria entre el Gobierno Vasco y EH Bildu refleja la complejidad de alcanzar consensos en políticas clave como la vivienda. La disposición al diálogo y la búsqueda de soluciones compartidas serán determinantes para el bienestar de la ciudadanía.",
     "bsky_msg": "Tensión política – Gobierno Vasco busca acuerdo presupuestario con EH Bildu, pero persisten diferencias en vivienda."
+<<<<<<< HEAD
   },
   {
     "titular": "Denuncian \"el drama\" de 183 familias con demandas de desahucio en San Sebastián, Irun y Errenteria",
@@ -667,3 +668,8 @@
     "bsky_msg": "Alarma social – 183 familias en San Sebastián, Irun y Errenteria enfrentan desahucios; Stop Desahucios pide prórroga del Real Decreto 11/2020."
   } 
 ] 
+=======
+  }
+   
+] 
+>>>>>>> parent of 9bcd40e (new update)
