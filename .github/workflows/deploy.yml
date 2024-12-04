@@ -21,8 +21,8 @@ jobs:
 
       - name: Clean _site directory
         run: |
-          rm -rf ./_site || true
-          mkdir ./_site
+          rm -rf _site || true
+          mkdir _site
 
       - name: Install dependencies
         run: bundle install
@@ -33,13 +33,16 @@ jobs:
       - name: Verify _site directory
         run: |
           echo "Contents of _site directory:"
-          ls -la ./_site
+          ls -la ${{ github.workspace }}/_site
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./_site
+          publish_dir: ${{ github.workspace }}/_site
           publish_branch: gh-pages
-          disable_nojekyll: true
           force_orphan: true
+          disable_nojekyll: true
+
+      - name: List branches
+        run: git branch -r
