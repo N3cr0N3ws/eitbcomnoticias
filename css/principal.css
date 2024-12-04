@@ -325,7 +325,13 @@ li {
 }
 /* Media Queries para ajustar márgenes */
 @media (min-width: 1080px) {
-    .container {
-        padding: var(--desktop-margin); /* Aplica el margen para escritorio */
-    }
+  body {
+    font-family: 'Merriweather';
+    background-color: #000;
+    overflow-x: hidden; /* Solo oculta el desbordamiento no deseado */
+    display: block; /* Cambia flex a block para evitar interferencias */
+  }    
+  .container {
+    padding: var(--desktop-margin); /* Aplica el margen para escritorio */
+  }
 }
