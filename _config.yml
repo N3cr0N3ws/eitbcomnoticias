@@ -18,3 +18,4 @@ exclude:
   - Gemfile.lock
   - _posts/
   - _layouts/post.html
+  - vendor
