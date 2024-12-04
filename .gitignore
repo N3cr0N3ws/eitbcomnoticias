@@ -1,0 +1,22 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración locales
+_config.local.yml
+
+# Archivos de dependencia
+Gemfile.lock
+node_modules/
+
+# Archivos y directorios generados por Jekyll
+_site/
+pages/
+
+# Datos de prueba
+_data/test.json
+
+# Archivos de log y temporales
+*.log
+*.tmp
+*.swp

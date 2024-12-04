@@ -10,9 +10,12 @@ data_dir: "_data" # Directorio de datos
 
 # Configuración de Jekyll
 markdown: kramdown
-theme: minima # Tema consistente con producción
+
+# JSON fuente para pruebas locales
+json_source: "test.json"
 
 # Directorios y exclusiones
 exclude:
   - vendor
   - assets/css
+  - pages # Ignorar páginas generadas localmente

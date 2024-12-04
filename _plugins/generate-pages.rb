@@ -5,12 +5,13 @@ module Jekyll
     def generate(site)
       Jekyll.logger.info "PageGenerator:", "Plugin 'generate_page.rb' cargado correctamente."
 
-      # Leer los datos desde _data/source.json
-      articles = site.data['source']
+      # Leer el nombre del archivo JSON desde la configuración
+      json_source = site.config['json_source']
+      articles = site.data[json_source]
 
       # Validar si los datos existen
       if articles.nil? || articles.empty?
-        Jekyll.logger.warn "PageGenerator:", "No se encontraron datos en '_data/source.json'."
+        Jekyll.logger.warn "PageGenerator:", "No se encontraron datos en '_data/#{json_source}'."
         return
       end
 
@@ -42,9 +43,6 @@ module Jekyll
 
     # Función para generar slugs
     def slugify(string)
-      # Manejar casos donde el título sea nil o vacío
-      return "sin-titulo" if string.nil? || string.strip.empty?
-
       # Generar el slug normalizado
       string.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
     end
@@ -64,7 +62,7 @@ module Jekyll
       # Metadatos
       self.data['layout'] = "page" # Layout que usará `page.html`
       self.data['slug'] = slug # Agregar el slug para que esté disponible en el layout
-      self.data['titular'] = article['titular'] || "Sin título" # Titular del artículo
+      self.data['titular'] = article['titular'] || "Sin título"
       self.data['categoria_emocional'] = article['categoria_emocional'] || "Sin categoría emocional"
       self.data['date'] = article['fecha_publicacion'] || "Fecha no disponible"
       self.data['url_canonical'] = article['url_canonical'] || ""
