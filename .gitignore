@@ -1,0 +1,5 @@
+# Ignorar la carpeta _site/pages
+_site/pages/
+
+# Ignorar el archivo _data/test.json
+_data/test.json
