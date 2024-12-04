@@ -3,11 +3,11 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main  # Ejecuta la acción en cada push a la rama 'main'
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04  # Utiliza la última versión LTS de Ubuntu
 
     steps:
       # Paso 1: Descargar el código del repositorio
@@ -18,14 +18,14 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.6'
-          bundler-cache: true
+          ruby-version: '3.3.6'  # Especifica la versión de Ruby
+          bundler-cache: true    # Habilita la caché para Bundler
 
       # Paso 3: Instalar dependencias
       - name: Install dependencies
         run: bundle install
 
-      # Paso 4: Listar archivos en _data
+      # Paso 4: Listar archivos en _data (opcional, para depuración)
       - name: List files in _data
         run: ls -R _data
 
@@ -40,7 +40,7 @@ jobs:
       # Paso 7: Configurar el token personal para autenticación
       - name: Setup Personal Access Token
         run: |
-          echo "${{ secrets.ACTIONS_DEPLOY_KEY }}" > ~/.git-credentials
+          echo "https://${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/${{ github.repository }}.git" > ~/.git-credentials
           git config --global credential.helper store
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
