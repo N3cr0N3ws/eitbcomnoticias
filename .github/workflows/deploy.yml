@@ -3,11 +3,11 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Ejecuta la acción en cada push a la rama 'main'
+      - main
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-22.04  # Utiliza la última versión LTS de Ubuntu
+    runs-on: ubuntu-22.04
 
     steps:
       # Paso 1: Descargar el código del repositorio
@@ -18,34 +18,24 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.3.6'  # Especifica la versión de Ruby
-          bundler-cache: true    # Habilita la caché para Bundler
+          ruby-version: '3.3.6'
+          bundler-cache: true
 
       # Paso 3: Instalar dependencias
       - name: Install dependencies
         run: bundle install
 
-      # Paso 4: Listar archivos en _data (opcional, para depuración)
-      - name: List files in _data
-        run: ls -R _data
-
-      # Paso 5: Construir el sitio estático con Jekyll
+      # Paso 4: Construir el sitio estático con Jekyll
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build
 
-      # Paso 6: Verificar archivos generados
+      # Paso 5: Verificar archivos generados
       - name: List generated files
-        run: ls -R _site
-
-      # Paso 7: Configurar el token personal para autenticación
-      - name: Setup Personal Access Token
         run: |
-          echo "https://${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/${{ github.repository }}.git" > ~/.git-credentials
-          git config --global credential.helper store
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          echo "Verificando contenido de _site:"
+          ls -la _site
 
-      # Paso 8: Desplegar el sitio en GitHub Pages
+      # Paso 6: Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
