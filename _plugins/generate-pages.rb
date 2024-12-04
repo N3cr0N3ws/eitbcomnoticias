@@ -5,24 +5,12 @@ module Jekyll
     def generate(site)
       Jekyll.logger.info "PageGenerator:", "Plugin 'generate_page.rb' cargado correctamente."
 
-      # Leer el nombre del archivo JSON desde la configuración
-      json_source = site.config['json_source']
-      json_path = site.in_source_dir('_data', json_source)
-      Jekyll.logger.info "DEBUG:", "Ruta absoluta del JSON: #{json_path}"
+      # Leer los datos desde _data/source.json
+      articles = site.data['source']
 
-      # Verificar si el archivo JSON existe en la ruta esperada
-      unless File.exist?(json_path)
-        Jekyll.logger.warn "DEBUG:", "El archivo JSON no existe en la ruta: #{json_path}"
-        return
-      end
-
-      # Cargar los datos del archivo JSON
-      articles = site.data[json_source]
-
-      # Depuración: verifica si los datos son nulos o están vacíos
+      # Validar si los datos existen
       if articles.nil? || articles.empty?
-        Jekyll.logger.warn "DEBUG:", "Datos cargados: #{articles.inspect}"
-        Jekyll.logger.warn "PageGenerator:", "No se encontraron datos en '_data/#{json_source}'."
+        Jekyll.logger.warn "PageGenerator:", "No se encontraron datos en '_data/source.json'."
         return
       end
 
@@ -54,6 +42,9 @@ module Jekyll
 
     # Función para generar slugs
     def slugify(string)
+      # Manejar casos donde el título sea nil o vacío
+      return "sin-titulo" if string.nil? || string.strip.empty?
+
       # Generar el slug normalizado
       string.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
     end
@@ -73,7 +64,7 @@ module Jekyll
       # Metadatos
       self.data['layout'] = "page" # Layout que usará `page.html`
       self.data['slug'] = slug # Agregar el slug para que esté disponible en el layout
-      self.data['titular'] = article['titular'] || "Sin título"
+      self.data['titular'] = article['titular'] || "Sin título" # Titular del artículo
       self.data['categoria_emocional'] = article['categoria_emocional'] || "Sin categoría emocional"
       self.data['date'] = article['fecha_publicacion'] || "Fecha no disponible"
       self.data['url_canonical'] = article['url_canonical'] || ""

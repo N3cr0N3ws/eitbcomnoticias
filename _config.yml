@@ -16,6 +16,3 @@ exclude:
 # Configuración de Jekyll
 markdown: kramdown
 data_dir: "_data"
-
-# JSON fuente para producción
-json_source: "source.json"
