@@ -1,7 +1,7 @@
 # Configuración general del sitio
 title: Eitb Noticias
 description: "Noticias con contexto."
-url: "http://localhost:4000" # URL para desarrollo local o producción
+url: "https://www.eitbnoticias.com" # URL para desarrollo local o producción
 baseurl: "" # Vacío porque el sitio está en el root del dominio
 
 # Directorios y exclusiones
