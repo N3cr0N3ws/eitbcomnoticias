@@ -10,7 +10,6 @@ data_dir: "_data" # Directorio de datos
 
 # Configuración de Jekyll
 markdown: kramdown
-theme: minima # Tema consistente con producción
 
 # Directorios y exclusiones
 exclude:
