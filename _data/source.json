@@ -320,5 +320,78 @@
     ],
     "reflexion_breve": "La revitalización del euskera depende de un compromiso colectivo que trasciende generaciones, integrando esfuerzos institucionales y ciudadanos para asegurar su futuro.",
     "bsky_msg": "Inspirador – El manifiesto del Día Internacional del Euskera destaca la responsabilidad compartida en la revitalización de la lengua."
-  }
+  },
+  {
+    "titular": "Elgarresta: \"Los protocolos contra la violencia machista no son 100% infalibles\"",
+    "categoria_emocional": "Reflexiva",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9642149/entrevista-a-miren-elgarresta-directora-de-emakunde-en-radio-euskadi-4-de-diciembre/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/08/02/3255237/20240802085825_mirenelgarresta-emakunde_foto610x342.jpg",
+    "resumen": "Miren Elgarresta, directora de Emakunde, reconoce que los protocolos contra la violencia machista no son completamente infalibles, aunque han salvado muchas vidas en los últimos 20 años.",
+    "contexto": "Elgarresta subraya la importancia de mejorar continuamente los protocolos contra la violencia machista en el estado, reconociendo su eficacia y la necesidad de colaboración con asociaciones feministas.",
+    "linea_tiempo": [
+      {
+        "fecha": "5 de octubre de 2022",
+        "descripcion": "Miren Elgarresta es nombrada directora de Emakunde, el Instituto Vasco de la Mujer."
+      },
+      {
+        "fecha": "8 de marzo de 2024",
+        "descripcion": "Elgarresta destaca la importancia del 8M como día de reivindicación, señalando que aún existen desigualdades de género."
+      },
+      {
+        "fecha": "24 de noviembre de 2024",
+        "descripcion": "La directora de Emakunde insiste en la necesidad de trabajar conjuntamente para enfrentar la violencia machista, en vísperas del Día Internacional para la Eliminación de la Violencia contra la Mujer."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Miren Elgarresta",
+        "descripcion": "Directora de Emakunde desde octubre de 2022, anteriormente directora de Igualdad en la Diputación Foral de Gipuzkoa."
+      },
+      {
+        "nombre": "Leonor",
+        "descripcion": "Mujer de 45 años, víctima de un presunto asesinato machista en Pasaia el 30 de noviembre de 2024."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Emakunde",
+        "definicion": "Instituto Vasco de la Mujer, organismo autónomo del Gobierno Vasco dedicado a promover la igualdad de género."
+      },
+      {
+        "termino": "Protocolo interinstitucional sobre la violencia machista",
+        "definicion": "Acuerdo entre diversas instituciones para coordinar la atención integral a mujeres víctimas de violencia machista."
+      }
+    ],
+    "impacto_esperado": "La revisión y mejora de los protocolos contra la violencia machista podrían fortalecer la protección de las víctimas y aumentar la confianza en las instituciones encargadas de su seguridad.",
+    "comparativas": "En países como Suecia, se han implementado sistemas de seguimiento electrónico para agresores con órdenes de alejamiento, reduciendo la reincidencia en casos de violencia de género.",
+    "opinion_publica": [
+      {
+        "fuente": "Movimiento feminista de Pasaia Bekoz Beko",
+        "reaccion": "Ha cuestionado la eficacia de los protocolos actuales tras el asesinato de Leonor, solicitando una revisión exhaustiva."
+      },
+      {
+        "fuente": "Ararteko",
+        "reaccion": "Ha expresado preocupaciones sobre la protección a víctimas de violencia machista, instando a mejorar los protocolos existentes."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que Emakunde, en colaboración con asociaciones feministas y otras instituciones, realice una evaluación detallada del protocolo aplicado en el caso de Leonor y proponga mejoras para prevenir futuros fallos.",
+    "datos_relevantes": [
+      {
+        "dato": "En los últimos 20 años, los protocolos contra la violencia machista han salvado numerosas vidas en el estado.",
+        "fuente": "Declaraciones de Miren Elgarresta en Radio Euskadi"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Los protocolos contra la violencia machista no son 100% infalibles.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Expertos y organizaciones reconocen que, aunque efectivos, los protocolos pueden fallar en ciertos casos, como el reciente asesinato en Pasaia."
+        }
+      }
+    ],
+    "reflexion_breve": "La lucha contra la violencia machista requiere una constante revisión y adaptación de los protocolos, así como una colaboración efectiva entre instituciones y sociedad civil para garantizar la seguridad de las mujeres.",
+    "bsky_msg": "Reflexiva – Elgarresta reconoce que los protocolos contra la violencia machista no son infalibles y destaca la necesidad de mejoras continuas."
+  }  
 ] 

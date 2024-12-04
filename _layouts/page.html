@@ -17,9 +17,10 @@ layout: default
     </div>
     <div class="context">
       <div class="explain">
-        <span><b>Información ampliada, contextualizada y análisis adicional</b><br />
-          La siguiente información no aparece directamente en la noticia de eitb, pero es relevante para comprender el tema en profundidad.</span>
+        <span><strong>Análisis y contexto adicional</strong><br />Información relevante no incluida en la noticia de eitb, pero clave para entender el tema a fondo.</span>
       </div>
+      
+      <!-- Context -->
       <h2>Contexto</h2>
       <p>{{ page.contexto }}</p>
 
@@ -40,7 +41,7 @@ layout: default
       {% endif %}
 
       <!-- Who is who -->
-      {% assign quien_es_quien_count = page.quien_es_quien | size %}
+      <!-- {% assign quien_es_quien_count = page.quien_es_quien | size %}
       {% if quien_es_quien_count > 0 %}
       <h2>Quién es Quién</h2>
       <div class="who-is-who">
@@ -53,7 +54,7 @@ layout: default
         </div>
         {% endfor %}
       </div>
-      {% endif %}
+      {% endif %} -->
       
       <!-- Glossary terms -->
       {% assign glosario_terminos_count = page.glosario_terminos | size %}
@@ -72,8 +73,18 @@ layout: default
       {% endif %}
 
       <!-- Expected impact -->
+      {% assign impacto_esperado_count = page.impacto_esperado | size %}
+      {% if impacto_esperado_count > 0 %}       
       <h2>Impacto esperado</h2> 
       <p>{{ page.impacto_esperado }}</p>
+      {% endif %}
+
+      <!-- Camparations -->
+      {% assign comparativas_count = page.comparativas | size %}
+      {% if comparativas_count > 0 %}       
+      <h2>Comparativas</h2> 
+      <p>{{ page.comparativas }}</p>
+      {% endif %}
     </div>  
       
     <div class="footer">

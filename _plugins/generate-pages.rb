@@ -75,6 +75,7 @@ module Jekyll
       self.data['quien_es_quien'] = article['quien_es_quien'] || []
       self.data['glosario_terminos'] = article['glosario_terminos'] || []
       self.data['impacto_esperado'] = article['impacto_esperado'] || []
+      self.data['comparativas'] = article['comparativas'] || []
     end
   end
 end
