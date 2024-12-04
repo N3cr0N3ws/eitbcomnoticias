@@ -27,9 +27,13 @@ jobs:
 
       # Paso 4: Construir el sitio estático con Jekyll
       - name: Build Jekyll site
-        run: bundle exec jekyll build
+        run: JEKYLL_ENV=production bundle exec jekyll build
 
-      # Paso 5: Desplegar el sitio en GitHub Pages
+      # Paso 5: Verificar archivos generados
+      - name: List generated files
+        run: ls -R _site
+
+      # Paso 6: Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
