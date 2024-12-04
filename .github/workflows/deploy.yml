@@ -41,6 +41,7 @@ jobs:
           personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ${{ github.workspace }}/_site
           publish_branch: gh-pages
+          force_orphan: true
           disable_nojekyll: false
 
       - name: List branches
