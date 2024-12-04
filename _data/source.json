@@ -581,6 +581,91 @@
     ],
     "reflexion_breve": "La negociación presupuestaria entre el Gobierno Vasco y EH Bildu refleja la complejidad de alcanzar consensos en políticas clave como la vivienda. La disposición al diálogo y la búsqueda de soluciones compartidas serán determinantes para el bienestar de la ciudadanía.",
     "bsky_msg": "Tensión política – Gobierno Vasco busca acuerdo presupuestario con EH Bildu, pero persisten diferencias en vivienda."
+  },
+  {
+    "titular": "Denuncian \"el drama\" de 183 familias con demandas de desahucio en San Sebastián, Irun y Errenteria",
+    "categoria_emocional": "Alarma social",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9642484/denuncian-el-drama-de-183-familias-con-demandas-de-desahucio-en-san-sebastian-irun-y-errenteria/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/04/3290577/20241204134331_-stop-desahucios_foto610x342.jpg",
+    "resumen": "La plataforma Stop Desahucios alerta sobre la situación de 183 familias vulnerables en San Sebastián, Irun y Errenteria que enfrentan demandas de desahucio por impago de renta o finalización de contrato. Solicitan la prórroga del Real Decreto 11/2020 para evitar que estas familias queden sin hogar.",
+    "contexto": "La crisis habitacional en el estado ha llevado a un incremento de desahucios, afectando especialmente a familias vulnerables. Organizaciones como Stop Desahucios trabajan para visibilizar y mitigar este problema.",
+    "linea_tiempo": [
+      {
+        "fecha": "31 de marzo de 2020",
+        "descripcion": "El Gobierno central aprueba el Real Decreto 11/2020, que suspende los procedimientos de desahucio para hogares vulnerables sin alternativa habitacional."
+      },
+      {
+        "fecha": "31 de diciembre de 2023",
+        "descripcion": "Finaliza la última prórroga del Real Decreto 11/2020, dejando en incertidumbre a numerosas familias en riesgo de desahucio."
+      },
+      {
+        "fecha": "4 de diciembre de 2024",
+        "descripcion": "Stop Desahucios denuncia la situación de 183 familias en San Sebastián, Irun y Errenteria con demandas de desahucio pendientes."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Rosa García",
+        "descripcion": "Portavoz de la plataforma Stop Desahucios, defensora de los derechos de las familias afectadas por desahucios en el estado."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Desahucio",
+        "definicion": "Proceso legal mediante el cual se expulsa a una persona de una propiedad por incumplimiento de contrato, generalmente por impago de alquiler o hipoteca."
+      },
+      {
+        "termino": "Real Decreto 11/2020",
+        "definicion": "Normativa aprobada en marzo de 2020 que establece medidas urgentes en el ámbito social y económico para hacer frente al COVID-19, incluyendo la suspensión de desahucios para hogares vulnerables."
+      },
+      {
+        "termino": "Vivienda de protección oficial (VPO)",
+        "definicion": "Vivienda promovida por la administración pública con condiciones especiales de acceso y precios limitados, destinada a facilitar el acceso a la vivienda a personas con recursos económicos limitados."
+      }
+    ],
+    "impacto_esperado": "Si no se prorroga el Real Decreto 11/2020, estas 183 familias podrían enfrentarse a desahucios inminentes, aumentando la crisis habitacional y la vulnerabilidad social en la región.",
+    "comparativas": "En Cataluña, se han implementado medidas adicionales para proteger a las familias vulnerables, como la Ley 24/2015, que obliga a los grandes tenedores a ofrecer alquiler social antes de proceder al desahucio.",
+    "opinion_publica": [
+      {
+        "fuente": "EH Bildu",
+        "reaccion": "Apoya la prórroga del Real Decreto y solicita medidas adicionales para proteger a las familias vulnerables."
+      },
+      {
+        "fuente": "Elkarrekin Podemos-IU",
+        "reaccion": "Exige al Gobierno central y autonómico acciones concretas para evitar desahucios y garantizar el derecho a la vivienda."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que el Gobierno central evalúe la posibilidad de prorrogar el Real Decreto 11/2020. Paralelamente, las plataformas de afectados continuarán movilizándose y buscando apoyo institucional para evitar los desahucios.",
+    "datos_relevantes": [
+      {
+        "dato": "En Gipuzkoa, la renta media del alquiler ronda los 900 euros, dificultando el acceso a la vivienda para familias con ingresos bajos.",
+        "fuente": "https://www.noticiasdegipuzkoa.eus/gipuzkoa/2023/07/17/errenteria-irun-eibar-debaten-mes-7060633.html"
+      },
+      {
+        "dato": "El parque público de alquiler en Euskadi cuenta con 28.000 viviendas, insuficiente para la demanda existente.",
+        "fuente": "https://elpais.com/economia/vivienda/2024-10-13/el-modelo-vasco-prohibido-especular-con-la-vivienda-publica.html"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Stop Desahucios ha denunciado la situación de 183 familias con demandas de desahucio en San Sebastián, Irun y Errenteria.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La plataforma ha realizado una concentración y declaraciones públicas al respecto."
+        }
+      },
+      {
+        "afirmacion": "El Real Decreto 11/2020, que suspende los desahucios para hogares vulnerables, está vigente hasta el 31 de diciembre de 2024.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La normativa fue prorrogada hasta esa fecha, pero su continuidad más allá de diciembre es incierta."
+        }
+      }
+    ],
+    "reflexion_breve": "La situación de estas 183 familias refleja una problemática más amplia sobre el acceso a la vivienda y la necesidad de políticas públicas que garanticen este derecho fundamental.",
+    "bsky_msg": "Alarma social – 183 familias en San Sebastián, Irun y Errenteria enfrentan desahucios; Stop Desahucios pide prórroga del Real Decreto 11/2020."
   }
+  
    
 ] 
