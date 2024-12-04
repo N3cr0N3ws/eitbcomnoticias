@@ -1,5 +1,5 @@
 /* rm -rf .jekyll-cache _site */
-/* bundle exec jekyll serve --trace */
+/* bundle exec jekyll serve --config _config.yml --incremental */
 
 :root {
     --bar-size: 0%; 

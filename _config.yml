@@ -1,22 +1,18 @@
-# Configuración del sitio
+# Configuración general del sitio
 title: Eitb Noticias
 description: "Noticias con contexto."
-baseurl: "" # Dejar vacío para GitHub Pages si se publica en el root
-url: "https://www.eitbnoticias.com" # URL base del sitio
-repository: N3cr0N3ws/eitbnoticias # Reemplaza con tu usuario y repositorio de GitHub
+url: "http://localhost:4000" # URL para desarrollo local o producción
+baseurl: "" # Vacío porque el sitio está en el root del dominio
 
-# Configuración del generador de páginas
-page_gen:
-  - data: 'source'        # Archivo de datos (ubicado en _data/source.json)
-    template: 'page'      # Plantilla usada para generar páginas (en _layouts/page.html)
-    name: 'titulo'        # Campo que define el nombre de cada página
-    dir: 'pages'          # Directorio donde se generarán las páginas
-
-# Archivos y carpetas excluidos del procesamiento
+# Directorios y exclusiones
 exclude:
-  - README.md
+  - _plugins # No se procesarán estos directorios
   - Gemfile
   - Gemfile.lock
-  - _posts/
-  - _layouts/post.html
-  - vendor
+  - README.md
+  - node_modules
+  - _posts # No usarás posts
+
+# Configuración de Jekyll
+markdown: kramdown
+data_dir: "_data"

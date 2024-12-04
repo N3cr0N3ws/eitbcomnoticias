@@ -1,0 +1,18 @@
+# Configuración general del sitio
+title: Eitb Noticias (Local)
+description: "Noticias con contexto. Desarrollo Local"
+url: "http://localhost:4000" # URL local del sitio
+baseurl: "" # Vacío para desarrollo
+
+# Directorios y plugins personalizados
+plugins_dir: "_plugins" # Directorio donde están los plugins
+data_dir: "_data" # Directorio de datos
+
+# Configuración de Jekyll
+markdown: kramdown
+theme: minima # Tema consistente con producción
+
+# Directorios y exclusiones
+exclude:
+  - vendor
+  - assets/css

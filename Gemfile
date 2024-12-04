@@ -1,10 +1,17 @@
 source "https://rubygems.org"
 
-# Añade esta línea aquí:
-gem 'faraday-retry'
+# Gemas necesarias para Jekyll
+gem "jekyll", "~> 4.3.2" # Última versión estable de Jekyll
+gem "faraday-retry"      # Dependencia adicional personalizada
 
-# Usar la versión de Jekyll y plugins compatibles con GitHub Pages
-gem "github-pages", group: :jekyll_plugins
+# Dependencias estándar de Ruby para evitar advertencias
+gem "csv"                # Elimina advertencia sobre la futura exclusión de CSV
+gem "base64"             # Elimina advertencia sobre la futura exclusión de Base64
+
+# Plugins personalizados
+group :jekyll_plugins do
+  gem "jekyll-paginate"  # Si necesitas paginación (opcional)
+end
 
 # Windows y JRuby: soporte adicional
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -13,5 +20,4 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 # Booster de rendimiento para Windows
-gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
+gem "wdm", "~> 0.1", platforms: [:mingw, :x64_mingw, :mswin]
