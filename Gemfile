@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+# Añade esta línea aquí:
+gem 'faraday-retry'
+
 # Usar la versión de Jekyll y plugins compatibles con GitHub Pages
 gem "github-pages", group: :jekyll_plugins
 
@@ -11,3 +14,4 @@ end
 
 # Booster de rendimiento para Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
+

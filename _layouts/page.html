@@ -22,6 +22,10 @@ layout: default
       </div>
       <h2>Contexto</h2>
       <p>{{ page.contexto }}</p>
+
+      <!-- Timeline hits -->
+      {% assign linea_tiempo_count = page.linea_tiempo | size %}
+      {% if linea_tiempo_count > 0 %}
       <h2>Linea de tiempo</h2>
       <ul class="timeline">
         {% for hito in page.linea_tiempo %}
@@ -33,19 +37,27 @@ layout: default
         </li>
         {% endfor %}
       </ul>
-      <!-- <h2>Quién es Quién</h2>
-      {% for persona in page.quien_es_quien %}
+      {% endif %}
+
+      <!-- Who is who -->
+      {% assign quien_es_quien_count = page.quien_es_quien | size %}
+      {% if quien_es_quien_count > 0 %}
+      <h2>Quién es Quién</h2>
       <div class="who-is-who">
+        {% for persona in page.quien_es_quien %}
         <div class="item">
           <span class="">
             {{ persona.nombre }}
           </span>
           <p>{{ persona.descripcion }}</p>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %} -->
+      {% endif %}
+      
       <!-- Glossary terms -->
-      {% if page.glosario_terminos|length > 0 %}
+      {% assign glosario_terminos_count = page.glosario_terminos | size %}
+      {% if glosario_terminos_count > 0 %}
       <h2>Glosario de Términos</h2>
       <div class="glossary"> 
         <div class="card-container">
@@ -59,50 +71,10 @@ layout: default
       </div>
       {% endif %}
 
-      
-
-
-
-
-
-
-
-
-
-
-
-      <!-- <div class="timeline">
-        <h3>Hitos Históricos</h3>
-        <ul>
-        {% for hito in page.linea_tiempo.hitos_historicos %}
-          <li><strong>{{ hito.fecha }}:</strong> {{ hito.descripcion }}</li>
-        {% endfor %}
-        </ul>
-        {% if page.linea_tiempo.evolucion_cronologica and page.linea_tiempo.evolucion_cronologica|length > 0 %}
-        <h3>Evolución Cronológica</h3>
-        <ul>
-          {% for evento in page.linea_tiempo.evolucion_cronologica %}
-          <li><strong>{{ evento.fecha }}:</strong> {{ evento.descripcion }}</li>
-          {% endfor %}
-        </ul>
-        {% endif %}
-      </div>
-      <div> -->
-        <!-- <h2>Quién es Quién</h2>
-        <ul>
-          {% for persona in page.quien_es_quien %}
-          <li><strong>{{ persona.nombre }}:</strong> {{ persona.descripcion }}</li>
-          {% endfor %}
-        </ul>
-        <h2>Glosario de Términos</h2>
-        <ul>
-          {% for termino in page.glosario_terminos %}
-          <li><strong>{{ termino.termino }}:</strong> {{ termino.definicion }}</li>
-          {% endfor %}
-        </ul>-->
-        <h2>Impacto esperado</h2> 
-        <p>{{ page.impacto_esperado }}</p>
-      </div>  
+      <!-- Expected impact -->
+      <h2>Impacto esperado</h2> 
+      <p>{{ page.impacto_esperado }}</p>
+    </div>  
       
     <div class="footer">
       <div class="canonical">
@@ -110,78 +82,6 @@ layout: default
         <span class="">{{ page.url_canonical }}</span>
       </div>
     </div>
-
-
-
-
-
-
-
-  <!-- <div class="top_tag">
-    <span>{{ page.categoria_emocional }}</span>
-    <span class="published">Publicada el {{ page.date | date: "%d/%m/%Y" }}</span>
   </div>
-  <div class="container">
-    <div class="content">
-      <div class="source">
-        
-        <h1>{{ page.titular }}</h1>
-        <p>{{ page.resumen }}</p>
-        <div class="canonical">
-          <span class="canonical_headline">Fuente de la noticia</span>
-          <span class="">{{ page.url_canonical }}</span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="context">
-        <div class="container">
-          <div class="content">
-            <div class="source">
-        <div>
-          Información ampliada, contextualizada y análisis adicional
-          Nota: La siguiente información no aparece directamente en la noticia de EITB, pero es relevante para comprender el tema en profundidad.
-        </div>
-        <div>
-          <h2>Contexto</h2>
-          <p>{{ page.contexto }}</p>
-          <h2>Línea de Tiempo</h2>
-          <div class="timeline">
-            <h3>Hitos Históricos</h3>
-            <ul>
-            {% for hito in page.linea_tiempo.hitos_historicos %}
-              <li><strong>{{ hito.fecha }}:</strong> {{ hito.descripcion }}</li>
-            {% endfor %}
-            </ul>
-            {% if page.linea_tiempo.evolucion_cronologica and page.linea_tiempo.evolucion_cronologica|length > 0 %}
-            <h3>Evolución Cronológica</h3>
-            <ul>
-              {% for evento in page.linea_tiempo.evolucion_cronologica %}
-              <li><strong>{{ evento.fecha }}:</strong> {{ evento.descripcion }}</li>
-              {% endfor %}
-            </ul>
-            {% endif %}
-          </div>
-          <div>
-            <h2>Quién es Quién</h2>
-            <ul>
-              {% for persona in page.quien_es_quien %}
-              <li><strong>{{ persona.nombre }}:</strong> {{ persona.descripcion }}</li>
-              {% endfor %}
-            </ul>
-            <h2>Glosario de Términos</h2>
-            <ul>
-              {% for termino in page.glosario_terminos %}
-              <li><strong>{{ termino.termino }}:</strong> {{ termino.definicion }}</li>
-              {% endfor %}
-            </ul>
-            <h2>Impacto esperado</h2>
-            <p>{{ page.impacto_esperado }}</p>
-  
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
 </body>
 </html>
