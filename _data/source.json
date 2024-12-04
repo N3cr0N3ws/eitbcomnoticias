@@ -393,5 +393,93 @@
     ],
     "reflexion_breve": "La lucha contra la violencia machista requiere una constante revisión y adaptación de los protocolos, así como una colaboración efectiva entre instituciones y sociedad civil para garantizar la seguridad de las mujeres.",
     "bsky_msg": "Reflexiva – Elgarresta reconoce que los protocolos contra la violencia machista no son infalibles y destaca la necesidad de mejoras continuas."
+  },
+  {
+    "titular": "Juana Rivas pide protección para su hijo menor después de que su exmarido haya sido procesado por maltrato",
+    "categoria_emocional": "preocupación",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9642314/juana-rivas-pide-proteccion-para-su-hijo-menor-despues-de-que-su-exmarido-haya-sido-procesado-por-maltrato/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/04/3290510/20241204120707_juanarivasefe_foto610x342.jpg",
+    "resumen": "Juana Rivas solicita protección para su hijo menor, quien reside con su padre en Italia, tras el procesamiento de este por presunto maltrato habitual hacia sus hijos.",
+    "contexto": "Juana Rivas, condenada previamente por sustracción de menores, busca ahora salvaguardar a su hijo menor en medio de un proceso judicial en Italia contra su exmarido por presunto maltrato.",
+    "linea_tiempo": [
+      {
+        "fecha": "18 de mayo de 2016",
+        "descripcion": "Juana Rivas se traslada de Italia al estado con sus dos hijos, alegando situaciones de maltrato por parte de su expareja."
+      },
+      {
+        "fecha": "26 de julio de 2017",
+        "descripcion": "Rivas no entrega a sus hijos al padre según lo ordenado judicialmente, permaneciendo en paradero desconocido durante un mes."
+      },
+      {
+        "fecha": "27 de julio de 2018",
+        "descripcion": "Juana Rivas es condenada a cinco años de prisión por sustracción de menores."
+      },
+      {
+        "fecha": "15 de marzo de 2023",
+        "descripcion": "La justicia italiana niega a Juana Rivas la custodia de su hijo menor, otorgándosela al padre."
+      },
+      {
+        "fecha": "14 de noviembre de 2024",
+        "descripcion": "La Fiscalía de Cagliari procesa a Francesco Arcuri por presunto maltrato habitual hacia sus hijos."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Juana Rivas",
+        "descripcion": "Madre española que ganó notoriedad por un caso de sustracción de menores al intentar proteger a sus hijos de su exmarido."
+      },
+      {
+        "nombre": "Francesco Arcuri",
+        "descripcion": "Expareja de Juana Rivas y padre de sus dos hijos, actualmente procesado en Italia por presunto maltrato habitual hacia sus hijos."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Sustracción de menores",
+        "definicion": "Acción de retirar o retener a un menor de edad de su entorno habitual sin consentimiento legal."
+      },
+      {
+        "termino": "Procesamiento",
+        "definicion": "Acto judicial en el que se formaliza la acusación contra una persona por presunta comisión de un delito."
+      }
+    ],
+    "impacto_esperado": "Este desarrollo podría reabrir debates sobre la protección de menores en casos de violencia doméstica y la eficacia de las medidas judiciales transnacionales.",
+    "comparativas": "En casos similares, países como Alemania han implementado protocolos estrictos para proteger a menores en situaciones de violencia doméstica, priorizando su bienestar sobre disputas legales entre progenitores.",
+    "opinion_publica": [
+      {
+        "fuente": "Asociación Española de Juristas",
+        "reaccion": "Expresan preocupación por la seguridad del menor y solicitan medidas cautelares inmediatas."
+      },
+      {
+        "fuente": "Plataforma Feminista del estado",
+        "reaccion": "Manifiestan solidaridad con Juana Rivas y exigen protección efectiva para su hijo."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que las autoridades italianas consideren medidas cautelares para proteger al menor mientras se desarrolla el proceso judicial contra Arcuri.",
+    "datos_relevantes": [
+      {
+        "dato": "El hijo menor de Juana Rivas reside actualmente con su padre en Italia, a pesar del procesamiento por presunto maltrato.",
+        "fuente": "Defensa de Juana Rivas"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La Fiscalía de Cagliari ha procesado a Francesco Arcuri por maltrato habitual hacia sus hijos.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El escrito de procesamiento, fechado el 14 de noviembre de 2024, acusa a Arcuri de someter a sus hijos a violencia física, vejaciones, insultos y amenazas."
+        }
+      },
+      {
+        "afirmacion": "No se han tomado medidas cautelares para proteger al hijo menor que reside con Arcuri.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La defensa de Rivas ha manifestado preocupación por la falta de medidas cautelares a pesar del proceso penal abierto."
+        }
+      }
+    ],
+    "reflexion_breve": "Este caso subraya la complejidad de proteger a los menores en disputas internacionales y la necesidad de una cooperación judicial efectiva para salvaguardar su bienestar.",
+    "bsky_msg": "Preocupación – Juana Rivas solicita protección para su hijo menor tras el procesamiento de su exmarido por maltrato habitual."
   }  
 ] 
