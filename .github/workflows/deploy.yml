@@ -38,7 +38,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persona_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./_site
           publish_branch: gh-pages
-          exclude: '.*'
+          disable_nojekyll: true
