@@ -25,15 +25,19 @@ jobs:
       - name: Install dependencies
         run: bundle install
 
-      # Paso 4: Construir el sitio estático con Jekyll
+      # Paso 4: Listar archivos en _data
+      - name: List files in _data
+        run: ls -R _data
+
+      # Paso 5: Construir el sitio estático con Jekyll
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build
 
-      # Paso 5: Verificar archivos generados
+      # Paso 6: Verificar archivos generados
       - name: List generated files
         run: ls -R _site
 
-      # Paso 6: Configurar el token personal para autenticación
+      # Paso 7: Configurar el token personal para autenticación
       - name: Setup Personal Access Token
         run: |
           echo "${{ secrets.ACTIONS_DEPLOY_KEY }}" > ~/.git-credentials
@@ -41,7 +45,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Paso 7: Desplegar el sitio en GitHub Pages
+      # Paso 8: Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
