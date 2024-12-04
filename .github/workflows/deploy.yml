@@ -33,9 +33,18 @@ jobs:
       - name: List generated files
         run: ls -R _site
 
-      # Paso 6: Desplegar el sitio en GitHub Pages
+      # Paso 6: Configurar el token personal para autenticación
+      - name: Setup Personal Access Token
+        run: |
+          echo "${{ secrets.ACTIONS_DEPLOY_KEY }}" > ~/.git-credentials
+          git config --global credential.helper store
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Paso 7: Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./_site
+          publish_branch: gh-pages
