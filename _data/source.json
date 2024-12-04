@@ -738,5 +738,51 @@
     ],
     "reflexion_breve": "La introducción de EPSV específicas para autónomos en Euskadi representa un avance significativo hacia la equidad en la protección social, ofreciendo a este colectivo una herramienta efectiva para mejorar su bienestar en la jubilación.",
     "bsky_msg": "Positiva – 160 000 autónomos en Euskadi podrán suscribir nuevas EPSV este año, mejorando su protección social."
+  },
+  {
+    "titular": "La Mesa para el Pacto Vasco de Salud no llega a un acuerdo sobre principios y se cita para el 29 de enero",
+    "categoria_emocional": "Neutral",
+    "fecha_publicacion": "4 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9642692/la-mesa-para-pacto-vasco-de-salud-no-llega-a-acuerdo-sobre-principios-y-se-cita-para-29-de-enero/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/04/3290498/20241204115425_pacto-salud-cuarta-reunion_foto610x342.jpg",
+    "resumen": "La cuarta reunión de la Mesa para el Pacto Vasco de Salud concluyó sin acuerdo sobre los principios que deben guiar la reforma del sistema sanitario. El consejero de Salud, Alberto Martínez, atribuyó la falta de consenso al escaso tiempo para analizar las propuestas y calificó el encuentro de 'enriquecedor y positivo'. Se ha programado una nueva reunión para el 29 de enero.",
+    "contexto": "La Mesa para el Pacto Vasco de Salud, integrada por representantes políticos, sindicales y profesionales, busca reformar el sistema sanitario del estado. En reuniones previas, se acordó un diagnóstico de la situación actual, y actualmente se discuten los principios que guiarán las futuras estrategias.",
+    "linea_tiempo": [
+      {
+        "fecha": "5 de septiembre de 2024",
+        "descripcion": "Primera reunión de la Mesa para el Pacto Vasco de Salud, enfocada en definir un diagnóstico compartido sobre la situación del sistema sanitario."
+      },
+      {
+        "fecha": "30 de octubre de 2024",
+        "descripcion": "Tercera reunión de la Mesa, donde se acordó el diagnóstico sobre la situación de Osakidetza, salvo por el sindicato ESK que no avaló el documento."
+      },
+      {
+        "fecha": "4 de diciembre de 2024",
+        "descripcion": "Cuarta reunión de la Mesa, sin acuerdo sobre los principios de la reforma sanitaria; se programa una nueva reunión para el 29 de enero."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Alberto Martínez",
+        "descripcion": "Consejero de Salud del Gobierno Vasco, lidera las negociaciones en la Mesa para el Pacto Vasco de Salud."
+      },
+      {
+        "nombre": "Jon Hernández",
+        "descripcion": "Parlamentario de Sumar, crítico con el enfoque del documento discutido en la Mesa para el Pacto Vasco de Salud."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Osakidetza",
+        "definicion": "Servicio Vasco de Salud, organismo encargado de la sanidad pública en el estado."
+      },
+      {
+        "termino": "Pacto Vasco de Salud",
+        "definicion": "Iniciativa para reformar y mejorar el sistema sanitario del estado mediante consenso entre diversos agentes."
+      }
+    ],
+    "impacto_esperado": "La falta de acuerdo en la definición de los principios que guiarán la reforma sanitaria podría retrasar la implementación de mejoras en el sistema de salud del estado, afectando la calidad y eficiencia de los servicios prestados a la ciudadanía.",
+    "posibles_proximos_pasos": "Se espera que los participantes de la Mesa analicen las propuestas en detalle con sus equipos para, en la reunión del 29 de enero, alcanzar un acuerdo definitivo sobre los principios que guiarán la reforma del sistema sanitario.",
+    "bsky_msg": "Neutral – Sin acuerdo en la Mesa para el Pacto Vasco de Salud; próxima reunión el 29 de enero."
   }  
 ] 
