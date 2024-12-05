@@ -1441,5 +1441,61 @@
     ],
     "impacto_esperado": "La continuación de las exhumaciones en Orduña contribuye a la recuperación de la memoria histórica y ofrece reparación a las familias de las víctimas, fortaleciendo la convivencia y los derechos humanos en la sociedad.",
     "bsky_msg": "Reflexiva – Inicia la tercera fase de exhumaciones en Orduña para recuperar restos de víctimas de la Guerra Civil y el franquismo."
-  }   
+  },
+  {
+    "titular": "El gasto medio previsto por los vascos para esta Navidad alcanza los 588 euros",
+    "categoria_emocional": "Neutral",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9643519/el-gasto-medio-previsto-por-vascos-para-esta-navidad-alcanza-588-euros/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3291001/20241205133958_ahorro-aurrezpen_foto610x342.jpg",
+    "resumen": "Según el 'zOOm Intención de gasto en Navidad' del Observatorio Cetelem, los vascos prevén gastar una media de 588 euros en las próximas fiestas navideñas, manteniendo cifras similares al año anterior. El 52% de los consumidores planea mantener su gasto, mientras que el 33% espera incrementarlo y el 15% tiene intención de reducirlo.",
+    "contexto": "El estudio refleja la estabilidad en las intenciones de gasto de los consumidores vascos para la Navidad de 2024, con una distribución similar a la del año anterior en cuanto a quienes planean mantener, aumentar o disminuir su presupuesto para estas fechas.",
+    "linea_tiempo": [
+      {
+        "fecha": "2 de diciembre de 2022",
+        "descripcion": "El gasto medio previsto por los vascos para las compras navideñas se situó en 681 euros, un 35% más que el año anterior."
+      },
+      {
+        "fecha": "5 de diciembre de 2023",
+        "descripcion": "El gasto medio previsto por los vascos para las compras navideñas fue de 589 euros, un 14% menos que el año anterior."
+      },
+      {
+        "fecha": "12 de enero de 2024",
+        "descripcion": "Los consumidores vascos redujeron su gasto navideño a una media de 438 euros, un 9% menos que en 2022."
+      }
+    ],
+    "quien_es_quien": [],
+    "glosario_terminos": [
+      {
+        "termino": "Observatorio Cetelem",
+        "definicion": "Entidad que analiza tendencias de consumo y comportamiento de los consumidores."
+      },
+      {
+        "termino": "zOOm Intención de gasto en Navidad",
+        "definicion": "Estudio que evalúa las intenciones de compra y comportamiento de los consumidores durante el periodo navideño."
+      }
+    ],
+    "impacto_esperado": "Se anticipa que el gasto navideño en el País Vasco se mantenga estable en comparación con el año anterior, reflejando una tendencia de cautela entre los consumidores ante factores económicos como la inflación.",
+    "comparativas": "En el conjunto del estado, el gasto medio previsto para las compras navideñas es de 568 euros, ligeramente inferior al del País Vasco.",
+    "opinion_publica": [],
+    "posibles_proximos_pasos": "Se espera que los consumidores vascos realicen sus compras navideñas manteniendo un presupuesto similar al del año anterior, con una distribución equilibrada entre regalos y reuniones familiares.",
+    "datos_relevantes": [
+      {
+        "dato": "El 52% de los consumidores vascos planea mantener su gasto navideño respecto al año anterior.",
+        "fuente": "Observatorio Cetelem"
+      },
+      {
+        "dato": "El 33% de los vascos tiene intención de aumentar su gasto en Navidad.",
+        "fuente": "Observatorio Cetelem"
+      },
+      {
+        "dato": "El 15% de los consumidores vascos prevé reducir su gasto navideño.",
+        "fuente": "Observatorio Cetelem"
+      }
+    ],
+    "chequeo_datos": [],
+    "reflexion_breve": "La estabilidad en las previsiones de gasto navideño entre los vascos sugiere una adaptación a las condiciones económicas actuales, reflejando una actitud prudente y consciente en el consumo durante las festividades.",
+    "bsky_msg": "Neutral – Los vascos prevén un gasto navideño de 588 euros, manteniendo cifras similares al año anterior."
+  }
+  
 ] 
