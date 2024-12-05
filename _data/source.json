@@ -1083,5 +1083,83 @@
     ],
     "reflexion_breve": "La revisión al alza del crecimiento económico en Euskadi refleja una recuperación más sólida de lo anticipado, aunque persisten desafíos en sectores clave que requieren atención para asegurar un desarrollo equilibrado.",
     "bsky_msg": "Positiva – La economía vasca crece un 1,8% en el tercer trimestre de 2024, superando estimaciones iniciales."
-  }  
+  },
+  {
+    "titular": "Moriarti Produkzioak, Tambor de Oro 2025",
+    "categoria_emocional": "Reconocimiento",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643349/moriarti-produkzioak-tambor-de-oro-2024/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2020/01/13/2546477/20200113160604_jon-garano-aitor-arregui-jose-mari-goenaga_foto610x342.jpg",
+    "resumen": "La productora cinematográfica donostiarra Moriarti Produkzioak, fundada por Aitor Arregi, Jon Garaño y Jose Mari Goenaga, ha sido galardonada con el Tambor de Oro 2025 por su destacada contribución al cine y su proyección internacional.",
+    "contexto": "Moriarti Produkzioak, establecida en San Sebastián, ha producido películas galardonadas como 'Handia', 'La trinchera infinita' y 'Loreak', contribuyendo significativamente al cine vasco y su reconocimiento global.",
+    "linea_tiempo": [
+      {
+        "fecha": "1 de octubre de 2014",
+        "descripcion": "Estreno de 'Loreak', primera película en euskera seleccionada para representar al estado en los Premios Óscar."
+      },
+      {
+        "fecha": "10 de noviembre de 2017",
+        "descripcion": "Estreno de 'Handia', que obtuvo 10 premios Goya, incluyendo Mejor Guion Original."
+      },
+      {
+        "fecha": "27 de septiembre de 2019",
+        "descripcion": "Estreno de 'La trinchera infinita', ganadora de dos premios Goya y seleccionada para los Premios Óscar."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "Moriarti Produkzioak es galardonada con el Tambor de Oro 2025 por su contribución al cine y proyección internacional."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Aitor Arregi",
+        "descripcion": "Cineasta y cofundador de Moriarti Produkzioak, ha codirigido películas como 'Handia' y 'La trinchera infinita'."
+      },
+      {
+        "nombre": "Jon Garaño",
+        "descripcion": "Director y guionista, cofundador de Moriarti Produkzioak, conocido por su trabajo en 'Loreak' y 'Handia'."
+      },
+      {
+        "nombre": "Jose Mari Goenaga",
+        "descripcion": "Guionista y director, cofundador de Moriarti Produkzioak, ha participado en la creación de 'Loreak' y 'La trinchera infinita'."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Tambor de Oro",
+        "definicion": "Galardón otorgado anualmente por el Ayuntamiento de San Sebastián a personas o entidades que han contribuido significativamente a la ciudad."
+      },
+      {
+        "termino": "Moriarti Produkzioak",
+        "definicion": "Productora cinematográfica donostiarra fundada por Aitor Arregi, Jon Garaño y Jose Mari Goenaga, reconocida por sus películas en euskera."
+      }
+    ],
+    "impacto_esperado": "Este reconocimiento destaca la relevancia de Moriarti Produkzioak en la industria cinematográfica, impulsando el cine en euskera y fortaleciendo la identidad cultural vasca.",
+    "comparativas": "Similar al reconocimiento que recibió la productora catalana El Deseo, fundada por los hermanos Almodóvar, por su contribución al cine español.",
+    "opinion_publica": [
+      {
+        "fuente": "Eneko Goia, alcalde de San Sebastián",
+        "reaccion": "Hay sobrados motivos para la elección, ya que se trata de una productora nacida en San Sebastián, y que ha logrado extender su trabajo por todo el mundo."
+      }
+    ],
+    "posibles_proximos_pasos": "La entrega oficial del Tambor de Oro 2025 a Moriarti Produkzioak se realizará el 20 de enero de 2025 durante las festividades de San Sebastián.",
+    "datos_relevantes": [
+      {
+        "dato": "'Handia' obtuvo 10 premios Goya en 2018, incluyendo Mejor Guion Original.",
+        "fuente": "Academia de las Artes y las Ciencias Cinematográficas de España"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Moriarti Produkzioak ha sido galardonada con el Tambor de Oro 2025.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La Junta de Portavoces de San Sebastián ha elegido a la productora para recibir el galardón en 2025."
+        }
+      }
+    ],
+    "reflexion_breve": "El reconocimiento a Moriarti Produkzioak con el Tambor de Oro 2025 subraya la importancia de apoyar y valorar las producciones locales que enriquecen la cultura y proyectan la identidad vasca a nivel internacional.",
+    "bsky_msg": "Reconocimiento – Moriarti Produkzioak, productora donostiarra, recibe el Tambor de Oro 2025 por su destacada contribución al cine y proyección internacional."
+  }
+  
 ] 
