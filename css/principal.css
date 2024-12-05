@@ -309,6 +309,7 @@ li {
     color: #000;
     font-size: 14px;
     font-style: italic;
+    word-break: break-all;
 }
 .canonical_headline {
     display: block;
