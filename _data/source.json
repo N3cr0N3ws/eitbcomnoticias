@@ -1726,6 +1726,83 @@
     ],
     "reflexion_breve": "La rápida caída de ciudades clave en Siria ante la insurgencia islamista subraya la fragilidad de los estados en conflicto prolongado y la necesidad urgente de soluciones políticas inclusivas para evitar el colapso total y la expansión del extremismo.",
     "bsky_msg": "Alarma – Insurgencia islamista toma Alepo y Hama en una semana, debilitando al gobierno sirio."
-  }
+  },
+  {
+    "titular": "Aldama entrega sus 'pruebas' al Supremo: contrato con Ábalos, presuntas preadjudicaciones y carta a Guaidó",
+    "categoria_emocional": "Controversia",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9643811/aldama-entrega-sus-pruebas-al-supremo-contrato-con-abalos-presuntas-preadjudicaciones-y-carta-a-guaido/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/11/22/3286856/20241122073052_casokoldoempresariovictor_foto610x342.jpg",
+    "resumen": "El empresario Víctor de Aldama ha presentado al Tribunal Supremo documentos que incluyen un contrato de arrendamiento con el exministro José Luis Ábalos, un listado de supuestas preadjudicaciones de contratos a constructoras y una carta que lo vincula como enlace con Juan Guaidó.",
+    "contexto": "Víctor de Aldama, implicado en la 'trama Koldo', ha aportado al Tribunal Supremo documentos que, según él, respaldan sus acusaciones de corrupción contra el exministro José Luis Ábalos y otros altos cargos del PSOE.",
+    "linea_tiempo": [
+      {
+        "fecha": "22 de noviembre de 2024",
+        "descripcion": "Víctor de Aldama declara ante la Audiencia Nacional, implicando a José Luis Ábalos y otros altos cargos en una supuesta red de corrupción."
+      },
+      {
+        "fecha": "2 de diciembre de 2024",
+        "descripcion": "El Tribunal Supremo cita a José Luis Ábalos a declarar como investigado el 12 de diciembre y asume la investigación sobre Koldo García y Víctor de Aldama."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "Aldama presenta al Supremo documentos que incluyen un contrato de arrendamiento con Ábalos y un listado de supuestas preadjudicaciones de contratos."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Víctor de Aldama",
+        "descripcion": "Empresario y comisionista confeso, presuntamente involucrado en la 'trama Koldo' y acusador de José Luis Ábalos en supuestos casos de corrupción."
+      },
+      {
+        "nombre": "José Luis Ábalos",
+        "descripcion": "Exministro de Transportes del estado y alto cargo del PSOE, actualmente investigado por supuestas implicaciones en una red de corrupción."
+      },
+      {
+        "nombre": "Koldo García",
+        "descripcion": "Exasesor de José Luis Ábalos, presuntamente implicado en la 'trama Koldo' y bajo investigación por su participación en los hechos."
+      },
+      {
+        "nombre": "Juan Guaidó",
+        "descripcion": "Político venezolano que se proclamó presidente encargado de Venezuela en 2019, reconocido por varios países, incluyendo el estado."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Trama Koldo",
+        "definicion": "Presunta red de corrupción que involucra a altos cargos políticos y empresarios en la adjudicación irregular de contratos públicos."
+      },
+      {
+        "termino": "Preadjudicación",
+        "definicion": "Asignación preliminar de un contrato antes de su adjudicación oficial, a menudo utilizada en contextos de corrupción."
+      }
+    ],
+    "impacto_esperado": "Estas revelaciones podrían afectar la credibilidad del PSOE y de figuras políticas clave, además de influir en la percepción pública sobre la corrupción en la administración pública.",
+    "comparativas": "Casos similares de corrupción han afectado a partidos políticos en otros países, como el escándalo 'Lava Jato' en Brasil, que involucró a altos funcionarios y empresarios en esquemas de sobornos y contratos públicos.",
+    "opinion_publica": [
+      {
+        "fuente": "El País",
+        "reaccion": "La presentación de estas pruebas por parte de Aldama añade una nueva dimensión al caso, aumentando la presión sobre el exministro Ábalos y el PSOE."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que el Tribunal Supremo analice las pruebas presentadas y determine su relevancia en la investigación. Además, se prevé la comparecencia de los implicados para esclarecer los hechos.",
+    "datos_relevantes": [
+      {
+        "dato": "El contrato de arrendamiento presentado por Aldama está valorado en 1,9 millones de euros.",
+        "fuente": "El HuffPost"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Aldama ha presentado un contrato de arrendamiento con Ábalos como prueba.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Según informes de medios como El País y El HuffPost, Aldama ha entregado al Tribunal Supremo un contrato de arrendamiento que vincula al exministro Ábalos."
+        }
+      }
+    ],
+    "reflexion_breve": "La presentación de estas pruebas subraya la importancia de la transparencia y la rendición de cuentas en la administración pública, destacando la necesidad de combatir la corrupción para mantener la confianza ciudadana en las instituciones.",
+    "bsky_msg": "Controversia – Aldama presenta al Supremo pruebas que vinculan a Ábalos con supuestas preadjudicaciones y una carta a Guaidó."
+  }  
   
 ] 
