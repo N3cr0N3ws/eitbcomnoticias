@@ -4,8 +4,8 @@ _site/pages/
 # Ignorar el archivo _data/test.json
 _data/test.json
 
-# Ignorar la carpeta _site/css
-_site/css/
+# Ignorar la carpeta _site/css/principal.css
+_site/css/principal.css
 
 # Ignorar el archivo de .jekyll-metadata
 .jekyll-metadata
