@@ -1868,6 +1868,68 @@
     ],
     "reflexion_breve": "La disparidad en el seguimiento de la huelga entre distintos subsectores de la hostelería alavesa refleja la complejidad de las demandas laborales y la necesidad de soluciones negociadas que aborden las particularidades de cada ámbito.",
     "bsky_msg": "Moderada – Huelga en hostelería alavesa: escasa incidencia en bares de Vitoria, mayor impacto en comedores escolares."
-  }  
+  },
+  {
+    "titular": "Macron critica el 'cinismo' de quienes derribaron a Barnier, pero no anuncia su sustituto",
+    "categoria_emocional": "Tensión política",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9643889/macron-critica-cinismo-de-quienes-derribaron-a-barnier-pero-no-anuncia-su-sustituto/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3291164/20241205201655_macronalocuciontrasmocioc_foto610x342.jpg",
+    "resumen": "El presidente francés, Emmanuel Macron, ha criticado el 'cinismo' de la extrema izquierda y derecha por la caída de su gobierno tras una moción de censura, y ha anunciado que nombrará un nuevo primer ministro en los próximos días.",
+    "contexto": "La reciente moción de censura que derrocó al gobierno de Michel Barnier ha sumido a Francia en una crisis política, dejando al país sin presupuestos aprobados y generando incertidumbre sobre la estabilidad gubernamental.",
+    "linea_tiempo": [
+      {
+        "fecha": "2 de diciembre de 2024",
+        "descripcion": "La Asamblea Nacional aprueba una moción de censura contra el gobierno de Michel Barnier, provocando su dimisión."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "Emmanuel Macron anuncia en una intervención televisada que nombrará un nuevo primer ministro en los próximos días y critica el 'cinismo' de la extrema izquierda y derecha."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Emmanuel Macron",
+        "descripcion": "Presidente de Francia desde 2017, lidera el partido centrista La République En Marche."
+      },
+      {
+        "nombre": "Michel Barnier",
+        "descripcion": "Ex primer ministro de Francia, dimitió tras una moción de censura en diciembre de 2024."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Moción de censura",
+        "definicion": "Procedimiento parlamentario que permite a la Asamblea Nacional retirar su confianza al gobierno, obligándolo a dimitir."
+      }
+    ],
+    "impacto_esperado": "La falta de un primer ministro y de presupuestos aprobados podría afectar la estabilidad económica y política de Francia, generando incertidumbre tanto a nivel nacional como en la Unión Europea.",
+    "comparativas": "Situaciones similares se han observado en países como Italia, donde frecuentes cambios de gobierno han llevado a períodos de inestabilidad política y económica.",
+    "opinion_publica": [
+      {
+        "fuente": "Le Monde",
+        "reaccion": "La dimisión de Barnier y la crítica de Macron reflejan la profunda división política en Francia."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que Macron nombre un nuevo primer ministro que pueda obtener el apoyo de una mayoría parlamentaria para aprobar los presupuestos y estabilizar el gobierno.",
+    "datos_relevantes": [
+      {
+        "dato": "Es la primera vez desde 1962 que una moción de censura prospera en Francia.",
+        "fuente": "Le Figaro"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Macron ha criticado el 'cinismo' de la extrema izquierda y derecha por la caída de su gobierno.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "En su intervención televisada, Macron culpó al 'cinismo' de la extrema izquierda y derecha por la moción de censura que derrocó a su gobierno."
+        }
+      }
+    ],
+    "reflexion_breve": "La actual crisis política en Francia subraya la importancia de la cohesión y el diálogo entre las fuerzas políticas para garantizar la estabilidad y el progreso del país.",
+    "bsky_msg": "Tensión política – Macron critica el 'cinismo' tras la caída de su gobierno y promete nuevo primer ministro pronto."
+  }
+  
   
 ] 
