@@ -1653,5 +1653,79 @@
     ],
     "reflexion_breve": "La adaptación de las recomendaciones pediátricas al contexto digital actual es esencial para garantizar un desarrollo saludable en la infancia, equilibrando la innovación tecnológica con el bienestar integral de los menores.",
     "bsky_msg": "Preocupación – Pediatras aconsejan evitar pantallas antes de los 6 años y limitarlas a una hora diaria hasta los 12."
+  },
+  {
+    "titular": "La insurgencia islamista se hace con Alepo y Hama en apenas una semana de ofensiva en Siria",
+    "categoria_emocional": "Alarma",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9643757/la-insurgencia-islamista-se-hace-con-alepo-y-hama-en-apenas-semana-de-ofensiva-en-siria/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3291101/20241205172402_milicianosislamistasaerop_foto610x342.jpg",
+    "resumen": "En una ofensiva relámpago, la insurgencia islamista ha tomado el control de las ciudades sirias de Alepo y Hama en poco más de una semana, debilitando significativamente al gobierno de Bashar al Asad.",
+    "contexto": "La guerra civil en Siria, iniciada en 2011, ha enfrentado al gobierno de Bashar al Asad con diversas facciones rebeldes, incluyendo grupos islamistas como Hayat Tahrir al-Sham (HTS). La reciente ofensiva de HTS ha logrado avances significativos, tomando ciudades clave y desafiando el control gubernamental en regiones estratégicas.",
+    "linea_tiempo": [
+      {
+        "fecha": "29 de noviembre de 2024",
+        "descripcion": "HTS y aliados toman el control de Alepo, la segunda ciudad más grande de Siria."
+      },
+      {
+        "fecha": "3 de diciembre de 2024",
+        "descripcion": "El líder de HTS, Abu Mohammed al-Golani, visita Alepo tras su captura, consolidando la presencia del grupo en la ciudad."
+      },
+      {
+        "fecha": "4 de diciembre de 2024",
+        "descripcion": "Fuerzas insurgentes avanzan hacia Hama, enfrentándose a tropas gubernamentales en las afueras de la ciudad."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "La insurgencia islamista toma el control de Hama, marcando la segunda capital provincial capturada en una semana."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Bashar al Asad",
+        "descripcion": "Presidente de Siria desde el año 2000, lidera el gobierno central en el conflicto civil."
+      },
+      {
+        "nombre": "Abu Mohammed al-Golani",
+        "descripcion": "Líder de Hayat Tahrir al-Sham (HTS), grupo insurgente islamista que ha encabezado la reciente ofensiva en Siria."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Hayat Tahrir al-Sham (HTS)",
+        "definicion": "Grupo insurgente islamista en Siria, anteriormente conocido como Frente al-Nusra, vinculado a Al Qaeda."
+      },
+      {
+        "termino": "Ofensiva relámpago",
+        "definicion": "Ataque militar rápido y sorpresivo que busca obtener una victoria decisiva en poco tiempo."
+      }
+    ],
+    "impacto_esperado": "La captura de Alepo y Hama por parte de la insurgencia islamista debilita significativamente al gobierno sirio, potencialmente prolongando el conflicto y aumentando la inestabilidad en la región. Además, podría provocar una nueva ola de desplazamientos y agravar la crisis humanitaria existente.",
+    "comparativas": "Situaciones similares se han observado en conflictos como el de Afganistán, donde la rápida toma de ciudades por parte de insurgentes talibanes en 2021 llevó al colapso del gobierno central y a una crisis humanitaria significativa.",
+    "opinion_publica": [
+      {
+        "fuente": "The Guardian",
+        "reaccion": "La comunidad internacional expresa preocupación por el avance de grupos islamistas en Siria y sus implicaciones para la estabilidad regional."
+      }
+    ],
+    "posibles_proximos_pasos": "Es probable que el gobierno sirio, con el apoyo de aliados como Rusia e Irán, lance contraofensivas para recuperar las ciudades perdidas. La comunidad internacional podría intensificar esfuerzos diplomáticos para negociar un alto el fuego y abordar la crisis humanitaria.",
+    "datos_relevantes": [
+      {
+        "dato": "Más de 6.6 millones de personas han sido desplazadas internamente en Siria desde el inicio del conflicto en 2011.",
+        "fuente": "ACNUR"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La insurgencia islamista ha tomado el control de Alepo y Hama en una semana.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Informes de múltiples fuentes, incluyendo AP News y Reuters, confirman la captura de ambas ciudades por parte de insurgentes islamistas en el período mencionado."
+        }
+      }
+    ],
+    "reflexion_breve": "La rápida caída de ciudades clave en Siria ante la insurgencia islamista subraya la fragilidad de los estados en conflicto prolongado y la necesidad urgente de soluciones políticas inclusivas para evitar el colapso total y la expansión del extremismo.",
+    "bsky_msg": "Alarma – Insurgencia islamista toma Alepo y Hama en una semana, debilitando al gobierno sirio."
   }
+  
 ] 
