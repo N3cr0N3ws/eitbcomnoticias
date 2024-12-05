@@ -40,6 +40,25 @@ layout: default
       </ul>
       {% endif %}
 
+      <!-- Next steps -->
+      {% assign posibles_proximos_pasos_count = page.posibles_proximos_pasos | size %}
+      {% if posibles_proximos_pasos_count > 0 %}
+      <ul class="steps">
+        <li class="steps-item">
+          <div class="steps-tittle">Futuro posible</div>
+          <p class="steps-description">
+            {{ page.posibles_proximos_pasos }}
+          </p>
+        </li>
+      </ul>
+      {% endif %}
+
+
+
+
+
+
+
       <!-- Who is who -->
       <!-- {% assign quien_es_quien_count = page.quien_es_quien | size %}
       {% if quien_es_quien_count > 0 %}

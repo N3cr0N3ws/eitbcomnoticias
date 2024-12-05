@@ -72,6 +72,7 @@ module Jekyll
       self.data['resumen'] = article['resumen'] || "Sin resumen disponible"
       self.data['contexto'] = article['contexto'] || "Sin contexto disponible"
       self.data['linea_tiempo'] = article['linea_tiempo'] || []
+      self.data['posibles_proximos_pasos'] = article['posibles_proximos_pasos'] || []
       self.data['quien_es_quien'] = article['quien_es_quien'] || []
       self.data['glosario_terminos'] = article['glosario_terminos'] || []
       self.data['impacto_esperado'] = article['impacto_esperado'] || []
