@@ -1588,6 +1588,70 @@
     ],
     "reflexion_breve": "La decisión de no recurrir la sentencia sobre 'Viñedos de Á ...  marca un punto de inflexión en la estrategia vitivinícola de Rioja Alavesa, enfocándose en la diferenciación y calidad dentro del marco de la DOCa Rioja para fortalecer su posición en el mercado.",
     "bsky_msg": "Neutral – El Parlamento Vasco decide no recurrir la sentencia sobre 'Viñedos de Á ...  y apuesta por mejorar la competitividad del sector vitivinícola de Rioja Alavesa."
-  }  
-  
+  },
+  {
+    "titular": "Los pediatras instan a restringir el uso de pantallas hasta los seis años y limitarlo a una hora hasta los 12",
+    "categoria_emocional": "Preocupación",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643701/los-pediatras-instan-a-restringir-uso-de-pantallas-hasta-seis-anos-y-limitarlo-a-hora-hasta-12/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2023/03/10/3067029/20230310103448_haurra-umea-pantaila-mugi_foto610x342.jpg",
+    "resumen": "La Asociación Española de Pediatría (AEP) actualiza sus recomendaciones sobre el uso de pantallas en niños y adolescentes, aconsejando evitar su uso antes de los seis años y limitarlo a menos de una hora diaria entre los siete y doce años.",
+    "contexto": "La creciente preocupación por el impacto de las tecnologías digitales en la salud infantil ha llevado a la AEP a revisar sus directrices, enfatizando la necesidad de equilibrar el uso de dispositivos con actividades físicas y sociales.",
+    "linea_tiempo": [
+      {
+        "fecha": "14 de septiembre de 2023",
+        "descripcion": "La AEP presenta el 'Plan Digital Familiar', una guía para ayudar a las familias a moderar el impacto de las tecnologías en casa."
+      },
+      {
+        "fecha": "3 de diciembre de 2024",
+        "descripcion": "Un grupo de expertos designado por el Gobierno propone evitar el uso de dispositivos digitales en menores de seis años y priorizar teléfonos analógicos hasta los 12 años."
+      },
+      {
+        "fecha": "4 de diciembre de 2024",
+        "descripcion": "El psicólogo clínico Antonio Vázquez Morejón destaca la importancia de enseñar a los niños sobre los riesgos de las pantallas y la necesidad de entrenar también a los padres."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "María Salmerón",
+        "descripcion": "Coordinadora del grupo de trabajo de Salud Digital de la Asociación Española de Pediatría (AEP)."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Asociación Española de Pediatría (AEP)",
+        "definicion": "Organización que agrupa a pediatras en el estado, dedicada a la promoción de la salud infantil y la actualización de conocimientos en pediatría."
+      },
+      {
+        "termino": "Salud Digital",
+        "definicion": "Área de la salud que estudia el impacto de las tecnologías digitales en el bienestar físico y mental de las personas."
+      }
+    ],
+    "impacto_esperado": "Se espera que la implementación de estas recomendaciones reduzca los efectos negativos asociados al uso excesivo de pantallas en niños, como problemas de sueño, alimentación y desarrollo cognitivo, promoviendo un equilibrio saludable entre la tecnología y otras actividades.",
+    "comparativas": "En 2019, la Organización Mundial de la Salud recomendó que los niños menores de 5 años no pasen más de una hora al día frente a una pantalla, y que los menores de 1 año no tengan exposición alguna.",
+    "opinion_publica": [
+      {
+        "fuente": "El País",
+        "reaccion": "Los pediatras enfatizan que el uso de pantallas en la enseñanza no ha demostrado mejoras en el aprendizaje respecto a métodos tradicionales."
+      }
+    ],
+    "posibles_proximos_pasos": "Se prevé la difusión de campañas de concienciación dirigidas a padres y educadores, así como la implementación de políticas públicas que regulen el acceso y uso de dispositivos digitales en entornos infantiles.",
+    "datos_relevantes": [
+      {
+        "dato": "El 72% de los menores de 12 años en el estado poseen un teléfono móvil.",
+        "fuente": "UNICEF España"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Los pediatras recomiendan evitar el uso de pantallas antes de los seis años.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La Asociación Española de Pediatría desaconseja el uso de pantallas en niños menores de seis años."
+        }
+      }
+    ],
+    "reflexion_breve": "La adaptación de las recomendaciones pediátricas al contexto digital actual es esencial para garantizar un desarrollo saludable en la infancia, equilibrando la innovación tecnológica con el bienestar integral de los menores.",
+    "bsky_msg": "Preocupación – Pediatras aconsejan evitar pantallas antes de los 6 años y limitarlas a una hora diaria hasta los 12."
+  }
 ] 
