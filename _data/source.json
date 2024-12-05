@@ -937,16 +937,16 @@
     "fecha_publicacion": "5 de diciembre de 2024",
     "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643207/prevision-para-dias-6-7-y-8-de-diciembre-de-2024-largo-fin-de-semana-con-tiempo-invernal/",
     "url_imagen": "https://media.eitb.eus/multimedia/images/2019/11/11/2516838/20191111124729_euria-lluvia-bilbo-efe_foto610x342.jpg",
-    "resumen": "Se prevé que el puente de diciembre esté marcado por condiciones invernales debido a la entrada de una masa de aire frío. Las temperaturas descenderán notablemente, con máximas que no superarán los 15 °C y mínimas alrededor de 4-5 °C en ciudades como Vitoria-Gasteiz y Pamplona. Se esperan precipitaciones en la mitad norte, con la cota de nieve bajando hasta los 600-800 metros el domingo. ",
-    "contexto": "La llegada de una masa de aire polar durante el puente de diciembre traerá un descenso significativo de las temperaturas y condiciones invernales en gran parte del estado. Se esperan lluvias y nevadas en cotas bajas, afectando especialmente a la mitad norte del territorio. :contentReference[oaicite:0]{index=0}",
+    "resumen": "Se prevé que el puente de diciembre esté marcado por condiciones invernales debido a la entrada de una masa de aire frío. Las temperaturas descenderán notablemente, con máximas que no superarán los 15 °C y mínimas alrededor de 4-5 °C en ciudades como Vitoria-Gasteiz y Pamplona. Se esperan precipitaciones en la mitad norte, con la cota de nieve bajando hasta los 600-800 metros el domingo.",
+    "contexto": "La llegada de una masa de aire polar durante el puente de diciembre traerá un descenso significativo de las temperaturas y condiciones invernales en gran parte del estado. Se esperan lluvias y nevadas en cotas bajas, afectando especialmente a la mitad norte del territorio.",
     "linea_tiempo": [
       {
         "fecha": "2 de diciembre de 2024",
-        "descripcion": "Se pronostica un notable descenso de temperaturas y posibles nevadas en cotas medias en Euskadi durante el puente de diciembre. :contentReference[oaicite:1]{index=1}"
+        "descripcion": "Se pronostica un notable descenso de temperaturas y posibles nevadas en cotas medias en Euskadi durante el puente de diciembre."
       },
       {
         "fecha": "4 de diciembre de 2024",
-        "descripcion": "La AEMET confirma un cambio brusco de tiempo para el puente de diciembre, con la llegada de una masa de aire polar y nevadas a cotas bajas. :contentReference[oaicite:2]{index=2}"
+        "descripcion": "La AEMET confirma un cambio brusco de tiempo para el puente de diciembre, con la llegada de una masa de aire polar y nevadas a cotas bajas."
       },
       {
         "fecha": "5 de diciembre de 2024",
@@ -971,11 +971,11 @@
     "opinion_publica": [
       {
         "fuente": "AEMET",
-        "reaccion": "La Agencia Estatal de Meteorología ha emitido alertas por la llegada de una masa de aire polar que traerá un marcado descenso de temperaturas y nevadas en cotas bajas. :contentReference[oaicite:3]{index=3}"
+        "reaccion": "La Agencia Estatal de Meteorología ha emitido alertas por la llegada de una masa de aire polar que traerá un marcado descenso de temperaturas y nevadas en cotas bajas."
       },
       {
         "fuente": "Roberto Brasero",
-        "reaccion": "El meteorólogo ha alertado sobre una importante ola de frío que se avecina para el puente de diciembre, con temperaturas que subirán ligeramente el jueves y viernes, pero a partir del domingo se espera una brusca bajada. :contentReference[oaicite:4]{index=4}"
+        "reaccion": "El meteorólogo ha alertado sobre una importante ola de frío que se avecina para el puente de diciembre, con temperaturas que subirán ligeramente el jueves y viernes, pero a partir del domingo se espera una brusca bajada."
       }
     ],
     "posibles_proximos_pasos": "Se espera que las autoridades emitan recomendaciones y posibles restricciones en áreas afectadas por nevadas y bajas temperaturas. Es probable que se intensifiquen los operativos de mantenimiento en carreteras y se habiliten albergues para personas vulnerables.",
@@ -994,14 +994,14 @@
         "afirmacion": "La entrada de una masa de aire frío el sábado hará descender las temperaturas, que podrían bajar hasta los 5 °C en muchos puntos.",
         "verificacion": {
           "estado": "Confirmado",
-          "explicacion": "La AEMET ha confirmado la llegada de una masa de aire polar que provocará un descenso significativo de las temperaturas durante el puente de diciembre. :contentReference[oaicite:5]{index=5}"
+          "explicacion": "La AEMET ha confirmado la llegada de una masa de aire polar que provocará un descenso significativo de las temperaturas durante el puente de diciembre."
         }
       },
       {
         "afirmacion": "Se espera lluvia, que caerá en forma de nieve a partir de los 600-800 metros el domingo.",
         "verificacion": {
           "estado": "Confirmado",
-          "explicacion": "Las previsiones meteorológicas indican que la cota de nieve descenderá hasta los 600-800 metros el domingo, con posibles nevadas en esas altitudes. :contentReference[oaicite:6]{index=6}"
+          "explicacion": "Las previsiones meteorológicas indican que la cota de nieve descenderá hasta los 600-800 metros el domingo, con posibles nevadas en esas altitudes."
         }
       }
     ],
