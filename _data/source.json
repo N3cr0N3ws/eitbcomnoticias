@@ -1160,6 +1160,71 @@
     ],
     "reflexion_breve": "El reconocimiento a Moriarti Produkzioak con el Tambor de Oro 2025 subraya la importancia de apoyar y valorar las producciones locales que enriquecen la cultura y proyectan la identidad vasca a nivel internacional.",
     "bsky_msg": "Reconocimiento – Moriarti Produkzioak, productora donostiarra, recibe el Tambor de Oro 2025 por su destacada contribución al cine y proyección internacional."
+  },
+  {
+    "titular": "La Comisión de Abusos Sexuales en la Iglesia de Bizkaia sigue recibiendo nuevos casos",
+    "categoria_emocional": "Preocupación",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643332/la-comision-de-abusos-sexuales-en-iglesia-de-bizkaia-sigue-recibiendo-nuevos-casos/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3290878/20241205090844_joseba-segura-obispo-bilb_foto610x342.jpg",
+    "resumen": "El obispo de Bilbao, Joseba Segura, ha confirmado que la Comisión de Protección de Menores y Prevención de Abusos Sexuales de Bizkaia continúa recibiendo nuevos casos, aunque en menor cantidad que al inicio. Destaca la credibilidad de los testimonios, pese a las dificultades judiciales para probarlos.",
+    "contexto": "La Diócesis de Bilbao ha implementado medidas para abordar los abusos sexuales en su seno, incluyendo la creación de una comisión en 2019 para investigar y prevenir estos casos.",
+    "linea_tiempo": [
+      {
+        "fecha": "22 de febrero de 2023",
+        "descripcion": "La Diócesis de Bilbao informa que ha abierto 32 expedientes por abusos sexuales desde 2019, 18 de ellos relacionados con congregaciones religiosas y 14 con sacerdotes diocesanos fallecidos."
+      },
+      {
+        "fecha": "24 de marzo de 2023",
+        "descripcion": "El obispo Joseba Segura pide perdón públicamente a las víctimas de abusos sexuales cometidos en la Iglesia de Bizkaia durante un acto en la catedral de Santiago en Bilbao."
+      },
+      {
+        "fecha": "9 de febrero de 2024",
+        "descripcion": "La Comisión de Protección de Menores de la Diócesis de Bilbao planta un olivo en memoria de las víctimas de abusos sexuales y anuncia la apertura de siete nuevos expedientes en 2023."
+      },
+      {
+        "fecha": "25 de octubre de 2024",
+        "descripcion": "El obispo Joseba Segura confirma la recepción de nuevas denuncias de abusos sexuales a menores por parte de religiosos en Bizkaia, aunque en menor cantidad que al inicio."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Joseba Segura",
+        "descripcion": "Obispo de Bilbao desde 2021, ha liderado iniciativas para abordar y prevenir los abusos sexuales en la Iglesia de Bizkaia."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Comisión de Protección de Menores y Prevención de Abusos Sexuales",
+        "definicion": "Órgano de la Diócesis de Bilbao creado en 2019 para investigar y prevenir casos de abusos sexuales en el ámbito eclesiástico."
+      }
+    ],
+    "impacto_esperado": "La continua recepción de nuevos casos subraya la necesidad de mantener y fortalecer las medidas de prevención y apoyo a las víctimas, así como de fomentar una cultura de transparencia y responsabilidad en la Iglesia.",
+    "opinion_publica": [
+      {
+        "fuente": "Gema Varona, directora del Instituto Vasco de Criminología",
+        "reaccion": "Es urgente implementar medidas para reparar a las víctimas de abusos sexuales en la Iglesia; no se puede demorar más."
+      }
+    ],
+    "posibles_proximos_pasos": "La Diócesis de Bilbao podría intensificar sus esfuerzos en la atención a las víctimas, ofrecer compensaciones adecuadas y reforzar las políticas de prevención y formación para evitar futuros casos.",
+    "datos_relevantes": [
+      {
+        "dato": "Desde 2019, la Comisión ha abierto 39 expedientes, de los cuales 27 están cerrados.",
+        "fuente": "Diócesis de Bilbao"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La Comisión de Protección de Menores de Bizkaia sigue recibiendo nuevos casos.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El obispo Joseba Segura ha declarado que continúan recibiendo nuevos testimonios, aunque en menor cantidad que al inicio."
+        }
+      }
+    ],
+    "reflexion_breve": "La persistencia de nuevos casos de abusos sexuales en la Iglesia de Bizkaia destaca la importancia de mantener una postura proactiva en la prevención, reconocimiento y reparación de estos actos, asegurando justicia y apoyo a las víctimas.",
+    "bsky_msg": "Preocupación – La Comisión de Abusos Sexuales en la Iglesia de Bizkaia sigue recibiendo nuevos casos, según el obispo Joseba Segura."
   }
+  
   
 ] 
