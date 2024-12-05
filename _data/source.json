@@ -1300,5 +1300,89 @@
     ],
     "reflexion_breve": "La falsificación de recetas médicas no solo constituye un delito grave, sino que también pone en riesgo la salud pública y socava la confianza en el sistema sanitario. Es esencial fortalecer los mecanismos de control y promover la ética en la obtención y distribución de medicamentos.",
     "bsky_msg": "Alarma – Dos detenidos en Sestao por falsificar más de 200 recetas médicas, defraudando más de 12.000 euros en medicamentos."
+  },
+  {
+    "titular": "Pasaia llama a 'seguir enfrentando con firmeza la violencia machista desde todos los vértices'",
+    "categoria_emocional": "Indignación",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643459/pasaia-llama-a-seguir-enfrentando-con-firmeza-violencia-machista-desde-todos-vertices/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/04/3290742/20241204190035_pasaiaconcentracionleonor_foto610x342.jpg",
+    "resumen": "El Ayuntamiento de Pasaia ha reiterado su profundo rechazo y dolor ante el reciente asesinato machista en la localidad, instando a enfrentar con firmeza la violencia de género desde todos los ámbitos y agradeciendo la colaboración de entidades que han apoyado a la familia de la víctima.",
+    "contexto": "Este trágico suceso se suma a una serie de asesinatos por violencia de género en el estado, reflejando la persistencia de esta problemática social y la necesidad de acciones contundentes para su erradicación.",
+    "linea_tiempo": [
+      {
+        "fecha": "30 de noviembre de 2024",
+        "descripcion": "Leonor, de 45 años, es asesinada en Pasaia por su expareja, quien posteriormente se entrega a la policía."
+      },
+      {
+        "fecha": "1 de diciembre de 2024",
+        "descripcion": "Cientos de personas se concentran en Pasaia para condenar el asesinato de Leonor y mostrar su repulsa hacia la violencia machista."
+      },
+      {
+        "fecha": "2 de diciembre de 2024",
+        "descripcion": "El presunto asesino de Leonor es enviado a prisión provisional tras declarar ante el juez."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Leonor",
+        "descripcion": "Mujer de 45 años, víctima del asesinato machista en Pasaia el 30 de noviembre de 2024."
+      },
+      {
+        "nombre": "Ertzaintza",
+        "descripcion": "Policía autónoma del País Vasco, encargada de la investigación del asesinato de Leonor."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Violencia machista",
+        "definicion": "Violencia ejercida contra las mujeres por el hecho de serlo, manifestada en diversas formas como física, psicológica o sexual."
+      },
+      {
+        "termino": "Prisión provisional",
+        "definicion": "Medida cautelar que consiste en la privación de libertad de una persona acusada de un delito mientras se desarrolla el proceso judicial."
+      }
+    ],
+    "impacto_esperado": "Este asesinato ha generado una profunda conmoción en la comunidad de Pasaia y ha reavivado el debate sobre la eficacia de las medidas de protección a las víctimas de violencia de género, impulsando a las autoridades a reforzar las políticas de prevención y apoyo.",
+    "comparativas": "En países como Suecia, se han implementado sistemas de alerta temprana y refugios seguros para víctimas de violencia de género, logrando una reducción significativa en los casos de feminicidio.",
+    "opinion_publica": [
+      {
+        "fuente": "Movimiento Feminista de Pasaia",
+        "reaccion": "Ha convocado concentraciones para condenar el asesinato y exigir medidas más efectivas contra la violencia machista."
+      },
+      {
+        "fuente": "Eudel (Asociación de Municipios Vascos)",
+        "reaccion": "Ha mostrado su enérgica repulsa y llamado a reforzar las acciones de sensibilización y prevención."
+      }
+    ],
+    "posibles_proximos_pasos": "Se prevé la implementación de protocolos más estrictos de protección a víctimas de violencia de género, así como campañas de concienciación y educación en igualdad de género en la comunidad.",
+    "datos_relevantes": [
+      {
+        "dato": "En 2024, 43 mujeres han sido asesinadas por sus parejas o exparejas en el estado.",
+        "fuente": "Ministerio de Igualdad"
+      },
+      {
+        "dato": "Desde 2003, el número de mujeres asesinadas por violencia de género asciende a 1.288.",
+        "fuente": "Ministerio de Igualdad"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "El Ayuntamiento de Pasaia ha agradecido la colaboración de entidades que han apoyado a la familia de la víctima.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El consistorio ha reconocido públicamente el apoyo recibido por diversas entidades en momentos difíciles."
+        }
+      },
+      {
+        "afirmacion": "El presunto asesino de Leonor se encuentra en prisión provisional.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Tras declarar ante el juez, se decretó su ingreso en prisión provisional."
+        }
+      }
+    ],
+    "reflexion_breve": "La persistencia de la violencia machista exige una respuesta integral y coordinada de la sociedad y las instituciones, promoviendo la educación en igualdad y fortaleciendo los mecanismos de protección para las víctimas.",
+    "bsky_msg": "Indignación – Pasaia insta a enfrentar con firmeza la violencia machista tras el reciente asesinato de Leonor."
   }  
 ] 
