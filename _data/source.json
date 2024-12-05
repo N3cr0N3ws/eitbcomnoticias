@@ -1803,6 +1803,71 @@
     ],
     "reflexion_breve": "La presentación de estas pruebas subraya la importancia de la transparencia y la rendición de cuentas en la administración pública, destacando la necesidad de combatir la corrupción para mantener la confianza ciudadana en las instituciones.",
     "bsky_msg": "Controversia – Aldama presenta al Supremo pruebas que vinculan a Ábalos con supuestas preadjudicaciones y una carta a Guaidó."
+  },
+  {
+    "titular": "Poca repercusión de la huelga en bares de Vitoria; se ha notado más en comedores escolares",
+    "categoria_emocional": "Moderada",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9643846/poca-repercusion-de-huelga-en-bares-de-vitoria-se-ha-notado-mas-en-comedores-escolares/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3291155/20241205195303_araba-ostalaritza-greba-g_foto610x342.jpg",
+    "resumen": "La primera jornada de huelga en la hostelería de Álava tuvo escasa incidencia en bares y cafeterías de Vitoria, con un seguimiento del 0,6% según la patronal SEA. Sin embargo, los sindicatos destacan un mayor impacto en los comedores escolares.",
+    "contexto": "La huelga fue convocada por los sindicatos ELA, UGT, CCOO y LAB para los días 5 y 7 de diciembre, buscando desbloquear la negociación del convenio colectivo de hostelería en Álava, estancado desde 2020. Las demandas incluyen incrementos salariales vinculados al IPC y mejoras en las condiciones laborales.",
+    "linea_tiempo": [
+      {
+        "fecha": "25 de noviembre de 2024",
+        "descripcion": "Sindicatos anuncian la convocatoria de huelga en el sector de la hostelería de Álava para los días 5 y 7 de diciembre, coincidiendo con el puente de la Constitución y la feria Ardoaraba."
+      },
+      {
+        "fecha": "3 de diciembre de 2024",
+        "descripcion": "Última reunión entre sindicatos y la patronal SEA sin avances significativos en la negociación del convenio colectivo."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "Primera jornada de huelga con escasa incidencia en bares y cafeterías de Vitoria; mayor seguimiento en comedores escolares."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Izaskun Beitia",
+        "descripcion": "Representante del sindicato ELA, ha destacado el seguimiento positivo de la huelga en los comedores escolares."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "SEA Hostelería",
+        "definicion": "Patronal alavesa que representa a las empresas del sector de la hostelería en Álava."
+      },
+      {
+        "termino": "Ardoaraba",
+        "definicion": "Feria anual del vino que se celebra en Vitoria-Gasteiz durante el puente de la Constitución."
+      }
+    ],
+    "impacto_esperado": "Se anticipa que la segunda jornada de huelga, programada para el 7 de diciembre, tenga mayor incidencia en bares y restaurantes, coincidiendo con eventos como Ardoaraba y el puente festivo, lo que podría afectar la actividad económica y turística en Vitoria.",
+    "comparativas": "Situaciones similares se han observado en otras regiones donde las huelgas en el sector de la hostelería buscan mejoras laborales, como en Cataluña en 2019, donde las movilizaciones lograron acuerdos significativos tras varios días de paro.",
+    "opinion_publica": [
+      {
+        "fuente": "El Correo",
+        "reaccion": "La huelga en la hostelería alavesa tiene escaso seguimiento en bares y restaurantes, pero afecta a comedores escolares y residencias."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que, tras la segunda jornada de huelga, sindicatos y patronal retomen las negociaciones para alcanzar un acuerdo que satisfaga a ambas partes y evite futuras movilizaciones.",
+    "datos_relevantes": [
+      {
+        "dato": "El seguimiento de la huelga en bares, cafeterías y restaurantes fue del 0,9%, según la patronal SEA.",
+        "fuente": "SEA Hostelería"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La patronal alavesa SEA ha cifrado el seguimiento de la huelga en el 0,6%.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Según el artículo, la patronal SEA informó que el seguimiento global de la huelga fue del 0,6%."
+        }
+      }
+    ],
+    "reflexion_breve": "La disparidad en el seguimiento de la huelga entre distintos subsectores de la hostelería alavesa refleja la complejidad de las demandas laborales y la necesidad de soluciones negociadas que aborden las particularidades de cada ámbito.",
+    "bsky_msg": "Moderada – Huelga en hostelería alavesa: escasa incidencia en bares de Vitoria, mayor impacto en comedores escolares."
   }  
   
 ] 
