@@ -1929,7 +1929,70 @@
     ],
     "reflexion_breve": "La actual crisis política en Francia subraya la importancia de la cohesión y el diálogo entre las fuerzas políticas para garantizar la estabilidad y el progreso del país.",
     "bsky_msg": "Tensión política – Macron critica el 'cinismo' tras la caída de su gobierno y promete nuevo primer ministro pronto."
+  },
+  {
+    "titular": "Un informe de Amnistía Internacional determina que Israel está cometiendo genocidio contra los palestinos",
+    "categoria_emocional": "Alarma",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9643928/un-informe-de-amnistia-internacional-determina-que-israel-esta-cometiendo-genocidio-contra-palestinos/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3291183/20241205211805_gazakhanyunisrezocuerpose_foto610x342.jpg",
+    "resumen": "Amnistía Internacional ha acusado a Israel de cometer genocidio contra la población palestina en Gaza, documentando actos que incluyen asesinatos y condiciones de vida que buscan su destrucción.",
+    "contexto": "La ofensiva de Israel en Gaza ha sido objeto de escrutinio internacional, con acusaciones de violaciones de derechos humanos. Amnistía Internacional ha publicado un informe detallando presuntos actos genocidas cometidos por Israel contra los palestinos en Gaza.",
+    "linea_tiempo": [
+      {
+        "fecha": "7 de octubre de 2023",
+        "descripcion": "Combatientes de Hamás y otros grupos armados palestinos atacan el sur de Israel, resultando en numerosas muertes y secuestros."
+      },
+      {
+        "fecha": "8 de octubre de 2023",
+        "descripcion": "Israel lanza una ofensiva militar en Gaza en respuesta a los ataques de Hamás."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "Amnistía Internacional publica un informe acusando a Israel de cometer genocidio contra los palestinos en Gaza."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Agnès Callamard",
+        "descripcion": "Secretaria general de Amnistía Internacional, ha destacado que las conclusiones del informe deben ser una llamada de atención a la comunidad internacional."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Genocidio",
+        "definicion": "Actos cometidos con la intención de destruir total o parcialmente a un grupo nacional, étnico, racial o religioso."
+      },
+      {
+        "termino": "Convención sobre el Genocidio",
+        "definicion": "Tratado internacional adoptado en 1948 que define y prohíbe el genocidio."
+      }
+    ],
+    "impacto_esperado": "Las acusaciones de genocidio podrían aumentar la presión internacional sobre Israel y llevar a investigaciones por parte de organismos internacionales, afectando las relaciones diplomáticas y la situación en la región.",
+    "comparativas": "Situaciones similares han llevado a intervenciones internacionales, como en el caso de la ex Yugoslavia en la década de 1990, donde se establecieron tribunales para juzgar crímenes de guerra y genocidio.",
+    "opinion_publica": [
+      {
+        "fuente": "Reuters",
+        "reaccion": "Amnistía Internacional ha acusado a Israel de cometer genocidio contra los palestinos en Gaza, una afirmación que Israel niega rotundamente."
+      }
+    ],
+    "posibles_proximos_pasos": "Es probable que se intensifiquen los llamamientos para una investigación internacional y que se debatan sanciones o medidas diplomáticas contra Israel en foros internacionales.",
+    "datos_relevantes": [
+      {
+        "dato": "Según fuentes palestinas, más de 44.500 personas han muerto desde el inicio de la ofensiva israelí en Gaza.",
+        "fuente": "Reuters"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Amnistía Internacional ha acusado a Israel de cometer genocidio contra los palestinos en Gaza.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El informe de Amnistía Internacional documenta actos que, según la organización, constituyen genocidio según la Convención de 1948."
+        }
+      }
+    ],
+    "reflexion_breve": "Las acusaciones de genocidio son extremadamente graves y requieren una respuesta urgente de la comunidad internacional para garantizar la protección de los derechos humanos y la rendición de cuentas.",
+    "bsky_msg": "Alarma – Amnistía Internacional acusa a Israel de genocidio contra palestinos en Gaza, instando a una acción internacional inmediata."
   }
-  
-  
 ] 
