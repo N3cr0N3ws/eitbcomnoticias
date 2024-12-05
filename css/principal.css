@@ -241,7 +241,6 @@ a, a:hover {
     border-bottom-left-radius: 40px;
     border-bottom-right-radius: 40px;
     margin-top:-40px;
-    margin-bottom: 80px;
     background-color: #ebebeb;
     padding: 80px 16px 40px 16px;
     z-index: 0;
@@ -324,6 +323,21 @@ li {
     font-size: 16px;
     line-height: 140%;
 }
+.sign {
+ text-align: center;
+ padding: 0;
+ color: #7a7a7a;
+}
+.sign p {
+  font-size: 0.8em;
+  font-style: italic;
+  color: #aeaeae;
+  line-height: 180%;
+}
+.sign a {
+  color: #ecd102;
+}
+
 /* Media Queries para ajustar márgenes */
 @media (min-width: 1080px) {   
   .container {
