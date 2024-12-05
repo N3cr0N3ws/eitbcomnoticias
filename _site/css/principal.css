@@ -28,7 +28,7 @@ a, a:hover {
 }
 
 .container {
-    margin: 0 auto;
+    margin: 0;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -324,8 +324,8 @@ li {
     line-height: 140%;
 }
 /* Media Queries para ajustar márgenes */
-@media (min-width: 1080px) {
-    .container {
-        padding: var(--desktop-margin); /* Aplica el margen para escritorio */
-    }
+@media (min-width: 1080px) {   
+  .container {
+    padding: var(--desktop-margin); /* Aplica el margen para escritorio */
+  }
 }

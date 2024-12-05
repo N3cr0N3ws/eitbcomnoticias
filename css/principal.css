@@ -28,7 +28,7 @@ a, a:hover {
 }
 
 .container {
-    margin: 0 auto;
+    margin: 0;
     -webkit-font-smoothing: antialiased;
 }
 
