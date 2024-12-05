@@ -1384,5 +1384,62 @@
     ],
     "reflexion_breve": "La persistencia de la violencia machista exige una respuesta integral y coordinada de la sociedad y las instituciones, promoviendo la educación en igualdad y fortaleciendo los mecanismos de protección para las víctimas.",
     "bsky_msg": "Indignación – Pasaia insta a enfrentar con firmeza la violencia machista tras el reciente asesinato de Leonor."
-  }  
+  },
+  {
+    "titular": "Tercera fase de las exhumaciones de Orduña",
+    "categoria_emocional": "Reflexiva",
+    "fecha_publicacion": "5 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643500/tercera-fase-de-estas-exhumaciones-en-orduna/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/05/3290974/20241205124043_orduna3_foto610x342.jpg",
+    "resumen": "Esta semana se lleva a cabo la tercera fase de exhumaciones en el cementerio de Orduña, donde se espera recuperar los restos de 30 personas que fallecieron durante la Guerra Civil y el franquismo. Estas labores son realizadas por 'Gogora' y la 'Sociedad de Ciencias Aranzadi'.",
+    "contexto": "Orduña fue escenario de un campo de concentración y prisión durante la Guerra Civil y el franquismo, donde murieron numerosas personas en condiciones inhumanas. Las exhumaciones buscan recuperar la memoria histórica y ofrecer dignidad a las víctimas y sus familias.",
+    "linea_tiempo": [
+      {
+        "fecha": "Agosto de 2014",
+        "descripcion": "Se inician las exhumaciones en el cementerio de Orduña, hallando 14 esqueletos de presos de la antigua Prisión Central."
+      },
+      {
+        "fecha": "Julio de 2022",
+        "descripcion": "Se inaugura el Columbario de la Dignidad en Orduña para acoger los restos de víctimas no identificadas."
+      },
+      {
+        "fecha": "Diciembre de 2022",
+        "descripcion": "En la segunda fase de exhumaciones, se recuperan los restos de 53 víctimas de la prisión franquista de Orduña."
+      },
+      {
+        "fecha": "Mayo de 2023",
+        "descripcion": "Se identifica a la primera víctima de las 71 exhumadas en Orduña: Fructuoso Llorens Tolesano, agricultor de Badajoz."
+      },
+      {
+        "fecha": "Julio de 2023",
+        "descripcion": "El Gobierno Vasco entrega a sus familias los restos de cinco víctimas identificadas de la prisión franquista de Orduña."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Gogora",
+        "descripcion": "Instituto de la Memoria, la Convivencia y los Derechos Humanos del Gobierno Vasco, encargado de proyectos de memoria histórica."
+      },
+      {
+        "nombre": "Sociedad de Ciencias Aranzadi",
+        "descripcion": "Organización científica que realiza investigaciones y exhumaciones relacionadas con la memoria histórica."
+      },
+      {
+        "nombre": "Fructuoso Llorens Tolesano",
+        "descripcion": "Agricultor de Badajoz, primera víctima identificada entre los exhumados en Orduña; falleció en la prisión franquista en 1941."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Columbario de la Dignidad",
+        "definicion": "Espacio destinado a acoger los restos de víctimas de la represión franquista que no han sido identificadas o reclamadas por sus familias."
+      },
+      {
+        "termino": "Prisión Central de Orduña",
+        "definicion": "Instalación utilizada durante la posguerra como prisión franquista, donde murieron numerosos presos en condiciones inhumanas."
+      }
+    ],
+    "impacto_esperado": "La continuación de las exhumaciones en Orduña contribuye a la recuperación de la memoria histórica y ofrece reparación a las familias de las víctimas, fortaleciendo la convivencia y los derechos humanos en la sociedad.",
+    "bsky_msg": "Reflexiva – Inicia la tercera fase de exhumaciones en Orduña para recuperar restos de víctimas de la Guerra Civil y el franquismo."
+  }   
 ] 
