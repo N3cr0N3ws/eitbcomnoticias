@@ -1,0 +1,44 @@
+{
+  "titular": "Retenciones de 4 kilómetros en la AP-8 en Biriatu, en sentido Baiona",
+  "categoria_emocional": "Inconveniente",
+  "fecha_publicacion": "6 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644109/retenciones-de-7-kilometros-en-ap8-en-biriatou-en-sentido-baiona-6-de-diciembre-de-2024/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La autopista AP-8 en Biriatu registra retenciones de 4 kilómetros en dirección a Baiona desde las 10:00 horas, afectando también la circulación en la Gi-636.",
+  "contexto": "La AP-8 es una vía principal que conecta el estado con Francia, y las retenciones en Biriatu son comunes durante períodos de alta movilidad.",
+  "linea_tiempo": [
+    {
+      "fecha": "20 de agosto de 2024",
+      "descripcion": "Retenciones de 7 kilómetros en la AP-8 en Irun a partir del peaje de Biriatou debido a la gran afluencia de tráfico hacia el norte de Europa."
+    },
+    {
+      "fecha": "29 de agosto de 2024",
+      "descripcion": "La AP-8 registra retenciones de ocho kilómetros en Irun, sentido Francia, por el intenso tráfico hacia el norte de Europa."
+    },
+    {
+      "fecha": "23 de agosto de 2024",
+      "descripcion": "Retenciones de nueve kilómetros en Biriatu por la gran afluencia de tráfico en dirección a Francia."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "AP-8",
+      "definicion": "Autopista que conecta Bilbao con la frontera francesa en Biriatu."
+    },
+    {
+      "termino": "Biriatu",
+      "definicion": "Localidad fronteriza entre el estado y Francia, punto clave en la AP-8."
+    },
+    {
+      "termino": "Gi-636",
+      "definicion": "Carretera que sirve como alternativa a la AP-8 en la zona de Biriatu."
+    },
+    {
+      "termino": "Baiona",
+      "definicion": "Ciudad en el suroeste de Francia, destino común para el tráfico que cruza Biriatu."
+    }
+  ],
+  "impacto_esperado": "Las retenciones pueden causar demoras significativas para los viajeros y afectar el comercio transfronterizo, especialmente durante fines de semana largos.",
+  "posibles_proximos_pasos": "Se recomienda a los conductores utilizar rutas alternativas y planificar sus viajes con antelación para evitar las zonas afectadas.",
+  "bsky_msg": "Inconveniente – Retenciones de 4 km en la AP-8 en Biriatu hacia Baiona afectan también la Gi-636."
+}
