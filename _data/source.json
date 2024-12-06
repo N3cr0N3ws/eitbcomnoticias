@@ -2771,6 +2771,99 @@
     ],
     "reflexion_breve": "Este incidente subraya la importancia de ser cauteloso en las interacciones en línea y de no compartir contenido íntimo con personas que no se conocen plenamente. La tecnología puede ser una herramienta poderosa, pero también puede ser utilizada con fines malintencionados.",
     "bsky_msg": "Alarma – Mujer detenida en Gipuzkoa por extorsionar a 311 hombres usando imágenes creadas con inteligencia artificial."
-  }  
+  },
+  {
+    "titular": "Mercosur y la Unión Europea cierran un acuerdo de libre comercio",
+    "categoria_emocional": "positivo",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9644255/mercosur-y-union-europea-cierran-acuerdo-de-libre-comercio/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/06/3291288/20241206140838_mercosur-europar-batasuna_foto610x342.jpg",
+    "resumen": "Tras 25 años de negociaciones, Mercosur y la Unión Europea han firmado un acuerdo de libre comercio en Montevideo, creando una de las mayores zonas de libre comercio del mundo.",
+    "contexto": "El acuerdo entre Mercosur y la Unión Europea representa un avance significativo en las relaciones comerciales internacionales, estableciendo una de las mayores zonas de libre comercio a nivel global.",
+    "linea_tiempo": [
+      {
+        "fecha": "15 de diciembre de 1995",
+        "descripcion": "Firma del Acuerdo Marco Interregional de Cooperación entre la Unión Europea y Mercosur."
+      },
+      {
+        "fecha": "28 de junio de 2019",
+        "descripcion": "Anuncio del acuerdo de principio entre la Unión Europea y Mercosur durante la cumbre del G20 en Osaka."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "Firma del acuerdo de libre comercio entre la Unión Europea y Mercosur en Montevideo."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Ursula von der Leyen",
+        "descripcion": "Presidenta de la Comisión Europea, lideró las negociaciones por parte de la Unión Europea."
+      },
+      {
+        "nombre": "Luis Lacalle Pou",
+        "descripcion": "Presidente de Uruguay, país que ostentaba la presidencia pro tempore de Mercosur durante la firma del acuerdo."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Mercosur",
+        "definicion": "Bloque comercial sudamericano integrado por Brasil, Argentina, Paraguay, Uruguay y Bolivia."
+      },
+      {
+        "termino": "Unión Europea",
+        "definicion": "Unión política y económica de 27 países europeos que comparten políticas comunes en diversos ámbitos."
+      },
+      {
+        "termino": "Acuerdo de libre comercio",
+        "definicion": "Tratado entre dos o más regiones para facilitar el comercio mediante la reducción o eliminación de aranceles y barreras comerciales."
+      },
+      {
+        "termino": "Arancel",
+        "definicion": "Impuesto aplicado a los bienes y servicios importados o exportados entre países."
+      }
+    ],
+    "impacto_esperado": "El acuerdo prevé la eliminación de aranceles en más del 90% de los productos comercializados entre ambos bloques, beneficiando a sectores como el agrícola y el industrial, y fomentando inversiones y creación de empleo.",
+    "comparativas": "Similar al Tratado entre México y la Unión Europea, que también busca la eliminación de aranceles y la promoción del comercio bilateral.",
+    "opinion_publica": [
+      {
+        "fuente": "Emmanuel Macron",
+        "reaccion": "El presidente de Francia expresó su oposición al acuerdo en su estado actual, considerándolo inaceptable."
+      },
+      {
+        "fuente": "Agricultores europeos",
+        "reaccion": "Han manifestado preocupación por la competencia de productos sudamericanos y el posible impacto en sus mercados."
+      }
+    ],
+    "posibles_proximos_pasos": "El acuerdo deberá ser ratificado por los parlamentos de los países miembros de ambos bloques antes de su implementación efectiva.",
+    "datos_relevantes": [
+      {
+        "dato": "El acuerdo abarca un mercado de más de 700 millones de personas y representa casi el 25% del PIB mundial.",
+        "fuente": "Apnews"
+      },
+      {
+        "dato": "Se espera que el acuerdo elimine aranceles por valor de 4.000 millones de euros.",
+        "fuente": "El País"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "El acuerdo eliminará aranceles en más del 90% de los productos comercializados entre la Unión Europea y Mercosur.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El acuerdo prevé la eliminación de aranceles en más del 90% de los productos, facilitando el comercio bilateral."
+        }
+      },
+      {
+        "afirmacion": "Francia se opone al acuerdo en su estado actual.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El presidente francés, Emmanuel Macron, ha expresado su oposición al acuerdo tal como está planteado actualmente."
+        }
+      }
+    ],
+    "reflexion_breve": "La firma de este acuerdo marca un hito en las relaciones comerciales internacionales, pero su implementación dependerá de la ratificación por parte de los países involucrados y de cómo se aborden las preocupaciones existentes.",
+    "bsky_msg": "Positivo – Mercosur y la Unión Europea firman histórico acuerdo de libre comercio tras 25 años de negociaciones."
+  }
+  
   
 ] 
