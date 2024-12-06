@@ -2863,7 +2863,100 @@
     ],
     "reflexion_breve": "La firma de este acuerdo marca un hito en las relaciones comerciales internacionales, pero su implementación dependerá de la ratificación por parte de los países involucrados y de cómo se aborden las preocupaciones existentes.",
     "bsky_msg": "Positivo – Mercosur y la Unión Europea firman histórico acuerdo de libre comercio tras 25 años de negociaciones."
+  },
+  {
+    "titular": "El Tribunal Constitucional de Rumanía anula la primera vuelta de las elecciones presidenciales",
+    "categoria_emocional": "controversial",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9644316/el-tribunal-constitucional-de-rumania-anula-primera-vuelta-de-presidenciales/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/01/3289556/20241201094359_errumania-hauteskundeak_foto610x342.jpg",
+    "resumen": "El Tribunal Constitucional de Rumanía ha anulado la primera vuelta de las elecciones presidenciales tras detectar injerencias extranjeras en favor del candidato ultraderechista Calin Georgescu. Se repetirá el proceso electoral en una fecha aún por determinar.",
+    "contexto": "La anulación de la primera vuelta electoral en Rumanía refleja la creciente preocupación por la interferencia extranjera en procesos democráticos, subrayando la vulnerabilidad de las democracias europeas ante campañas de desinformación y manipulación electoral.",
+    "linea_tiempo": [
+      {
+        "fecha": "24 de noviembre de 2024",
+        "descripcion": "Calin Georgescu, candidato independiente de ultraderecha, gana inesperadamente la primera vuelta de las elecciones presidenciales en Rumanía."
+      },
+      {
+        "fecha": "28 de noviembre de 2024",
+        "descripcion": "El Tribunal Constitucional de Rumanía ordena un recuento de votos de la primera vuelta presidencial debido a sospechas de irregularidades."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "El Tribunal Constitucional anula la primera vuelta de las elecciones presidenciales tras confirmar injerencias extranjeras en el proceso electoral."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Calin Georgescu",
+        "descripcion": "Candidato independiente de ultraderecha en las elecciones presidenciales de Rumanía, conocido por su discurso nacionalista y prorruso."
+      },
+      {
+        "nombre": "Elena Lasconi",
+        "descripcion": "Candidata conservadora que avanzó a la segunda vuelta de las elecciones presidenciales de Rumanía."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Tribunal Constitucional",
+        "definicion": "Órgano judicial supremo encargado de velar por la constitucionalidad de las leyes y procesos electorales en un país."
+      },
+      {
+        "termino": "Injerencia extranjera",
+        "definicion": "Intervención de un país o entidad externa en los asuntos internos de otro, especialmente en procesos políticos o electorales."
+      },
+      {
+        "termino": "Ultraderecha",
+        "definicion": "Corriente política que promueve ideas nacionalistas extremas, a menudo asociadas con posiciones autoritarias y xenófobas."
+      },
+      {
+        "termino": "Recuento de votos",
+        "definicion": "Proceso de volver a contar los votos emitidos en una elección para verificar la exactitud de los resultados."
+      }
+    ],
+    "impacto_esperado": "La repetición de la primera vuelta electoral podría generar tensiones políticas y sociales en Rumanía, afectando la confianza pública en las instituciones democráticas y en la integridad del proceso electoral.",
+    "comparativas": "Situaciones similares se han observado en países como Estados Unidos, donde en 2016 se detectaron injerencias extranjeras en las elecciones presidenciales, lo que llevó a investigaciones y debates sobre la seguridad electoral.",
+    "opinion_publica": [
+      {
+        "fuente": "Marcel Ciolacu",
+        "reaccion": "El primer ministro rumano calificó la anulación como 'la única decisión correcta' ante las evidencias presentadas."
+      },
+      {
+        "fuente": "Ciudadanos rumanos",
+        "reaccion": "Algunos sectores de la población expresaron desconfianza hacia el proceso electoral y preocupación por la estabilidad democrática del país."
+      }
+    ],
+    "posibles_proximos_pasos": "El gobierno rumano deberá establecer una nueva fecha para la repetición de la primera vuelta electoral, implementando medidas adicionales para garantizar la integridad del proceso y prevenir futuras injerencias.",
+    "datos_relevantes": [
+      {
+        "dato": "El 52,56% del electorado rumano participó en la primera vuelta anulada.",
+        "fuente": "https://en.wikipedia.org/wiki/2024_Romanian_presidential_election"
+      },
+      {
+        "dato": "Informes de inteligencia revelaron que miles de cuentas en redes sociales promovieron al candidato Calin Georgescu.",
+        "fuente": "https://apnews.com/article/585e8f8f3ce7013951f5c7cf4054179b"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "El Tribunal Constitucional de Rumanía anuló la primera vuelta de las elecciones presidenciales.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El 6 de diciembre de 2024, el Tribunal Constitucional anuló la primera vuelta electoral debido a injerencias extranjeras."
+        }
+      },
+      {
+        "afirmacion": "Calin Georgescu ganó la primera vuelta de las elecciones presidenciales.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El candidato ultraderechista obtuvo la mayoría de votos en la primera vuelta celebrada el 24 de noviembre de 2024."
+        }
+      }
+    ],
+    "reflexion_breve": "La anulación de elecciones por injerencias extranjeras subraya la importancia de proteger los procesos democráticos de influencias externas que puedan socavar la voluntad popular.",
+    "bsky_msg": "Controversial – El Tribunal Constitucional de Rumanía anula la primera vuelta de las presidenciales por injerencias extranjeras."
   }
+  
   
   
 ] 
