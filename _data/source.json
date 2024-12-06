@@ -1994,5 +1994,93 @@
     ],
     "reflexion_breve": "Las acusaciones de genocidio son extremadamente graves y requieren una respuesta urgente de la comunidad internacional para garantizar la protección de los derechos humanos y la rendición de cuentas.",
     "bsky_msg": "Alarma – Amnistía Internacional acusa a Israel de genocidio contra palestinos en Gaza, instando a una acción internacional inmediata."
-  }
+  },
+  {
+    "titular": "La Reserva de Urdaibai cumple 40 años en pleno debate por su futuro",
+    "categoria_emocional": "Preocupación",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643975/la-reserva-de-urdaibai-cumple-40-anos-en-pleno-debate-por-su-futuro/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2020/06/05/2614333/20200605091629_urdaibai-biosfera-_foto610x342.jpg",
+    "resumen": "La Reserva de la Biosfera de Urdaibai celebra su 40º aniversario en medio de controversias sobre su futuro, especialmente debido al proyecto de expansión del Museo Guggenheim en esta área protegida.",
+    "contexto": "Declarada Reserva de la Biosfera por la UNESCO el 6 de diciembre de 1984, Urdaibai ha sido un modelo de equilibrio entre conservación ambiental y desarrollo sostenible. Sin embargo, recientes iniciativas, como la propuesta de expansión del Museo Guggenheim, han generado debates sobre el impacto en su ecosistema y la sostenibilidad de la región.",
+    "linea_tiempo": [
+      {
+        "fecha": "6 de diciembre de 1984",
+        "descripcion": "La UNESCO declara a Urdaibai como Reserva de la Biosfera, reconociendo su valor ecológico y cultural."
+      },
+      {
+        "fecha": "20 de octubre de 2024",
+        "descripcion": "Miles de personas se manifiestan en Gernika contra el proyecto de expansión del Museo Guggenheim en Urdaibai, argumentando que pone en peligro el área protegida."
+      },
+      {
+        "fecha": "30 de noviembre de 2024",
+        "descripcion": "Greenpeace denuncia que la ampliación del Museo Guggenheim amenaza la integridad de la Reserva de Urdaibai."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Greenpeace",
+        "descripcion": "Organización ecologista internacional que ha denunciado el impacto negativo del proyecto del Museo Guggenheim en Urdaibai."
+      },
+      {
+        "nombre": "Plataforma Guggenheim Urdaibai Stop",
+        "descripcion": "Colectivo ciudadano que lidera la oposición al proyecto de expansión del Museo Guggenheim en la Reserva de Urdaibai."
+      },
+      {
+        "nombre": "Museo Guggenheim Bilbao",
+        "descripcion": "Institución cultural que propone la expansión de sus instalaciones en la Reserva de Urdaibai, generando controversia por su posible impacto ambiental."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Reserva de la Biosfera",
+        "definicion": "Áreas designadas por la UNESCO para promover un equilibrio entre la conservación de la biodiversidad y el desarrollo sostenible."
+      },
+      {
+        "termino": "UNESCO",
+        "definicion": "Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, responsable de designar las Reservas de la Biosfera."
+      }
+    ],
+    "impacto_esperado": "La posible expansión del Museo Guggenheim en Urdaibai podría atraer turismo y desarrollo económico, pero también plantea riesgos de degradación ambiental y alteración del equilibrio ecológico de la reserva.",
+    "comparativas": "Proyectos similares en áreas protegidas, como la construcción de infraestructuras turísticas en la Amazonía, han resultado en conflictos entre desarrollo y conservación, afectando negativamente a los ecosistemas locales.",
+    "opinion_publica": [
+      {
+        "fuente": "Plataforma Guggenheim Urdaibai Stop",
+        "reaccion": "Ha organizado manifestaciones masivas en Gernika, exigiendo la paralización del proyecto y defendiendo la integridad de la reserva."
+      },
+      {
+        "fuente": "Greenpeace",
+        "reaccion": "Ha solicitado la revocación de cambios normativos que reducirían la protección costera para facilitar la construcción del museo."
+      }
+    ],
+    "posibles_proximos_pasos": "Se prevé la realización de diálogos entre autoridades, organizaciones ecologistas y la comunidad local para evaluar el futuro del proyecto y su compatibilidad con la conservación de Urdaibai.",
+    "datos_relevantes": [
+      {
+        "dato": "La Reserva de Urdaibai fue declarada Reserva de la Biosfera por la UNESCO el 6 de diciembre de 1984.",
+        "fuente": "EITB"
+      },
+      {
+        "dato": "El proyecto del Museo Guggenheim en Urdaibai ha generado manifestaciones con miles de participantes en Gernika.",
+        "fuente": "Cadena SER"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Greenpeace ha denunciado que el proyecto del Guggenheim pone en peligro el área protegida de Urdaibai.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Greenpeace ha afirmado que el proyecto no debería 'ver la luz', ya que se asienta en una zona protegida internacionalmente y ha superado su capacidad de acogida turística."
+        }
+      },
+      {
+        "afirmacion": "La UNESCO declaró a Urdaibai como Reserva de la Biosfera el 6 de diciembre de 1984.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La Unesco integró Urdaibai en su programa MaB (Man and Biosphere) a través de su declaración como Reserva de la Biosfera el 6 de diciembre de 1984."
+        }
+      }
+    ],
+    "reflexion_breve": "El 40º aniversario de la Reserva de Urdaibai invita a reflexionar sobre la importancia de equilibrar el desarrollo cultural y económico con la conservación ambiental, asegurando que las decisiones actuales no comprometan el legado natural para las futuras generaciones.",
+    "bsky_msg": "Preocupación – Urdaibai celebra 40 años como Reserva de la Biosfera en medio de debates por su futuro y proyectos controvertidos."
+  }  
 ] 
