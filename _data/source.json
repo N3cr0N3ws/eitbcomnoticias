@@ -2447,6 +2447,99 @@
     ],
     "reflexion_breve": "La apertura de esta nueva ruta directa entre Bilbao y Estocolmo representa una oportunidad para fortalecer los lazos culturales y económicos entre el País Vasco y Suecia, facilitando el intercambio y la movilidad entre ambas regiones.",
     "bsky_msg": "Entusiasmo – Norwegian conectará Bilbao y Estocolmo con vuelos directos desde junio de 2025, impulsando el turismo y los negocios."
+  },
+  {
+    "titular": "El Gobierno Vasco solicita excluir al lobo del listado de especies en régimen de protección especial",
+    "categoria_emocional": "Preocupación",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9644061/el-gobierno-vasco-solicita-excluir-al-lobo-del-listado-de-especies-en-regimen-de-proteccion-especial/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2020/02/14/2563014/20200214142918_otsoa-_foto610x342.jpg",
+    "resumen": "La consejera de Alimentación, Desarrollo Rural, Agricultura y Pesca del Gobierno Vasco, Amaia Barredo, ha solicitado al Ministerio para la Transición Ecológica y el Reto Demográfico que se excluya al lobo del Listado de Especies en Régimen de Protección Especial (LESPRE), argumentando que su inclusión está causando \"daño permanente e irreparable\" en las explotaciones ganaderas.",
+    "contexto": "En septiembre de 2021, el lobo fue incluido en el LESPRE, lo que prohíbe su caza en todo el estado. Desde entonces, el Gobierno Vasco ha manifestado su preocupación por los ataques a la ganadería en la región, solicitando en varias ocasiones la revisión de esta medida.",
+    "linea_tiempo": [
+      {
+        "fecha": "septiembre de 2021",
+        "descripcion": "El lobo es incluido en el Listado de Especies en Régimen de Protección Especial, prohibiendo su caza en todo el estado."
+      },
+      {
+        "fecha": "junio de 2023",
+        "descripcion": "La consejera Arantza Tapia solicita al Ministerio para la Transición Ecológica la exclusión del lobo del LESPRE, sin obtener respuesta."
+      },
+      {
+        "fecha": "septiembre de 2024",
+        "descripcion": "La Unión Europea respalda modificar el estatus de protección del lobo, en línea con la propuesta del Gobierno Vasco."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "La consejera Amaia Barredo reitera la solicitud de excluir al lobo del LESPRE, destacando los daños a las explotaciones ganaderas."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Amaia Barredo",
+        "descripcion": "Consejera de Alimentación, Desarrollo Rural, Agricultura y Pesca del Gobierno Vasco, quien ha solicitado la exclusión del lobo del LESPRE."
+      },
+      {
+        "nombre": "Sara Aagesen",
+        "descripcion": "Ministra para la Transición Ecológica y el Reto Demográfico, destinataria de la solicitud del Gobierno Vasco."
+      },
+      {
+        "nombre": "Arantza Tapia",
+        "descripcion": "Exconsejera del Gobierno Vasco que previamente solicitó la exclusión del lobo del LESPRE en junio de 2023."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "LESPRE",
+        "definicion": "Listado de Especies en Régimen de Protección Especial, que incluye especies cuya caza está prohibida en el estado."
+      },
+      {
+        "termino": "Lobo ibérico",
+        "definicion": "Subespecie de lobo que habita en la península ibérica, objeto de debates sobre su conservación y gestión."
+      }
+    ],
+    "impacto_esperado": "La exclusión del lobo del LESPRE permitiría su caza controlada, lo que podría reducir los ataques al ganado y mitigar las pérdidas económicas en las explotaciones ganaderas. Sin embargo, también podría generar controversia entre grupos ecologistas y defensores de la fauna silvestre.",
+    "comparativas": "En regiones como Castilla y León, la gestión del lobo ha incluido medidas de control poblacional combinadas con programas de compensación a ganaderos, buscando un equilibrio entre la conservación de la especie y la protección de la ganadería.",
+    "opinion_publica": [
+      {
+        "fuente": "UAGA (Unión de Agricultores y Ganaderos de Álava)",
+        "reaccion": "Ha respaldado la solicitud del Gobierno Vasco, señalando que la protección actual del lobo ha incrementado los ataques al ganado."
+      },
+      {
+        "fuente": "Ecologistas en Acción",
+        "reaccion": "Ha manifestado su oposición a la exclusión del lobo del LESPRE, argumentando la necesidad de su protección para garantizar la biodiversidad."
+      }
+    ],
+    "posibles_proximos_pasos": "El Ministerio para la Transición Ecológica y el Reto Demográfico deberá evaluar la solicitud del Gobierno Vasco y decidir si procede modificar el estatus del lobo en el LESPRE. Se anticipa un debate entre las comunidades autónomas, organizaciones ecologistas y asociaciones ganaderas sobre la gestión adecuada de la especie.",
+    "datos_relevantes": [
+      {
+        "dato": "Desde la inclusión del lobo en el LESPRE en 2021, se han registrado incrementos en los ataques a la ganadería en el País Vasco.",
+        "fuente": "Gobierno Vasco"
+      },
+      {
+        "dato": "La Unión Europea ha respaldado la modificación del estatus de protección del lobo, alineándose con la postura del Gobierno Vasco.",
+        "fuente": "Gobierno Vasco"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La inclusión del lobo en el LESPRE está causando \"daño permanente e irreparable\" en las explotaciones ganaderas.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Según declaraciones de la consejera Amaia Barredo, los ataques de lobos han ocasionado daños significativos en las explotaciones ganaderas del País Vasco."
+        }
+      },
+      {
+        "afirmacion": "La Unión Europea ha respaldado modificar el estatus de protección del lobo.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "En septiembre de 2024, los estados de la Unión Europea apoyaron la iniciativa para modificar el estatus de protección del lobo, en línea con la propuesta del Gobierno Vasco."
+        }
+      }
+    ],
+    "reflexion_breve": "La gestión del lobo en el estado representa un desafío que requiere equilibrar la conservación de la biodiversidad con la protección de las actividades ganaderas. Es esencial fomentar el diálogo entre todas las partes involucradas para alcanzar soluciones sostenibles y justas.",
+    "bsky_msg": "Preocupación – El Gobierno Vasco solicita excluir al lobo del listado de especies protegidas, señalando daños irreparables en la ganadería."
   }
+  
   
 ] 
