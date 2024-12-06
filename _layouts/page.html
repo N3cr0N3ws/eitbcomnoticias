@@ -24,6 +24,22 @@ layout: default
       <h2>Contexto</h2>
       <p>{{ page.contexto }}</p>
 
+      <!-- Who is who -->
+      {% assign quien_es_quien_count = page.quien_es_quien | size %}
+      {% if quien_es_quien_count > 0 %}
+      <h2>Quién es Quién</h2>
+      <div class="who"> 
+        <div class="card-container">
+          {% for persona in page.quien_es_quien %}
+          <div class="who-card">
+            <h3>{{ persona.nombre }}</h3>
+            <p><em>{{ persona.descripcion }}</em></p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
       <!-- Timeline hits -->
       {% assign linea_tiempo_count = page.linea_tiempo | size %}
       {% if linea_tiempo_count > 0 %}
@@ -52,28 +68,6 @@ layout: default
         </li>
       </ul>
       {% endif %}
-
-
-
-
-
-
-
-      <!-- Who is who -->
-      <!-- {% assign quien_es_quien_count = page.quien_es_quien | size %}
-      {% if quien_es_quien_count > 0 %}
-      <h2>Quién es Quién</h2>
-      <div class="who-is-who">
-        {% for persona in page.quien_es_quien %}
-        <div class="item">
-          <span class="">
-            {{ persona.nombre }}
-          </span>
-          <p>{{ persona.descripcion }}</p>
-        </div>
-        {% endfor %}
-      </div>
-      {% endif %} -->
       
       <!-- Glossary terms -->
       {% assign glosario_terminos_count = page.glosario_terminos | size %}

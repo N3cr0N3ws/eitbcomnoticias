@@ -1,12 +1,9 @@
 # Ignorar la carpeta _site/pages
 _site/pages/
+_site/css/
 
 # Ignorar el archivo _data/test.json
 _data/test.json
 
-# Ignorar la carpeta _site/css/principal.css
-_site/css/principal.css
-
 # Ignorar el archivo de .jekyll-metadata
-.jekyll-metadata
 .jekyll-metadata
