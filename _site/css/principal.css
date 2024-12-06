@@ -227,7 +227,7 @@ a, a:hover {
     background-color: rgba(0, 0, 0, 0.12);
   }
 
-/* Contenedor principal del glosario */
+/* Glossary */
 .glossary {
   width: 100%;
   overflow: hidden; /* Oculta cualquier desbordamiento visible */
