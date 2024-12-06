@@ -2587,5 +2587,98 @@
     ],
     "reflexion_breve": "Las condiciones meteorológicas adversas resaltan la importancia de contar con planes de contingencia en la aviación para garantizar la seguridad y minimizar las molestias a los pasajeros.",
     "bsky_msg": "Precaución – Varios vuelos con destino a Hondarribia fueron desviados a Loiu por baja visibilidad debido a nubes bajas."
-  }  
+  },
+  {
+    "titular": "Yoon, más cerca de ser destituido tras perder el apoyo del líder de su partido",
+    "categoria_emocional": "Tensión política",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9644132/yoon-mas-cerca-de-ser-destituido-tras-perder-apoyo-del-lider-de-su-partido/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/06/3291224/20241206115054_protestak-hego-korea-prot_foto610x342.jpg",
+    "resumen": "El presidente surcoreano Yoon Suk-yeol enfrenta una posible destitución tras perder el respaldo de Han Dong-hoon, líder de su partido, el Partido del Poder Popular (PPP). La Asamblea Nacional votará la moción de destitución este sábado.",
+    "contexto": "La situación política en Corea del Sur se ha vuelto crítica después de que el presidente Yoon Suk-yeol declarara y luego levantara la ley marcial, generando controversia y protestas. La pérdida de apoyo dentro de su propio partido aumenta la probabilidad de su destitución.",
+    "linea_tiempo": [
+      {
+        "fecha": "3 de diciembre de 2024",
+        "descripcion": "El presidente Yoon Suk-yeol declara la ley marcial en Corea del Sur, generando controversia y protestas."
+      },
+      {
+        "fecha": "4 de diciembre de 2024",
+        "descripcion": "Yoon levanta la ley marcial tras la oposición de la Asamblea Nacional y manifestaciones ciudadanas."
+      },
+      {
+        "fecha": "5 de diciembre de 2024",
+        "descripcion": "La oposición presenta una moción de destitución contra Yoon, programando la votación para el 7 de diciembre."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "Han Dong-hoon, líder del PPP, retira su apoyo a Yoon, aumentando las posibilidades de destitución."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Yoon Suk-yeol",
+        "descripcion": "Presidente de Corea del Sur desde 2022, enfrenta una posible destitución tras controversias políticas recientes."
+      },
+      {
+        "nombre": "Han Dong-hoon",
+        "descripcion": "Líder del Partido del Poder Popular (PPP), partido gobernante en Corea del Sur, quien ha retirado su apoyo al presidente Yoon."
+      },
+      {
+        "nombre": "Lee Jae-myung",
+        "descripcion": "Líder del principal partido opositor, el Partido Democrático, que impulsa la moción de destitución contra Yoon."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Ley marcial",
+        "definicion": "Medida que otorga poderes extraordinarios a las fuerzas armadas para mantener el orden, generalmente en situaciones de emergencia."
+      },
+      {
+        "termino": "Moción de destitución",
+        "definicion": "Procedimiento parlamentario para remover de su cargo a un alto funcionario del gobierno, como el presidente."
+      },
+      {
+        "termino": "Partido del Poder Popular (PPP)",
+        "definicion": "Partido político conservador y actualmente gobernante en Corea del Sur."
+      },
+      {
+        "termino": "Partido Democrático",
+        "definicion": "Principal partido de oposición en Corea del Sur, de tendencia liberal."
+      }
+    ],
+    "impacto_esperado": "La posible destitución del presidente Yoon podría generar inestabilidad política en Corea del Sur, afectando su economía y relaciones internacionales.",
+    "comparativas": "En 2016, la presidenta Park Geun-hye fue destituida en Corea del Sur por un escándalo de corrupción, tras perder el apoyo político y ciudadano.",
+    "opinion_publica": [
+      {
+        "fuente": "Encuesta de Realmeter",
+        "reaccion": "El 73.4% de los encuestados apoya la destitución del presidente Yoon."
+      }
+    ],
+    "posibles_proximos_pasos": "Si la Asamblea Nacional aprueba la moción de destitución, el Tribunal Constitucional deberá ratificarla. Mientras tanto, el primer ministro asumiría las funciones presidenciales.",
+    "datos_relevantes": [
+      {
+        "dato": "El Partido Democrático cuenta con 191 de los 300 escaños en la Asamblea Nacional, necesitando solo 9 votos adicionales para alcanzar los dos tercios requeridos para la destitución.",
+        "fuente": "Asamblea Nacional de Corea del Sur"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "El presidente Yoon Suk-yeol declaró la ley marcial el 3 de diciembre de 2024.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Yoon declaró la ley marcial el 3 de diciembre, pero la levantó horas después debido a la oposición política y social."
+        }
+      },
+      {
+        "afirmacion": "Han Dong-hoon, líder del PPP, retiró su apoyo al presidente Yoon.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Han Dong-hoon pidió la suspensión inmediata de Yoon de sus funciones para proteger al país."
+        }
+      }
+    ],
+    "reflexion_breve": "La situación en Corea del Sur destaca la importancia de la estabilidad política y el respeto a los procesos democráticos para mantener la confianza pública y el orden institucional.",
+    "bsky_msg": "Tensión política – Presidente surcoreano Yoon Suk-yeol enfrenta posible destitución tras perder apoyo clave en su partido."
+  }
+  
 ] 
