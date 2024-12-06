@@ -2388,5 +2388,65 @@
     ],
     "reflexion_breve": "La vacunación es una herramienta clave para prevenir la propagación de la gripe y proteger a los más vulnerables. En épocas festivas, donde las reuniones son frecuentes, es fundamental reforzar las medidas de prevención para cuidar la salud colectiva.",
     "bsky_msg": "Precaución – Osakidetza insta a vacunarse contra la gripe ante el aumento previsto del virus en Navidad."
-  }    
+  },
+  {
+    "titular": "El aeropuerto de Loiu ofrecerá vuelos directos a Estocolmo el próximo verano",
+    "categoria_emocional": "Entusiasmo",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644035/vuelos-directos-entre-bilbao-y-estocolmo-en-verano-de-2025/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2023/12/02/3178980/20231202164025_loiubilbaoaeropuerto1920x_foto610x342.jpg",
+    "resumen": "La aerolínea Norwegian ha anunciado que, a partir del 14 de junio de 2025, operará dos vuelos semanales directos entre Bilbao y Estocolmo, con salidas los martes por la tarde y los sábados por la mañana. Los billetes están disponibles para su compra desde el 6 de diciembre de 2024.",
+    "contexto": "Esta nueva ruta directa entre Bilbao y Estocolmo facilitará los viajes entre el País Vasco y Suecia, promoviendo el turismo y fortaleciendo los lazos económicos y culturales entre ambas regiones.",
+    "linea_tiempo": [
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "Norwegian anuncia la apertura de una nueva ruta directa entre Bilbao y Estocolmo, con inicio de operaciones el 14 de junio de 2025."
+      },
+      {
+        "fecha": "14 de junio de 2025",
+        "descripcion": "Inicio de los vuelos directos entre Bilbao y Estocolmo, con dos frecuencias semanales."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Norwegian",
+        "definicion": "Aerolínea de bajo coste noruega que opera vuelos en Europa y otros destinos internacionales."
+      },
+      {
+        "termino": "Aeropuerto de Loiu",
+        "definicion": "También conocido como Aeropuerto de Bilbao, es el principal aeropuerto del País Vasco, situado en el municipio de Loiu."
+      }
+    ],
+    "impacto_esperado": "La nueva conexión directa se espera que impulse el turismo y las relaciones comerciales entre el País Vasco y Suecia, ofreciendo una opción de viaje más cómoda y rápida para los pasajeros.",
+    "posibles_proximos_pasos": "Se prevé que, dependiendo de la demanda, Norwegian evalúe la posibilidad de aumentar la frecuencia de vuelos o mantener la ruta durante todo el año.",
+    "datos_relevantes": [
+      {
+        "dato": "Los vuelos directos entre Bilbao y Estocolmo operarán los martes por la tarde y los sábados por la mañana.",
+        "fuente": "EITB"
+      },
+      {
+        "dato": "Los billetes para esta nueva ruta están disponibles desde el 6 de diciembre de 2024.",
+        "fuente": "EITB"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Norwegian ofrecerá dos vuelos semanales directos entre Bilbao y Estocolmo a partir del 14 de junio de 2025.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Según el comunicado oficial, la aerolínea operará dos vuelos semanales en esta ruta desde la fecha mencionada."
+        }
+      },
+      {
+        "afirmacion": "Los billetes para esta nueva ruta están disponibles desde el 6 de diciembre de 2024.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La venta de billetes comenzó el 6 de diciembre de 2024, según la información proporcionada por la aerolínea."
+        }
+      }
+    ],
+    "reflexion_breve": "La apertura de esta nueva ruta directa entre Bilbao y Estocolmo representa una oportunidad para fortalecer los lazos culturales y económicos entre el País Vasco y Suecia, facilitando el intercambio y la movilidad entre ambas regiones.",
+    "bsky_msg": "Entusiasmo – Norwegian conectará Bilbao y Estocolmo con vuelos directos desde junio de 2025, impulsando el turismo y los negocios."
+  }
+  
 ] 
