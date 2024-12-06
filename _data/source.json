@@ -3059,7 +3059,108 @@
     ],
     "reflexion_breve": "La propuesta de reforma constitucional refleja la tensión entre avanzar en la protección de derechos sociales y las resistencias políticas que buscan mantener el statu quo. Es esencial fomentar el diálogo y el consenso para fortalecer la democracia y garantizar los derechos de toda la ciudadanía.",
     "bsky_msg": "Preocupación – Sánchez propone reformar la Constitución para proteger derechos como el aborto y el matrimonio igualitario ante posibles retrocesos."
+  },
+  {
+    "titular": "Un tribunal federal de EE. UU. ratifica la ley que podría prohibir TikTok en el país",
+    "categoria_emocional": "preocupación",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9644424/un-tribunal-federal-de-ee-uu-ratifica-ley-que-podria-prohibir-tiktok-en-pais/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/04/25/3224765/20240425072810_tiktokeeuu-aeb-sare-sozia_foto610x342.jpg",
+    "resumen": "Un tribunal federal de apelaciones en Estados Unidos ha ratificado una ley que obliga a TikTok a desvincularse de su empresa matriz china, ByteDance, antes del 19 de enero de 2025, o enfrentar una prohibición total en el país.",
+    "contexto": "La decisión surge en medio de crecientes preocupaciones sobre la seguridad nacional y la posible influencia del gobierno chino a través de aplicaciones de propiedad extranjera.",
+    "linea_tiempo": [
+      {
+        "fecha": "6 de agosto de 2020",
+        "descripcion": "El presidente Donald Trump firma una orden ejecutiva para prohibir TikTok en Estados Unidos, citando preocupaciones de seguridad nacional."
+      },
+      {
+        "fecha": "14 de agosto de 2020",
+        "descripcion": "Se emite una segunda orden ejecutiva que da a ByteDance 90 días para vender o desinvertir en las operaciones de TikTok en Estados Unidos."
+      },
+      {
+        "fecha": "7 de mayo de 2024",
+        "descripcion": "TikTok presenta una demanda contra el gobierno de Estados Unidos para bloquear una ley que podría prohibir la aplicación en el país."
+      },
+      {
+        "fecha": "16 de septiembre de 2024",
+        "descripcion": "TikTok enfrenta una audiencia en un tribunal de EE. UU. para desafiar la ley que podría forzar su salida del mercado estadounidense en enero de 2025."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "ByteDance",
+        "descripcion": "Empresa tecnológica china y propietaria de TikTok."
+      },
+      {
+        "nombre": "Donald Trump",
+        "descripcion": "Expresidente de Estados Unidos que intentó prohibir TikTok en 2020."
+      },
+      {
+        "nombre": "Joe Biden",
+        "descripcion": "Presidente de Estados Unidos que firmó la ley que obliga a TikTok a desvincularse de ByteDance."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "ByteDance",
+        "definicion": "Empresa tecnológica china propietaria de TikTok."
+      },
+      {
+        "termino": "Orden ejecutiva",
+        "definicion": "Directiva emitida por el presidente de Estados Unidos que tiene fuerza de ley."
+      },
+      {
+        "termino": "Seguridad nacional",
+        "definicion": "Protección de un estado contra amenazas internas y externas."
+      },
+      {
+        "termino": "Desinversión",
+        "definicion": "Proceso de vender o liquidar una inversión o activo."
+      }
+    ],
+    "impacto_esperado": "Si TikTok no cumple con la desinversión, podría ser prohibido en Estados Unidos, afectando a sus 170 millones de usuarios en el país y generando tensiones diplomáticas con China.",
+    "comparativas": "India prohibió TikTok en junio de 2020 junto con otras aplicaciones chinas, citando preocupaciones de seguridad nacional.",
+    "opinion_publica": [
+      {
+        "fuente": "TikTok",
+        "reaccion": "La empresa ha expresado su desacuerdo con la decisión y planea apelar ante la Corte Suprema."
+      },
+      {
+        "fuente": "Gobierno de China",
+        "reaccion": "Ha criticado las acciones de Estados Unidos, calificándolas de represalias políticas."
+      }
+    ],
+    "posibles_proximos_pasos": "TikTok podría apelar la decisión ante la Corte Suprema de Estados Unidos. Si la apelación falla, deberá vender sus operaciones estadounidenses o enfrentar una prohibición total en el país.",
+    "datos_relevantes": [
+      {
+        "dato": "TikTok cuenta con aproximadamente 170 millones de usuarios en Estados Unidos.",
+        "fuente": "TikTok"
+      },
+      {
+        "dato": "La ley exige que TikTok se desvincule de ByteDance antes del 19 de enero de 2025.",
+        "fuente": "EITB"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Un tribunal federal de EE. UU. ratifica la ley que podría prohibir TikTok en el país.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La información ha sido corroborada por múltiples fuentes confiables."
+        }
+      },
+      {
+        "afirmacion": "TikTok tiene hasta el 19 de enero de 2025 para desvincularse de ByteDance.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "La fecha límite ha sido establecida por la ley ratificada."
+        }
+      }
+    ],
+    "reflexion_breve": "La ratificación de esta ley subraya las crecientes tensiones entre Estados Unidos y China en el ámbito tecnológico y plantea interrogantes sobre el futuro de las plataformas digitales en un entorno geopolítico cada vez más complejo.",
+    "bsky_msg": "Preocupación – Tribunal federal de EE. UU. ratifica ley que podría prohibir TikTok si no se desvincula de su matriz china antes de enero de 2025."
   }
+  
   
   
 ] 
