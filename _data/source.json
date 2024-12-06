@@ -2082,5 +2082,93 @@
     ],
     "reflexion_breve": "El 40º aniversario de la Reserva de Urdaibai invita a reflexionar sobre la importancia de equilibrar el desarrollo cultural y económico con la conservación ambiental, asegurando que las decisiones actuales no comprometan el legado natural para las futuras generaciones.",
     "bsky_msg": "Preocupación – Urdaibai celebra 40 años como Reserva de la Biosfera en medio de debates por su futuro y proyectos controvertidos."
+  },
+  {
+    "titular": "Notre Dame reabre sus puertas tras cinco años de restauración",
+    "categoria_emocional": "Esperanza",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9643984/notre-dame-vuelve-a-abrir-sus-puertas/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/11/29/3289258/20241129174849_notre-dame-paris_foto610x342.jpg",
+    "resumen": "La Catedral de Notre Dame de París reabre al público este fin de semana, cinco años después del incendio de 2019 que la devastó. Las ceremonias de reapertura incluyen actos oficiales y religiosos, con la presencia de líderes mundiales y un gran concierto.",
+    "contexto": "El 15 de abril de 2019, un incendio destruyó gran parte de la Catedral de Notre Dame, uno de los monumentos más emblemáticos de París. Desde entonces, se han llevado a cabo extensas obras de restauración para devolverle su esplendor.",
+    "linea_tiempo": [
+      {
+        "fecha": "15 de abril de 2019",
+        "descripcion": "Un incendio devastador destruye el techo y la aguja de la Catedral de Notre Dame en París."
+      },
+      {
+        "fecha": "16 de abril de 2019",
+        "descripcion": "El presidente Emmanuel Macron anuncia la intención de reconstruir Notre Dame en cinco años."
+      },
+      {
+        "fecha": "7 de diciembre de 2024",
+        "descripcion": "Ceremonia oficial de reapertura de Notre Dame, con la presencia de líderes mundiales y un concierto especial."
+      },
+      {
+        "fecha": "8 de diciembre de 2024",
+        "descripcion": "Primera misa abierta al público en la catedral restaurada, con asistencia previa reserva."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Emmanuel Macron",
+        "descripcion": "Presidente de Francia, lideró los esfuerzos para la restauración de Notre Dame tras el incendio de 2019."
+      },
+      {
+        "nombre": "Laurent Ulrich",
+        "descripcion": "Arzobispo de París, encargado de oficiar las ceremonias religiosas en la reapertura de Notre Dame."
+      },
+      {
+        "nombre": "Donald Trump",
+        "descripcion": "Presidente electo de Estados Unidos, invitado a la ceremonia oficial de reapertura de Notre Dame."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Catedral de Notre Dame",
+        "definicion": "Iglesia gótica situada en París, considerada una de las más emblemáticas de Francia."
+      },
+      {
+        "termino": "Restauración",
+        "definicion": "Proceso de reparación y renovación de un edificio para devolverlo a su estado original."
+      }
+    ],
+    "impacto_esperado": "La reapertura de Notre Dame se espera que revitalice el turismo en París y sirva como símbolo de resiliencia y renovación para la ciudad y el país.",
+    "comparativas": "La restauración de la Catedral de San Pablo en Londres, tras los daños sufridos en la Segunda Guerra Mundial, también simbolizó la recuperación de una nación.",
+    "opinion_publica": [
+      {
+        "fuente": "Emmanuel Macron",
+        "reaccion": "Expresó esperanza y admiración por el esfuerzo colectivo en la restauración de Notre Dame."
+      }
+    ],
+    "posibles_proximos_pasos": "Se prevé que continúen las actividades culturales y religiosas en Notre Dame, consolidando su papel como centro espiritual y turístico de París.",
+    "datos_relevantes": [
+      {
+        "dato": "La restauración de Notre Dame costó alrededor de 700 millones de euros.",
+        "fuente": "The Times"
+      },
+      {
+        "dato": "Se espera que las visitas anuales a la catedral aumenten de 12 a 15 millones tras su reapertura.",
+        "fuente": "Condé Nast Traveler"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La Catedral de Notre Dame reabre sus puertas este fin de semana.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Las ceremonias de reapertura están programadas para el 7 y 8 de diciembre de 2024."
+        }
+      },
+      {
+        "afirmacion": "El presidente Emmanuel Macron asistirá a la ceremonia de reapertura.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Macron pronunciará un discurso en el acto oficial de reapertura."
+        }
+      }
+    ],
+    "reflexion_breve": "La restauración de Notre Dame no solo devuelve a París uno de sus símbolos más queridos, sino que también demuestra la capacidad de la humanidad para reconstruir y preservar su patrimonio cultural.",
+    "bsky_msg": "Esperanza – Notre Dame reabre sus puertas tras cinco años de restauración, simbolizando la resiliencia de París."
   }  
 ] 
