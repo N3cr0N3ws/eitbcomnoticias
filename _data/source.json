@@ -2955,8 +2955,111 @@
     ],
     "reflexion_breve": "La anulación de elecciones por injerencias extranjeras subraya la importancia de proteger los procesos democráticos de influencias externas que puedan socavar la voluntad popular.",
     "bsky_msg": "Controversial – El Tribunal Constitucional de Rumanía anula la primera vuelta de las presidenciales por injerencias extranjeras."
+  },
+  {
+    "titular": "Sánchez aboga por reformar la Constitución para 'blindar' derechos ante el 'avance reaccionario'",
+    "categoria_emocional": "preocupación",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9644319/sanchez-aboga-por-reformar-constitucion-para-blindar-derechos-ante-avance-reaccionario/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/06/3291312/20241206154628_sanchez_foto610x342.jpg",
+    "resumen": "El presidente del Gobierno, Pedro Sánchez, propone reformar la Constitución para proteger derechos como el aborto, el matrimonio entre personas del mismo sexo y la revalorización de las pensiones, frente a lo que denomina un 'avance reaccionario'.",
+    "contexto": "En el acto de conmemoración de la Constitución, Sánchez destacó la necesidad de actualizar la Carta Magna para salvaguardar derechos sociales ante posibles retrocesos impulsados por sectores conservadores.",
+    "linea_tiempo": [
+      {
+        "fecha": "3 de julio de 2005",
+        "descripcion": "Entra en vigor la ley que permite el matrimonio entre personas del mismo sexo en el estado."
+      },
+      {
+        "fecha": "5 de julio de 2010",
+        "descripcion": "Se aprueba la Ley de Salud Sexual y Reproductiva, que regula el derecho al aborto en el estado."
+      },
+      {
+        "fecha": "27 de diciembre de 2013",
+        "descripcion": "El Gobierno del Partido Popular presenta un anteproyecto de ley para restringir el derecho al aborto, generando amplias protestas sociales."
+      },
+      {
+        "fecha": "14 de julio de 2014",
+        "descripcion": "El Ejecutivo retira el anteproyecto de ley que buscaba limitar el aborto, tras la oposición social y política."
+      },
+      {
+        "fecha": "1 de enero de 2016",
+        "descripcion": "Entra en vigor la reforma del sistema de pensiones que vincula su revalorización al índice de precios al consumo (IPC)."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Pedro Sánchez",
+        "descripcion": "Presidente del Gobierno del estado y secretario general del Partido Socialista Obrero Español (PSOE)."
+      },
+      {
+        "nombre": "Alberto Núñez Feijóo",
+        "descripcion": "Líder del Partido Popular (PP) y principal figura de la oposición política en el estado."
+      },
+      {
+        "nombre": "Francina Armengol",
+        "descripcion": "Presidenta del Congreso de los Diputados del estado."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Reforma constitucional",
+        "definicion": "Proceso de modificación de la Constitución para actualizar o cambiar sus disposiciones."
+      },
+      {
+        "termino": "Matrimonio entre personas del mismo sexo",
+        "definicion": "Unión legal reconocida entre dos personas del mismo género, con los mismos derechos y obligaciones que el matrimonio heterosexual."
+      },
+      {
+        "termino": "Revalorización de las pensiones",
+        "definicion": "Ajuste periódico de las pensiones para mantener su poder adquisitivo, generalmente vinculado al índice de precios al consumo (IPC)."
+      },
+      {
+        "termino": "Avance reaccionario",
+        "definicion": "Movimiento o tendencia que busca revertir progresos sociales o políticos, retornando a políticas más conservadoras."
+      }
+    ],
+    "impacto_esperado": "La propuesta de reforma constitucional busca consolidar derechos sociales y prevenir posibles retrocesos en el futuro, fortaleciendo el marco legal que protege estos derechos en el estado.",
+    "comparativas": "Países como Portugal y Francia han incorporado enmiendas constitucionales para proteger derechos sociales, asegurando su permanencia ante cambios políticos.",
+    "opinion_publica": [
+      {
+        "fuente": "Alberto Núñez Feijóo",
+        "reaccion": "Acusó a Sánchez de 'deteriorar' la independencia judicial y abrir un proceso de 'deconstrucción' constitucional."
+      },
+      {
+        "fuente": "Francina Armengol",
+        "reaccion": "Reivindicó el consenso como 'única forma de éxito' en política, especialmente en tiempos 'agitados'."
+      }
+    ],
+    "posibles_proximos_pasos": "El Gobierno podría iniciar el proceso legislativo para la reforma constitucional, que requeriría amplios consensos parlamentarios y, posiblemente, la convocatoria de un referéndum.",
+    "datos_relevantes": [
+      {
+        "dato": "El matrimonio entre personas del mismo sexo fue legalizado en el estado en 2005.",
+        "fuente": "Ministerio de Justicia del estado"
+      },
+      {
+        "dato": "La Ley de Salud Sexual y Reproductiva, que regula el aborto, fue aprobada en 2010.",
+        "fuente": "Boletín Oficial del Estado"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Sánchez propone reformar la Constitución para 'blindar' derechos como el aborto y el matrimonio homosexual.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El presidente del Gobierno expresó su intención de reformar la Constitución para proteger estos derechos."
+        }
+      },
+      {
+        "afirmacion": "Feijóo acusa a Sánchez de 'deteriorar' la independencia judicial.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El líder del PP realizó estas declaraciones en el mismo acto."
+        }
+      }
+    ],
+    "reflexion_breve": "La propuesta de reforma constitucional refleja la tensión entre avanzar en la protección de derechos sociales y las resistencias políticas que buscan mantener el statu quo. Es esencial fomentar el diálogo y el consenso para fortalecer la democracia y garantizar los derechos de toda la ciudadanía.",
+    "bsky_msg": "Preocupación – Sánchez propone reformar la Constitución para proteger derechos como el aborto y el matrimonio igualitario ante posibles retrocesos."
   }
-  
   
   
 ] 
