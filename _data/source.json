@@ -2170,5 +2170,90 @@
     ],
     "reflexion_breve": "La restauración de Notre Dame no solo devuelve a París uno de sus símbolos más queridos, sino que también demuestra la capacidad de la humanidad para reconstruir y preservar su patrimonio cultural.",
     "bsky_msg": "Esperanza – Notre Dame reabre sus puertas tras cinco años de restauración, simbolizando la resiliencia de París."
-  }  
+  },
+  {
+    "titular": "Ábalos niega tener \"dinero, ni patrimonio\" en el extranjero, tampoco a través de terceros",
+    "categoria_emocional": "Defensiva",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9644003/abalos-niega-tener-dinero-ni-patrimonio-en-extranjero-tampoco-a-traves-de-terceros/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/05/06/3227831/20240506114655_jose-luis-abalos-comision_foto610x342.jpg",
+    "resumen": "El exministro de Transportes, José Luis Ábalos, imputado en el 'caso Koldo', ha negado poseer dinero o patrimonio en el extranjero, ya sea directamente o a través de terceros, y ha rechazado las acusaciones de pagos en efectivo.",
+    "contexto": "José Luis Ábalos, exministro de Transportes, está siendo investigado en el 'caso Koldo' por presuntos delitos de organización criminal, cohecho, tráfico de influencias y malversación. Las investigaciones apuntan a una supuesta trama de corrupción durante su gestión.",
+    "linea_tiempo": [
+      {
+        "fecha": "21 de febrero de 2024",
+        "descripcion": "Detención de Koldo García, exasesor de Ábalos, en el marco del 'caso Koldo'."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "Ábalos niega tener dinero o patrimonio en el extranjero y rechaza las acusaciones de pagos en efectivo."
+      },
+      {
+        "fecha": "12 de diciembre de 2024",
+        "descripcion": "Fecha programada para la declaración de Ábalos ante el Tribunal Supremo como investigado en el 'caso Koldo'."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "José Luis Ábalos",
+        "descripcion": "Exministro de Transportes de España, investigado por presunta implicación en el 'caso Koldo'."
+      },
+      {
+        "nombre": "Koldo García",
+        "descripcion": "Exasesor de Ábalos, detenido e investigado por su supuesta participación en una trama de corrupción."
+      },
+      {
+        "nombre": "Víctor de Aldama",
+        "descripcion": "Empresario señalado como comisionista en la trama, quien ha implicado a Ábalos en sus declaraciones."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Caso Koldo",
+        "definicion": "Investigación judicial sobre una presunta trama de corrupción vinculada al exasesor Koldo García y su relación con contratos públicos durante la pandemia."
+      },
+      {
+        "termino": "Cohecho",
+        "definicion": "Delito que consiste en sobornar a una autoridad o funcionario público, o aceptar sobornos por parte de estos."
+      }
+    ],
+    "impacto_esperado": "La imputación de Ábalos y sus declaraciones podrían afectar la imagen del PSOE y generar desconfianza en la gestión pública, además de influir en futuros procesos judiciales relacionados.",
+    "comparativas": "Casos similares, como el 'caso Gürtel' en España, han tenido implicaciones políticas significativas y han afectado la percepción pública sobre la corrupción en partidos políticos.",
+    "opinion_publica": [
+      {
+        "fuente": "Partido Popular",
+        "reaccion": "Ha presentado una querella contra el PSOE por presunta financiación ilegal relacionada con este caso."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que Ábalos comparezca ante el Tribunal Supremo el 12 de diciembre de 2024 para declarar como investigado. Dependiendo de su testimonio y las pruebas presentadas, podrían derivarse nuevas imputaciones o exoneraciones.",
+    "datos_relevantes": [
+      {
+        "dato": "Ábalos ha negado conocer a la empresaria Carmen Pano, quien afirmó haber entregado 90,000 euros en efectivo en la sede del PSOE.",
+        "fuente": "El País"
+      },
+      {
+        "dato": "El 'caso Koldo' investiga un presunto fraude de IVA de más de 180 millones de euros.",
+        "fuente": "El Independiente"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "Ábalos niega tener dinero o patrimonio en el extranjero, directamente o a través de terceros.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "En una entrevista con El País, Ábalos afirmó no poseer bienes en el extranjero ni a través de intermediarios."
+        }
+      },
+      {
+        "afirmacion": "Ábalos declarará el 12 de diciembre en el Tribunal Supremo como investigado.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "El Tribunal Supremo ha citado a Ábalos para declarar en esa fecha en el marco del 'caso Koldo'."
+        }
+      }
+    ],
+    "reflexion_breve": "La situación de José Luis Ábalos pone de manifiesto la importancia de la transparencia y la integridad en la gestión pública, y cómo las acusaciones de corrupción pueden afectar la confianza ciudadana en las instituciones.",
+    "bsky_msg": "Defensiva – Ábalos niega tener bienes en el extranjero y rechaza acusaciones de pagos en efectivo en el 'caso Koldo'."
+  }
+  
 ] 
