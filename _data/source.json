@@ -2679,6 +2679,98 @@
     ],
     "reflexion_breve": "La situación en Corea del Sur destaca la importancia de la estabilidad política y el respeto a los procesos democráticos para mantener la confianza pública y el orden institucional.",
     "bsky_msg": "Tensión política – Presidente surcoreano Yoon Suk-yeol enfrenta posible destitución tras perder apoyo clave en su partido."
-  }
+  },
+  {
+    "titular": "Detenida una mujer en Gipuzkoa por extorsionar a más de 311 hombres tras seducirlos con inteligencia artificial",
+    "categoria_emocional": "Alarma",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644145/detenida-mujer-en-gipuzkoa-por-extorsionar-a-mas-de-311-hombres-tras-seducirlos-con-ia/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/06/3291283/20241206134543_azkoitia-sextorsion_foto610x342.jpg",
+    "resumen": "Una mujer de 26 años ha sido detenida en Azkoitia por presuntamente extorsionar a 311 hombres en todo el estado. Utilizaba inteligencia artificial para crear una imagen ficticia de sí misma, seducía a sus víctimas en redes sociales y luego las amenazaba con difundir imágenes íntimas si no realizaban pagos.",
+    "contexto": "Este caso refleja el creciente uso de tecnologías avanzadas, como la inteligencia artificial, en actividades delictivas, lo que plantea nuevos desafíos para las fuerzas de seguridad en la protección de los ciudadanos.",
+    "linea_tiempo": [
+      {
+        "fecha": "24 de marzo de 2023",
+        "descripcion": "La Policía Nacional alerta sobre una estafa en la que se extorsiona a hombres tras poner anuncios falsos en páginas web de contactos sexuales."
+      },
+      {
+        "fecha": "11 de julio de 2024",
+        "descripcion": "Un 'estafador del amor' es condenado a dos años de prisión en Gipuzkoa por obtener 102.500 euros de una mujer a través de engaños sentimentales."
+      },
+      {
+        "fecha": "21 de agosto de 2024",
+        "descripcion": "La Policía Nacional detiene en Palma de Mallorca a un hombre por extorsionar a varias personas, amenazando con difundir vídeos sexuales obtenidos mediante engaños en redes sociales."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Sección de Ciberdelincuencia de la Comisaría Provincial de Málaga",
+        "descripcion": "Unidad policial especializada en delitos informáticos que participó en la investigación y detención de la sospechosa."
+      },
+      {
+        "nombre": "Brigada Provincial de Policía Judicial en San Sebastián",
+        "descripcion": "Unidad de la Policía Nacional en Gipuzkoa que colaboró en la operación contra la extorsionadora."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Inteligencia Artificial (IA)",
+        "definicion": "Capacidad de una máquina para imitar funciones cognitivas humanas, como el aprendizaje y la resolución de problemas."
+      },
+      {
+        "termino": "Sextorsión",
+        "definicion": "Forma de extorsión en la que se amenaza con divulgar imágenes o vídeos de contenido sexual de la víctima si no se cumplen ciertas demandas."
+      },
+      {
+        "termino": "Montaje fotográfico",
+        "definicion": "Técnica que combina varias imágenes para crear una nueva, a menudo con el fin de engañar o manipular la percepción."
+      },
+      {
+        "termino": "Transferencia bancaria",
+        "definicion": "Movimiento de dinero de una cuenta bancaria a otra, que puede realizarse de forma electrónica."
+      }
+    ],
+    "impacto_esperado": "Este caso podría aumentar la desconfianza en las interacciones en línea y llevar a una mayor precaución entre los usuarios de redes sociales y plataformas de citas. Además, podría impulsar a las autoridades a fortalecer las medidas contra los delitos cibernéticos y promover campañas de concienciación sobre los riesgos asociados.",
+    "comparativas": "En 2023, la Policía Nacional alertó sobre estafas similares en las que se utilizaban anuncios falsos en páginas de contactos sexuales para extorsionar a hombres, lo que indica un patrón recurrente en este tipo de delitos.",
+    "opinion_publica": [
+      {
+        "fuente": "Policía Nacional",
+        "reaccion": "Ha emitido alertas sobre el incremento de estafas y extorsiones relacionadas con interacciones en línea, instando a la ciudadanía a ser cautelosa."
+      },
+      {
+        "fuente": "Expertos en ciberseguridad",
+        "reaccion": "Advierten sobre el uso creciente de tecnologías como la inteligencia artificial en actividades delictivas y la necesidad de actualizar las estrategias de protección."
+      }
+    ],
+    "posibles_proximos_pasos": "Se espera que las autoridades refuercen las campañas de concienciación sobre los peligros de compartir información íntima en línea y promuevan el uso seguro de las tecnologías digitales. Además, podrían implementarse medidas legales más estrictas contra el uso malintencionado de la inteligencia artificial.",
+    "datos_relevantes": [
+      {
+        "dato": "La detenida obtuvo 16.300 euros en ocho meses mediante este 'modus operandi'.",
+        "fuente": "EITB"
+      },
+      {
+        "dato": "La mayoría de las víctimas no denunció los hechos por motivos personales.",
+        "fuente": "EITB"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La mujer creó una imagen ficticia de sí misma utilizando inteligencia artificial.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Según la investigación policial, la detenida utilizó aplicaciones de montaje fotográfico y dispositivos de iluminación para crear una imagen irreal de sí misma."
+        }
+      },
+      {
+        "afirmacion": "Extorsionó a 311 hombres en todo el estado.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Las autoridades identificaron a 311 víctimas a través de los pagos realizados a las cuentas bancarias de la investigada."
+        }
+      }
+    ],
+    "reflexion_breve": "Este incidente subraya la importancia de ser cauteloso en las interacciones en línea y de no compartir contenido íntimo con personas que no se conocen plenamente. La tecnología puede ser una herramienta poderosa, pero también puede ser utilizada con fines malintencionados.",
+    "bsky_msg": "Alarma – Mujer detenida en Gipuzkoa por extorsionar a 311 hombres usando imágenes creadas con inteligencia artificial."
+  }  
   
 ] 
