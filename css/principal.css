@@ -69,6 +69,16 @@ a, a:hover {
     color: #fff;
   }
 
+/* Context */
+.context {
+  border-radius: 40px;
+  margin-top:-40px;
+  background-color: #fff;
+  padding: 20px 16px;
+  z-index: 1;
+  position: relative;
+}
+
 
 
 
@@ -183,7 +193,60 @@ a, a:hover {
 }
 
 
+/* Who */
+.who {
+  width: 100%;
+  overflow: hidden; /* Oculta cualquier desbordamiento visible */
+  position: relative;
+  margin-top: 24px;
+}
 
+.card-container {
+  display: flex;
+  overflow-x: auto; /* Habilita el scroll horizontal */
+  scroll-snap-type: x mandatory; /* Activa el snapping horizontal */
+  scrollbar-width: none; /* Oculta la barra en Firefox */
+  -ms-overflow-style: none; /* Oculta la barra en IE/Edge */
+  touch-action: pan-x; /* Permite gestos táctiles horizontales */
+  -webkit-overflow-scrolling: touch; /* Scroll suave en móviles */
+  cursor: grab; /* Indica que es desplazable */
+}
+
+.card-container::-webkit-scrollbar {
+  display: none; /* Oculta la barra en Chrome y Safari */
+}
+.card-container.smooth-scroll {
+  scroll-behavior: smooth; /* Solo se aplica cuando se agrega esta clase */
+}
+
+.who-card {
+  flex: 0 0 90%; /* Cada tarjeta ocupa el 90% del viewport */
+  margin-right: 10px; /* Espacio entre tarjetas */
+  padding: 20px;
+  scroll-snap-align: start; /* Las tarjetas se alinean al inicio del scroll */
+  border-left: 2px solid #ecd102;
+}
+
+.card:last-child {
+  margin-right: 0; /* Quita el margen derecho de la última tarjeta */
+}
+
+.card:active {
+  transform: scale(0.98); /* Efecto táctil al interactuar */
+}
+
+/* Texto dentro de las tarjetas */
+.who-card h3 {
+  font-size: 1.1em;
+  margin: 0 0 10px;
+  color: #000;
+}
+
+.who-card p {
+  font-size: 0.9em;
+  color: #666;
+  margin: 0;
+}
 
 
 
@@ -209,7 +272,7 @@ a, a:hover {
   .item {
     position: relative;
     background-color: #747474; /* Color base */
-    border-radius: 20px; /* Bordes redondeados */
+    border-radius: 10px; /* Bordes redondeados */
     padding: 20px;
     margin-bottom: -40px; /* Solapa las tarjetas */
     z-index: 0;
@@ -288,14 +351,7 @@ a, a:hover {
 
 
 /* Fuente de la noticia */
-.context {
-    border-radius: 40px;
-    margin-top:-40px;
-    background-color: #fff;
-    padding: 20px 16px;
-    z-index: 1;
-    position: relative
-}
+
 .explain {
     background-color: #f0f0f0;
     border-top-left-radius: 24px;
