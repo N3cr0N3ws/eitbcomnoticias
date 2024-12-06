@@ -2321,5 +2321,72 @@
     ],
     "reflexion_breve": "La llegada anticipada del invierno durante el puente de diciembre nos recuerda la importancia de estar preparados para condiciones meteorológicas adversas y de seguir las recomendaciones de las autoridades para garantizar la seguridad de todos.",
     "bsky_msg": "Precaución – Temporal invernal con aire polar y nieve afectará al estado durante el puente de diciembre."
-  }  
+  },
+  {
+    "titular": "Osakidetza llama a vacunarse de la gripe en previsión de que la circulación del virus aumente en Navidad",
+    "categoria_emocional": "Precaución",
+    "fecha_publicacion": "6 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644016/osakidetza-llama-a-vacunarse-de-gripe-en-prevision-de-que-circulacion-del-virus-aumente-en-navidad/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/10/07/3272793/20241007152024_vacuna-txertoa-covid-grip_foto610x342.jpg",
+    "resumen": "Osakidetza ha instado a la población, especialmente a los grupos de riesgo, a vacunarse contra la gripe ante el aumento previsto de la circulación del virus durante la Navidad.",
+    "contexto": "La incidencia de la gripe ha ido en aumento en las últimas semanas y se espera que alcance su pico en enero. Ante esta situación, Osakidetza ha reforzado su campaña de vacunación, enfocándose en personas mayores de 60 años, pacientes con enfermedades crónicas, mujeres embarazadas y profesionales sanitarios.",
+    "linea_tiempo": [
+      {
+        "fecha": "7 de octubre de 2024",
+        "descripcion": "Inicio de la campaña de vacunación contra la gripe y la COVID-19 por parte de Osakidetza, dirigida a grupos de riesgo."
+      },
+      {
+        "fecha": "4 de noviembre de 2024",
+        "descripcion": "Osakidetza amplía la vacunación contra la gripe a toda la población, permitiendo que cualquier persona pueda solicitar cita para vacunarse."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "Osakidetza hace un llamamiento a la vacunación contra la gripe ante el aumento previsto de la circulación del virus durante la Navidad."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Osakidetza",
+        "definicion": "Servicio Vasco de Salud encargado de la gestión de la sanidad pública en el País Vasco."
+      },
+      {
+        "termino": "Grupos de riesgo",
+        "definicion": "Conjunto de personas con mayor probabilidad de sufrir complicaciones graves en caso de contraer una enfermedad, como mayores de 60 años, personas con enfermedades crónicas y mujeres embarazadas."
+      }
+    ],
+    "impacto_esperado": "Se espera que el aumento de la vacunación reduzca la incidencia y gravedad de la gripe durante la temporada navideña, aliviando la presión sobre el sistema sanitario y protegiendo a los grupos más vulnerables.",
+    "posibles_proximos_pasos": "Osakidetza continuará promoviendo la vacunación y podría implementar medidas adicionales de prevención, como campañas de concienciación sobre higiene y uso de mascarillas, especialmente en espacios cerrados y eventos multitudinarios.",
+    "datos_relevantes": [
+      {
+        "dato": "Hasta la fecha, se han administrado 498.944 vacunas contra la gripe, un 3,9% más que en el mismo periodo del año pasado.",
+        "fuente": "EITB"
+      },
+      {
+        "dato": "El 80% de las personas que viven en residencias ha recibido la vacuna de la gripe, y la mayoría también se ha inmunizado contra la COVID-19.",
+        "fuente": "EITB"
+      },
+      {
+        "dato": "Un total de 19.620 niños y niñas de entre 6 meses y 5 años ha recibido la vacuna intranasal contra la gripe, un 34% más que en la campaña previa.",
+        "fuente": "EITB"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La incidencia del virus de la gripe lleva varias semanas en ascenso y se espera que siga subiendo hasta enero.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Según el informe de vigilancia de Infecciones Respiratorias Agudas de Osakidetza, la incidencia de la gripe ha aumentado en las últimas semanas y se prevé que alcance su pico en enero."
+        }
+      },
+      {
+        "afirmacion": "Osakidetza ha administrado 498.944 vacunas contra la gripe hasta la fecha.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Datos oficiales indican que se han administrado 498.944 dosis de la vacuna contra la gripe, un 3,9% más que en el mismo periodo del año anterior."
+        }
+      }
+    ],
+    "reflexion_breve": "La vacunación es una herramienta clave para prevenir la propagación de la gripe y proteger a los más vulnerables. En épocas festivas, donde las reuniones son frecuentes, es fundamental reforzar las medidas de prevención para cuidar la salud colectiva.",
+    "bsky_msg": "Precaución – Osakidetza insta a vacunarse contra la gripe ante el aumento previsto del virus en Navidad."
+  }    
 ] 
