@@ -256,7 +256,7 @@ a, a:hover {
 .card {
   flex: 0 0 90%; /* Cada tarjeta ocupa el 90% del viewport */
   margin-right: 10px; /* Espacio entre tarjetas */
-  background-color: #ebebeb;
+  background-color: #F3F6FA;
   border-radius: 20px; /* Bordes redondeados */
   padding: 20px;
   scroll-snap-align: start; /* Las tarjetas se alinean al inicio del scroll */
