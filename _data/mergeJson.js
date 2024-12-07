@@ -1,4 +1,5 @@
 const fs = require('fs');
+const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
@@ -32,6 +33,25 @@ const validateAndCleanJson = (data) => {
   });
 };
 
+// Función para crear una copia de seguridad del archivo source.json
+const backupSourceFile = (sourcePath) => {
+  try {
+    const backupDir = './_backup';
+    if (!fs.existsSync(backupDir)) {
+      fs.mkdirSync(backupDir); // Crear la carpeta _backup si no existe
+    }
+
+    const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0]; // Formato: año-mes-día-hora
+    const backupFileName = `source-${timestamp}.json`;
+    const backupPath = path.join(backupDir, backupFileName);
+
+    fs.copyFileSync(sourcePath, backupPath); // Crear la copia de seguridad
+    console.log(`Copia de seguridad creada: ${backupPath}`);
+  } catch (error) {
+    console.error(`Error al crear la copia de seguridad: ${error.message}`);
+  }
+};
+
 // Función para actualizar el JSON con la imagen desde la canonical
 const updateJsonWithImage = async (updatePath) => {
   try {
@@ -45,7 +65,7 @@ const updateJsonWithImage = async (updatePath) => {
     const ogImage = await fetchOgImage(updateData.url_canonical);
     updateData.url_imagen = ogImage; // Actualizar con la URL obtenida o la por defecto
 
-    // Guardar el JSON actualizado
+    // Guardar el JSON actualizado dentro de la carpeta _data
     fs.writeFileSync(updatePath, JSON.stringify(updateData, null, 4), 'utf-8');
     console.log(`La URL de la imagen fue actualizada en '${updatePath}'.`);
     return true;
@@ -58,6 +78,9 @@ const updateJsonWithImage = async (updatePath) => {
 // Función para fusionar los JSON
 const mergeJsonFiles = async (sourcePath, updatePath) => {
   try {
+    // Crear copia de seguridad de source.json
+    backupSourceFile(sourcePath);
+
     // Actualizar update.json con la imagen antes del merge
     const imageUpdated = await updateJsonWithImage(updatePath);
     if (!imageUpdated) {
@@ -83,7 +106,7 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
     console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
 
-    // Limpiar el archivo de actualización
+    // Limpiar el archivo de actualización dentro de la carpeta _data
     fs.writeFileSync(updatePath, JSON.stringify({}, null, 4), 'utf-8');
     console.log(`El archivo '${updatePath}' ha sido limpiado.`);
   } catch (error) {
@@ -91,5 +114,5 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
   }
 };
 
-// Ejecutar el proceso de merge con las rutas correctas
+// Rutas actualizadas para asegurar que se escriben en _data
 mergeJsonFiles('./_data/source.json', './_data/update.json');
