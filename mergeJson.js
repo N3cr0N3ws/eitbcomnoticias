@@ -18,9 +18,20 @@ const fetchOgImage = async (url) => {
   }
 };
 
+// Función para validar y limpiar el JSON
+const cleanJson = (data) => {
+  if (Array.isArray(data)) {
+    return data; // Ya es un array, no hacemos nada
+  }
+  if (typeof data === 'object') {
+    return Object.values(data); // Convertir un objeto indexado a un array
+  }
+  throw new Error('Formato inesperado en el JSON');
+};
+
+// Función para actualizar el JSON con la imagen desde la canonical
 const updateJsonWithImage = async (updatePath) => {
   try {
-    // Leer el archivo update.json
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
     // Verificar si contiene la URL canonical
@@ -44,14 +55,15 @@ const updateJsonWithImage = async (updatePath) => {
   }
 };
 
+// Función para fusionar los JSON
 const mergeJsonFiles = async (sourcePath, updatePath) => {
   try {
     // Actualizar update.json con la imagen antes del merge
     await updateJsonWithImage(updatePath);
 
-    // Leer los datos de ambos archivos
-    const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
-    const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
+    // Leer y limpiar ambos JSON
+    const sourceData = cleanJson(JSON.parse(fs.readFileSync(sourcePath, 'utf-8')));
+    const updateData = cleanJson(JSON.parse(fs.readFileSync(updatePath, 'utf-8')));
 
     // Verificar si update.json está vacío
     const isUpdateEmpty =
@@ -64,14 +76,7 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     }
 
     // Realizar el merge
-    let mergedData;
-    if (Array.isArray(sourceData) && Array.isArray(updateData)) {
-      mergedData = [...sourceData, ...updateData];
-    } else if (typeof sourceData === 'object' && typeof updateData === 'object') {
-      mergedData = { ...sourceData, ...updateData };
-    } else {
-      throw new Error('Los archivos JSON deben ser del mismo tipo (array o objeto).');
-    }
+    const mergedData = [...sourceData, ...updateData];
 
     // Guardar el archivo mergeado
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');

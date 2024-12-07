@@ -1,5 +1,5 @@
-{
-    "0": {
+[
+    {
         "titular": "La ultraderechista Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que tumbará el Gobierno francés",
         "categoria_emocional": "Tensión política",
         "fecha_publicacion": "2 de diciembre de 2024",
@@ -95,7 +95,7 @@
         "reflexion_breve": "La actual crisis política en Francia pone de manifiesto la fragilidad de las coaliciones gubernamentales y la importancia del diálogo entre las distintas fuerzas políticas para garantizar la estabilidad y el bienestar de la ciudadanía.",
         "bsky_msg": "Tensión política – Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que votará a favor de una moción de censura para derrocar al Gobierno francés."
     },
-    "1": {
+    {
         "titular": "El Supremo cita a Ábalos para declarar el 12 de diciembre",
         "categoria_emocional": "Investigación judicial",
         "fecha_publicacion": "2 de diciembre de 2024",
@@ -157,7 +157,7 @@
         "posibles_proximos_pasos": "Tras la declaración de José Luis Ábalos el 12 de diciembre, el Tribunal Supremo evaluará si existen indicios suficientes para continuar con el proceso judicial. Dependiendo de las evidencias presentadas, podría solicitarse al Congreso el levantamiento de su inmunidad parlamentaria para proceder formalmente contra él. Paralelamente, las declaraciones de Koldo García y Víctor de Aldama aportarán información adicional que podría influir en el curso de la investigación.",
         "bsky_msg": "Investigación judicial – El Supremo cita a José Luis Ábalos para declarar el 12 de diciembre por presuntas irregularidades en contratos de mascarillas durante la pandemia."
     },
-    "2": {
+    {
         "titular": "El acusado de matar a su expareja con un arma de fuego en Pasaia declarará hoy ante el juez",
         "categoria_emocional": "Conmoción y repulsa",
         "fecha_publicacion": "3 de diciembre de 2024",
@@ -252,7 +252,7 @@
         "reflexion_breve": "Este trágico incidente subraya la necesidad urgente de revisar y fortalecer los mecanismos de protección para las víctimas de violencia de género, garantizando que las denuncias previas resulten en medidas efectivas que eviten futuras tragedias.",
         "bsky_msg": "Conmoción y repulsa – El acusado de matar a su expareja en Pasaia declara hoy ante el juez."
     },
-    "3": {
+    {
         "titular": "El Manifiesto del Día Internacional del Euskera recuerda que 'tejer la lengua es responsabilidad de todos'",
         "categoria_emocional": "Inspirador",
         "fecha_publicacion": "3 de diciembre de 2024",
@@ -321,7 +321,7 @@
         "reflexion_breve": "La revitalización del euskera depende de un compromiso colectivo que trasciende generaciones, integrando esfuerzos institucionales y ciudadanos para asegurar su futuro.",
         "bsky_msg": "Inspirador – El manifiesto del Día Internacional del Euskera destaca la responsabilidad compartida en la revitalización de la lengua."
     },
-    "4": {
+    {
         "titular": "Elgarresta: \"Los protocolos contra la violencia machista no son 100% infalibles\"",
         "categoria_emocional": "Reflexiva",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -394,7 +394,7 @@
         "reflexion_breve": "La lucha contra la violencia machista requiere una constante revisión y adaptación de los protocolos, así como una colaboración efectiva entre instituciones y sociedad civil para garantizar la seguridad de las mujeres.",
         "bsky_msg": "Reflexiva – Elgarresta reconoce que los protocolos contra la violencia machista no son infalibles y destaca la necesidad de mejoras continuas."
     },
-    "5": {
+    {
         "titular": "Juana Rivas pide protección para su hijo menor después de que su exmarido haya sido procesado por maltrato",
         "categoria_emocional": "preocupación",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -482,7 +482,7 @@
         "reflexion_breve": "Este caso subraya la complejidad de proteger a los menores en disputas internacionales y la necesidad de una cooperación judicial efectiva para salvaguardar su bienestar.",
         "bsky_msg": "Preocupación – Juana Rivas solicita protección para su hijo menor tras el procesamiento de su exmarido por maltrato habitual."
     },
-    "6": {
+    {
         "titular": "El Gobierno Vasco no renuncia a un acuerdo presupuestario con EH Bildu, pero mantienen diferencias en vivienda",
         "categoria_emocional": "Tensión política",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -582,7 +582,7 @@
         "reflexion_breve": "La negociación presupuestaria entre el Gobierno Vasco y EH Bildu refleja la complejidad de alcanzar consensos en políticas clave como la vivienda. La disposición al diálogo y la búsqueda de soluciones compartidas serán determinantes para el bienestar de la ciudadanía.",
         "bsky_msg": "Tensión política – Gobierno Vasco busca acuerdo presupuestario con EH Bildu, pero persisten diferencias en vivienda."
     },
-    "7": {
+    {
         "titular": "Denuncian \"el drama\" de 183 familias con demandas de desahucio en San Sebastián, Irun y Errenteria",
         "categoria_emocional": "Alarma social",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -666,7 +666,7 @@
         "reflexion_breve": "La situación de estas 183 familias refleja una problemática más amplia sobre el acceso a la vivienda y la necesidad de políticas públicas que garanticen este derecho fundamental.",
         "bsky_msg": "Alarma social – 183 familias en San Sebastián, Irun y Errenteria enfrentan desahucios; Stop Desahucios pide prórroga del Real Decreto 11/2020."
     },
-    "8": {
+    {
         "titular": "Unos 160 000 autónomos de Euskadi podrán empezar este año a suscribir nuevas EPSVs",
         "categoria_emocional": "Positiva",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -739,7 +739,7 @@
         "reflexion_breve": "La introducción de EPSV específicas para autónomos en Euskadi representa un avance significativo hacia la equidad en la protección social, ofreciendo a este colectivo una herramienta efectiva para mejorar su bienestar en la jubilación.",
         "bsky_msg": "Positiva – 160 000 autónomos en Euskadi podrán suscribir nuevas EPSV este año, mejorando su protección social."
     },
-    "9": {
+    {
         "titular": "La Mesa para el Pacto Vasco de Salud no llega a un acuerdo sobre principios y se cita para el 29 de enero",
         "categoria_emocional": "Neutral",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -785,7 +785,7 @@
         "posibles_proximos_pasos": "Se espera que los participantes de la Mesa analicen las propuestas en detalle con sus equipos para, en la reunión del 29 de enero, alcanzar un acuerdo definitivo sobre los principios que guiarán la reforma del sistema sanitario.",
         "bsky_msg": "Neutral – Sin acuerdo en la Mesa para el Pacto Vasco de Salud; próxima reunión el 29 de enero."
     },
-    "10": {
+    {
         "titular": "Detenido tras amenazar y herir gravemente a un hombre en el monte Ulía de San Sebastián",
         "categoria_emocional": "Violencia",
         "fecha_publicacion": "4 de diciembre de 2024",
@@ -823,7 +823,7 @@
         "reflexion_breve": "Este suceso resalta la importancia de mantener la seguridad en espacios públicos y naturales, y la necesidad de una respuesta efectiva por parte de las autoridades para garantizar la tranquilidad de la ciudadanía.",
         "bsky_msg": "Violencia – Detenido en San Sebastián por agredir gravemente a un hombre en el monte Ulía."
     },
-    "11": {
+    {
         "titular": "Macron se dirigirá hoy al país por televisión tras la caída del Gobierno de Francia",
         "categoria_emocional": "Incertidumbre política",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -931,7 +931,7 @@
         "reflexion_breve": "La actual crisis política en Francia subraya la importancia de un liderazgo capaz de unir a diversas facciones políticas para garantizar la estabilidad y el progreso del país.",
         "bsky_msg": "Incertidumbre política – Macron se dirigirá hoy al país por televisión tras la caída del Gobierno de Francia."
     },
-    "12": {
+    {
         "titular": "Previsión para los días 6, 7 y 8 de diciembre de 2024: largo fin de semana con tiempo invernal",
         "categoria_emocional": "Alerta meteorológica",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1008,7 +1008,7 @@
         "reflexion_breve": "La llegada anticipada de condiciones invernales durante el puente de diciembre nos recuerda la importancia de estar preparados y atentos a las previsiones meteorológicas, especialmente en periodos de alta movilidad.",
         "bsky_msg": "Alerta meteorológica – Se prevé un puente de diciembre con tiempo invernal"
     },
-    "13": {
+    {
         "titular": "La economía vasca creció un 1,8% en el tercer trimestre de 2024, dos décimas más de lo avanzado",
         "categoria_emocional": "Positiva",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1084,7 +1084,7 @@
         "reflexion_breve": "La revisión al alza del crecimiento económico en Euskadi refleja una recuperación más sólida de lo anticipado, aunque persisten desafíos en sectores clave que requieren atención para asegurar un desarrollo equilibrado.",
         "bsky_msg": "Positiva – La economía vasca crece un 1,8% en el tercer trimestre de 2024, superando estimaciones iniciales."
     },
-    "14": {
+    {
         "titular": "Moriarti Produkzioak, Tambor de Oro 2025",
         "categoria_emocional": "Reconocimiento",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1161,7 +1161,7 @@
         "reflexion_breve": "El reconocimiento a Moriarti Produkzioak con el Tambor de Oro 2025 subraya la importancia de apoyar y valorar las producciones locales que enriquecen la cultura y proyectan la identidad vasca a nivel internacional.",
         "bsky_msg": "Reconocimiento – Moriarti Produkzioak, productora donostiarra, recibe el Tambor de Oro 2025 por su destacada contribución al cine y proyección internacional."
     },
-    "15": {
+    {
         "titular": "La Comisión de Abusos Sexuales en la Iglesia de Bizkaia sigue recibiendo nuevos casos",
         "categoria_emocional": "Preocupación",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1225,7 +1225,7 @@
         "reflexion_breve": "La persistencia de nuevos casos de abusos sexuales en la Iglesia de Bizkaia destaca la importancia de mantener una postura proactiva en la prevención, reconocimiento y reparación de estos actos, asegurando justicia y apoyo a las víctimas.",
         "bsky_msg": "Preocupación – La Comisión de Abusos Sexuales en la Iglesia de Bizkaia sigue recibiendo nuevos casos, según el obispo Joseba Segura."
     },
-    "16": {
+    {
         "titular": "Dos detenidos en Sestao tras falsificar 200 recetas médicas para obtener medicamentos",
         "categoria_emocional": "Alarma",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1301,7 +1301,7 @@
         "reflexion_breve": "La falsificación de recetas médicas no solo constituye un delito grave, sino que también pone en riesgo la salud pública y socava la confianza en el sistema sanitario. Es esencial fortalecer los mecanismos de control y promover la ética en la obtención y distribución de medicamentos.",
         "bsky_msg": "Alarma – Dos detenidos en Sestao por falsificar más de 200 recetas médicas, defraudando más de 12.000 euros en medicamentos."
     },
-    "17": {
+    {
         "titular": "Pasaia llama a 'seguir enfrentando con firmeza la violencia machista desde todos los vértices'",
         "categoria_emocional": "Indignación",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1385,7 +1385,7 @@
         "reflexion_breve": "La persistencia de la violencia machista exige una respuesta integral y coordinada de la sociedad y las instituciones, promoviendo la educación en igualdad y fortaleciendo los mecanismos de protección para las víctimas.",
         "bsky_msg": "Indignación – Pasaia insta a enfrentar con firmeza la violencia machista tras el reciente asesinato de Leonor."
     },
-    "18": {
+    {
         "titular": "Tercera fase de las exhumaciones de Orduña",
         "categoria_emocional": "Reflexiva",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1442,7 +1442,7 @@
         "impacto_esperado": "La continuación de las exhumaciones en Orduña contribuye a la recuperación de la memoria histórica y ofrece reparación a las familias de las víctimas, fortaleciendo la convivencia y los derechos humanos en la sociedad.",
         "bsky_msg": "Reflexiva – Inicia la tercera fase de exhumaciones en Orduña para recuperar restos de víctimas de la Guerra Civil y el franquismo."
     },
-    "19": {
+    {
         "titular": "El gasto medio previsto por los vascos para esta Navidad alcanza los 588 euros",
         "categoria_emocional": "Neutral",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1497,7 +1497,7 @@
         "reflexion_breve": "La estabilidad en las previsiones de gasto navideño entre los vascos sugiere una adaptación a las condiciones económicas actuales, reflejando una actitud prudente y consciente en el consumo durante las festividades.",
         "bsky_msg": "Neutral – Los vascos prevén un gasto navideño de 588 euros, manteniendo cifras similares al año anterior."
     },
-    "20": {
+    {
         "titular": "El Parlamento Vasco respalda al Gobierno y rechaza recurso contra sentencia sobre Viñedos de Álava",
         "categoria_emocional": "Neutral",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1589,7 +1589,7 @@
         "reflexion_breve": "La decisión de no recurrir la sentencia sobre 'Viñedos de Á ...  marca un punto de inflexión en la estrategia vitivinícola de Rioja Alavesa, enfocándose en la diferenciación y calidad dentro del marco de la DOCa Rioja para fortalecer su posición en el mercado.",
         "bsky_msg": "Neutral – El Parlamento Vasco decide no recurrir la sentencia sobre 'Viñedos de Á ...  y apuesta por mejorar la competitividad del sector vitivinícola de Rioja Alavesa."
     },
-    "21": {
+    {
         "titular": "Los pediatras instan a restringir el uso de pantallas hasta los seis años y limitarlo a una hora hasta los 12",
         "categoria_emocional": "Preocupación",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1654,7 +1654,7 @@
         "reflexion_breve": "La adaptación de las recomendaciones pediátricas al contexto digital actual es esencial para garantizar un desarrollo saludable en la infancia, equilibrando la innovación tecnológica con el bienestar integral de los menores.",
         "bsky_msg": "Preocupación – Pediatras aconsejan evitar pantallas antes de los 6 años y limitarlas a una hora diaria hasta los 12."
     },
-    "22": {
+    {
         "titular": "La insurgencia islamista se hace con Alepo y Hama en apenas una semana de ofensiva en Siria",
         "categoria_emocional": "Alarma",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1727,7 +1727,7 @@
         "reflexion_breve": "La rápida caída de ciudades clave en Siria ante la insurgencia islamista subraya la fragilidad de los estados en conflicto prolongado y la necesidad urgente de soluciones políticas inclusivas para evitar el colapso total y la expansión del extremismo.",
         "bsky_msg": "Alarma – Insurgencia islamista toma Alepo y Hama en una semana, debilitando al gobierno sirio."
     },
-    "23": {
+    {
         "titular": "Aldama entrega sus 'pruebas' al Supremo: contrato con Ábalos, presuntas preadjudicaciones y carta a Guaidó",
         "categoria_emocional": "Controversia",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1804,7 +1804,7 @@
         "reflexion_breve": "La presentación de estas pruebas subraya la importancia de la transparencia y la rendición de cuentas en la administración pública, destacando la necesidad de combatir la corrupción para mantener la confianza ciudadana en las instituciones.",
         "bsky_msg": "Controversia – Aldama presenta al Supremo pruebas que vinculan a Ábalos con supuestas preadjudicaciones y una carta a Guaidó."
     },
-    "24": {
+    {
         "titular": "Poca repercusión de la huelga en bares de Vitoria; se ha notado más en comedores escolares",
         "categoria_emocional": "Moderada",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1869,7 +1869,7 @@
         "reflexion_breve": "La disparidad en el seguimiento de la huelga entre distintos subsectores de la hostelería alavesa refleja la complejidad de las demandas laborales y la necesidad de soluciones negociadas que aborden las particularidades de cada ámbito.",
         "bsky_msg": "Moderada – Huelga en hostelería alavesa: escasa incidencia en bares de Vitoria, mayor impacto en comedores escolares."
     },
-    "25": {
+    {
         "titular": "Macron critica el 'cinismo' de quienes derribaron a Barnier, pero no anuncia su sustituto",
         "categoria_emocional": "Tensión política",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1930,7 +1930,7 @@
         "reflexion_breve": "La actual crisis política en Francia subraya la importancia de la cohesión y el diálogo entre las fuerzas políticas para garantizar la estabilidad y el progreso del país.",
         "bsky_msg": "Tensión política – Macron critica el 'cinismo' tras la caída de su gobierno y promete nuevo primer ministro pronto."
     },
-    "26": {
+    {
         "titular": "Un informe de Amnistía Internacional determina que Israel está cometiendo genocidio contra los palestinos",
         "categoria_emocional": "Alarma",
         "fecha_publicacion": "5 de diciembre de 2024",
@@ -1995,7 +1995,7 @@
         "reflexion_breve": "Las acusaciones de genocidio son extremadamente graves y requieren una respuesta urgente de la comunidad internacional para garantizar la protección de los derechos humanos y la rendición de cuentas.",
         "bsky_msg": "Alarma – Amnistía Internacional acusa a Israel de genocidio contra palestinos en Gaza, instando a una acción internacional inmediata."
     },
-    "27": {
+    {
         "titular": "La Reserva de Urdaibai cumple 40 años en pleno debate por su futuro",
         "categoria_emocional": "Preocupación",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2083,7 +2083,7 @@
         "reflexion_breve": "El 40º aniversario de la Reserva de Urdaibai invita a reflexionar sobre la importancia de equilibrar el desarrollo cultural y económico con la conservación ambiental, asegurando que las decisiones actuales no comprometan el legado natural para las futuras generaciones.",
         "bsky_msg": "Preocupación – Urdaibai celebra 40 años como Reserva de la Biosfera en medio de debates por su futuro y proyectos controvertidos."
     },
-    "28": {
+    {
         "titular": "Notre Dame reabre sus puertas tras cinco años de restauración",
         "categoria_emocional": "Esperanza",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2171,7 +2171,7 @@
         "reflexion_breve": "La restauración de Notre Dame no solo devuelve a París uno de sus símbolos más queridos, sino que también demuestra la capacidad de la humanidad para reconstruir y preservar su patrimonio cultural.",
         "bsky_msg": "Esperanza – Notre Dame reabre sus puertas tras cinco años de restauración, simbolizando la resiliencia de París."
     },
-    "29": {
+    {
         "titular": "Ábalos niega tener \"dinero, ni patrimonio\" en el extranjero, tampoco a través de terceros",
         "categoria_emocional": "Defensiva",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2255,7 +2255,7 @@
         "reflexion_breve": "La situación de José Luis Ábalos pone de manifiesto la importancia de la transparencia y la integridad en la gestión pública, y cómo las acusaciones de corrupción pueden afectar la confianza ciudadana en las instituciones.",
         "bsky_msg": "Defensiva – Ábalos niega tener bienes en el extranjero y rechaza acusaciones de pagos en efectivo en el 'caso Koldo'."
     },
-    "30": {
+    {
         "titular": "El tiempo para los días 6, 7 y 8 de diciembre de 2024: tiempo invernal con aire polar y nieve",
         "categoria_emocional": "Precaución",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2322,7 +2322,7 @@
         "reflexion_breve": "La llegada anticipada del invierno durante el puente de diciembre nos recuerda la importancia de estar preparados para condiciones meteorológicas adversas y de seguir las recomendaciones de las autoridades para garantizar la seguridad de todos.",
         "bsky_msg": "Precaución – Temporal invernal con aire polar y nieve afectará al estado durante el puente de diciembre."
     },
-    "31": {
+    {
         "titular": "Osakidetza llama a vacunarse de la gripe en previsión de que la circulación del virus aumente en Navidad",
         "categoria_emocional": "Precaución",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2389,7 +2389,7 @@
         "reflexion_breve": "La vacunación es una herramienta clave para prevenir la propagación de la gripe y proteger a los más vulnerables. En épocas festivas, donde las reuniones son frecuentes, es fundamental reforzar las medidas de prevención para cuidar la salud colectiva.",
         "bsky_msg": "Precaución – Osakidetza insta a vacunarse contra la gripe ante el aumento previsto del virus en Navidad."
     },
-    "32": {
+    {
         "titular": "El aeropuerto de Loiu ofrecerá vuelos directos a Estocolmo el próximo verano",
         "categoria_emocional": "Entusiasmo",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2448,7 +2448,7 @@
         "reflexion_breve": "La apertura de esta nueva ruta directa entre Bilbao y Estocolmo representa una oportunidad para fortalecer los lazos culturales y económicos entre el País Vasco y Suecia, facilitando el intercambio y la movilidad entre ambas regiones.",
         "bsky_msg": "Entusiasmo – Norwegian conectará Bilbao y Estocolmo con vuelos directos desde junio de 2025, impulsando el turismo y los negocios."
     },
-    "33": {
+    {
         "titular": "El Gobierno Vasco solicita excluir al lobo del listado de especies en régimen de protección especial",
         "categoria_emocional": "Preocupación",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2540,7 +2540,7 @@
         "reflexion_breve": "La gestión del lobo en el estado representa un desafío que requiere equilibrar la conservación de la biodiversidad con la protección de las actividades ganaderas. Es esencial fomentar el diálogo entre todas las partes involucradas para alcanzar soluciones sostenibles y justas.",
         "bsky_msg": "Preocupación – El Gobierno Vasco solicita excluir al lobo del listado de especies protegidas, señalando daños irreparables en la ganadería."
     },
-    "34": {
+    {
         "titular": "La falta de visibilidad obliga a desviar a Loiu varios vuelos que debían aterrizar en Hondarribia",
         "categoria_emocional": "Precaución",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2588,7 +2588,7 @@
         "reflexion_breve": "Las condiciones meteorológicas adversas resaltan la importancia de contar con planes de contingencia en la aviación para garantizar la seguridad y minimizar las molestias a los pasajeros.",
         "bsky_msg": "Precaución – Varios vuelos con destino a Hondarribia fueron desviados a Loiu por baja visibilidad debido a nubes bajas."
     },
-    "35": {
+    {
         "titular": "Yoon, más cerca de ser destituido tras perder el apoyo del líder de su partido",
         "categoria_emocional": "Tensión política",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2680,7 +2680,7 @@
         "reflexion_breve": "La situación en Corea del Sur destaca la importancia de la estabilidad política y el respeto a los procesos democráticos para mantener la confianza pública y el orden institucional.",
         "bsky_msg": "Tensión política – Presidente surcoreano Yoon Suk-yeol enfrenta posible destitución tras perder apoyo clave en su partido."
     },
-    "36": {
+    {
         "titular": "Detenida una mujer en Gipuzkoa por extorsionar a más de 311 hombres tras seducirlos con inteligencia artificial",
         "categoria_emocional": "Alarma",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2772,7 +2772,7 @@
         "reflexion_breve": "Este incidente subraya la importancia de ser cauteloso en las interacciones en línea y de no compartir contenido íntimo con personas que no se conocen plenamente. La tecnología puede ser una herramienta poderosa, pero también puede ser utilizada con fines malintencionados.",
         "bsky_msg": "Alarma – Mujer detenida en Gipuzkoa por extorsionar a 311 hombres usando imágenes creadas con inteligencia artificial."
     },
-    "37": {
+    {
         "titular": "Mercosur y la Unión Europea cierran un acuerdo de libre comercio",
         "categoria_emocional": "positivo",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2864,7 +2864,7 @@
         "reflexion_breve": "La firma de este acuerdo marca un hito en las relaciones comerciales internacionales, pero su implementación dependerá de la ratificación por parte de los países involucrados y de cómo se aborden las preocupaciones existentes.",
         "bsky_msg": "Positivo – Mercosur y la Unión Europea firman histórico acuerdo de libre comercio tras 25 años de negociaciones."
     },
-    "38": {
+    {
         "titular": "El Tribunal Constitucional de Rumanía anula la primera vuelta de las elecciones presidenciales",
         "categoria_emocional": "controversial",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -2956,7 +2956,7 @@
         "reflexion_breve": "La anulación de elecciones por injerencias extranjeras subraya la importancia de proteger los procesos democráticos de influencias externas que puedan socavar la voluntad popular.",
         "bsky_msg": "Controversial – El Tribunal Constitucional de Rumanía anula la primera vuelta de las presidenciales por injerencias extranjeras."
     },
-    "39": {
+    {
         "titular": "Sánchez aboga por reformar la Constitución para 'blindar' derechos ante el 'avance reaccionario'",
         "categoria_emocional": "preocupación",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -3060,7 +3060,7 @@
         "reflexion_breve": "La propuesta de reforma constitucional refleja la tensión entre avanzar en la protección de derechos sociales y las resistencias políticas que buscan mantener el statu quo. Es esencial fomentar el diálogo y el consenso para fortalecer la democracia y garantizar los derechos de toda la ciudadanía.",
         "bsky_msg": "Preocupación – Sánchez propone reformar la Constitución para proteger derechos como el aborto y el matrimonio igualitario ante posibles retrocesos."
     },
-    "40": {
+    {
         "titular": "Un tribunal federal de EE. UU. ratifica la ley que podría prohibir TikTok en el país",
         "categoria_emocional": "preocupación",
         "fecha_publicacion": "6 de diciembre de 2024",
@@ -3160,7 +3160,7 @@
         "reflexion_breve": "La ratificación de esta ley subraya las crecientes tensiones entre Estados Unidos y China en el ámbito tecnológico y plantea interrogantes sobre el futuro de las plataformas digitales en un entorno geopolítico cada vez más complejo.",
         "bsky_msg": "Preocupación – Tribunal federal de EE. UU. ratifica ley que podría prohibir TikTok si no se desvincula de su matriz china antes de enero de 2025."
     },
-    "41": {
+    {
         "titular": "Tiempo desapacible este sábado, con avisos por viento y nieve en el interior",
         "categoria_emocional": "precaución",
         "fecha_publicacion": "7 de diciembre de 2024",
@@ -3244,7 +3244,7 @@
         "reflexion_breve": "La llegada de condiciones invernales resalta la importancia de la preparación y la atención a las alertas meteorológicas para minimizar riesgos y garantizar la seguridad de la población.",
         "bsky_msg": "Precaución – Se prevén condiciones invernales este sábado con avisos por viento y nieve en el interior; la cota de nieve bajará a 800-1.000 metros."
     },
-    "42": {
+    {
         "titular": "Yoon pide perdón por la ley marcial y deja su cargo en manos de su partido",
         "categoria_emocional": "preocupación",
         "fecha_publicacion": "7 de diciembre de 2024",
@@ -3340,14 +3340,14 @@
         "reflexion_breve": "La situación actual en Corea del Sur destaca la importancia de la separación de poderes y el respeto a los procesos democráticos para mantener la estabilidad política.",
         "bsky_msg": "Preocupación – El presidente Yoon pide disculpas por la ley marcial y deja su cargo en manos de su partido en medio de una crisis política."
     },
-    "titular": "Retenciones de 4 kilómetros en la AP-8 en Biriatu, en sentido Baiona",
-    "categoria_emocional": "Inconveniente",
-    "fecha_publicacion": "6 de diciembre de 2024",
-    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644109/retenciones-de-7-kilometros-en-ap8-en-biriatou-en-sentido-baiona-6-de-diciembre-de-2024/",
-    "url_imagen": "https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg",
-    "resumen": "La autopista AP-8 en Biriatu registra retenciones de 4 kilómetros en dirección a Baiona desde las 10:00 horas, afectando también la circulación en la Gi-636.",
-    "contexto": "La AP-8 es una vía principal que conecta el estado con Francia, y las retenciones en Biriatu son comunes durante períodos de alta movilidad.",
-    "linea_tiempo": [
+    "Retenciones de 4 kilómetros en la AP-8 en Biriatu, en sentido Baiona",
+    "Inconveniente",
+    "6 de diciembre de 2024",
+    "https://www.eitb.eus/es/noticias/sociedad/detalle/9644109/retenciones-de-7-kilometros-en-ap8-en-biriatou-en-sentido-baiona-6-de-diciembre-de-2024/",
+    "https://images14.eitb.eus/multimedia/recursos/generales/img_facebook_eitbcom.jpg",
+    "La autopista AP-8 en Biriatu registra retenciones de 4 kilómetros en dirección a Baiona desde las 10:00 horas, afectando también la circulación en la Gi-636.",
+    "La AP-8 es una vía principal que conecta el estado con Francia, y las retenciones en Biriatu son comunes durante períodos de alta movilidad.",
+    [
         {
             "fecha": "20 de agosto de 2024",
             "descripcion": "Retenciones de 7 kilómetros en la AP-8 en Irun a partir del peaje de Biriatou debido a la gran afluencia de tráfico hacia el norte de Europa."
@@ -3361,7 +3361,7 @@
             "descripcion": "Retenciones de nueve kilómetros en Biriatu por la gran afluencia de tráfico en dirección a Francia."
         }
     ],
-    "glosario_terminos": [
+    [
         {
             "termino": "AP-8",
             "definicion": "Autopista que conecta Bilbao con la frontera francesa en Biriatu."
@@ -3379,7 +3379,7 @@
             "definicion": "Ciudad en el suroeste de Francia, destino común para el tráfico que cruza Biriatu."
         }
     ],
-    "impacto_esperado": "Las retenciones pueden causar demoras significativas para los viajeros y afectar el comercio transfronterizo, especialmente durante fines de semana largos.",
-    "posibles_proximos_pasos": "Se recomienda a los conductores utilizar rutas alternativas y planificar sus viajes con antelación para evitar las zonas afectadas.",
-    "bsky_msg": "Inconveniente – Retenciones de 4 km en la AP-8 en Biriatu hacia Baiona afectan también la Gi-636."
-}
+    "Las retenciones pueden causar demoras significativas para los viajeros y afectar el comercio transfronterizo, especialmente durante fines de semana largos.",
+    "Se recomienda a los conductores utilizar rutas alternativas y planificar sus viajes con antelación para evitar las zonas afectadas.",
+    "Inconveniente – Retenciones de 4 km en la AP-8 en Biriatu hacia Baiona afectan también la Gi-636."
+]
