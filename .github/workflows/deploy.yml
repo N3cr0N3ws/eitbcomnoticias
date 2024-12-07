@@ -17,10 +17,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          fetch-depth: 0
 
       - name: Check last commit
         run: |
-          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B || echo "NO_COMMIT_MESSAGE")
+          echo "Último mensaje de commit: $LAST_COMMIT_MESSAGE"
           if [[ "$LAST_COMMIT_MESSAGE" == *"Actualizar source.json con og:image"* ]]; then
             echo "El último commit fue realizado por el pipeline. Deteniendo ejecución."
             exit 0
