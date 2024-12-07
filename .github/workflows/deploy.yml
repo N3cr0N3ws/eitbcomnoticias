@@ -2,8 +2,8 @@ name: Actualizar source.json con og:image
 
 on:
   push:
-    paths:
-      - '_data/update.json'
+    branches:
+      - merge-temp-4
 
 jobs:
   update-source-json:
@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -38,10 +40,11 @@ jobs:
       - name: Add and commit changes
         run: |
           git add _data/source.json _data/update.json
-          git commit -m "Actualizar source.json con og:image" || echo "No changes to commit"
+          git commit -m "Actualizar source.json con og:image"
+        continue-on-error: true
 
       - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git push origin HEAD || echo "No changes to push"
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        run: git push origin HEAD:merge-temp-4
+          
