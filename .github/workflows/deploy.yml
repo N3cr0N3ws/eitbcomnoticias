@@ -1,68 +1,101 @@
-name: Actualizar source.json con og:image
+name: Actualizar y Construir Jekyll (Sin Despliegue)
 
 on:
   push:
     branches:
       - merge-temp-4
-    paths-ignore:
-      - '_backup/**'
-      - '.github/workflows/**'
 
 jobs:
-  update-source-json:
+  update-and-build:
     runs-on: ubuntu-22.04
 
     steps:
+      # Paso 1: Checkout del repositorio
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           fetch-depth: 0
 
+      # Paso 2: Check last commit para evitar bucles
       - name: Check last commit
         run: |
           LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B || echo "NO_COMMIT_MESSAGE")
           echo "Último mensaje de commit: $LAST_COMMIT_MESSAGE"
-          if [[ "$LAST_COMMIT_MESSAGE" == *"Actualizar source.json con og:image"* ]]; then
-            echo "El último commit fue realizado por el pipeline. Deteniendo ejecución."
+          if [[ "$LAST_COMMIT_MESSAGE" == *"[skip-pipeline]"* ]]; then
+            echo "El último commit fue marcado para ignorar el pipeline. Deteniendo ejecución."
             exit 0
           fi
 
+      # Paso 3: Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
 
+      # Paso 4: Instalar dependencias de Node.js
       - name: Install dependencies
         run: npm install axios cheerio
 
+      # Paso 5: Check si update.json está vacío
       - name: Check if update.json is empty
         run: |
           if [ ! -s _data/update.json ]; then
             echo "update.json está vacío. Deteniendo proceso."
-            exit 1
+            exit 0
           fi
 
+      # Paso 6: Extraer og:image y actualizar update.json
       - name: Extract og:image and update update.json
         run: node mergeJson.js extract-og-image
 
+      # Paso 7: Crear copia de seguridad de source.json
       - name: Backup source.json
         run: node mergeJson.js backup
 
+      # Paso 8: Fusionar update.json en source.json
       - name: Merge update.json into source.json
         run: node mergeJson.js merge
 
+      # Paso 9: Configurar Git
       - name: Configure Git
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
 
+      # Paso 10: Commit y push de cambios
       - name: Add and commit changes
         run: |
           git add _data/source.json _data/update.json _backup/
-          git diff-index --quiet HEAD || git commit -m "Actualizar source.json con og:image"
+          git diff-index --quiet HEAD || git commit -m "Actualizar source.json con og:image [skip-pipeline]"
 
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         run: git push origin HEAD:merge-temp-4
+
+      # Paso 11: Configurar Ruby para Jekyll
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.6'
+          bundler-cache: true
+
+      # Paso 12: Limpiar directorio _site
+      - name: Clean _site directory
+        run: |
+          rm -rf _site || true
+          mkdir _site
+
+      # Paso 13: Instalar dependencias de Jekyll
+      - name: Install Jekyll dependencies
+        run: bundle install
+
+      # Paso 14: Construir el sitio de Jekyll
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build
+
+      # Paso 15: Verificar el contenido de _site
+      - name: Verify _site directory
+        run: |
+          echo "Contents of _site directory:"
+          ls -la ${{ github.workspace }}/_site
