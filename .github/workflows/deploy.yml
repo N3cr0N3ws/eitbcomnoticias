@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Create _backup directory if it doesn't exist
         run: mkdir -p _backup
@@ -35,5 +37,6 @@ jobs:
 
       - name: Push changes
         env:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         run: git push origin HEAD:${{ github.ref }}
+
