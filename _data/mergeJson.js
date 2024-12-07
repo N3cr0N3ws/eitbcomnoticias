@@ -39,19 +39,17 @@ const validateAndCleanJson = (data) => {
 // Función para crear una copia de seguridad del archivo source.json
 const backupSourceFile = (sourcePath) => {
   try {
-    const backupDir = './_backup';
-    if (!fs.existsSync(backupDir)) {
-      fs.mkdirSync(backupDir); // Crear la carpeta _backup si no existe
-    }
-
+    const backupDir = path.resolve(__dirname, '../_backup'); // Usar la carpeta _backup existente
     const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0]; // Formato: año-mes-día-hora
     const backupFileName = `source-${timestamp}.json`;
     const backupPath = path.join(backupDir, backupFileName);
 
     fs.copyFileSync(sourcePath, backupPath); // Crear la copia de seguridad
     console.log(`Copia de seguridad creada en: ${backupPath}`);
+    return true; // Retorna éxito
   } catch (error) {
     console.error(`Error al crear la copia de seguridad: ${error.message}`);
+    return false; // Retorna fallo
   }
 };
 
@@ -85,7 +83,11 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
 
     // Crear copia de seguridad de source.json
     console.log('Creando copia de seguridad de source.json...');
-    backupSourceFile(sourcePath);
+    const backupSuccess = backupSourceFile(sourcePath);
+    if (!backupSuccess) {
+      console.error('No se pudo crear la copia de seguridad. Proceso detenido.');
+      return; // Detiene el proceso si la copia de seguridad falla
+    }
 
     // Actualizar update.json con la imagen antes del merge
     console.log('Actualizando update.json con la imagen...');
@@ -124,4 +126,4 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
 };
 
 // Rutas actualizadas para asegurar que se escriben en _data
-mergeJsonFiles('./_data/source.json', './_data/update.json');
+mergeJsonFiles(path.resolve(__dirname, 'source.json'), path.resolve(__dirname, 'update.json'));
