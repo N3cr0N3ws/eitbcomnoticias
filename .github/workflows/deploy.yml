@@ -3,45 +3,77 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - merge-temp-4 # Ejecutar el workflow en esta nueva rama
 
 jobs:
-  build-and-deploy:
+  merge-and-deploy:
     runs-on: ubuntu-22.04
 
     steps:
+      # 1. Checkout del código
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # 2. Setup Node.js para el proceso de merge
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 3. Instalar dependencias para el script de merge
+      - name: Install dependencies
+        run: npm install axios cheerio
+
+      # 4. Actualizar y mergear los JSON
+      - name: Update and merge JSON files
+        run: node _data/mergeJson.js
+
+      # 5. Commit y push de los cambios en los JSON
+      - name: Commit and push merged JSON
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./_data
+          publish_branch: merge-temp-4
+          keep_files: true # Preservar archivos existentes en la rama
+
+      # 6. Setup Ruby para el proceso Jekyll
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3.6'
           bundler-cache: true
 
+      # 7. Limpiar el directorio _site
       - name: Clean _site directory
         run: |
           rm -rf _site || true
           mkdir _site
 
+      # 8. Instalar dependencias de Jekyll
       - name: Install dependencies
         run: bundle install
 
+      # 9. Construir el sitio Jekyll
       - name: Build Jekyll site
         run: JEKYLL_ENV=production bundle exec jekyll build
 
+      # 10. Verificar el contenido del directorio _site
       - name: Verify _site directory
         run: |
           echo "Contents of _site directory:"
           ls -la ${{ github.workspace }}/_site
 
+      # 11. Desplegar el sitio en GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ${{ github.workspace }}/_site
           publish_branch: gh-pages
-          force_orphan: true
+          keep_files: true # Preservar archivos existentes en gh-pages
+          force_orphan: false
 
+      # 12. Listar ramas para verificación
       - name: List branches
         run: git branch -r
