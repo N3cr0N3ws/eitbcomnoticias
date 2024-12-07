@@ -3388,7 +3388,57 @@
     ],
     "impacto_esperado": "La reparación del árbol de Navidad de Moyúa permite que residentes y visitantes disfruten plenamente de las atracciones navideñas de Bilbao, contribuyendo al ambiente festivo y al atractivo turístico de la ciudad durante estas fechas.",
     "bsky_msg": "Alivio – El Árbol de Navidad de Moyúa en Bilbao vuelve a iluminarse tras una avería que lo mantuvo apagado. El Ayuntamiento confirma su reparación."
+  },
+  {
+    "titular": "El Paseo Nuevo y el Peine del Viento de San Sebastián, cerrados por el temporal",
+    "categoria_emocional": "Precaución",
+    "fecha_publicacion": "7 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644583/el-paseo-nuevo-y-peine-del-viento-de-san-sebastian-cerrados-por-temporal/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2023/01/13/3036273/20230113102419_olas-olatuak-temporal-den_foto610x342.jpg",
+    "resumen": "Debido a un temporal de viento, lluvia y oleaje, el Ayuntamiento de San Sebastián ha cerrado el Paseo Nuevo y el acceso al Peine del Viento desde las 17:00 horas de este sábado hasta, al menos, el lunes, para garantizar la seguridad de ciudadanos y visitantes.",
+    "contexto": "San Sebastián, conocida por su costa y paseos marítimos, suele enfrentar cierres preventivos en zonas como el Paseo Nuevo y el Peine del Viento durante temporales para evitar accidentes por fuertes oleajes.",
+    "linea_tiempo": [
+      {
+        "fecha": "25 de septiembre de 2020",
+        "descripcion": "Cierre del Paseo Nuevo y el acceso al Peine del Viento debido a un temporal de viento y oleaje."
+      },
+      {
+        "fecha": "3 de agosto de 2023",
+        "descripcion": "El temporal obliga al cierre del Paseo Nuevo, el Peine del Viento y la isla de Santa Clara en San Sebastián."
+      },
+      {
+        "fecha": "19 de octubre de 2023",
+        "descripcion": "San Sebastián cierra parques y paseos marítimos, incluyendo el Paseo Nuevo y el Peine del Viento, por un temporal de viento y olas."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Protección Civil de San Sebastián",
+        "descripcion": "Organismo encargado de coordinar medidas de seguridad y prevención ante situaciones de emergencia en la ciudad."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Paseo Nuevo",
+        "definicion": "Paseo marítimo en San Sebastián que rodea el Monte Urgull, popular entre residentes y turistas por sus vistas al mar."
+      },
+      {
+        "termino": "Peine del Viento",
+        "definicion": "Conjunto escultórico de Eduardo Chillida ubicado al final de la playa de Ondarreta en San Sebastián, integrado por tres piezas de acero incrustadas en las rocas."
+      },
+      {
+        "termino": "Alerta naranja",
+        "definicion": "Nivel de aviso meteorológico que indica un riesgo importante debido a fenómenos meteorológicos inusuales y peligrosos para las actividades habituales."
+      },
+      {
+        "termino": "Oleaje",
+        "definicion": "Movimiento de las olas en la superficie del mar, que puede intensificarse durante temporales, afectando las zonas costeras."
+      }
+    ],
+    "impacto_esperado": "El cierre de estas áreas emblemáticas afecta tanto a residentes como a turistas, limitando el acceso a puntos de interés y potencialmente impactando actividades comerciales y turísticas locales.",
+    "bsky_msg": "Precaución – San Sebastián cierra el Paseo Nuevo y el Peine del Viento por temporal de viento y oleaje hasta el lunes para garantizar la seguridad."
   }
+  
   
   
   
