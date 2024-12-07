@@ -1,4 +1,4 @@
-name: Test Merge and Deploy Workflow
+name: Backup source.json
 
 on:
   push:
@@ -6,83 +6,21 @@ on:
       - merge-temp-4
 
 jobs:
-  merge-and-deploy:
-    runs-on: ubuntu-22.04
+  backup-job:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          ref: merge-temp-4
 
-      - name: Verify mergeJson.js exists
+      - name: Create _backup directory if it doesn't exist
         run: |
-          set -e
-          if [ ! -f mergeJson.js ]; then
-            echo "mergeJson.js no encontrado. Proceso detenido."
-            exit 1
-          fi
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      - name: Install dependencies
-        run: npm install axios cheerio
+          mkdir -p _backup
 
       - name: Backup source.json
         run: |
-          set -e
-          node mergeJson.js backup
-        working-directory: ./
+          cp _data/source.json _backup/source-$(date +'%Y%m%d%H%M%S').json
 
-      - name: Verify backup created
+      - name: List contents of _backup directory
         run: |
-          set -e
-          ls -la _backup || (echo "No se creó la copia de seguridad" && exit 1)
-
-      - name: Update and merge JSON files
-        run: |
-          set -e
-          node mergeJson.js
-
-      - name: Verify update.json is empty
-        run: |
-          set -e
-          if [ "$(cat _data/update.json)" != "{}" ]; then
-            echo "update.json no se limpió correctamente. Proceso detenido."
-            exit 1
-          fi
-
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3.6'
-          bundler-cache: true
-
-      - name: Clean _site directory
-        run: |
-          set -e
-          rm -rf _site || true
-          mkdir _site
-
-      - name: Install Jekyll dependencies
-        run: bundle install
-
-      - name: Build Jekyll site
-        run: JEKYLL_ENV=production bundle exec jekyll build
-
-      - name: Verify _site directory
-        run: |
-          echo "Contenido del directorio _site:"
-          ls -la _site
-
-      - name: Commit backup file if exists
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./_backup
-          publish_branch: merge-temp-4
-          keep_files: true
-          force_orphan: false
+          ls -la _backup
