@@ -1,50 +1,100 @@
 {
-  "titular": "El Paseo Nuevo y el Peine del Viento de San Sebastián, cerrados por el temporal",
-  "categoria_emocional": "Precaución",
+  "titular": "Notre Dame reabre sus puertas tras cinco años de restauración",
+  "categoria_emocional": "Esperanza",
   "fecha_publicacion": "7 de diciembre de 2024",
-  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644583/el-paseo-nuevo-y-peine-del-viento-de-san-sebastian-cerrados-por-temporal/",
-  "url_imagen": "",
-  "resumen": "Debido a un temporal de viento, lluvia y oleaje, el Ayuntamiento de San Sebastián ha cerrado el Paseo Nuevo, el Paseo Leizaola y el acceso al Peine del Viento desde las 17:00 horas del sábado hasta, al menos, el lunes.",
-  "contexto": "San Sebastián, una ciudad costera en el estado, suele enfrentar temporales que afectan sus paseos marítimos y zonas costeras emblemáticas, como el Paseo Nuevo y el Peine del Viento.",
+  "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9643984/notre-dame-vuelve-a-abrir-sus-puertas/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La catedral de Notre Dame en París reabre al público este fin de semana, cinco años después del incendio de 2019 que la devastó. Las ceremonias de reapertura incluyen actos oficiales y religiosos, con la asistencia de líderes mundiales y una misa inaugural.",
+  "contexto": "Notre Dame, símbolo histórico y cultural de París, sufrió un incendio en 2019 que destruyó su techo y aguja. La restauración ha sido un esfuerzo monumental para devolverle su esplendor.",
   "linea_tiempo": [
     {
-      "fecha": "25 de septiembre de 2020",
-      "descripcion": "Un temporal de viento y oleaje obligó al cierre del Paseo Nuevo y el acceso al Peine del Viento en San Sebastián."
+      "fecha": "15 de abril de 2019",
+      "descripcion": "Un incendio devastador destruye el techo y la aguja de la catedral de Notre Dame en París."
     },
     {
-      "fecha": "3 de agosto de 2023",
-      "descripcion": "El Ayuntamiento de San Sebastián cerró el Paseo Nuevo, el Peine del Viento y la isla de Santa Clara debido a un fuerte temporal marítimo."
+      "fecha": "17 de abril de 2019",
+      "descripcion": "El presidente Emmanuel Macron anuncia un plan de restauración de cinco años para Notre Dame."
     },
     {
-      "fecha": "19 de octubre de 2023",
-      "descripcion": "San Sebastián implementó medidas preventivas, cerrando parques y paseos marítimos ante un temporal de viento y olas."
+      "fecha": "18 de septiembre de 2021",
+      "descripcion": "Se completan los trabajos de seguridad en la catedral, permitiendo el inicio de la reconstrucción."
+    },
+    {
+      "fecha": "15 de abril de 2024",
+      "descripcion": "La nueva aguja de Notre Dame se instala, marcando un hito en la restauración."
     }
   ],
-  "quien_es_quien": [],
+  "quien_es_quien": [
+    {
+      "nombre": "Emmanuel Macron",
+      "descripcion": "Presidente de Francia, impulsor del plan de restauración de Notre Dame tras el incendio de 2019."
+    },
+    {
+      "nombre": "Laurent Ulrich",
+      "descripcion": "Arzobispo de París, encargado de liderar las ceremonias religiosas en la reapertura de Notre Dame."
+    },
+    {
+      "nombre": "Donald Trump",
+      "descripcion": "Presidente electo de Estados Unidos, invitado a la ceremonia de reapertura de Notre Dame."
+    }
+  ],
   "glosario_terminos": [
     {
-      "termino": "Paseo Nuevo",
-      "definicion": "Paseo marítimo en San Sebastián que rodea el Monte Urgull, conocido por sus vistas al mar y su exposición a temporales."
+      "termino": "Aguja",
+      "definicion": "Estructura puntiaguda que se eleva sobre el techo de una catedral, característica de la arquitectura gótica."
     },
     {
-      "termino": "Peine del Viento",
-      "definicion": "Conjunto escultórico de Eduardo Chillida ubicado en San Sebastián, integrado por tres piezas de acero incrustadas en las rocas al borde del mar."
+      "termino": "Restauración",
+      "definicion": "Proceso de reparación y renovación de una estructura para devolverla a su estado original."
     },
     {
-      "termino": "Paseo Leizaola",
-      "definicion": "También conocido como espigón de Zurriola, es un paseo en San Sebastián que protege la playa de Zurriola y es susceptible a cierres durante temporales."
+      "termino": "Misa inaugural",
+      "definicion": "Primera celebración litúrgica que marca la reapertura de un lugar de culto."
     },
     {
-      "termino": "Protección Civil",
-      "definicion": "Organismo encargado de coordinar acciones de prevención y respuesta ante emergencias y desastres naturales."
+      "termino": "Patrimonio cultural",
+      "definicion": "Conjunto de bienes culturales que una sociedad considera valiosos y dignos de ser preservados."
     }
   ],
-  "impacto_esperado": "El cierre de estos paseos y accesos afecta tanto a residentes como a turistas, limitando el tránsito y las actividades recreativas en áreas costeras emblemáticas de San Sebastián.",
-  "comparativas": "Ciudades costeras como Bilbao también implementan cierres preventivos en paseos marítimos y zonas vulnerables durante temporales para garantizar la seguridad pública.",
-  "opinion_publica": [],
-  "posibles_proximos_pasos": "Se espera que las autoridades locales realicen evaluaciones continuas del estado del mar y las condiciones meteorológicas para determinar la reapertura segura de los paseos y accesos cerrados.",
-  "datos_relevantes": [],
-  "chequeo_datos": [],
-  "reflexion_breve": "La recurrencia de temporales en la costa del estado subraya la importancia de las medidas preventivas para proteger tanto a la población como al patrimonio natural y cultural.",
-  "bsky_msg": "Precaución – Cierre del Paseo Nuevo y el Peine del Viento en San Sebastián debido a temporal de viento y oleaje."
+  "impacto_esperado": "La reapertura de Notre Dame revitalizará el turismo en París, reforzará la identidad cultural francesa y servirá como símbolo de resiliencia y unidad tras la tragedia.",
+  "comparativas": "La restauración de la catedral de San Pablo en Londres, dañada durante la Segunda Guerra Mundial, también fue un símbolo de recuperación nacional.",
+  "opinion_publica": [
+    {
+      "fuente": "Le Monde",
+      "reaccion": "La reapertura de Notre Dame es un testimonio del compromiso de Francia con su patrimonio cultural."
+    },
+    {
+      "fuente": "The New York Times",
+      "reaccion": "Un logro monumental que demuestra la capacidad de recuperación ante la adversidad."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que continúen las obras de restauración en áreas menos críticas de la catedral, mientras se reanudan las actividades litúrgicas y turísticas.",
+  "datos_relevantes": [
+    {
+      "dato": "Más de 2.000 trabajadores y 250 talleres participaron en la restauración de Notre Dame.",
+      "fuente": "Cadena SER"
+    },
+    {
+      "dato": "La restauración tuvo un costo de más de 800 millones de euros.",
+      "fuente": "Cadena SER"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "La catedral de Notre Dame reabre sus puertas este fin de semana.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Las ceremonias de reapertura están programadas para el 7 y 8 de diciembre de 2024."
+      }
+    },
+    {
+      "afirmacion": "Unos 35 jefes de Estado y de Gobierno han confirmado su asistencia a la ceremonia oficial.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Líderes mundiales, incluyendo el presidente electo de EE.UU., Donald Trump, asistirán a la ceremonia."
+      }
+    }
+  ],
+  "reflexion_breve": "La restauración de Notre Dame no solo recupera un monumento histórico, sino que también simboliza la capacidad humana para reconstruir y unirse tras la adversidad.",
+  "bsky_msg": "Esperanza – Notre Dame reabre sus puertas tras cinco años de restauración, simbolizando resiliencia y unidad."
 }
