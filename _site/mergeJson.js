@@ -3,10 +3,8 @@ const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-// URL por defecto en caso de que no se encuentre la imagen
 const DEFAULT_IMAGE_URL = 'https://picsum.photos/800/900';
 
-// Función para obtener la imagen desde el meta og:image
 const fetchOgImage = async (url) => {
   try {
     console.log(`Intentando obtener la imagen desde: ${url}`);
@@ -15,40 +13,38 @@ const fetchOgImage = async (url) => {
     const ogImage = $('meta[property="og:image"]').attr('content');
     if (!ogImage) {
       console.warn(`No se encontró la etiqueta og:image en la URL: ${url}`);
-      return DEFAULT_IMAGE_URL; // Usar URL por defecto si no se encuentra
+      return DEFAULT_IMAGE_URL;
     }
     console.log(`Imagen obtenida: ${ogImage}`);
     return ogImage;
   } catch (error) {
     console.error(`Error al obtener la imagen desde ${url}: ${error.message}`);
-    return DEFAULT_IMAGE_URL; // Usar URL por defecto si hay un error
+    return DEFAULT_IMAGE_URL;
   }
 };
 
-// Función para validar y limpiar el JSON
 const validateAndCleanJson = (data) => {
   return data.filter((article) => {
     if (article && typeof article === 'object' && article.titular) {
-      return true; // Artículo válido
+      return true;
     }
     console.warn(`Artículo inválido encontrado y omitido: ${JSON.stringify(article)}`);
-    return false; // Omitir artículos inválidos
+    return false;
   });
 };
 
-// Función para crear una copia de seguridad del archivo source.json
 const backupSourceFile = (sourcePath) => {
   try {
-    const backupDir = path.resolve('./_backup'); // Garantizar que _backup sea relativo al directorio raíz
+    const backupDir = path.resolve(__dirname, '_backup'); // Asegura rutas absolutas
     if (!fs.existsSync(backupDir)) {
-      fs.mkdirSync(backupDir); // Crear la carpeta _backup si no existe
+      fs.mkdirSync(backupDir);
     }
 
-    const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0]; // Formato: año-mes-día-hora
+    const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0];
     const backupFileName = `source-${timestamp}.json`;
     const backupPath = path.join(backupDir, backupFileName);
 
-    fs.copyFileSync(sourcePath, backupPath); // Crear la copia de seguridad
+    fs.copyFileSync(sourcePath, backupPath);
     console.log(`Copia de seguridad creada en: ${backupPath}`);
     return true;
   } catch (error) {
@@ -57,7 +53,6 @@ const backupSourceFile = (sourcePath) => {
   }
 };
 
-// Función para actualizar el JSON con la imagen desde la canonical
 const updateJsonWithImage = async (updatePath) => {
   try {
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
@@ -79,12 +74,10 @@ const updateJsonWithImage = async (updatePath) => {
   }
 };
 
-// Función para fusionar los JSON
 const mergeJsonFiles = async (sourcePath, updatePath) => {
   try {
     console.log('Iniciando el proceso de merge...');
 
-    // Crear copia de seguridad de source.json
     console.log('Creando copia de seguridad de source.json...');
     const backupSuccess = backupSourceFile(sourcePath);
     if (!backupSuccess) {
@@ -92,7 +85,6 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
       return;
     }
 
-    // Actualizar update.json con la imagen antes del merge
     console.log('Actualizando update.json con la imagen...');
     const imageUpdated = await updateJsonWithImage(updatePath);
     if (!imageUpdated) {
@@ -115,7 +107,6 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
     console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
 
-    // Limpiar el archivo de actualización dentro de la carpeta _data
     fs.writeFileSync(updatePath, JSON.stringify({}, null, 4));
     console.log(`El archivo '${updatePath}' ha sido limpiado.`);
   } catch (error) {
@@ -123,5 +114,8 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
   }
 };
 
-// Ejecutar el proceso
-mergeJsonFiles('./_data/source.json', './_data/update.json');
+if (process.argv[2] === 'backup') {
+  backupSourceFile('./_data/source.json');
+} else {
+  mergeJsonFiles('./_data/source.json', './_data/update.json');
+}
