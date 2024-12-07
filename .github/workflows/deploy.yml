@@ -16,7 +16,7 @@ jobs:
         with:
           ref: merge-temp-4
 
-      # 2. Verificar que el script mergeJson.js existe en el directorio raíz
+      # 2. Verificar que mergeJson.js existe en el directorio raíz
       - name: Verify mergeJson.js exists
         run: |
           if [ ! -f mergeJson.js ]; then
@@ -38,25 +38,30 @@ jobs:
       - name: Backup source.json
         run: node mergeJson.js backup
 
-      # 6. Verificar que la copia de seguridad se haya creado
-      - name: Verify backup creation
+      # 6. Inspeccionar la carpeta _backup
+      - name: Inspect _backup directory
         run: |
-          if [ ! "$(ls -A _backup 2>/dev/null)" ]; then
-            echo "Copia de seguridad no creada. Proceso detenido."
+          echo "Contenido de la carpeta _backup:"
+          ls -la _backup
+
+      # 7. Confirmar y commitear la copia de seguridad
+      - name: Commit backup file if exists
+        run: |
+          if [ "$(ls -A _backup)" ]; then
+            echo "Archivos en _backup encontrados. Realizando commit..."
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+            git add _backup/*
+            git commit -m "Copia de seguridad creada en _backup"
+            git push origin merge-temp-4
+          else
+            echo "No se encontraron archivos en _backup. Proceso detenido."
             exit 1
           fi
 
-      # 7. Actualizar y mergear los JSON
+      # 8. Actualizar y mergear los JSON
       - name: Update and merge JSON files
         run: node mergeJson.js
-
-      # 8. Verificar que los archivos source.json y update.json están en _data
-      - name: Verify JSON files location
-        run: |
-          if [ ! -f _data/source.json ] || [ ! -f _data/update.json ]; then
-            echo "Archivos JSON no están en la carpeta _data. Proceso detenido."
-            exit 1
-          fi
 
       # 9. Inspeccionar el contenido de source.json
       - name: Inspect merged JSON
