@@ -23,16 +23,6 @@ const fetchOgImage = async (url) => {
   }
 };
 
-const validateAndCleanJson = (data) => {
-  return data.filter((article) => {
-    if (article && typeof article === 'object' && article.titular) {
-      return true;
-    }
-    console.warn(`Artículo inválido encontrado y omitido: ${JSON.stringify(article)}`);
-    return false;
-  });
-};
-
 const backupSourceFile = (sourcePath) => {
   try {
     const backupDir = path.resolve(__dirname, '_backup');
@@ -61,7 +51,7 @@ const updateJsonWithImage = async (updatePath) => {
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
     if (!updateData.url_canonical) {
-      console.warn(`El archivo '${updatePath}' no contiene una URL canonical. Proceso detenido.`);
+      console.warn(`El archivo '${updatePath}' no contiene una URL canónica. Proceso detenido.`);
       return false;
     }
 
@@ -98,22 +88,15 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
-    const validatedSourceData = validateAndCleanJson(sourceData);
-    const validatedUpdateData = validateAndCleanJson([updateData]);
-
-    if (validatedUpdateData.length === 0) {
-      console.warn(`El archivo '${updatePath}' está vacío después de la validación. Proceso detenido.`);
-      return;
-    }
-
-    const mergedData = [...validatedSourceData, ...validatedUpdateData];
+    const mergedData = [...sourceData, updateData];
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
-    console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
+    console.log(`La fusión entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
 
+    // Limpiar el contenido de update.json
     fs.writeFileSync(updatePath, JSON.stringify({}, null, 4));
-    console.log(`El archivo '${updatePath}' ha sido limpiado.`);
+    console.log(`El archivo '${updatePath}' ha sido vaciado.`);
   } catch (error) {
-    console.error(`Error al mergear los archivos JSON: ${error.message}`);
+    console.error(`Error al fusionar los archivos JSON: ${error.message}`);
   }
 };
 
@@ -125,3 +108,4 @@ if (process.argv[2] === 'backup') {
     path.resolve(__dirname, '_data/update.json')
   );
 }
+
