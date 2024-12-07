@@ -1,0 +1,90 @@
+name: Test Merge and Deploy Workflow
+
+on:
+  push:
+    branches:
+      - merge-temp-4
+
+jobs:
+  merge-and-deploy:
+    runs-on: ubuntu-22.04
+
+    steps:
+      # 1. Checkout del código en la rama correcta
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: merge-temp-4
+
+      # 2. Verificar que el script mergeJson.js existe en el directorio raíz
+      - name: Verify mergeJson.js exists
+        run: |
+          if [ ! -f mergeJson.js ]; then
+            echo "mergeJson.js no encontrado. Proceso detenido."
+            exit 1
+          fi
+
+      # 3. Setup Node.js para el proceso de merge
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      # 4. Instalar dependencias necesarias para el script
+      - name: Install dependencies
+        run: npm install axios cheerio
+
+      # 5. Crear una copia de seguridad de source.json
+      - name: Backup source.json
+        run: node mergeJson.js backup
+
+      # 6. Verificar que la copia de seguridad se haya creado
+      - name: Verify backup creation
+        run: |
+          if [ ! "$(ls -A _backup 2>/dev/null)" ]; then
+            echo "Copia de seguridad no creada. Proceso detenido."
+            exit 1
+          fi
+
+      # 7. Actualizar y mergear los JSON
+      - name: Update and merge JSON files
+        run: node mergeJson.js
+
+      # 8. Verificar que los archivos source.json y update.json están en _data
+      - name: Verify JSON files location
+        run: |
+          if [ ! -f _data/source.json ] || [ ! -f _data/update.json ]; then
+            echo "Archivos JSON no están en la carpeta _data. Proceso detenido."
+            exit 1
+          fi
+
+      # 9. Inspeccionar el contenido de source.json
+      - name: Inspect merged JSON
+        run: cat _data/source.json
+
+      # 10. Setup Ruby para el proceso Jekyll
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.6'
+          bundler-cache: true
+
+      # 11. Limpiar el directorio _site
+      - name: Clean _site directory
+        run: |
+          rm -rf _site || true
+          mkdir _site
+
+      # 12. Instalar dependencias de Jekyll
+      - name: Install Jekyll dependencies
+        run: bundle install
+
+      # 13. Construir el sitio Jekyll
+      - name: Build Jekyll site
+        run: JEKYLL_ENV=production bundle exec jekyll build
+
+      # 14. Verificar el contenido del directorio _site
+      - name: Verify _site directory
+        run: |
+          echo "Contenido del directorio _site:"
+          ls -la _site

@@ -15,13 +15,13 @@ const fetchOgImage = async (url) => {
     const ogImage = $('meta[property="og:image"]').attr('content');
     if (!ogImage) {
       console.warn(`No se encontró la etiqueta og:image en la URL: ${url}`);
-      return DEFAULT_IMAGE_URL; // Usar URL por defecto si no se encuentra
+      return DEFAULT_IMAGE_URL;
     }
     console.log(`Imagen obtenida: ${ogImage}`);
     return ogImage;
   } catch (error) {
     console.error(`Error al obtener la imagen desde ${url}: ${error.message}`);
-    return DEFAULT_IMAGE_URL; // Usar URL por defecto si hay un error
+    return DEFAULT_IMAGE_URL;
   }
 };
 
@@ -29,27 +29,27 @@ const fetchOgImage = async (url) => {
 const validateAndCleanJson = (data) => {
   return data.filter((article) => {
     if (article && typeof article === 'object' && article.titular) {
-      return true; // Artículo válido
+      return true;
     }
     console.warn(`Artículo inválido encontrado y omitido: ${JSON.stringify(article)}`);
-    return false; // Omitir artículos inválidos
+    return false;
   });
 };
 
 // Función para crear una copia de seguridad del archivo source.json
 const backupSourceFile = (sourcePath) => {
   try {
-    const backupDir = path.resolve(__dirname, '../_backup'); // Usar la carpeta _backup existente
-    const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0]; // Formato: año-mes-día-hora
+    const backupDir = './_backup';
+    const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0];
     const backupFileName = `source-${timestamp}.json`;
     const backupPath = path.join(backupDir, backupFileName);
 
-    fs.copyFileSync(sourcePath, backupPath); // Crear la copia de seguridad
+    fs.copyFileSync(sourcePath, backupPath);
     console.log(`Copia de seguridad creada en: ${backupPath}`);
-    return true; // Retorna éxito
+    return true;
   } catch (error) {
     console.error(`Error al crear la copia de seguridad: ${error.message}`);
-    return false; // Retorna fallo
+    return false;
   }
 };
 
@@ -64,9 +64,8 @@ const updateJsonWithImage = async (updatePath) => {
     }
 
     const ogImage = await fetchOgImage(updateData.url_canonical);
-    updateData.url_imagen = ogImage; // Actualizar con la URL obtenida o la por defecto
+    updateData.url_imagen = ogImage;
 
-    // Guardar el JSON actualizado dentro de la carpeta _data
     fs.writeFileSync(updatePath, JSON.stringify(updateData, null, 4), 'utf-8');
     console.log(`La URL de la imagen fue actualizada en '${updatePath}'.`);
     return true;
@@ -81,28 +80,21 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
   try {
     console.log('Iniciando el proceso de merge...');
 
-    // Crear copia de seguridad de source.json
-    console.log('Creando copia de seguridad de source.json...');
     const backupSuccess = backupSourceFile(sourcePath);
     if (!backupSuccess) {
       console.error('No se pudo crear la copia de seguridad. Proceso detenido.');
-      return; // Detiene el proceso si la copia de seguridad falla
+      return;
     }
 
-    // Actualizar update.json con la imagen antes del merge
-    console.log('Actualizando update.json con la imagen...');
     const imageUpdated = await updateJsonWithImage(updatePath);
     if (!imageUpdated) {
       console.warn('No se pudo actualizar el JSON con la imagen. Proceso detenido.');
       return;
     }
 
-    // Leer ambos JSON
-    console.log('Leyendo los archivos JSON...');
     const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
-    // Validar y limpiar los datos
     const validatedSourceData = validateAndCleanJson(sourceData);
     const validatedUpdateData = validateAndCleanJson([updateData]);
 
@@ -111,13 +103,10 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
       return;
     }
 
-    // Realizar el merge
-    console.log('Realizando el merge...');
     const mergedData = [...validatedSourceData, ...validatedUpdateData];
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
     console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
 
-    // Limpiar el archivo de actualización dentro de la carpeta _data
     fs.writeFileSync(updatePath, JSON.stringify({}, null, 4), 'utf-8');
     console.log(`El archivo '${updatePath}' ha sido limpiado.`);
   } catch (error) {
@@ -125,5 +114,5 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
   }
 };
 
-// Rutas actualizadas para asegurar que se escriben en _data
-mergeJsonFiles(path.resolve(__dirname, 'source.json'), path.resolve(__dirname, 'update.json'));
+// Ejecutar el proceso
+mergeJsonFiles('./_data/source.json', './_data/update.json');
