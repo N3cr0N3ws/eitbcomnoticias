@@ -3437,9 +3437,57 @@
     ],
     "impacto_esperado": "El cierre de estas áreas emblemáticas afecta tanto a residentes como a turistas, limitando el acceso a puntos de interés y potencialmente impactando actividades comerciales y turísticas locales.",
     "bsky_msg": "Precaución – San Sebastián cierra el Paseo Nuevo y el Peine del Viento por temporal de viento y oleaje hasta el lunes para garantizar la seguridad."
+  },
+  {
+    "titular": "La tormenta Darragh afectará a Iparralde, tanto en la costa como en el Pirineo",
+    "categoria_emocional": "Alerta",
+    "fecha_publicacion": "7 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644614/la-tormenta-darragh-afectara-a-iparralde-tanto-en-costa-como-en-pirineo/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/07/3291420/20241207131408_ori-orhi-ory-orhy-2017m-e_foto610x342.jpg
+    ",
+    "resumen": "La tormenta Darragh, situada en el norte de Francia, impactará en Iparralde con lluvias intensas, vientos fuertes y nevadas en los Pirineos. France Météo ha emitido avisos amarillos y naranjas por viento, precipitaciones, tormentas, oleaje, inundaciones y nieve. El Ayuntamiento de Baiona ha suspendido eventos navideños como medida preventiva.",
+    "contexto": "Iparralde, la región vasca en el estado francés, se prepara para enfrentar condiciones meteorológicas adversas debido a la tormenta Darragh, que afectará tanto la costa como el Pirineo.",
+    "linea_tiempo": [
+      {
+        "fecha": "29 de agosto de 2024",
+        "descripcion": "Met Éireann, junto con los servicios meteorológicos del Reino Unido y los Países Bajos, anuncia la lista de nombres para la temporada de tormentas 2024/2025, incluyendo 'Darragh'."
+      },
+      {
+        "fecha": "3 de diciembre de 2024",
+        "descripcion": "Met Éireann advierte sobre la posible llegada de la tormenta Darragh a Irlanda, instando al público a mantenerse informado sobre el pronóstico."
+      },
+      {
+        "fecha": "7 de diciembre de 2024",
+        "descripcion": "France Météo emite avisos por viento, precipitaciones, tormentas, oleaje, inundaciones y nieve en Iparralde debido a la tormenta Darragh."
+      }
+    ],
+    "quien_es_quien": [],
+    "glosario_terminos": [
+      {
+        "termino": "Iparralde",
+        "definicion": "Región del País Vasco ubicada en el estado francés, que incluye Lapurdi, Baja Navarra y Zuberoa."
+      },
+      {
+        "termino": "France Météo",
+        "definicion": "Agencia meteorológica nacional de Francia, responsable de emitir pronósticos y alertas del tiempo."
+      },
+      {
+        "termino": "Aviso amarillo",
+        "definicion": "Nivel de alerta meteorológica que indica fenómenos habituales pero potencialmente peligrosos, requiriendo precaución."
+      },
+      {
+        "termino": "Aviso naranja",
+        "definicion": "Nivel de alerta meteorológica que señala fenómenos peligrosos de intensidad significativa, aconsejando mayor precaución."
+      }
+    ],
+    "impacto_esperado": "Se anticipan interrupciones en actividades cotidianas, cancelación de eventos y posibles afectaciones en infraestructuras debido a las condiciones meteorológicas adversas.",
+    "comparativas": "En diciembre de 2023, la tormenta Bella afectó a regiones del estado francés con características similares, resultando en inundaciones y cortes de energía.",
+    "opinion_publica": [],
+    "posibles_proximos_pasos": "Las autoridades locales continuarán monitoreando la situación y podrían implementar medidas adicionales, como restricciones de tráfico o evacuaciones preventivas, según evolucione el clima.",
+    "datos_relevantes": [],
+    "chequeo_datos": [],
+    "reflexion_breve": "La preparación y la atención a las alertas meteorológicas son esenciales para mitigar los impactos de fenómenos naturales como la tormenta Darragh.",
+    "bsky_msg": "Alerta – La tormenta Darragh impactará Iparralde con lluvias, vientos y nieve; autoridades emiten avisos y suspenden eventos."
   }
-  
-  
-  
   
 ] 
