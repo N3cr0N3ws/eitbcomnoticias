@@ -23,6 +23,13 @@ jobs:
       - name: Install dependencies
         run: npm install axios cheerio
 
+      - name: Check if update.json is empty
+        run: |
+          if [ ! -s _data/update.json ]; then
+            echo "update.json está vacío. Deteniendo proceso."
+            exit 1
+          fi
+
       - name: Extract og:image and update update.json
         run: node mergeJson.js extract-og-image
 
@@ -47,4 +54,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         run: git push origin HEAD:merge-temp-4
-          

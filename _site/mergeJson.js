@@ -74,6 +74,11 @@ const mergeJsonFiles = (sourcePath, updatePath) => {
     const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
+    if (!Object.keys(updateData).length) {
+      console.warn('El archivo update.json está vacío. Proceso detenido.');
+      return;
+    }
+
     const mergedData = [...sourceData, updateData];
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
     console.log(`La fusión entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
