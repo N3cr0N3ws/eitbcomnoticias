@@ -23,8 +23,14 @@ jobs:
       - name: Install dependencies
         run: npm install axios cheerio
 
-      - name: Run mergeJson.js script
-        run: node mergeJson.js
+      - name: Extract og:image and update update.json
+        run: node mergeJson.js extract-og-image
+
+      - name: Backup source.json
+        run: node mergeJson.js backup
+
+      - name: Merge update.json into source.json
+        run: node mergeJson.js merge
 
       - name: Configure Git
         run: |
@@ -41,4 +47,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         run: git push origin HEAD:merge-temp-4
-
+          
