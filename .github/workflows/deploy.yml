@@ -38,30 +38,23 @@ jobs:
       - name: Backup source.json
         run: node mergeJson.js backup
 
-      # 6. Inspeccionar la carpeta _backup
-      - name: Inspect _backup directory
-        run: |
-          echo "Contenido de la carpeta _backup:"
-          ls -la _backup
-
-      # 7. Confirmar y commitear la copia de seguridad
+      # 6. Confirmar y commitear la copia de seguridad
       - name: Commit backup file if exists
-        run: |
-          if [ "$(ls -A _backup)" ]; then
-            echo "Archivos en _backup encontrados. Realizando commit..."
-            git config user.name "GitHub Actions"
-            git config user.email "actions@github.com"
-            git add _backup/*
-            git commit -m "Copia de seguridad creada en _backup"
-            git push origin merge-temp-4
-          else
-            echo "No se encontraron archivos en _backup. Proceso detenido."
-            exit 1
-          fi
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./_backup
+          publish_branch: merge-temp-4
+          keep_files: true
+          force_orphan: false
 
-      # 8. Actualizar y mergear los JSON
+      # 7. Actualizar y mergear los JSON
       - name: Update and merge JSON files
         run: node mergeJson.js
+
+      # 8. Inspeccionar el contenido de source.json
+      - name: Inspect merged JSON
+        run: cat _data/source.json
 
       # 9. Inspeccionar el contenido de source.json
       - name: Inspect merged JSON
