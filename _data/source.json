@@ -3159,8 +3159,90 @@
     ],
     "reflexion_breve": "La ratificación de esta ley subraya las crecientes tensiones entre Estados Unidos y China en el ámbito tecnológico y plantea interrogantes sobre el futuro de las plataformas digitales en un entorno geopolítico cada vez más complejo.",
     "bsky_msg": "Preocupación – Tribunal federal de EE. UU. ratifica ley que podría prohibir TikTok si no se desvincula de su matriz china antes de enero de 2025."
-  }
-  
-  
+  },
+  {
+    "titular": "Tiempo desapacible este sábado, con avisos por viento y nieve en el interior",
+    "categoria_emocional": "precaución",
+    "fecha_publicacion": "7 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644465/tiempo-desapacible-este-sabado-con-avisos-por-viento-y-nieve-en-interior/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/11/11/3283448/20241111115410_hodeitsu-eguraldi-txarra-_foto610x342.jpg",
+    "resumen": "Se prevé un sábado con cielos muy nubosos y precipitaciones en la vertiente cantábrica, con la cota de nieve descendiendo a 800-1.000 metros por la tarde. Se han emitido avisos por viento y nieve en el interior.",
+    "contexto": "La llegada de una masa de aire ártico ha provocado un descenso de temperaturas y condiciones invernales en diversas regiones del estado, afectando especialmente al norte y zonas de montaña.",
+    "linea_tiempo": [
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "La Agencia Estatal de Meteorología (AEMET) emite avisos por nieve y viento en varias comunidades autónomas debido a la entrada de una masa de aire ártico."
+      },
+      {
+        "fecha": "7 de diciembre de 2024",
+        "descripcion": "Se registran precipitaciones y descenso de la cota de nieve en el norte del estado, con avisos activos por condiciones meteorológicas adversas."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Agencia Estatal de Meteorología (AEMET)",
+        "descripcion": "Organismo oficial encargado de la predicción y vigilancia meteorológica en el estado."
+      },
+      {
+        "nombre": "Euskalmet",
+        "descripcion": "Agencia vasca de meteorología responsable de las predicciones en la Comunidad Autónoma del País Vasco."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Cota de nieve",
+        "definicion": "Altitud a partir de la cual se espera que las precipitaciones caigan en forma de nieve."
+      },
+      {
+        "termino": "Aviso amarillo",
+        "definicion": "Nivel de alerta meteorológica que indica riesgo moderado por fenómenos meteorológicos adversos."
+      },
+      {
+        "termino": "Vertiente cantábrica",
+        "definicion": "Región geográfica que abarca las zonas del norte del estado que vierten sus aguas al mar Cantábrico."
+      },
+      {
+        "termino": "Masa de aire ártico",
+        "definicion": "Corriente de aire frío proveniente de las regiones polares que provoca descensos significativos de temperatura."
+      }
+    ],
+    "impacto_esperado": "Se anticipan interrupciones en el tráfico, especialmente en áreas montañosas y carreteras afectadas por nieve y hielo. Además, las actividades al aire libre podrían verse limitadas debido a las condiciones adversas.",
+    "comparativas": "En diciembre de 2020, una situación similar afectó al norte del estado, con nevadas que causaron cortes de carretera y afectaron el suministro eléctrico en algunas localidades.",
+    "opinion_publica": [
+      {
+        "fuente": "Protección Civil",
+        "reaccion": "Recomienda a la población evitar desplazamientos innecesarios y mantenerse informada sobre la evolución meteorológica."
+      }
+    ],
+    "posibles_proximos_pasos": "Las autoridades podrían intensificar las labores de mantenimiento en carreteras y reforzar los servicios de emergencia para atender posibles incidencias derivadas del temporal.",
+    "datos_relevantes": [
+      {
+        "dato": "La cota de nieve se situará en torno a los 800-1.000 metros durante la tarde del sábado.",
+        "fuente": "Euskalmet"
+      },
+      {
+        "dato": "Se esperan rachas de viento que pueden superar los 100 km/h en zonas expuestas de Bizkaia y Gipuzkoa.",
+        "fuente": "Euskalmet"
+      }
+    ],
+    "chequeo_datos": [
+      {
+        "afirmacion": "La cota de nieve bajará a los 800-1.000 metros durante la tarde.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Euskalmet ha informado que la cota de nieve descenderá a esos niveles en la tarde del sábado."
+        }
+      },
+      {
+        "afirmacion": "El viento pegará fuerte en las zonas expuestas de Bizkaia y Gipuzkoa.",
+        "verificacion": {
+          "estado": "Confirmado",
+          "explicacion": "Se han emitido avisos por rachas de viento que pueden superar los 100 km/h en estas áreas."
+        }
+      }
+    ],
+    "reflexion_breve": "La llegada de condiciones invernales resalta la importancia de la preparación y la atención a las alertas meteorológicas para minimizar riesgos y garantizar la seguridad de la población.",
+    "bsky_msg": "Precaución – Se prevén condiciones invernales este sábado con avisos por viento y nieve en el interior; la cota de nieve bajará a 800-1.000 metros."
+  }  
   
 ] 
