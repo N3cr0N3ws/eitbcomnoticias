@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - merge-temp-4
+    paths-ignore:
+      - '_backup/**'
+      - '.github/workflows/**'
 
 jobs:
   update-source-json:
@@ -14,6 +17,14 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+
+      - name: Check last commit
+        run: |
+          LAST_COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          if [[ "$LAST_COMMIT_MESSAGE" == *"Actualizar source.json con og:image"* ]]; then
+            echo "El último commit fue realizado por el pipeline. Deteniendo ejecución."
+            exit 0
+          fi
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
