@@ -32,6 +32,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
           ruby-version: '3.3.6'
           bundler-cache: true
 
