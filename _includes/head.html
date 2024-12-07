@@ -14,10 +14,41 @@
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.contexto }}">
 
-    <!-- Amplitude -->
+   <!-- Amplitude -->
     <script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script>
     <script src="https://cdn.amplitude.com/libs/plugin-session-replay-browser-1.8.0-min.js.gz"></script>
-    <script>window.amplitude.add(window.sessionReplay.plugin({sampleRate: 1}));window.amplitude.init('318a32d4d18e51e6f30e99db76b4226d', {"serverZone":"EU","autocapture":{"elementInteractions":true}});</script>
+    <script>
+        // Generar un UUID para identificar al usuario
+        function generateUUID() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c) {
+                var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+        }
+
+        // Recuperar el User ID del localStorage, o generar uno si no existe
+        let userId = localStorage.getItem('amplitude_user_id');
+        if (!userId) {
+            userId = generateUUID();
+            localStorage.setItem('amplitude_user_id', userId);
+        }
+
+        // Configurar Amplitude con el User ID
+        window.amplitude.setUserId(userId);
+        window.amplitude.add(window.sessionReplay.plugin({sampleRate: 1}));
+        window.amplitude.init('318a32d4d18e51e6f30e99db76b4226d', {
+            serverZone: "EU",
+            autocapture: {
+                elementInteractions: true
+            }
+        });
+
+        // (Opcional) Registrar un evento de prueba
+        window.amplitude.track("Page Loaded", {
+            page: window.location.pathname,
+            referrer: document.referrer
+        });
+    </script>
 
     <!-- Page effects -->
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
