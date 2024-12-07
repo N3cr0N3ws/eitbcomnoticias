@@ -1,4 +1,4 @@
-name: Backup source.json
+name: Actualizar source.json con og:image
 
 on:
   push:
@@ -6,37 +6,35 @@ on:
       - merge-temp-4
 
 jobs:
-  backup-job:
+  update-source-json:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          node-version: '18'
 
-      - name: Create _backup directory if it doesn't exist
-        run: mkdir -p _backup
+      - name: Install dependencies
+        run: npm install axios cheerio
 
-      - name: Backup source.json
-        run: cp _data/source.json _backup/source-$(date +'%Y%m%d%H%M%S').json
-
-      - name: List contents of _backup directory
-        run: ls -la _backup
+      - name: Run mergeJson.js script
+        run: node mergeJson.js
 
       - name: Configure Git
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
 
-      - name: Add backup files to Git
-        run: git add _backup/
-
-      - name: Commit changes
-        run: git commit -m "Backup source.json on $(date +'%Y-%m-%d %H:%M:%S')"
+      - name: Add and commit changes
+        run: |
+          git add _data/source.json _data/update.json
+          git commit -m "Actualizar source.json con og:image"
 
       - name: Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: git push origin HEAD:${{ github.ref }}
-
