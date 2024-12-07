@@ -14,13 +14,26 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Create _backup directory if it doesn't exist
-        run: |
-          mkdir -p _backup
+        run: mkdir -p _backup
 
       - name: Backup source.json
-        run: |
-          cp _data/source.json _backup/source-$(date +'%Y%m%d%H%M%S').json
+        run: cp _data/source.json _backup/source-$(date +'%Y%m%d%H%M%S').json
 
       - name: List contents of _backup directory
+        run: ls -la _backup
+
+      - name: Configure Git
         run: |
-          ls -la _backup
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Add backup files to Git
+        run: git add _backup/
+
+      - name: Commit changes
+        run: git commit -m "Backup source.json on $(date +'%Y-%m-%d %H:%M:%S')"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push origin HEAD:${{ github.ref }}
