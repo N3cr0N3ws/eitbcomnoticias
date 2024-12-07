@@ -1,1 +1,77 @@
-{}
+{
+  "titular": "Getxo convoca este sábado la mesa de crisis ante la alerta naranja por precipitaciones intensas",
+  "categoria_emocional": "Precaución",
+  "fecha_publicacion": "7 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644791/getxo-convoca-este-sabado-mesa-de-crisis-ante-alerta-naranja-por-precipitaciones-intensas/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "La alcaldesa de Getxo, Amaia Aguirre, ha convocado la mesa de crisis debido a la alerta naranja por precipitaciones intensas que se activará el domingo 8 de diciembre a las 12:00 horas y se mantendrá hasta el lunes a la misma hora. Se recomienda a la ciudadanía evitar actividades al aire libre, retirar vehículos de zonas susceptibles de inundación y tomar precauciones adicionales.",
+  "contexto": "El municipio de Getxo, en la costa del estado, se prepara para enfrentar condiciones meteorológicas adversas, siguiendo protocolos de seguridad establecidos para minimizar riesgos a la población.",
+  "linea_tiempo": [
+    {
+      "fecha": "31 de agosto de 2015",
+      "descripcion": "El alcalde en funciones de Getxo, Koldo Iturbe, convoca la mesa de crisis ante una alerta naranja por precipitaciones intensas."
+    },
+    {
+      "fecha": "9 de diciembre de 2021",
+      "descripcion": "Getxo activa el Plan Municipal de Protección Civil y convoca la mesa de crisis debido a una alerta naranja por fuertes lluvias."
+    },
+    {
+      "fecha": "17 de enero de 2024",
+      "descripcion": "La alcaldesa de Getxo, Amaia Aguirre, activa el Plan de actuación municipal y convoca la mesa de crisis ante una alerta naranja por fuertes vientos."
+    },
+    {
+      "fecha": "23 de noviembre de 2024",
+      "descripcion": "Amaia Aguirre activa el Plan municipal de Protección Civil y convoca la mesa de crisis ante una alerta naranja por viento en zonas expuestas."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Amaia Aguirre",
+      "descripcion": "Alcaldesa de Getxo, responsable de activar protocolos de seguridad ante alertas meteorológicas."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Alerta naranja",
+      "definicion": "Nivel de aviso meteorológico que indica un riesgo importante debido a fenómenos inusuales y peligrosos para las actividades habituales."
+    },
+    {
+      "termino": "Mesa de crisis",
+      "definicion": "Equipo de coordinación municipal que se reúne para gestionar situaciones de emergencia y tomar decisiones rápidas."
+    },
+    {
+      "termino": "Precipitaciones intensas",
+      "definicion": "Lluvias fuertes que pueden causar inundaciones y otros problemas relacionados con el exceso de agua."
+    },
+    {
+      "termino": "Plan Municipal de Protección Civil",
+      "definicion": "Conjunto de medidas y procedimientos establecidos por un municipio para prevenir y actuar en situaciones de emergencia."
+    }
+  ],
+  "impacto_esperado": "Se anticipan posibles inundaciones locales, interrupciones en el transporte y daños materiales. La activación de protocolos busca minimizar riesgos para la población y los bienes.",
+  "comparativas": "En situaciones similares, municipios como Bilbao han implementado planes de emergencia y evacuaciones preventivas para garantizar la seguridad ciudadana.",
+  "opinion_publica": [
+    {
+      "fuente": "Protección Civil",
+      "reaccion": "Recomienda a la población seguir las indicaciones oficiales y evitar desplazamientos innecesarios durante la alerta."
+    }
+  ],
+  "posibles_proximos_pasos": "Dependiendo de la evolución meteorológica, podrían implementarse medidas adicionales como evacuaciones preventivas o cierre de vías públicas.",
+  "datos_relevantes": [
+    {
+      "dato": "La alerta naranja estará vigente desde el 8 de diciembre a las 12:00 horas hasta el 9 de diciembre a las 12:00 horas.",
+      "fuente": "Ayuntamiento de Getxo"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "La alerta naranja por precipitaciones intensas se activará el domingo 8 de diciembre a las 12:00 horas.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "El Ayuntamiento de Getxo ha informado oficialmente sobre la activación de la alerta en ese horario."
+      }
+    }
+  ],
+  "reflexion_breve": "La preparación y respuesta efectiva ante fenómenos naturales son esenciales para proteger a la comunidad y reducir el impacto de desastres.",
+  "bsky_msg": "Precaución – Getxo activa mesa de crisis por alerta naranja de lluvias intensas desde el domingo. Se recomienda evitar actividades al aire libre y tomar precauciones."
+}
