@@ -17,7 +17,7 @@ const fetchOgImage = async (url) => {
     return ogImage;
   } catch (error) {
     console.error(`Error al obtener la imagen desde ${url}: ${error.message}`);
-    return null; // Devolvemos null para manejarlo después
+    return DEFAULT_IMAGE_URL; // Usar URL por defecto si hay un error
   }
 };
 
@@ -25,10 +25,10 @@ const fetchOgImage = async (url) => {
 const validateAndCleanJson = (data) => {
   return data.filter((article) => {
     if (article && typeof article === 'object' && article.titular) {
-      return true; // El artículo es válido si contiene el campo 'titular'
+      return true; // Artículo válido
     }
     console.warn(`Artículo inválido encontrado y omitido: ${JSON.stringify(article)}`);
-    return false; // Omite artículos inválidos
+    return false; // Omitir artículos inválidos
   });
 };
 
@@ -37,27 +37,21 @@ const updateJsonWithImage = async (updatePath) => {
   try {
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
-    // Verificar si contiene la URL canonical
     if (!updateData.url_canonical) {
-      console.log(`El archivo '${updatePath}' no contiene una URL canonical. Proceso detenido.`);
-      return;
+      console.warn(`El archivo '${updatePath}' no contiene una URL canonical. Proceso detenido.`);
+      return false;
     }
 
-    // Intentar obtener la URL de la imagen desde la canonical
     const ogImage = await fetchOgImage(updateData.url_canonical);
-    if (ogImage) {
-      updateData.url_imagen = ogImage; // Usar la URL obtenida
-      console.log(`Imagen obtenida correctamente: ${ogImage}`);
-    } else {
-      updateData.url_imagen = DEFAULT_IMAGE_URL; // Usar la URL por defecto
-      console.log(`Fallo al obtener la imagen. Se usará la URL por defecto: ${DEFAULT_IMAGE_URL}`);
-    }
+    updateData.url_imagen = ogImage; // Actualizar con la URL obtenida o la por defecto
 
     // Guardar el JSON actualizado
     fs.writeFileSync(updatePath, JSON.stringify(updateData, null, 4), 'utf-8');
     console.log(`La URL de la imagen fue actualizada en '${updatePath}'.`);
+    return true;
   } catch (error) {
     console.error(`Error al actualizar el archivo JSON con la imagen: ${error.message}`);
+    return false;
   }
 };
 
@@ -65,7 +59,11 @@ const updateJsonWithImage = async (updatePath) => {
 const mergeJsonFiles = async (sourcePath, updatePath) => {
   try {
     // Actualizar update.json con la imagen antes del merge
-    await updateJsonWithImage(updatePath);
+    const imageUpdated = await updateJsonWithImage(updatePath);
+    if (!imageUpdated) {
+      console.warn('No se pudo actualizar el JSON con la imagen. Proceso detenido.');
+      return;
+    }
 
     // Leer ambos JSON
     const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
@@ -73,24 +71,21 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
 
     // Validar y limpiar los datos
     const validatedSourceData = validateAndCleanJson(sourceData);
-    const validatedUpdateData = validateAndCleanJson(updateData);
+    const validatedUpdateData = validateAndCleanJson([updateData]);
 
-    // Verificar si update.json está vacío
     if (validatedUpdateData.length === 0) {
-      console.log(`El archivo '${updatePath}' está vacío después de la validación. Proceso detenido.`);
+      console.warn(`El archivo '${updatePath}' está vacío después de la validación. Proceso detenido.`);
       return;
     }
 
     // Realizar el merge
     const mergedData = [...validatedSourceData, ...validatedUpdateData];
-
-    // Guardar el archivo mergeado
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
+    console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
 
     // Limpiar el archivo de actualización
     fs.writeFileSync(updatePath, JSON.stringify({}, null, 4), 'utf-8');
-
-    console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
+    console.log(`El archivo '${updatePath}' ha sido limpiado.`);
   } catch (error) {
     console.error(`Error al mergear los archivos JSON: ${error.message}`);
   }
