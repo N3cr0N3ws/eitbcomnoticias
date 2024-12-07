@@ -67,23 +67,9 @@ const updateJsonWithImage = async (updatePath) => {
   }
 };
 
-const mergeJsonFiles = async (sourcePath, updatePath) => {
+const mergeJsonFiles = (sourcePath, updatePath) => {
   try {
-    console.log('Iniciando el proceso de merge...');
-
-    console.log('Creando copia de seguridad de source.json...');
-    const backupSuccess = backupSourceFile(sourcePath);
-    if (!backupSuccess) {
-      console.error('No se pudo crear la copia de seguridad. Proceso detenido.');
-      return;
-    }
-
-    console.log('Actualizando update.json con la imagen...');
-    const imageUpdated = await updateJsonWithImage(updatePath);
-    if (!imageUpdated) {
-      console.warn('No se pudo actualizar el JSON con la imagen. Proceso detenido.');
-      return;
-    }
+    console.log('Iniciando el proceso de fusión...');
 
     const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
@@ -92,20 +78,32 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
     console.log(`La fusión entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
 
-    // Limpiar el contenido de update.json
-    fs.writeFileSync(updatePath, JSON.stringify({}, null, 4));
-    console.log(`El archivo '${updatePath}' ha sido vaciado.`);
+    fs.writeFileSync(updatePath, JSON.stringify({}, null, 4), 'utf-8');
+    console.log(`El archivo '${updatePath}' ha sido limpiado.`);
   } catch (error) {
     console.error(`Error al fusionar los archivos JSON: ${error.message}`);
   }
 };
 
-if (process.argv[2] === 'backup') {
-  backupSourceFile(path.resolve(__dirname, '_data/source.json'));
-} else {
-  mergeJsonFiles(
-    path.resolve(__dirname, '_data/source.json'),
-    path.resolve(__dirname, '_data/update.json')
-  );
-}
+const main = async () => {
+  const sourcePath = path.resolve(__dirname, '_data/source.json');
+  const updatePath = path.resolve(__dirname, '_data/update.json');
 
+  const task = process.argv[2];
+
+  switch (task) {
+    case 'extract-og-image':
+      await updateJsonWithImage(updatePath);
+      break;
+    case 'backup':
+      backupSourceFile(sourcePath);
+      break;
+    case 'merge':
+      mergeJsonFiles(sourcePath, updatePath);
+      break;
+    default:
+      console.error('Tarea no reconocida. Usa "extract-og-image", "backup" o "merge".');
+  }
+};
+
+main();
