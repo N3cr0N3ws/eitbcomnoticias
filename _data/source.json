@@ -3339,7 +3339,57 @@
     ],
     "reflexion_breve": "La situación actual en Corea del Sur destaca la importancia de la separación de poderes y el respeto a los procesos democráticos para mantener la estabilidad política.",
     "bsky_msg": "Preocupación – El presidente Yoon pide disculpas por la ley marcial y deja su cargo en manos de su partido en medio de una crisis política."
+  },
+  {
+    "titular": "El Árbol de Navidad de Moyúa en Bilbao se encenderá este sábado con normalidad tras la avería sufrida",
+    "categoria_emocional": "Alivio",
+    "fecha_publicacion": "7 de diciembre de 2024",
+    "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644534/el-arbol-de-navidad-de-moyua-en-bilbao-se-encendera-este-sabado-con-normalidad-tras-averia-sufrida/",
+    "url_imagen": "https://media.eitb.eus/multimedia/images/2024/11/27/3288659/20241127210909_bilbao-luces-de-navidad-e_foto610x342.jpg",
+    "resumen": "El gran Árbol de Navidad de la plaza Moyúa en Bilbao, una de las principales atracciones navideñas de la ciudad, volverá a iluminarse con normalidad este sábado tras haber sufrido una avería que lo mantuvo apagado el viernes. El Ayuntamiento ha confirmado la reparación y lamenta las molestias ocasionadas.",
+    "contexto": "El encendido de las luces navideñas en Bilbao marca el inicio de la temporada festiva, con más de 1.500.000 luces LED decorando la ciudad. Este año, se han incorporado nuevas atracciones, como un túnel de luz de 70 metros en el parque de Doña Casilda y el imponente árbol de la plaza Moyúa, que ofrece espectáculos de luz y sonido.",
+    "linea_tiempo": [
+      {
+        "fecha": "27 de noviembre de 2024",
+        "descripcion": "Encendido oficial de las luces de Navidad en Bilbao, incluyendo el nuevo árbol de la plaza Moyúa y el túnel de luz en Doña Casilda."
+      },
+      {
+        "fecha": "6 de diciembre de 2024",
+        "descripcion": "El árbol de Navidad de Moyúa sufre una avería que lo deja sin iluminación durante todo el día."
+      },
+      {
+        "fecha": "7 de diciembre de 2024",
+        "descripcion": "El Ayuntamiento de Bilbao anuncia la reparación de la avería y el restablecimiento del funcionamiento normal del árbol de Navidad de Moyúa."
+      }
+    ],
+    "quien_es_quien": [
+      {
+        "nombre": "Juan Mari Aburto",
+        "descripcion": "Alcalde de Bilbao, encargado de inaugurar el encendido oficial de las luces navideñas en la ciudad."
+      }
+    ],
+    "glosario_terminos": [
+      {
+        "termino": "Árbol de Navidad de Moyúa",
+        "definicion": "Estructura luminosa instalada en la plaza Moyúa de Bilbao como parte de la decoración navideña de la ciudad."
+      },
+      {
+        "termino": "Túnel de luz de Doña Casilda",
+        "definicion": "Instalación luminosa de más de 70 metros ubicada en el parque de Doña Casilda, que combina luz y sonido en espectáculos programados."
+      },
+      {
+        "termino": "Encendido de luces navideñas",
+        "definicion": "Evento anual en el que se iluminan las decoraciones navideñas de la ciudad, marcando el inicio oficial de la temporada festiva."
+      },
+      {
+        "termino": "LED",
+        "definicion": "Diodo emisor de luz, tecnología utilizada en las iluminaciones navideñas por su eficiencia energética y durabilidad."
+      }
+    ],
+    "impacto_esperado": "La reparación del árbol de Navidad de Moyúa permite que residentes y visitantes disfruten plenamente de las atracciones navideñas de Bilbao, contribuyendo al ambiente festivo y al atractivo turístico de la ciudad durante estas fechas.",
+    "bsky_msg": "Alivio – El Árbol de Navidad de Moyúa en Bilbao vuelve a iluminarse tras una avería que lo mantuvo apagado. El Ayuntamiento confirma su reparación."
   }
+  
   
   
 ] 
