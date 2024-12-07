@@ -9,12 +9,15 @@ const DEFAULT_IMAGE_URL = 'https://picsum.photos/800/900';
 // Función para obtener la imagen desde el meta og:image
 const fetchOgImage = async (url) => {
   try {
+    console.log(`Intentando obtener la imagen desde: ${url}`);
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
     const ogImage = $('meta[property="og:image"]').attr('content');
     if (!ogImage) {
-      throw new Error('No se encontró la etiqueta og:image en la URL proporcionada.');
+      console.warn(`No se encontró la etiqueta og:image en la URL: ${url}`);
+      return DEFAULT_IMAGE_URL; // Usar URL por defecto si no se encuentra
     }
+    console.log(`Imagen obtenida: ${ogImage}`);
     return ogImage;
   } catch (error) {
     console.error(`Error al obtener la imagen desde ${url}: ${error.message}`);
@@ -46,7 +49,7 @@ const backupSourceFile = (sourcePath) => {
     const backupPath = path.join(backupDir, backupFileName);
 
     fs.copyFileSync(sourcePath, backupPath); // Crear la copia de seguridad
-    console.log(`Copia de seguridad creada: ${backupPath}`);
+    console.log(`Copia de seguridad creada en: ${backupPath}`);
   } catch (error) {
     console.error(`Error al crear la copia de seguridad: ${error.message}`);
   }
@@ -78,10 +81,14 @@ const updateJsonWithImage = async (updatePath) => {
 // Función para fusionar los JSON
 const mergeJsonFiles = async (sourcePath, updatePath) => {
   try {
+    console.log('Iniciando el proceso de merge...');
+
     // Crear copia de seguridad de source.json
+    console.log('Creando copia de seguridad de source.json...');
     backupSourceFile(sourcePath);
 
     // Actualizar update.json con la imagen antes del merge
+    console.log('Actualizando update.json con la imagen...');
     const imageUpdated = await updateJsonWithImage(updatePath);
     if (!imageUpdated) {
       console.warn('No se pudo actualizar el JSON con la imagen. Proceso detenido.');
@@ -89,6 +96,7 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     }
 
     // Leer ambos JSON
+    console.log('Leyendo los archivos JSON...');
     const sourceData = JSON.parse(fs.readFileSync(sourcePath, 'utf-8'));
     const updateData = JSON.parse(fs.readFileSync(updatePath, 'utf-8'));
 
@@ -102,6 +110,7 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
     }
 
     // Realizar el merge
+    console.log('Realizando el merge...');
     const mergedData = [...validatedSourceData, ...validatedUpdateData];
     fs.writeFileSync(sourcePath, JSON.stringify(mergedData, null, 4), 'utf-8');
     console.log(`El merge entre '${updatePath}' y '${sourcePath}' se ha completado con éxito.`);
