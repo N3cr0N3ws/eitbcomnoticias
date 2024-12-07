@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-source-json:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout repository
@@ -46,9 +46,8 @@ jobs:
 
       - name: Add and commit changes
         run: |
-          git add _data/source.json _data/update.json
-          git commit -m "Actualizar source.json con og:image"
-        continue-on-error: true
+          git add _data/source.json _data/update.json _backup/
+          git diff-index --quiet HEAD || git commit -m "Actualizar source.json con og:image"
 
       - name: Push changes
         env:
