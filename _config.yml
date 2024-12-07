@@ -9,9 +9,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - node_modules
   - _posts
-  - node_modules
   - mergeJson.js
 
 # Configuración de Jekyll
