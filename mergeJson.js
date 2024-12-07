@@ -35,9 +35,12 @@ const validateAndCleanJson = (data) => {
 
 const backupSourceFile = (sourcePath) => {
   try {
-    const backupDir = path.resolve(__dirname, '_backup'); // Asegura rutas absolutas
+    const backupDir = path.resolve(__dirname, '_backup');
+    console.log(`Ruta de la carpeta de copia de seguridad: ${backupDir}`);
+
     if (!fs.existsSync(backupDir)) {
-      fs.mkdirSync(backupDir);
+      fs.mkdirSync(backupDir, { recursive: true });
+      console.log('Carpeta _backup creada.');
     }
 
     const timestamp = new Date().toISOString().replace(/[:T]/g, '-').split('.')[0];
@@ -115,7 +118,10 @@ const mergeJsonFiles = async (sourcePath, updatePath) => {
 };
 
 if (process.argv[2] === 'backup') {
-  backupSourceFile('./_data/source.json');
+  backupSourceFile(path.resolve(__dirname, '_data/source.json'));
 } else {
-  mergeJsonFiles('./_data/source.json', './_data/update.json');
+  mergeJsonFiles(
+    path.resolve(__dirname, '_data/source.json'),
+    path.resolve(__dirname, '_data/update.json')
+  );
 }
