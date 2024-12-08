@@ -3,7 +3,7 @@ name: Actualizar y Construir Jekyll
 on:
   push:
     branches:
-      - merge-temp-4
+      - main
     paths-ignore:
       - '_backup/**'
       - '.github/workflows/**'
@@ -83,7 +83,7 @@ jobs:
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        run: git push origin HEAD:merge-temp-4
+        run: git push origin HEAD:main
 
       - name: Clean _site directory
         run: |
@@ -100,3 +100,11 @@ jobs:
         run: |
           echo "Contents of _site directory:"
           ls -la ${{ github.workspace }}/_site
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ${{ github.workspace }}/_site
+          publish_branch: gh-pages
+          force_orphan: true
