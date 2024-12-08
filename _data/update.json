@@ -1,1 +1,88 @@
-{}
+{
+  "titular": "Herido con arma blanca un joven en una discoteca de Bilbao por una persona que huyó del lugar",
+  "categoria_emocional": "Preocupación",
+  "fecha_publicacion": "8 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644958/herido-con-arma-blanca-joven-en-discoteca-de-bilbao-por-persona-que-huyo-del-lugar/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Un joven de 20 años fue apuñalado en la discoteca Back&Stage de Bilbao en la madrugada del sábado. El agresor huyó y la Ertzaintza está investigando el incidente.",
+  "contexto": "Este suceso se suma a una serie de incidentes violentos en locales nocturnos del estado, generando preocupación por la seguridad en estos espacios.",
+  "linea_tiempo": [
+    {
+      "fecha": "3 de julio de 2018",
+      "descripcion": "Un joven de 20 años fue detenido por apuñalar a otro en el exterior de una discoteca en el barrio de Bolueta, Bilbao."
+    },
+    {
+      "fecha": "11 de octubre de 2021",
+      "descripcion": "Un individuo de 22 años con antecedentes fue detenido por atacar con arma blanca a otro joven cerca de una discoteca en Bolueta, Bilbao."
+    },
+    {
+      "fecha": "7 de enero de 2023",
+      "descripcion": "Un adolescente de 14 años resultó herido por arma blanca durante una pelea entre jóvenes en la calle Karmelo de Santutxu, Bilbao."
+    },
+    {
+      "fecha": "15 de julio de 2024",
+      "descripcion": "Una mujer fue apuñalada cinco veces en el aparcamiento de una discoteca en Ugao-Miraballes; el agresor fue detenido."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Ertzaintza",
+      "descripcion": "Policía autónoma del País Vasco, encargada de la seguridad y orden público en la región."
+    },
+    {
+      "nombre": "Back&Stage",
+      "descripcion": "Discoteca ubicada en Uribitarte, Bilbao, donde ocurrió el incidente."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Arma blanca",
+      "definicion": "Objeto punzante o cortante utilizado como instrumento de agresión."
+    },
+    {
+      "termino": "Ertzaintza",
+      "definicion": "Cuerpo de policía autónoma del País Vasco."
+    },
+    {
+      "termino": "Discoteca",
+      "definicion": "Establecimiento de ocio nocturno donde se baila y se sirven bebidas."
+    },
+    {
+      "termino": "Uribitarte",
+      "definicion": "Barrio de Bilbao donde se encuentra la discoteca Back&Stage."
+    }
+  ],
+  "impacto_esperado": "Este incidente podría aumentar la percepción de inseguridad en los locales nocturnos de Bilbao, llevando a una mayor vigilancia policial y posibles restricciones en estos establecimientos.",
+  "comparativas": "En ciudades como Barcelona, tras incidentes similares, se implementaron medidas como detectores de metales en la entrada de discotecas y mayor presencia policial en zonas de ocio nocturno.",
+  "opinion_publica": [
+    {
+      "fuente": "Josu Erkoreka, consejero de Seguridad",
+      "reaccion": "Expresó preocupación por el incremento del uso de armas blancas en el último año, especialmente en entornos nocturnos."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que la Ertzaintza intensifique la investigación para localizar al agresor y que se refuercen las medidas de seguridad en locales nocturnos de Bilbao.",
+  "datos_relevantes": [
+    {
+      "dato": "En 2023, se registraron varios incidentes con armas blancas en Bilbao, incluyendo agresiones en discotecas y peleas entre jóvenes.",
+      "fuente": "EITB"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "El suceso tuvo lugar alrededor de las 05:00 horas en la discoteca Back&Stage de Bilbao.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Según el Departamento vasco de Seguridad, el incidente ocurrió a esa hora en dicha discoteca."
+      }
+    },
+    {
+      "afirmacion": "El agresor huyó del lugar y la Ertzaintza ha emprendido su búsqueda.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La Ertzaintza ha abierto diligencias para localizar al presunto agresor."
+      }
+    }
+  ],
+  "reflexion_breve": "La reiteración de actos violentos en espacios de ocio nocturno subraya la necesidad de reforzar las medidas de seguridad y promover una cultura de no violencia entre la juventud.",
+  "bsky_msg": "Preocupación – Joven de 20 años apuñalado en discoteca de Bilbao; agresor huye y la Ertzaintza investiga."
+}
