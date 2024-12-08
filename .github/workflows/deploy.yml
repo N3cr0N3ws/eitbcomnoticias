@@ -43,7 +43,9 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: npm install axios cheerio
+        run: |
+          npm config set registry https://registry.npmjs.org/
+          npm install axios cheerio
 
       - name: Check if update.json is empty
         run: |
