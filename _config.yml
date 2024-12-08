@@ -12,6 +12,7 @@ exclude:
   - node_modules
   - _posts
   - mergeJson.js
+  - pages/
 
 # Configuración de Jekyll
 markdown: kramdown
