@@ -78,6 +78,7 @@ module Jekyll
       self.data['impacto_esperado'] = article['impacto_esperado'] || []
       self.data['comparativas'] = article['comparativas'] || []
       self.data['opinion_publica'] = article['opinion_publica'] || []
+      self.data['datos_relevantes'] = article['datos_relevantes'] || []
     end
   end
 end
