@@ -10,8 +10,11 @@ exclude:
   - Gemfile.lock
   - README.md
   - node_modules
-  - _posts # No usarás posts
+  - _posts
+  - mergeJson.js
+  - pages/
 
 # Configuración de Jekyll
 markdown: kramdown
 data_dir: "_data"
+incremental: true
