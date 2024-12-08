@@ -85,6 +85,20 @@ layout: default
       </div>
       {% endif %}
 
+      <!-- Opinion terms -->
+      {% assign opinion_publica_count = page.opinion_publica | size %}
+      {% if opinion_publica_count > 0 %}
+      <h2>Opinión pública</h2>
+      <ul class="opinion">
+        {% for opinion in page.opinion_publica %}
+        <li class="opinion-item">
+          <div class="opinion-fuente">{{ opinion.fuente }}</div>
+          <p class="opinion-reaccion">{{ opinion.reaccion }}</p>
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
       <!-- Expected impact -->
       {% assign impacto_esperado_count = page.impacto_esperado | size %}
       {% if impacto_esperado_count > 0 %}       

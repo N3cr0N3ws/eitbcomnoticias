@@ -77,6 +77,7 @@ module Jekyll
       self.data['glosario_terminos'] = article['glosario_terminos'] || []
       self.data['impacto_esperado'] = article['impacto_esperado'] || []
       self.data['comparativas'] = article['comparativas'] || []
+      self.data['opinion_publica'] = article['opinion_publica'] || []
     end
   end
 end
