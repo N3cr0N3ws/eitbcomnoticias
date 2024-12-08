@@ -1,0 +1,646 @@
+[
+    {
+        "titular": "La ultraderechista Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que tumbará el Gobierno francés",
+        "categoria_emocional": "Tensión política",
+        "fecha_publicacion": "2 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9640803/la-ultraderechista-marine-le-pen-acusa-a-barnier-de-falta-de-dialogo-y-anuncia-que-tumbara-gobierno-frances/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/02/22/3204262/20240222122848_jose-luis-avalos-y-koldo-_foto610x342.jpg",
+        "resumen": "Marine Le Pen, líder de la extrema derecha francesa, ha acusado al primer ministro Michel Barnier de rechazar el diálogo con su partido y ha anunciado que votará a favor de una moción de censura para derrocar al Gobierno.",
+        "contexto": "La líder de la extrema derecha francesa, Marine Le Pen, ha acusado al primer ministro, Michel Barnier, de rechazar el diálogo con su partido, Agrupación Nacional (RN), y ha anunciado que votará a favor de una moción de censura para hacer caer a su Gobierno el próximo miércoles. Le Pen ha señalado que presentó sus 'líneas rojas' al primer ministro, pero este no las aceptó, calificando los presupuestos propuestos como 'profundamente injustos' y acusando al presidente Emmanuel Macron de incompetencia. La líder de la extrema derecha, cuyos 140 diputados son fundamentales para la supervivencia del Ejecutivo, ha anunciado que su grupo presentará su propia moción de censura, pero que también están dispuestos a votar la que anunció la izquierda. Con esta posición, las horas del Ejecutivo de Barnier, nombrado el pasado 5 de septiembre, están contadas. Le Pen ha minimizado la gravedad de la situación, afirmando que se aplicarán los presupuestos del año pasado y que habrá un nuevo primer ministro que adoptará un nuevo presupuesto. Además, ha acusado a Barnier de querer seguir las políticas de Macron y ha criticado que no accediera a la última de sus demandas, la de renunciar a retrasar medio año la subida de las pensiones en 2025 para absorber la inflación y dejar de subvencionar ciertos medicamentos.",
+        "linea_tiempo": [
+            {
+                "fecha": "5 de septiembre de 2024",
+                "descripcion": "Michel Barnier es nombrado primer ministro de Francia por el presidente Emmanuel Macron."
+            },
+            {
+                "fecha": "7 de septiembre de 2024",
+                "descripcion": "Se realizan protestas en Francia contra el nombramiento de Barnier como primer ministro."
+            },
+            {
+                "fecha": "9 de octubre de 2024",
+                "descripcion": "El gobierno de Barnier sobrevive a una moción de censura presentada por el Nuevo Frente Popular."
+            },
+            {
+                "fecha": "1 de diciembre de 2024",
+                "descripcion": "El gobierno de Barnier utiliza el artículo 49.3 de la Constitución para aprobar los presupuestos de la Seguridad Social de 2025 sin votación parlamentaria."
+            },
+            {
+                "fecha": "3 de diciembre de 2024",
+                "descripcion": "El Nuevo Frente Popular y la extrema derecha de Marine Le Pen presentan mociones de censura contra el gobierno de Barnier."
+            }
+        ],
+        "quien_es_quien": [
+            {
+                "nombre": "Marine Le Pen",
+                "descripcion": "Líder del partido de extrema derecha Agrupación Nacional en Francia."
+            },
+            {
+                "nombre": "Michel Barnier",
+                "descripcion": "Primer ministro de Francia desde el 5 de septiembre de 2024."
+            },
+            {
+                "nombre": "Emmanuel Macron",
+                "descripcion": "Presidente de Francia desde 2017."
+            }
+        ],
+        "glosario_terminos": [
+            {
+                "termino": "Moción de censura",
+                "definicion": "Procedimiento parlamentario mediante el cual se puede destituir al Gobierno si no cuenta con la confianza de la mayoría de la Asamblea Nacional."
+            },
+            {
+                "termino": "Agrupación Nacional (RN)",
+                "definicion": "Partido político francés de extrema derecha liderado por Marine Le Pen."
+            }
+        ],
+        "impacto_esperado": "La aprobación de una moción de censura podría provocar la caída del Gobierno de Michel Barnier, generando inestabilidad política en Francia y afectando la implementación de políticas públicas y la confianza en las instituciones.",
+        "comparativas": "En Italia, en 2019, el entonces ministro del Interior, Matteo Salvini, presentó una moción de censura contra el primer ministro Giuseppe Conte, lo que llevó a la dimisión de Conte y a la formación de un nuevo gobierno de coalición.",
+        "opinion_publica": [
+            {
+                "fuente": "Le Monde",
+                "reaccion": "Analistas políticos señalan que la estrategia de Le Pen busca fortalecer su posición de cara a las próximas elecciones presidenciales."
+            },
+            {
+                "fuente": "Le Figaro",
+                "reaccion": "Editoriales critican la falta de diálogo entre el Gobierno y la oposición, advirtiendo sobre las consecuencias de una crisis política en medio de desafíos económicos."
+            }
+        ],
+        "posibles_proximos_pasos": "Si la moción de censura es aprobada, el presidente Emmanuel Macron deberá nombrar un nuevo primer ministro y formar un nuevo gobierno. Además, se podrían convocar elecciones anticipadas si no se logra una mayoría estable en la Asamblea Nacional.",
+        "datos_relevantes": [
+            {
+                "dato": "El partido Agrupación Nacional cuenta con 140 diputados en la Asamblea Nacional francesa.",
+                "fuente": "Asamblea Nacional de Francia"
+            },
+            {
+                "dato": "El déficit público de Francia se sitúa en el 5,5% del PIB en 2023.",
+                "fuente": "Ministerio de Economía y Finanzas de Francia"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "Le Pen afirma que los presupuestos propuestos son 'profundamente injustos' y que hacen pagar a los franceses la incompetencia del presidente Macron.",
+                "verificacion": {
+                    "estado": "Opinión",
+                    "explicacion": "La afirmación refleja la opinión de Le Pen sobre los presupuestos y la gestión del presidente, sin aportar datos específicos que puedan ser verificados."
+                }
+            },
+            {
+                "afirmacion": "Le Pen asegura que, de caer el Gobierno, se aplicarán los presupuestos del año pasado.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Según la legislación francesa, en caso de no aprobarse nuevos presupuestos, se prorrogan automáticamente los del año anterior."
+                }
+            }
+        ],
+        "reflexion_breve": "La actual crisis política en Francia pone de manifiesto la fragilidad de las coaliciones gubernamentales y la importancia del diálogo entre las distintas fuerzas políticas para garantizar la estabilidad y el bienestar de la ciudadanía.",
+        "bsky_msg": "Tensión política – Marine Le Pen acusa a Barnier de falta de diálogo y anuncia que votará a favor de una moción de censura para derrocar al Gobierno francés."
+    },
+    {
+        "titular": "Notre Dame reabre sus puertas tras cinco años de restauración",
+        "categoria_emocional": "Esperanza",
+        "fecha_publicacion": "7 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9643984/notre-dame-vuelve-a-abrir-sus-puertas/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/11/29/3289258/20241129174849_notre-dame-paris_foto610x342.jpg",
+        "resumen": "La catedral de Notre Dame en París reabre al público este fin de semana, cinco años después del incendio de 2019 que la devastó. Las ceremonias de reapertura incluyen actos oficiales y religiosos, con la asistencia de líderes mundiales y una misa inaugural.",
+        "contexto": "Notre Dame, símbolo histórico y cultural de París, sufrió un incendio en 2019 que destruyó su techo y aguja. La restauración ha sido un esfuerzo monumental para devolverle su esplendor.",
+        "linea_tiempo": [
+            {
+                "fecha": "15 de abril de 2019",
+                "descripcion": "Un incendio devastador destruye el techo y la aguja de la catedral de Notre Dame en París."
+            },
+            {
+                "fecha": "17 de abril de 2019",
+                "descripcion": "El presidente Emmanuel Macron anuncia un plan de restauración de cinco años para Notre Dame."
+            },
+            {
+                "fecha": "18 de septiembre de 2021",
+                "descripcion": "Se completan los trabajos de seguridad en la catedral, permitiendo el inicio de la reconstrucción."
+            },
+            {
+                "fecha": "15 de abril de 2024",
+                "descripcion": "La nueva aguja de Notre Dame se instala, marcando un hito en la restauración."
+            }
+        ],
+        "quien_es_quien": [
+            {
+                "nombre": "Emmanuel Macron",
+                "descripcion": "Presidente de Francia, impulsor del plan de restauración de Notre Dame tras el incendio de 2019."
+            },
+            {
+                "nombre": "Laurent Ulrich",
+                "descripcion": "Arzobispo de París, encargado de liderar las ceremonias religiosas en la reapertura de Notre Dame."
+            },
+            {
+                "nombre": "Donald Trump",
+                "descripcion": "Presidente electo de Estados Unidos, invitado a la ceremonia de reapertura de Notre Dame."
+            }
+        ],
+        "glosario_terminos": [
+            {
+                "termino": "Aguja",
+                "definicion": "Estructura puntiaguda que se eleva sobre el techo de una catedral, característica de la arquitectura gótica."
+            },
+            {
+                "termino": "Restauración",
+                "definicion": "Proceso de reparación y renovación de una estructura para devolverla a su estado original."
+            },
+            {
+                "termino": "Misa inaugural",
+                "definicion": "Primera celebración litúrgica que marca la reapertura de un lugar de culto."
+            },
+            {
+                "termino": "Patrimonio cultural",
+                "definicion": "Conjunto de bienes culturales que una sociedad considera valiosos y dignos de ser preservados."
+            }
+        ],
+        "impacto_esperado": "La reapertura de Notre Dame revitalizará el turismo en París, reforzará la identidad cultural francesa y servirá como símbolo de resiliencia y unidad tras la tragedia.",
+        "comparativas": "La restauración de la catedral de San Pablo en Londres, dañada durante la Segunda Guerra Mundial, también fue un símbolo de recuperación nacional.",
+        "opinion_publica": [
+            {
+                "fuente": "Le Monde",
+                "reaccion": "La reapertura de Notre Dame es un testimonio del compromiso de Francia con su patrimonio cultural."
+            },
+            {
+                "fuente": "The New York Times",
+                "reaccion": "Un logro monumental que demuestra la capacidad de recuperación ante la adversidad."
+            }
+        ],
+        "posibles_proximos_pasos": "Se espera que continúen las obras de restauración en áreas menos críticas de la catedral, mientras se reanudan las actividades litúrgicas y turísticas.",
+        "datos_relevantes": [
+            {
+                "dato": "Más de 2.000 trabajadores y 250 talleres participaron en la restauración de Notre Dame.",
+                "fuente": "Cadena SER"
+            },
+            {
+                "dato": "La restauración tuvo un costo de más de 800 millones de euros.",
+                "fuente": "Cadena SER"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "La catedral de Notre Dame reabre sus puertas este fin de semana.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Las ceremonias de reapertura están programadas para el 7 y 8 de diciembre de 2024."
+                }
+            },
+            {
+                "afirmacion": "Unos 35 jefes de Estado y de Gobierno han confirmado su asistencia a la ceremonia oficial.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Líderes mundiales, incluyendo el presidente electo de EE.UU., Donald Trump, asistirán a la ceremonia."
+                }
+            }
+        ],
+        "reflexion_breve": "La restauración de Notre Dame no solo recupera un monumento histórico, sino que también simboliza la capacidad humana para reconstruir y unirse tras la adversidad.",
+        "bsky_msg": "Esperanza – Notre Dame reabre sus puertas tras cinco años de restauración, simbolizando resiliencia y unidad."
+    },
+    {
+        "titular": "Yoon pide perdón por la ley marcial y deja su cargo en manos de su partido",
+        "categoria_emocional": "Tensión",
+        "fecha_publicacion": "7 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9644497/yoon-pide-perdon-por-ley-marcial-y-deja-su-cargo-en-manos-de-su-partido/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/07/3291402/20241207115812_hegokoreaparlamentuazents_foto610x342.jpg",
+        "resumen": "El presidente surcoreano, Yoon Suk-yeol, ha pedido disculpas por la declaración de la ley marcial y ha dejado su futuro político en manos de su partido, en medio de una moción de censura en su contra.",
+        "contexto": "Corea del Sur enfrenta una crisis política tras la breve imposición de la ley marcial por parte del presidente Yoon, generando tensiones entre el gobierno y la oposición.",
+        "linea_tiempo": [
+            {
+                "fecha": "3 de diciembre de 2024",
+                "descripcion": "El presidente Yoon Suk-yeol declara la ley marcial en Corea del Sur, citando amenazas de 'fuerzas pro-norcoreanas'."
+            },
+            {
+                "fecha": "4 de diciembre de 2024",
+                "descripcion": "La Asamblea Nacional de Corea del Sur vota en contra de la ley marcial, y el presidente Yoon la levanta posteriormente."
+            },
+            {
+                "fecha": "7 de diciembre de 2024",
+                "descripcion": "El presidente Yoon pide disculpas por la ley marcial y deja su cargo en manos de su partido."
+            }
+        ],
+        "quien_es_quien": [
+            {
+                "nombre": "Yoon Suk-yeol",
+                "descripcion": "Presidente de Corea del Sur desde 2022, exfiscal general conocido por su postura firme contra la corrupción."
+            },
+            {
+                "nombre": "Han Dong-hoon",
+                "descripcion": "Líder del Partido del Poder Popular (PPP), partido gobernante en Corea del Sur."
+            },
+            {
+                "nombre": "Cho Seung-rae",
+                "descripcion": "Vicepresidente del Partido Democrático, principal formación opositora en Corea del Sur."
+            }
+        ],
+        "glosario_terminos": [
+            {
+                "termino": "Ley marcial",
+                "definicion": "Régimen excepcional que otorga poderes especiales a las fuerzas armadas para mantener el orden público."
+            },
+            {
+                "termino": "Moción de censura",
+                "definicion": "Procedimiento parlamentario para destituir a un alto funcionario del gobierno, como el presidente."
+            },
+            {
+                "termino": "Asamblea Nacional",
+                "definicion": "Órgano legislativo unicameral de Corea del Sur, encargado de la creación de leyes y supervisión del gobierno."
+            },
+            {
+                "termino": "Partido del Poder Popular (PPP)",
+                "definicion": "Partido político conservador y actualmente gobernante en Corea del Sur."
+            }
+        ],
+        "impacto_esperado": "La crisis política podría llevar a una inestabilidad gubernamental y afectar la confianza pública en las instituciones democráticas de Corea del Sur.",
+        "comparativas": "Situaciones similares se han observado en países como Tailandia, donde la declaración de la ley marcial ha llevado a crisis políticas y cambios de gobierno.",
+        "opinion_publica": [
+            {
+                "fuente": "The Korea Herald",
+                "reaccion": "La declaración de la ley marcial por parte del presidente Yoon ha sido ampliamente criticada por su falta de justificación clara."
+            },
+            {
+                "fuente": "The New York Times",
+                "reaccion": "La crisis política en Corea del Sur refleja profundas divisiones entre el gobierno y la oposición."
+            }
+        ],
+        "posibles_proximos_pasos": "La Asamblea Nacional podría proceder con la moción de censura, y el Partido del Poder Popular deberá decidir sobre el futuro político del presidente Yoon.",
+        "datos_relevantes": [
+            {
+                "dato": "El Partido Democrático cuenta con 192 escaños en la Asamblea Nacional, necesitando al menos ocho votos adicionales para aprobar la moción de censura.",
+                "fuente": "RTVE"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "El presidente Yoon Suk-yeol declaró la ley marcial el 3 de diciembre de 2024.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "La declaración fue realizada en un discurso televisado el 3 de diciembre."
+                }
+            },
+            {
+                "afirmacion": "La Asamblea Nacional votó en contra de la ley marcial el 4 de diciembre de 2024.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "El parlamento rechazó la medida, llevando al presidente a levantar la ley marcial."
+                }
+            }
+        ],
+        "reflexion_breve": "La situación actual en Corea del Sur destaca la importancia de mantener el equilibrio entre la seguridad nacional y el respeto a los procesos democráticos.",
+        "bsky_msg": "Tensión – Presidente surcoreano Yoon pide disculpas por ley marcial y deja su futuro en manos de su partido."
+    },
+    {
+        "titular": "Getxo convoca este sábado la mesa de crisis ante la alerta naranja por precipitaciones intensas",
+        "categoria_emocional": "Precaución",
+        "fecha_publicacion": "7 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644791/getxo-convoca-este-sabado-mesa-de-crisis-ante-alerta-naranja-por-precipitaciones-intensas/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2023/01/17/3038061/20230117115402_denboralea-gobela-getxo_foto610x342.jpg",
+        "resumen": "La alcaldesa de Getxo, Amaia Aguirre, ha convocado la mesa de crisis debido a la alerta naranja por precipitaciones intensas que se activará el domingo 8 de diciembre a las 12:00 horas y se mantendrá hasta el lunes a la misma hora. Se recomienda a la ciudadanía evitar actividades al aire libre, retirar vehículos de zonas susceptibles de inundación y tomar precauciones adicionales.",
+        "contexto": "El municipio de Getxo, en la costa del estado, se prepara para enfrentar condiciones meteorológicas adversas, siguiendo protocolos de seguridad establecidos para minimizar riesgos a la población.",
+        "linea_tiempo": [
+            {
+                "fecha": "31 de agosto de 2015",
+                "descripcion": "El alcalde en funciones de Getxo, Koldo Iturbe, convoca la mesa de crisis ante una alerta naranja por precipitaciones intensas."
+            },
+            {
+                "fecha": "9 de diciembre de 2021",
+                "descripcion": "Getxo activa el Plan Municipal de Protección Civil y convoca la mesa de crisis debido a una alerta naranja por fuertes lluvias."
+            },
+            {
+                "fecha": "17 de enero de 2024",
+                "descripcion": "La alcaldesa de Getxo, Amaia Aguirre, activa el Plan de actuación municipal y convoca la mesa de crisis ante una alerta naranja por fuertes vientos."
+            },
+            {
+                "fecha": "23 de noviembre de 2024",
+                "descripcion": "Amaia Aguirre activa el Plan municipal de Protección Civil y convoca la mesa de crisis ante una alerta naranja por viento en zonas expuestas."
+            }
+        ],
+        "quien_es_quien": [
+            {
+                "nombre": "Amaia Aguirre",
+                "descripcion": "Alcaldesa de Getxo, responsable de activar protocolos de seguridad ante alertas meteorológicas."
+            }
+        ],
+        "glosario_terminos": [
+            {
+                "termino": "Alerta naranja",
+                "definicion": "Nivel de aviso meteorológico que indica un riesgo importante debido a fenómenos inusuales y peligrosos para las actividades habituales."
+            },
+            {
+                "termino": "Mesa de crisis",
+                "definicion": "Equipo de coordinación municipal que se reúne para gestionar situaciones de emergencia y tomar decisiones rápidas."
+            },
+            {
+                "termino": "Precipitaciones intensas",
+                "definicion": "Lluvias fuertes que pueden causar inundaciones y otros problemas relacionados con el exceso de agua."
+            },
+            {
+                "termino": "Plan Municipal de Protección Civil",
+                "definicion": "Conjunto de medidas y procedimientos establecidos por un municipio para prevenir y actuar en situaciones de emergencia."
+            }
+        ],
+        "impacto_esperado": "Se anticipan posibles inundaciones locales, interrupciones en el transporte y daños materiales. La activación de protocolos busca minimizar riesgos para la población y los bienes.",
+        "comparativas": "En situaciones similares, municipios como Bilbao han implementado planes de emergencia y evacuaciones preventivas para garantizar la seguridad ciudadana.",
+        "opinion_publica": [
+            {
+                "fuente": "Protección Civil",
+                "reaccion": "Recomienda a la población seguir las indicaciones oficiales y evitar desplazamientos innecesarios durante la alerta."
+            }
+        ],
+        "posibles_proximos_pasos": "Dependiendo de la evolución meteorológica, podrían implementarse medidas adicionales como evacuaciones preventivas o cierre de vías públicas.",
+        "datos_relevantes": [
+            {
+                "dato": "La alerta naranja estará vigente desde el 8 de diciembre a las 12:00 horas hasta el 9 de diciembre a las 12:00 horas.",
+                "fuente": "Ayuntamiento de Getxo"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "La alerta naranja por precipitaciones intensas se activará el domingo 8 de diciembre a las 12:00 horas.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "El Ayuntamiento de Getxo ha informado oficialmente sobre la activación de la alerta en ese horario."
+                }
+            }
+        ],
+        "reflexion_breve": "La preparación y respuesta efectiva ante fenómenos naturales son esenciales para proteger a la comunidad y reducir el impacto de desastres.",
+        "bsky_msg": "Precaución – Getxo activa mesa de crisis por alerta naranja de lluvias intensas desde el domingo. Se recomienda evitar actividades al aire libre y tomar precauciones."
+    },
+    {
+        "titular": "Tiempo desapacible este sábado, con avisos por viento y nieve en el interior",
+        "categoria_emocional": "Precaución",
+        "fecha_publicacion": "7 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644465/tiempo-desapacible-este-sabado-con-avisos-por-viento-y-nieve-en-interior/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/11/11/3283448/20241111115410_hodeitsu-eguraldi-txarra-_foto610x342.jpg",
+        "resumen": "Este sábado, el estado experimenta condiciones meteorológicas adversas con cielos muy nubosos y precipitaciones, especialmente en la vertiente cantábrica. La cota de nieve descenderá a 800-1.000 metros por la tarde, y se esperan rachas de viento muy fuertes en zonas expuestas de Bizkaia y Gipuzkoa. Se han emitido avisos amarillos por precipitaciones persistentes, viento y nieve en el interior, además de riesgo marítimo costero.",
+        "contexto": "El estado enfrenta un episodio invernal con descensos de temperatura, nevadas en cotas medias y fuertes vientos, afectando principalmente al norte y zonas montañosas.",
+        "linea_tiempo": [
+            {
+                "fecha": "6 de diciembre de 2024",
+                "descripcion": "La Agencia Estatal de Meteorología (AEMET) anuncia la llegada de una masa de aire ártico que provocará un descenso significativo de temperaturas y nevadas en cotas bajas."
+            },
+            {
+                "fecha": "6 de diciembre de 2024",
+                "descripcion": "Protección Civil emite recomendaciones ante la previsión de nevadas y fuertes vientos, aconsejando precaución en desplazamientos y medidas de autoprotección."
+            },
+            {
+                "fecha": "7 de diciembre de 2024",
+                "descripcion": "Se activan avisos amarillos por viento y nieve en el interior del estado, especialmente en zonas de montaña y áreas expuestas."
+            },
+            {
+                "fecha": "8 de diciembre de 2024",
+                "descripcion": "Se prevé que las condiciones meteorológicas adversas continúen, con posibilidad de nevadas en cotas bajas y persistencia de fuertes vientos."
+            }
+        ],
+        "quien_es_quien": [],
+        "glosario_terminos": [
+            {
+                "termino": "Aviso amarillo",
+                "definicion": "Nivel de alerta meteorológica que indica un riesgo bajo, pero que puede afectar a ciertas actividades o áreas."
+            },
+            {
+                "termino": "Cota de nieve",
+                "definicion": "Altitud a partir de la cual se espera que la precipitación caiga en forma de nieve."
+            },
+            {
+                "termino": "Vertiente cantábrica",
+                "definicion": "Región geográfica que abarca las áreas del estado que drenan hacia el mar Cantábrico."
+            },
+            {
+                "termino": "Rachas de viento",
+                "definicion": "Aumentos súbitos y breves en la velocidad del viento."
+            }
+        ],
+        "impacto_esperado": "Las condiciones adversas pueden provocar interrupciones en el transporte, especialmente en carreteras de montaña, y aumentar el riesgo de accidentes debido a la nieve y el viento.",
+        "comparativas": "En situaciones similares, comunidades como Aragón han activado planes especiales de protección civil para gestionar nevadas y vientos fuertes, emitiendo recomendaciones específicas para la población.",
+        "opinion_publica": [
+            {
+                "fuente": "Protección Civil",
+                "reaccion": "Recomienda a la ciudadanía extremar las precauciones, evitar desplazamientos innecesarios y mantenerse informada sobre la evolución meteorológica."
+            }
+        ],
+        "posibles_proximos_pasos": "Dependiendo de la evolución del clima, podrían emitirse nuevos avisos o alertas, y las autoridades podrían implementar medidas adicionales como restricciones de tráfico o cierres preventivos en áreas afectadas.",
+        "datos_relevantes": [
+            {
+                "dato": "La cota de nieve descenderá a 800-1.000 metros durante la tarde del sábado.",
+                "fuente": "Euskalmet"
+            },
+            {
+                "dato": "Se esperan rachas de viento muy fuertes en zonas expuestas de Bizkaia y Gipuzkoa.",
+                "fuente": "Euskalmet"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "La cota de nieve bajará a los 800-1.000 metros durante la tarde.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Euskalmet ha informado que la cota de nieve descenderá a esos niveles en la tarde del sábado."
+                }
+            },
+            {
+                "afirmacion": "Se esperan rachas de viento muy fuertes en zonas expuestas de Bizkaia y Gipuzkoa.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Euskalmet ha emitido avisos por viento en estas áreas, indicando rachas muy fuertes."
+                }
+            }
+        ],
+        "reflexion_breve": "La preparación y atención a las indicaciones oficiales son esenciales para minimizar riesgos durante episodios meteorológicos adversos.",
+        "bsky_msg": "Precaución – Jornada con avisos por viento y nieve en el interior del estado. Se recomienda extremar precauciones y mantenerse informado."
+    },
+    {
+        "titular": "Plataformas de Navarra y Álava defienden en Bruselas una 'alternativa factible y real' al TAV",
+        "categoria_emocional": "Defensa de alternativas sostenibles",
+        "fecha_publicacion": "7 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9644852/plataformas-de-navarra-y-alava-defienden-en-bruselas-alternativa-factible-y-real-al-tav/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/04/20/3223238/20240420212415_altsasumanifestazioaargaz_foto610x342.jpg",
+        "resumen": "Representantes de plataformas de Navarra y Álava han presentado en Bruselas una propuesta alternativa al Tren de Alta Velocidad (TAV), basada en la modernización de las infraestructuras ferroviarias existentes para permitir el tráfico mixto de mercancías y pasajeros, buscando una solución más sostenible y menos invasiva.",
+        "contexto": "En el estado, el desarrollo de infraestructuras ferroviarias ha generado debates sobre sostenibilidad y eficiencia. La propuesta de estas plataformas se enmarca en la búsqueda de alternativas al modelo tradicional de alta velocidad.",
+        "linea_tiempo": [
+            {
+                "fecha": "22 de noviembre de 2022",
+                "descripcion": "Presentación del estudio 'Análisis de trazados y propuesta para un tren público en Burgos, Álava y Navarra', que propone modernizar el trazado ferroviario existente como alternativa al TAV."
+            },
+            {
+                "fecha": "11 de enero de 2024",
+                "descripcion": "Movimientos anti-TAV de Navarra, Gipuzkoa y Álava convocan una manifestación en Altsasu para promover un tren social y rechazar nuevas infraestructuras de alta velocidad."
+            },
+            {
+                "fecha": "22 de enero de 2024",
+                "descripcion": "Plataformas por el tren en Navarra realizan una protesta en la estación de Pamplona, reclamando una actuación integral en la red ferroviaria existente."
+            },
+            {
+                "fecha": "18 de julio de 2024",
+                "descripcion": "El ministro de Transportes, Óscar Puente, en visita a Pamplona, considera más plausible la conexión de Navarra con la 'Y vasca' a través de Vitoria, generando debate sobre las alternativas al TAV."
+            }
+        ],
+        "quien_es_quien": [
+            {
+                "nombre": "Óscar Puente",
+                "descripcion": "Ministro de Transportes y Movilidad Sostenible del estado, involucrado en las decisiones sobre la conexión ferroviaria de Navarra con la 'Y vasca'."
+            }
+        ],
+        "glosario_terminos": [
+            {
+                "termino": "TAV",
+                "definicion": "Tren de Alta Velocidad, diseñado para alcanzar altas velocidades en trayectos interurbanos."
+            },
+            {
+                "termino": "Tráfico mixto",
+                "definicion": "Uso compartido de una infraestructura ferroviaria por trenes de pasajeros y de mercancías."
+            },
+            {
+                "termino": "Y vasca",
+                "definicion": "Proyecto ferroviario que conecta las tres capitales de la Comunidad Autónoma Vasca en forma de 'Y'."
+            },
+            {
+                "termino": "Modernización ferroviaria",
+                "definicion": "Actualización de infraestructuras ferroviarias existentes para mejorar su eficiencia y capacidad."
+            }
+        ],
+        "impacto_esperado": "La implementación de esta alternativa podría reducir el impacto ambiental y social asociado a la construcción de nuevas infraestructuras, promoviendo un modelo de transporte más sostenible y accesible para diversas regiones.",
+        "comparativas": "En países como Alemania, se ha optado por modernizar y adaptar líneas ferroviarias existentes para tráfico mixto, en lugar de construir nuevas infraestructuras de alta velocidad, priorizando la sostenibilidad y la integración territorial.",
+        "opinion_publica": [
+            {
+                "fuente": "Plataformas ciudadanas",
+                "reaccion": "Defienden la modernización de las vías actuales como solución más sostenible y menos invasiva que el TAV."
+            },
+            {
+                "fuente": "Autoridades gubernamentales",
+                "reaccion": "Algunas apoyan la construcción del TAV por considerarlo esencial para el desarrollo económico y la conectividad."
+            }
+        ],
+        "posibles_proximos_pasos": "Se espera que las instituciones evalúen la viabilidad de la propuesta presentada y consideren su implementación en futuras planificaciones ferroviarias, fomentando el diálogo entre las partes involucradas.",
+        "datos_relevantes": [
+            {
+                "dato": "El estudio alternativo propone una inversión de 2.374 millones de euros, frente a los 4.328 millones del proyecto del TAV.",
+                "fuente": "El Salto Diario"
+            },
+            {
+                "dato": "La velocidad media alcanzada en la vía modernizada sería de 141 km/h, apenas 19 km/h menos que la propuesta del TAV.",
+                "fuente": "El Salto Diario"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "La alternativa propuesta permitiría el tráfico mixto de mercancías y pasajeros.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "El estudio presentado por las plataformas detalla la adaptación de las vías para uso mixto."
+                }
+            },
+            {
+                "afirmacion": "La construcción del TAV es esencial para el desarrollo económico de la región.",
+                "verificacion": {
+                    "estado": "Debatido",
+                    "explicacion": "Mientras algunos sectores lo apoyan, otros proponen alternativas más sostenibles y menos costosas."
+                }
+            }
+        ],
+        "reflexion_breve": "La búsqueda de soluciones de transporte que equilibren desarrollo económico y sostenibilidad es crucial. Evaluar alternativas que minimicen el impacto ambiental y social, como la modernización de infraestructuras existentes, puede ofrecer beneficios significativos a largo plazo.",
+        "bsky_msg": "Defensa de alternativas sostenibles – Presentan en Bruselas una propuesta para modernizar las vías actuales como alternativa al TAV."
+    },
+    {
+        "titular": "Los yihadistas se hacen con Damasco, derrocando a Al Asad, que ha huido del país",
+        "categoria_emocional": "impacto",
+        "fecha_publicacion": "8 de diciembre de 2024",
+        "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9644916/los-yihadistas-se-hacen-con-damasco-derrocando-a-al-asad-que-ha-huido-del-pais/",
+        "url_imagen": "https://media.eitb.eus/multimedia/images/2024/12/08/3291549/20241208075030_siriahama-efe_foto610x342.jpg",
+        "resumen": "Tras 11 días de ofensiva, una coalición liderada por el grupo islamista Organismo de Liberación del Levante ha tomado Damasco, provocando la huida del presidente Bachar al Asad. Se han liberado prisioneros y se ha instado a preservar las instituciones públicas.",
+        "contexto": "El conflicto en Siria ha perdurado por más de una década, resultando en cientos de miles de muertes y millones de desplazados. La caída de Damasco marca un punto de inflexión en la guerra civil, con implicaciones significativas para la estabilidad regional.",
+        "linea_tiempo": [
+            {
+                "fecha": "15 de marzo de 2011",
+                "descripcion": "Inicio de las protestas en Siria que desencadenaron la guerra civil."
+            },
+            {
+                "fecha": "21 de agosto de 2013",
+                "descripcion": "Ataque químico en Ghouta, cerca de Damasco, causando cientos de muertes."
+            },
+            {
+                "fecha": "30 de septiembre de 2015",
+                "descripcion": "Rusia inicia intervención militar en Siria en apoyo al gobierno de Al Asad."
+            },
+            {
+                "fecha": "22 de diciembre de 2016",
+                "descripcion": "El gobierno sirio recupera el control total de Alepo."
+            },
+            {
+                "fecha": "27 de noviembre de 2024",
+                "descripcion": "Comienza la ofensiva de los rebeldes islamistas, liderados por HTS, tomando ciudades clave como Alepo y Hama."
+            }
+        ],
+        "quien_es_quien": [
+            {
+                "nombre": "Bachar al Asad",
+                "descripcion": "Presidente de Siria desde el año 2000, sucediendo a su padre Hafez al Asad. Su gobierno ha enfrentado una prolongada guerra civil desde 2011."
+            },
+            {
+                "nombre": "Abu Mohamed al Jolani",
+                "descripcion": "Líder del grupo islamista Organismo de Liberación del Levante (HTS), anteriormente vinculado a Al Qaeda. Ha encabezado la reciente ofensiva que culminó con la toma de Damasco."
+            },
+            {
+                "nombre": "Mazlum Abdi",
+                "descripcion": "Comandante de las Fuerzas Democráticas Sirias (FDS), una alianza liderada por kurdos que ha jugado un papel crucial en la lucha contra el Estado Islámico y en el conflicto sirio."
+            }
+        ],
+        "glosario_terminos": [
+            {
+                "termino": "Organismo de Liberación del Levante (HTS)",
+                "definicion": "Grupo islamista suní en Siria, anteriormente conocido como Frente Al Nusra, vinculado a Al Qaeda. Lidera la coalición que tomó Damasco."
+            },
+            {
+                "termino": "Fuerzas Democráticas Sirias (FDS)",
+                "definicion": "Alianza militar liderada por kurdos, compuesta por diversas milicias, que ha combatido tanto al Estado Islámico como a fuerzas gubernamentales sirias."
+            },
+            {
+                "termino": "Guerra civil siria",
+                "definicion": "Conflicto armado iniciado en 2011 entre el gobierno de Bashar al Asad y diversas facciones rebeldes, incluyendo grupos islamistas y kurdos."
+            },
+            {
+                "termino": "Damasco",
+                "definicion": "Capital de Siria y una de las ciudades más antiguas del mundo, recientemente tomada por fuerzas rebeldes en el contexto de la guerra civil."
+            }
+        ],
+        "impacto_esperado": "La caída de Damasco y la huida de Al Asad podrían provocar una reconfiguración del poder en Siria, con posibles enfrentamientos entre facciones rebeldes por el control. Además, la inestabilidad podría generar nuevas olas de refugiados y afectar la seguridad en países vecinos.",
+        "comparativas": "Situaciones similares se han observado en Libia tras el derrocamiento de Muamar Gadafi en 2011, donde la ausencia de un liderazgo claro llevó a años de conflicto entre diversas facciones por el control del país.",
+        "opinion_publica": [
+            {
+                "fuente": "Observatorio Sirio de Derechos Humanos",
+                "reaccion": "Ha confirmado la toma de Damasco por parte de los rebeldes y la huida de Al Asad, señalando la liberación de prisioneros y la necesidad de proteger a los civiles."
+            },
+            {
+                "fuente": "Gobierno de Turquía",
+                "reaccion": "Ha expresado su apoyo a los rebeldes, instando a una transición pacífica y al respeto de los derechos humanos en Siria."
+            }
+        ],
+        "posibles_proximos_pasos": "Se espera que las facciones rebeldes negocien la formación de un gobierno de transición. La comunidad internacional podría convocar conferencias para facilitar el diálogo y la reconstrucción del país.",
+        "datos_relevantes": [
+            {
+                "dato": "Más de 500,000 personas han muerto desde el inicio del conflicto en 2011.",
+                "fuente": "Naciones Unidas"
+            },
+            {
+                "dato": "Aproximadamente 6.6 millones de sirios son desplazados internos, y 5.6 millones han buscado refugio en otros países.",
+                "fuente": "ACNUR"
+            }
+        ],
+        "chequeo_datos": [
+            {
+                "afirmacion": "Bachar al Asad ha huido del país.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Según el Observatorio Sirio de Derechos Humanos y múltiples fuentes, Al Asad ha abandonado Siria tras la toma de Damasco."
+                }
+            },
+            {
+                "afirmacion": "Los yihadistas han liberado prisioneros de la cárcel de Damasco.",
+                "verificacion": {
+                    "estado": "Confirmado",
+                    "explicacion": "Informes de medios locales y organizaciones de derechos humanos confirman la liberación de prisioneros por parte de los rebeldes."
+                }
+            }
+        ],
+        "reflexion_breve": "La caída de Damasco representa un punto de inflexión en la historia contemporánea de Siria. Es esencial que las partes involucradas prioricen la paz y la reconstrucción, evitando una nueva espiral de violencia.",
+        "bsky_msg": "Impacto – Los yihadistas toman Damasco tras 11 días de ofensiva, provocando la huida de Al Asad y liberando prisioneros. ¿Qué sigue?"
+    }
+]
