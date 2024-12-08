@@ -1,4 +1,4 @@
-name: Actualizar source.json con og:image
+name: Actualizar y Construir Jekyll
 
 on:
   push:
@@ -11,6 +11,9 @@ on:
 jobs:
   update-source-json:
     runs-on: ubuntu-22.04
+
+    env:
+      BACKUP_DONE: "false"  # Bandera inicial para controlar el backup
 
     steps:
       - name: Checkout repository
@@ -52,8 +55,17 @@ jobs:
       - name: Extract og:image and update update.json
         run: node mergeJson.js extract-og-image
 
+
+      # Paso 7: Crear copia de seguridad solo si no se ha realizado ya
       - name: Backup source.json
-        run: node mergeJson.js backup
+        run: |
+          if [ "$BACKUP_DONE" = "false" ]; then
+            echo "Creando copia de seguridad..."
+            node mergeJson.js backup
+            echo "BACKUP_DONE=true" >> $GITHUB_ENV
+          else
+            echo "Ya se realizó un backup en este ciclo. Saltando este paso."
+          fi
 
       - name: Merge update.json into source.json
         run: node mergeJson.js merge
