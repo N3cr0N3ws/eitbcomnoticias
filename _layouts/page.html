@@ -99,6 +99,24 @@ layout: default
       </ul>
       {% endif %}
 
+      <!-- Expected data -->
+      {% assign datos_relevantes_count = page.datos_relevantes | size %}
+      {% if datos_relevantes_count > 0 %}
+      <h2>Datos relevante</h2>
+      <div class="data-container">
+        <div class="data-content">
+          <ul class="data">
+            {% for data in page.datos_relevantes %}
+            <li class="data-item">
+              <div class="data-fuente">{{ data.dato }}</div>
+              <p class="data-reaccion">"{{ data.fuente }}"</p>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
+
       <!-- Expected impact -->
       {% assign impacto_esperado_count = page.impacto_esperado | size %}
       {% if impacto_esperado_count > 0 %}       
