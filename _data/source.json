@@ -4033,5 +4033,52 @@
         ],
         "reflexion_breve": "La recurrencia de fenómenos meteorológicos extremos subraya la importancia de la preparación y la resiliencia comunitaria ante el cambio climático.",
         "bsky_msg": "precaución – Alerta naranja por lluvias y primeras nevadas en los altos –"
+    },
+    {
+      "titular": "Localizan sin vida al hombre de 77 años desaparecido en Iurreta",
+      "categoria_emocional": "tristeza",
+      "fecha_publicacion": "8 de diciembre de 2024",
+      "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9645110/localizan-cuerpo-sin-vida-del-hombre-de-77-anos-desaparecido-en-iurreta/",
+      "url_imagen": "https://picsum.photos/800/900",
+      "resumen": "El cuerpo sin vida de un hombre de 77 años, desaparecido desde el viernes en Iurreta, ha sido hallado este domingo a las 10:00 horas en una zona de difícil acceso del municipio. Personal médico confirmó su fallecimiento en el lugar.",
+      "contexto": "Iurreta es un municipio en la provincia de Bizkaia, donde ocasionalmente se reportan desapariciones de personas mayores, lo que moviliza a los servicios de emergencia y voluntarios en su búsqueda.",
+      "linea_tiempo": [
+        {
+          "fecha": "19 de diciembre de 2020",
+          "descripcion": "Hallado sin vida en una zanja en Iurreta un hombre de 87 años desaparecido desde el fin de semana anterior."
+        },
+        {
+          "fecha": "8 de octubre de 2024",
+          "descripcion": "Localizado el cuerpo sin vida de un hombre de 89 años desaparecido en Uitzi (Larraun) desde el domingo anterior."
+        }
+      ],
+      "quien_es_quien": [],
+      "glosario_terminos": [
+        {
+          "termino": "Iurreta",
+          "definicion": "Municipio ubicado en la provincia de Bizkaia, en el País Vasco."
+        },
+        {
+          "termino": "Bizkaia",
+          "definicion": "Provincia situada en la comunidad autónoma del País Vasco, en el norte del estado."
+        },
+        {
+          "termino": "Ertzaintza",
+          "definicion": "Policía autónoma del País Vasco, encargada de la seguridad en dicha comunidad."
+        },
+        {
+          "termino": "SOS Deiak",
+          "definicion": "Servicio de emergencias del País Vasco que coordina la atención en situaciones de urgencia."
+        }
+      ],
+      "impacto_esperado": "Este tipo de sucesos genera preocupación en la comunidad local y destaca la importancia de los protocolos de búsqueda y rescate para personas desaparecidas, especialmente entre la población de mayor edad.",
+      "comparativas": "En Navarra, en octubre de 2024, se localizó el cuerpo sin vida de un hombre de 89 años desaparecido en Uitzi, lo que muestra que las desapariciones de personas mayores son un fenómeno que afecta a diversas regiones del estado.",
+      "opinion_publica": [],
+      "posibles_proximos_pasos": "Las autoridades realizarán una investigación para determinar las causas del fallecimiento y, en caso necesario, reforzarán las medidas de prevención y respuesta ante desapariciones de personas mayores.",
+      "datos_relevantes": [],
+      "chequeo_datos": [],
+      "reflexion_breve": "La desaparición y posterior hallazgo sin vida de personas mayores en zonas de difícil acceso subraya la necesidad de fortalecer las redes comunitarias y los sistemas de apoyo para prevenir estos trágicos desenlaces.",
+      "bsky_msg": "Tristeza – Hallado sin vida el hombre de 77 años desaparecido en Iurreta –"
     }
+    
 ]
