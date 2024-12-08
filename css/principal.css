@@ -307,16 +307,6 @@ a, a:hover {
   list-style: none;
 }
 
-.opinion::before {
-  content: '';
-  position: absolute;
-  left: 16px;
-  top: 0;
-  bottom: 0;
-  width: 0;
-  background: #ccc;
-}
-
 .opinion-item {
   position: relative;
   margin-bottom: 20px;
@@ -346,6 +336,46 @@ a, a:hover {
   margin: 0;
   color: #555;
 }
+
+/* Data */
+.data-container {
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  padding: 8px;
+  margin-top: 16px;
+
+}
+
+.data-content {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+  padding: 18px;
+}
+.data {
+  position: relative;
+  padding: 0;
+  list-style: none;
+}
+
+
+.data-item {
+}
+
+.data-fuente {
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+.data-reaccion {
+  margin: 0;
+  color: #555;
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+
+
 
 /* Fuente de la noticia */
 .explain {
