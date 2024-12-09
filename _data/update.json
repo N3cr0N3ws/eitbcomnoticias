@@ -1,1 +1,40 @@
-{}
+{
+  "titular": "Riesgo de inundaciones hoy, 9 de diciembre de 2024, con especial atención al Arga y al Zadorra",
+  "categoria_emocional": "Alerta",
+  "fecha_publicacion": "9 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9645483/riesgo-de-inundaciones-hoy-9-de-diciembre-de-2024-con-especial-atencion-al-arga-y-al-zadorra/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Las intensas lluvias han elevado los caudales de los ríos Arga y Zadorra, situándolos en niveles de alerta. En Navarra, el Gobierno ha activado el Plan de Emergencia en nivel 0, mientras que en Álava se monitorea de cerca el Zadorra en Abetxuko, Ozaeta y Etura.",
+  "contexto": "Las recientes precipitaciones han incrementado el riesgo de inundaciones en el estado, afectando principalmente a Navarra y Álava, donde los ríos Arga y Zadorra presentan niveles preocupantes.",
+  "linea_tiempo": [
+    {
+      "fecha": "10 de diciembre de 2021",
+      "descripcion": "Tras inundar Pamplona y su comarca, la crecida del Arga se traslada a su curso bajo, afectando a localidades como Peralta, Falces y Funes."
+    },
+    {
+      "fecha": "27 de febrero de 2024",
+      "descripcion": "El río Arga se desborda en Pamplona, causando serias inundaciones y cortes de tráfico en varios puntos de la ciudad."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Plan de Emergencia en nivel 0",
+      "definicion": "Protocolo activado cuando se prevé la inminencia de inundaciones que pueden afectar a bienes y personas."
+    },
+    {
+      "termino": "Nivel rojo (fase de alerta)",
+      "definicion": "Indica una situación de alto riesgo debido al elevado caudal de un río, con posibilidad de desbordamiento."
+    },
+    {
+      "termino": "Confederación Hidrográfica del Ebro (CHE)",
+      "definicion": "Organismo encargado de la gestión de los recursos hídricos en la cuenca del río Ebro."
+    },
+    {
+      "termino": "Cota de nieve",
+      "definicion": "Altitud a partir de la cual las precipitaciones caen en forma de nieve."
+    }
+  ],
+  "impacto_esperado": "Las crecidas de los ríos Arga y Zadorra pueden provocar inundaciones en áreas urbanas y rurales, afectando infraestructuras, viviendas y actividades económicas locales.",
+  "posibles_proximos_pasos": "Las autoridades continuarán monitoreando los niveles de los ríos y podrían activar niveles superiores de emergencia si las condiciones empeoran. Se recomienda a la población mantenerse informada y seguir las indicaciones oficiales.",
+  "bsky_msg": "Alerta – Riesgo de inundaciones hoy, 9 de diciembre de 2024, con especial atención al Arga y al Zadorra –"
+}
