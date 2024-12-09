@@ -9,10 +9,18 @@
     <title>{{ page.titular }}</title>
     <link rel="canonical" href="https://www.eitbnoticias.com/pages/{{ page.slug }}.html" />
     <meta name="description" content=""{{ page.contexto }}">
-  
+    
+    <meta name="Author" content="Maïder">
+    <meta name="robots" content="INDEX, FOLLOW">
+    <meta name="lang" content="es">
+
     <!-- Open Graph Tags -->
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.contexto }}">
+    <meta property="og:site_name" content="Eitbnoticias">
+    <meta property="og:locale" content="es_ES">
+    <meta property="og:image" content="{{ page.url_imagen }}">
+    <meta property="og:url" content="https://www.eitbnoticias.com/pages/{{ page.slug }}.html">
 
    <!-- Amplitude -->
     <script src="https://cdn.amplitude.com/libs/analytics-browser-2.11.1-min.js.gz"></script>
