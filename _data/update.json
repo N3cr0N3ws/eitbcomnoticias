@@ -1,1 +1,100 @@
-{}
+{
+  "titular": "Israel asegura haber bombardeado instalaciones con armamento químico en Siria",
+  "categoria_emocional": "Alarma",
+  "fecha_publicacion": "9 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9646007/israel-asegura-haber-bombardeado-instalaciones-con-armamento-quimico-en-siria/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Las fuerzas israelíes han bombardeado instalaciones en Siria que, según afirman, almacenaban armas químicas y misiles de largo alcance, con el objetivo de evitar que caigan en manos de extremistas tras la caída del régimen de Bashar al-Assad.",
+  "contexto": "Tras la caída del régimen de Bashar al-Assad, Israel ha intensificado sus operaciones en Siria para prevenir que armamento estratégico, incluyendo armas químicas, sea adquirido por grupos extremistas, en un esfuerzo por mantener la seguridad regional.",
+  "linea_tiempo": [
+    {
+      "fecha": "8 de diciembre de 2024",
+      "descripcion": "Israel lleva a cabo bombardeos en instalaciones sirias que supuestamente almacenaban armas químicas y misiles de largo alcance."
+    },
+    {
+      "fecha": "9 de diciembre de 2024",
+      "descripcion": "El ministro de Exteriores israelí, Gideon Saar, confirma los ataques y destaca la necesidad de evitar que estas armas caigan en manos de extremistas."
+    },
+    {
+      "fecha": "9 de diciembre de 2024",
+      "descripcion": "Medios internacionales informan sobre los bombardeos israelíes en Siria, señalando la destrucción de una fábrica de armas químicas perteneciente al régimen de Assad."
+    },
+    {
+      "fecha": "9 de diciembre de 2024",
+      "descripcion": "El Gobierno israelí solicita el cese de los ataques contra las fuerzas kurdas en Siria, calificándolas como una fuerza de estabilidad en el país."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Gideon Saar",
+      "descripcion": "Ministro de Exteriores de Israel, encargado de comunicar las acciones militares del país en Siria y su justificación."
+    },
+    {
+      "nombre": "Bashar al-Assad",
+      "descripcion": "Ex presidente de Siria, cuyo régimen ha sido depuesto recientemente, generando inestabilidad en la región."
+    },
+    {
+      "nombre": "Israel Katz",
+      "descripcion": "Ministro de Defensa de Israel, responsable de ordenar al ejército consolidar el control en zonas estratégicas de Siria."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Armas químicas",
+      "definicion": "Armamento que utiliza sustancias químicas tóxicas para causar daño o muerte."
+    },
+    {
+      "termino": "Extremistas",
+      "definicion": "Grupos o individuos que adoptan posiciones radicales, a menudo recurriendo a la violencia para alcanzar sus objetivos."
+    },
+    {
+      "termino": "Altos del Golán",
+      "definicion": "Meseta estratégica en el suroeste de Siria, ocupada por Israel desde 1967."
+    },
+    {
+      "termino": "Fuerzas Democráticas Sirias (FDS)",
+      "definicion": "Alianza militar liderada por kurdos que ha combatido al Estado Islámico en Siria."
+    }
+  ],
+  "impacto_esperado": "Estos bombardeos podrían intensificar las tensiones en la región, especialmente entre Israel y grupos armados en Siria, además de complicar las relaciones con países vecinos involucrados en el conflicto sirio.",
+  "comparativas": "En 2013, Estados Unidos llevó a cabo ataques aéreos en Siria tras el uso de armas químicas por parte del régimen de Assad, buscando desmantelar su capacidad para emplear este tipo de armamento.",
+  "opinion_publica": [
+    {
+      "fuente": "Organización para la Prohibición de las Armas Químicas (OPAQ)",
+      "reaccion": "Condena el uso y almacenamiento de armas químicas, instando a todas las partes a respetar las normativas internacionales."
+    },
+    {
+      "fuente": "Gobierno de Rusia",
+      "reaccion": "Critica las acciones unilaterales de Israel en Siria, abogando por soluciones diplomáticas al conflicto."
+    }
+  ],
+  "posibles_proximos_pasos": "Es probable que Israel continúe monitoreando y atacando objetivos en Siria que considere amenazas a su seguridad, mientras la comunidad internacional podría intensificar esfuerzos diplomáticos para estabilizar la región.",
+  "datos_relevantes": [
+    {
+      "dato": "Israel ha realizado más de 200 ataques en Siria desde 2017, principalmente contra objetivos iraníes y de Hezbolá.",
+      "fuente": "Ministerio de Defensa de Israel"
+    },
+    {
+      "dato": "Se estima que el régimen de Assad utilizó armas químicas en al menos 50 ocasiones durante la guerra civil siria.",
+      "fuente": "Human Rights Watch"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Israel bombardeó instalaciones en Siria que almacenaban armas químicas.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "El ministro de Exteriores israelí, Gideon Saar, confirmó los ataques a instalaciones con armas químicas en Siria."
+      }
+    },
+    {
+      "afirmacion": "El objetivo de los ataques era evitar que las armas cayeran en manos de extremistas.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Según declaraciones oficiales israelíes, los bombardeos buscaban prevenir que armamento estratégico fuera adquirido por grupos extremistas."
+      }
+    }
+  ],
+  "reflexion_breve": "La destrucción de arsenales químicos en Siria por parte de Israel refleja la complejidad del conflicto y la necesidad de equilibrar la seguridad nacional con la estabilidad regional.",
+  "bsky_msg": "Alarma – Israel asegura haber bombardeado instalaciones con armamento químico en Siria –"
+}
