@@ -448,7 +448,7 @@ li {
   border-bottom-right-radius: 40px;
   margin-top:-40px;
   background-color: #ebebeb;
-  padding: 80px 24px 40px 24px;
+  padding: 24px;
   z-index: 0;
   position: relative;
 }
