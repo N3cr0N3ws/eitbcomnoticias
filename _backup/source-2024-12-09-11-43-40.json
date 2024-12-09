@@ -4596,59 +4596,5 @@
         ],
         "posibles_proximos_pasos": "El presidente Sánchez deberá decidir si se somete a la cuestión de confianza o busca reforzar su apoyo parlamentario mediante nuevas negociaciones.",
         "bsky_msg": "Tensión política – Puigdemont pide a Sánchez que se someta a una cuestión de confianza –"
-    },
-    {
-        "titular": "Podemos no apoya de momento el presupuesto de Álava y presenta 35 enmiendas parciales",
-        "categoria_emocional": "Expectativa",
-        "fecha_publicacion": "9 de diciembre de 2024",
-        "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9645766/podemos-no-apoya-de-momento-presupuesto-de-alava-y-presenta-35-enmiendas-parciales/",
-        "url_imagen": "https://media.eitb.eus/multimedia/images/2023/06/29/3127071/20230629130837_ramiro-gonzalez_foto610x342.jpg",
-        "resumen": "Elkarrekin Podemos-IU ha presentado 35 enmiendas parciales al presupuesto de la Diputación de Álava, sumando 12 millones de euros, y solicita dos acuerdos políticos adicionales. Aunque aún no han alcanzado un acuerdo con el gobierno foral, las negociaciones continúan.",
-        "contexto": "El gobierno foral de Álava, compuesto por PNV y PSE, está en minoría en las Juntas Generales y requiere el apoyo de al menos un grupo de la oposición para aprobar el presupuesto de 2025. Las negociaciones están en curso con EH Bildu, Elkarrekin Podemos-IU y el PP.",
-        "linea_tiempo": [
-            {
-                "fecha": "6 de diciembre de 2023",
-                "descripcion": "La negociación sobre los presupuestos de Álava avanza sin enmiendas a la totalidad por parte de la oposición, que presenta enmiendas parciales para pactar con el gobierno foral."
-            },
-            {
-                "fecha": "29 de noviembre de 2024",
-                "descripcion": "El Gobierno Vasco incorpora 34 enmiendas al presupuesto para incluir propuestas de la oposición, mostrando voluntad de colaboración."
-            }
-        ],
-        "quien_es_quien": [
-            {
-                "nombre": "David Rodríguez",
-                "descripcion": "Juntero de Elkarrekin Podemos-IU en las Juntas Generales de Álava."
-            },
-            {
-                "nombre": "José Damián García-Moreno",
-                "descripcion": "Juntero de Elkarrekin Podemos-IU en las Juntas Generales de Álava."
-            },
-            {
-                "nombre": "Ramiro González",
-                "descripcion": "Diputado General de Álava, miembro del PNV."
-            }
-        ],
-        "glosario_terminos": [
-            {
-                "termino": "Enmienda parcial",
-                "definicion": "Propuesta de modificación específica a un proyecto de ley o presupuesto, sin rechazarlo en su totalidad."
-            },
-            {
-                "termino": "Zonas tensionadas",
-                "definicion": "Áreas donde la demanda de vivienda supera la oferta, provocando un aumento significativo de los precios de alquiler."
-            },
-            {
-                "termino": "Juntas Generales de Álava",
-                "definicion": "Órgano legislativo del Territorio Histórico de Álava, encargado de aprobar leyes y presupuestos."
-            },
-            {
-                "termino": "Elkarrekin Podemos-IU",
-                "definicion": "Coalición política de izquierda en el País Vasco, integrada por Podemos, Izquierda Unida y Equo."
-            }
-        ],
-        "impacto_esperado": "La aprobación de las enmiendas y acuerdos propuestos por Elkarrekin Podemos-IU podría influir en la distribución de recursos en Álava, especialmente en áreas como vivienda, transporte público y condiciones laborales en residencias privadas.",
-        "posibles_proximos_pasos": "Se prevé que continúen las negociaciones entre el gobierno foral y los grupos de la oposición para alcanzar un acuerdo que permita la aprobación del presupuesto de 2025.",
-        "bsky_msg": "Expectativa – Podemos no apoya de momento el presupuesto de Álava y presenta 35 enmiendas parciales –"
     }
 ]
