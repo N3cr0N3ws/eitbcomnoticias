@@ -4650,55 +4650,5 @@
         "impacto_esperado": "La aprobación de las enmiendas y acuerdos propuestos por Elkarrekin Podemos-IU podría influir en la distribución de recursos en Álava, especialmente en áreas como vivienda, transporte público y condiciones laborales en residencias privadas.",
         "posibles_proximos_pasos": "Se prevé que continúen las negociaciones entre el gobierno foral y los grupos de la oposición para alcanzar un acuerdo que permita la aprobación del presupuesto de 2025.",
         "bsky_msg": "Expectativa – Podemos no apoya de momento el presupuesto de Álava y presenta 35 enmiendas parciales –"
-    },
-    {
-        "titular": "Por qué los científicos están abandonando X y se están mudando a Bluesky en masa",
-        "categoria_emocional": "Preocupación",
-        "fecha_publicacion": "25 de noviembre de 2024",
-        "url_canonical": "https://quo.eldiario.es/ciencia/q2411453592/por-que-los-cientificos-estan-abandonando-x-y-se-estan-mudando-a-bluesky-en-masa",
-        "url_imagen": "https://quo.eldiario.es/wp-content/uploads/2024/11/f99a0499-2023-04-21t114555z_180891560_mt1sipa000mnu4ys_rtrmadp_3_sipa-usa-copy.jpg",
-        "resumen": "Investigadores están migrando de X (antes Twitter) a Bluesky, buscando mayor control sobre el contenido y las interacciones, con la esperanza de recrear la experiencia positiva que ofrecía Twitter en sus mejores tiempos.",
-        "contexto": "Desde la adquisición de Twitter por Elon Musk en 2022, la plataforma ha experimentado cambios que han llevado a una disminución en la moderación de contenido, aumentando la presencia de spam, bots y publicaciones abusivas, lo que ha generado descontento entre la comunidad científica.",
-        "linea_tiempo": [
-            {
-                "fecha": "27 de octubre de 2022",
-                "descripcion": "Elon Musk completa la adquisición de Twitter por 44.000 millones de dólares."
-            },
-            {
-                "fecha": "21 de noviembre de 2024",
-                "descripcion": "La revista Nature informa sobre la migración de científicos a Bluesky en busca de un entorno más controlado y seguro."
-            }
-        ],
-        "quien_es_quien": [
-            {
-                "nombre": "Elon Musk",
-                "descripcion": "Empresario y CEO de empresas como Tesla y SpaceX; adquirió Twitter en 2022, implementando cambios significativos en la plataforma."
-            },
-            {
-                "nombre": "Jack Dorsey",
-                "descripcion": "Cofundador y ex CEO de Twitter; respaldó la creación de Bluesky como una alternativa descentralizada a las redes sociales tradicionales."
-            }
-        ],
-        "glosario_terminos": [
-            {
-                "termino": "Bluesky",
-                "definicion": "Plataforma de red social respaldada por Jack Dorsey, diseñada para ofrecer un entorno más controlado y seguro para los usuarios."
-            },
-            {
-                "termino": "Moderación de contenido",
-                "definicion": "Proceso de supervisar y controlar las publicaciones en una plataforma para asegurar el cumplimiento de las normas y políticas establecidas."
-            },
-            {
-                "termino": "Bots",
-                "definicion": "Programas automatizados que realizan tareas repetitivas en internet, como publicar contenido o interactuar con usuarios, a menudo utilizados para spam o manipulación."
-            },
-            {
-                "termino": "Spam",
-                "definicion": "Mensajes no solicitados o irrelevantes enviados en masa, generalmente con fines publicitarios o malintencionados."
-            }
-        ],
-        "impacto_esperado": "La migración de científicos a Bluesky podría fortalecer la plataforma como un espacio de intercambio académico y colaboración, mientras que X podría enfrentar una disminución en la calidad del contenido científico y académico.",
-        "posibles_proximos_pasos": "Se espera que más investigadores evalúen su presencia en X y consideren alternativas como Bluesky para mantener un entorno de comunicación más seguro y controlado.",
-        "bsky_msg": "Preocupación – Por qué los científicos están abandonando X y se están mudando a Bluesky en masa –"
     }
 ]
