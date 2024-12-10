@@ -450,19 +450,15 @@ li {
   background-color: #ebebeb;
   padding: 24px;
   z-index: 0;
-  position: relative;
 }
 
 /* Source */
 .source {
     font-family:Arial, Helvetica, sans-serif;
 }
-.source h5 {
-    font-weight: 600;
-    font-size: 1.1em;
-    line-height: 90%;
-}
+
 .source p {
+  padding-top: 16px;
   color: #555;
   font-size: 0.88em;
 }
