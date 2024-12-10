@@ -1,1 +1,85 @@
-{}
+{
+  "titular": "¿Quién es Mohamed al Bashir, el encargado de liderar el laberinto sirio?",
+  "categoria_emocional": "Liderazgo emergente",
+  "fecha_publicacion": "10 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9647304/quien-es-mohamed-al-bashir-encargado-de-liderar-laberinto-sirio/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Mohamed al Bashir, nacido en 1983 en Jabal Zawiya, Siria, es un ingeniero eléctrico y político islamista. Graduado en Ingeniería Eléctrica y Electrónica por la Universidad de Alepo en 2007 y en Sharía por la Universidad de Idlib, trabajó en la Compañía Siria de Gas antes de ingresar en política tras las revueltas de 2011. En enero de 2024, fue nombrado jefe del 'Gobierno de Salvación' en Idlib, vinculado a Hayat Tahrir al Sham (HTS). Tras la caída de Bashar al Asad, ha sido designado para liderar el gobierno de transición en Siria.",
+  "contexto": "Tras la caída del régimen de Bashar al Asad, Siria enfrenta un complejo escenario político y social. Mohamed al Bashir, con experiencia en la administración de territorios controlados por la oposición, asume el liderazgo en un momento crítico para la reconstrucción y estabilización del país.",
+  "linea_tiempo": [
+    {
+      "fecha": "1983",
+      "descripcion": "Nace Mohamed al Bashir en Jabal Zawiya, provincia de Idlib, Siria."
+    },
+    {
+      "fecha": "2007",
+      "descripcion": "Se gradúa en Ingeniería Eléctrica y Electrónica por la Universidad de Alepo."
+    },
+    {
+      "fecha": "2011",
+      "descripcion": "Trabaja en la Compañía Siria de Gas y se involucra en política tras las revueltas contra el régimen de Al Asad."
+    },
+    {
+      "fecha": "13 de enero de 2024",
+      "descripcion": "Es nombrado primer ministro del 'Gobierno de Salvación' en Idlib."
+    },
+    {
+      "fecha": "10 de diciembre de 2024",
+      "descripcion": "Designado líder del gobierno de transición en Siria tras la caída de Bashar al Asad."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Ahmed al Charaa (Abu Mohamed al Jolani)",
+      "descripcion": "Líder de Hayat Tahrir al Sham (HTS), grupo islamista que derrocó a Bashar al Asad."
+    },
+    {
+      "nombre": "Mohamed Ghazi al Jalali",
+      "descripcion": "Ex primer ministro sirio, participó en la designación de Al Bashir como líder del gobierno de transición."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Jabal Zawiya",
+      "definicion": "Región montañosa en la provincia de Idlib, noroeste de Siria."
+    },
+    {
+      "termino": "Sharía",
+      "definicion": "Ley islámica derivada del Corán y la Sunna."
+    },
+    {
+      "termino": "Hayat Tahrir al Sham (HTS)",
+      "definicion": "Alianza islamista yihadista activa en Siria, considerada grupo terrorista por varios países."
+    },
+    {
+      "termino": "Gobierno de Salvación",
+      "definicion": "Administración establecida en 2017 en Idlib, vinculada a HTS, con ministerios y autoridades propias."
+    }
+  ],
+  "impacto_esperado": "El liderazgo de Mohamed al Bashir en el gobierno de transición podría influir en la dirección política de Siria, especialmente considerando su vinculación con grupos islamistas. Su gestión será crucial para la estabilidad y reconstrucción del país.",
+  "comparativas": "Situaciones similares se han observado en países como Libia, donde líderes de facciones opositoras asumieron roles de gobierno tras la caída de regímenes autoritarios, enfrentando desafíos en la unificación y reconstrucción nacional.",
+  "opinion_publica": [
+    {
+      "fuente": "La Nación",
+      "reaccion": "Destaca que Al Bashir intentó llevar orden al último bastión de la oposición armada contra Al Asad en Idlib."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que Al Bashir forme un gabinete inclusivo que represente a las diversas facciones sirias y establezca un plan para la reconstrucción y reconciliación nacional.",
+  "datos_relevantes": [
+    {
+      "dato": "Al Bashir se graduó en Ingeniería Eléctrica y Electrónica en 2007 y en Sharía posteriormente.",
+      "fuente": "EITB"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Mohamed al Bashir fue nombrado jefe del 'Gobierno de Salvación' en enero de 2024.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Según EITB, Al Bashir asumió este cargo en enero de 2024."
+      }
+    }
+  ],
+  "reflexion_breve": "La designación de Mohamed al Bashir como líder del gobierno de transición en Siria representa una nueva fase en la compleja dinámica política del país, donde la reconciliación y la reconstrucción serán fundamentales para el futuro.",
+  "bsky_msg": "Liderazgo emergente – Mohamed al Bashir asume el liderazgo del gobierno de transición en Siria tras la caída de Al Asad –"
+}
