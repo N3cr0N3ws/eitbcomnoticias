@@ -1,1 +1,85 @@
-{}
+{
+  "titular": "Euskaltzaleen Topagunea iniciará el 14 de diciembre una nueva etapa bajo otro nombre y con objetivos renovados",
+  "categoria_emocional": "Renovación positiva",
+  "fecha_publicacion": "10 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9646891/euskaltzaleen-topagunea-iniciara-14-de-diciembre-nueva-etapa-bajo-otro-nombre-y-con-objetivos-renovados/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Euskaltzaleen Topagunea, que agrupa a 74 asociaciones locales de promoción del euskera, iniciará una nueva etapa con un cambio de nombre y objetivos renovados. La presentación de esta nueva identidad se realizará el 14 de diciembre en el Kafe Antzokia de Bilbao. La directora Jasone Mendizabal y el director en Navarra, Oskar Zapata, destacan la necesidad de adaptarse a las nuevas formas de activismo y militancia en la sociedad actual.",
+  "contexto": "Euskaltzaleen Topagunea, fundada en 1996 como Euskara Elkarteen Federazioa, ha trabajado durante décadas en la promoción del euskera en diversas localidades del estado. Ante los cambios sociales y las nuevas dinámicas de participación, la organización considera esencial renovar su identidad y objetivos para seguir fomentando el uso del euskera de manera efectiva.",
+  "linea_tiempo": [
+    {
+      "fecha": "1996",
+      "descripcion": "Fundación de Euskaltzaleen Topagunea bajo el nombre de Euskara Elkarteen Federazioa."
+    },
+    {
+      "fecha": "2012",
+      "descripcion": "La organización adopta el nombre de Euskaltzaleen Topagunea para reflejar su evolución y objetivos."
+    },
+    {
+      "fecha": "22 de septiembre de 2023",
+      "descripcion": "Irati Iciar es elegida nueva presidenta de Euskaltzaleen Topagunea, sucediendo a Kike Amonarriz."
+    },
+    {
+      "fecha": "14 de diciembre de 2024",
+      "descripcion": "Presentación de la nueva identidad y objetivos renovados de la organización en Bilbao."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Jasone Mendizabal",
+      "descripcion": "Directora de Euskaltzaleen Topagunea, lidera la renovación de la organización."
+    },
+    {
+      "nombre": "Oskar Zapata",
+      "descripcion": "Director de Euskaltzaleen Topagunea en Navarra, participa en la redefinición de objetivos."
+    },
+    {
+      "nombre": "Irati Iciar",
+      "descripcion": "Presidenta de Euskaltzaleen Topagunea desde septiembre de 2023, sucediendo a Kike Amonarriz."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Euskaltzale",
+      "definicion": "Persona que promueve y apoya el uso del euskera."
+    },
+    {
+      "termino": "Kafe Antzokia",
+      "definicion": "Espacio cultural en Bilbao conocido por eventos relacionados con la cultura vasca."
+    },
+    {
+      "termino": "Tokikom",
+      "definicion": "Red que agrupa a medios locales en euskera."
+    },
+    {
+      "termino": "Kukulais",
+      "definicion": "Red para el ocio en euskera integrada en Euskaltzaleen Topagunea."
+    }
+  ],
+  "impacto_esperado": "La renovación de Euskaltzaleen Topagunea busca fortalecer el movimiento euskaltzale, adaptándose a las nuevas formas de participación social y promoviendo el uso del euskera de manera más efectiva en la sociedad actual.",
+  "comparativas": "Organizaciones culturales en otros países, como el Instituto Camões en Portugal, han renovado sus estrategias para adaptarse a las nuevas dinámicas sociales y tecnológicas, logrando una mayor difusión de sus lenguas y culturas.",
+  "opinion_publica": [
+    {
+      "fuente": "Noticias de Navarra",
+      "reaccion": "Destacan la importancia de tejer nuevas alianzas basadas en valores compartidos para la revitalización del euskera."
+    }
+  ],
+  "posibles_proximos_pasos": "Tras la presentación de su nueva identidad, se espera que Euskaltzaleen Topagunea implemente programas y actividades alineados con sus objetivos renovados, fomentando colaboraciones y adaptándose a las nuevas formas de activismo social.",
+  "datos_relevantes": [
+    {
+      "dato": "Euskaltzaleen Topagunea agrupa a 74 asociaciones locales y 75 medios locales bajo Tokikom.",
+      "fuente": "EITB"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Euskaltzaleen Topagunea iniciará una nueva etapa bajo otro nombre y con objetivos renovados.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La organización ha anunciado oficialmente este cambio que se presentará el 14 de diciembre de 2024."
+      }
+    }
+  ],
+  "reflexion_breve": "La adaptación de Euskaltzaleen Topagunea refleja la necesidad de las organizaciones culturales de evolucionar con la sociedad, asegurando la relevancia y eficacia en la promoción de la lengua y cultura vascas.",
+  "bsky_msg": "Renovación positiva – Euskaltzaleen Topagunea inicia nueva etapa con cambio de nombre y objetivos renovados –"
+}
