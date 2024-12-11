@@ -36,7 +36,7 @@ a, a:hover {
 .news-card {
     padding-top: 200px;
     position: relative;
-    z-index: -2; 
+    z-index: -1; 
   
   }
 
@@ -435,14 +435,47 @@ li {
     border-top: #ecd102 4px solid;
 }
 
+/* Reflexion  */
+.reflexion {
+  position: relative;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  margin-top:-40px;
+  background-color: #ecd102;
+  padding: 24px;
+  z-index: -1;
+}
+
+.reflexion img {
+  float: left; 
+  margin: 0 16px 16px 0; 
+  width: 80px; 
+  border-radius: 50%;
+}
+.reflexion p {
+
+  padding-top: 24px;
+  color: #000;
+  font-size: 0.88em;
+}
+
+.reflexion span {
+  font-size: 0.95em;
+  color: #000;
+  font-style: italic;
+  display: block;
+  margin-top: 4px;
+}
+
 /* Footer */
 .footer {
+  position: relative;
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;
   margin-top:-40px;
   background-color: #ebebeb;
   padding: 24px;
-  z-index: 0;
+  z-index: -2;
 }
 
 /* Source */
