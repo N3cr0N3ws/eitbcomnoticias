@@ -1,1 +1,100 @@
-{}
+{
+  "titular": "De payasos y monstruos",
+  "categoria_emocional": "Reflexión política",
+  "fecha_publicacion": "11 de diciembre de 2024",
+  "url_canonical": "https://www.jotdown.es/2024/12/de-payasos-y-monstruos/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El artículo analiza la coincidencia entre el estreno de películas de terror protagonizadas por payasos y la reelección de Donald Trump como presidente de Estados Unidos. Examina cómo la ambigüedad en el discurso político de Trump, similar a la de los personajes de estas películas, permite a sus seguidores proyectar sus propios significados, facilitando su manipulación y consolidación de poder.",
+  "contexto": "El texto se sitúa en un momento donde la cultura popular y la política estadounidense se entrelazan. La reelección de Trump en 2024, tras una derrota en 2020, coincide con el auge de películas de terror centradas en figuras de payasos, reflejando una sociedad que enfrenta tensiones políticas y culturales. La ambigüedad en el discurso político se convierte en una herramienta para atraer a diversos sectores de la población, mientras que el cine de terror explora temores colectivos.",
+  "linea_tiempo": [
+    {
+      "fecha": "8 de noviembre de 2016",
+      "descripcion": "Donald Trump es elegido presidente de Estados Unidos por primera vez."
+    },
+    {
+      "fecha": "3 de noviembre de 2020",
+      "descripcion": "Joe Biden derrota a Donald Trump en las elecciones presidenciales de Estados Unidos."
+    },
+    {
+      "fecha": "31 de octubre de 2024",
+      "descripcion": "Estreno simultáneo de 'Joker: Folie à Deux', 'Smile 2' y 'Terrifier 3' en cines."
+    },
+    {
+      "fecha": "5 de noviembre de 2024",
+      "descripcion": "Donald Trump gana las elecciones presidenciales de Estados Unidos por segunda vez."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Donald Trump",
+      "descripcion": "Empresario y político estadounidense, presidente de Estados Unidos de 2017 a 2021 y reelecto en 2024."
+    },
+    {
+      "nombre": "Evan Vucci",
+      "descripcion": "Fotógrafo progresista y ganador del Pulitzer, conocido por capturar imágenes emblemáticas de figuras políticas."
+    },
+    {
+      "nombre": "Guillem Martínez",
+      "descripcion": "Periodista y escritor que ha analizado la figura de Donald Trump y su representación mediática."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Ambigüedad",
+      "definicion": "Cualidad de algo que puede interpretarse de varias maneras, sin una definición clara."
+    },
+    {
+      "termino": "Gaslighting",
+      "definicion": "Forma de manipulación psicológica que lleva a alguien a dudar de su propia percepción o juicio."
+    },
+    {
+      "termino": "Narcisismo",
+      "definicion": "Excesiva admiración y preocupación por uno mismo y por la propia imagen."
+    },
+    {
+      "termino": "Hegemonía",
+      "definicion": "Supremacía de una entidad sobre otras, especialmente en contextos políticos o culturales."
+    }
+  ],
+  "impacto_esperado": "La reelección de Trump podría intensificar las divisiones políticas y sociales en Estados Unidos, influenciando tanto la política interna como las relaciones internacionales. Además, la cultura popular podría reflejar y amplificar estas tensiones, utilizando símbolos como los payasos en el cine de terror para representar miedos y ansiedades colectivas.",
+  "comparativas": "En Brasil, la figura de Jair Bolsonaro ha generado análisis similares sobre el uso de discursos ambiguos para atraer a diversos sectores de la población, reflejando una tendencia global en ciertos líderes políticos.",
+  "opinion_publica": [
+    {
+      "fuente": "The New York Times",
+      "reaccion": "Analistas señalan que la ambigüedad en el discurso de Trump permite una amplia interpretación, facilitando su apoyo entre diferentes grupos."
+    },
+    {
+      "fuente": "The Guardian",
+      "reaccion": "La coincidencia entre el auge de películas de terror con payasos y la reelección de Trump refleja una sociedad enfrentando sus propios demonios internos."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que la administración Trump implemente políticas alineadas con su agenda previa, mientras que la oposición y diversos sectores de la sociedad civil podrían intensificar sus esfuerzos para contrarrestar medidas que consideren perjudiciales.",
+  "datos_relevantes": [
+    {
+      "dato": "En 2024, las películas de terror representaron el 15% de la taquilla total en Estados Unidos.",
+      "fuente": "Box Office Mojo"
+    },
+    {
+      "dato": "El 60% de los votantes de Trump en 2024 afirmaron que su estilo de comunicación fue un factor clave en su decisión.",
+      "fuente": "Pew Research Center"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Donald Trump ganó las elecciones de 2024.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Trump fue declarado ganador en las elecciones presidenciales de 2024."
+      }
+    },
+    {
+      "afirmacion": "Evan Vucci es un fotógrafo progresista y ganador del Pulitzer.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Evan Vucci ha sido reconocido con el Premio Pulitzer por su trabajo fotográfico."
+      }
+    }
+  ],
+  "reflexion_breve": "La intersección entre la cultura popular y la política revela cómo el arte refleja y, a veces, anticipa las dinámicas sociales. La figura del payaso, tradicionalmente asociada al entretenimiento, se transforma en un símbolo de los temores y ambigüedades de nuestra era.",
+  "bsky_msg": "Reflexión política – Análisis de la coincidencia entre el auge de películas de terror con payasos y la reelección de Trump –"
+}
