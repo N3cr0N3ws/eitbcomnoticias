@@ -20,9 +20,10 @@
 body {
   font-family: 'Merriweather';
   background-color: #000;
-  overflow-x: visible; /* Solo oculta el desbordamiento no deseado */
-  display: block; /* Cambia flex a block para evitar interferencias */
+  overflow-x: visible; 
+  display: block; 
 }
+
 a, a:hover {
     color: #000;
 }
@@ -35,25 +36,26 @@ a, a:hover {
 .news-card {
     padding-top: 200px;
     position: relative;
-    z-index: -2; /* Asegura que esté encima de la imagen */
-    
-
+    z-index: -1; 
+  
   }
+
   .layer {
     position: absolute;
     top:0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.6); /* Capa negra semitransparente */
-    z-index: -1; /* Asegura que esté encima de la imagen */
+    background: rgba(0, 0, 0, 0.6); 
+    z-index: -1; 
   }
   
   .text-overlay {
-    z-index: 2; /* Asegura que esté encima de la imagen */
+    z-index: 2; 
     color: #fff;
     padding: 16px 16px 40px 16px;
   }
+
   .emotional {
     display: inline-block;
     margin-bottom: 16px;
@@ -120,7 +122,7 @@ a, a:hover {
   position: absolute;
   left: 16px;
   top: 100%;
-  height: 40px; /* Ajusta la longitud de la línea */
+  height: 40px; 
   width: 1px;
   background: linear-gradient(to bottom, #ccc 50%, transparent 50%);
   background-size: 2px 10px;
@@ -191,46 +193,45 @@ a, a:hover {
 /* Who */
 .who {
   width: 100%;
-  overflow: hidden; /* Oculta cualquier desbordamiento visible */
+  overflow: hidden; 
   position: relative;
   margin-top: 24px;
 }
 
 .card-container {
   display: flex;
-  overflow-x: auto; /* Habilita el scroll horizontal */
-  scroll-snap-type: x mandatory; /* Activa el snapping horizontal */
-  scrollbar-width: none; /* Oculta la barra en Firefox */
-  -ms-overflow-style: none; /* Oculta la barra en IE/Edge */
-  touch-action: pan-x; /* Permite gestos táctiles horizontales */
-  -webkit-overflow-scrolling: touch; /* Scroll suave en móviles */
-  cursor: grab; /* Indica que es desplazable */
+  overflow-x: auto; 
+  scroll-snap-type: x mandatory; 
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+  touch-action: pan-x; 
+  -webkit-overflow-scrolling: touch; 
+  cursor: grab; 
 }
 
 .card-container::-webkit-scrollbar {
-  display: none; /* Oculta la barra en Chrome y Safari */
+  display: none; 
 }
 .card-container.smooth-scroll {
-  scroll-behavior: smooth; /* Solo se aplica cuando se agrega esta clase */
+  scroll-behavior: smooth; 
 }
 
 .who-card {
-  flex: 0 0 90%; /* Cada tarjeta ocupa el 90% del viewport */
-  margin-right: 10px; /* Espacio entre tarjetas */
+  flex: 0 0 90%; 
+  margin-right: 10px; 
   padding: 20px;
-  scroll-snap-align: start; /* Las tarjetas se alinean al inicio del scroll */
+  scroll-snap-align: start; 
   border-left: 2px solid #ecd102;
 }
 
 .card:last-child {
-  margin-right: 0; /* Quita el margen derecho de la última tarjeta */
+  margin-right: 0; 
 }
 
 .card:active {
-  transform: scale(0.98); /* Efecto táctil al interactuar */
+  transform: scale(0.98); 
 }
 
-/* Texto dentro de las tarjetas */
 .who-card h3 {
   font-size: 1.1em;
   margin: 0 0 10px;
@@ -246,44 +247,44 @@ a, a:hover {
 /* Glossary */
 .glossary {
   width: 100%;
-  overflow: hidden; /* Oculta cualquier desbordamiento visible */
+  overflow: hidden;
   position: relative;
   margin-top: 24px;
 }
 
 .card-container {
   display: flex;
-  overflow-x: auto; /* Habilita el scroll horizontal */
-  scroll-snap-type: x mandatory; /* Activa el snapping horizontal */
-  scrollbar-width: none; /* Oculta la barra en Firefox */
-  -ms-overflow-style: none; /* Oculta la barra en IE/Edge */
-  touch-action: pan-x; /* Permite gestos táctiles horizontales */
-  -webkit-overflow-scrolling: touch; /* Scroll suave en móviles */
-  cursor: grab; /* Indica que es desplazable */
+  overflow-x: auto; 
+  scroll-snap-type: x mandatory; 
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+  touch-action: pan-x;
+  -webkit-overflow-scrolling: touch;
+  cursor: grab;
 }
 
 .card-container::-webkit-scrollbar {
-  display: none; /* Oculta la barra en Chrome y Safari */
+  display: none; 
 }
 .card-container.smooth-scroll {
-  scroll-behavior: smooth; /* Solo se aplica cuando se agrega esta clase */
+  scroll-behavior: smooth; 
 }
 
 .card {
-  flex: 0 0 90%; /* Cada tarjeta ocupa el 90% del viewport */
-  margin-right: 10px; /* Espacio entre tarjetas */
+  flex: 0 0 90%; 
+  margin-right: 10px; 
   background-color: #F3F6FA;
-  border-radius: 20px; /* Bordes redondeados */
+  border-radius: 20px; 
   padding: 20px;
-  scroll-snap-align: start; /* Las tarjetas se alinean al inicio del scroll */
+  scroll-snap-align: start; 
 }
 
 .card:last-child {
-  margin-right: 0; /* Quita el margen derecho de la última tarjeta */
+  margin-right: 0;
 }
 
 .card:active {
-  transform: scale(0.98); /* Efecto táctil al interactuar */
+  transform: scale(0.98);
 }
 
 .card h3 {
@@ -343,7 +344,6 @@ a, a:hover {
   border-radius: 10px;
   padding: 8px;
   margin-top: 16px;
-
 }
 
 .data-content {
@@ -358,10 +358,6 @@ a, a:hover {
   list-style: none;
 }
 
-
-.data-item {
-}
-
 .data-fuente {
   margin-bottom: 5px;
   margin-top: 0;
@@ -373,9 +369,6 @@ a, a:hover {
   font-size: 0.8em;
   font-style: italic;
 }
-
-
-
 
 /* Fuente de la noticia */
 .explain {
@@ -442,14 +435,47 @@ li {
     border-top: #ecd102 4px solid;
 }
 
+/* Reflexion  */
+.reflexion {
+  position: relative;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  margin-top:-40px;
+  background-color: #ecd102;
+  padding: 24px;
+  z-index: -1;
+}
+
+.reflexion img {
+  float: left; 
+  margin: 0 16px 16px 0; 
+  width: 80px; 
+  border-radius: 50%;
+}
+.reflexion p {
+
+  padding-top: 24px;
+  color: #000;
+  font-size: 0.88em;
+}
+
+.reflexion span {
+  font-size: 0.95em;
+  color: #000;
+  font-style: italic;
+  display: block;
+  margin-top: 4px;
+}
+
 /* Footer */
 .footer {
+  position: relative;
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;
   margin-top:-40px;
   background-color: #ebebeb;
   padding: 24px;
-  z-index: 0;
+  z-index: -2;
 }
 
 /* Source */
@@ -488,6 +514,6 @@ li {
 /* Media Queries para ajustar márgenes */
 @media (min-width: 1080px) {   
   .container {
-    padding: var(--desktop-margin); /* Aplica el margen para escritorio */
+    padding: var(--desktop-margin);
   }
 }
