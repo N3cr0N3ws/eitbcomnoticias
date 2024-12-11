@@ -79,6 +79,7 @@ module Jekyll
       self.data['comparativas'] = article['comparativas'] || []
       self.data['opinion_publica'] = article['opinion_publica'] || []
       self.data['datos_relevantes'] = article['datos_relevantes'] || []
+      self.data['chequeo_datos'] = article['chequeo_datos'] || []
     end
   end
 end
