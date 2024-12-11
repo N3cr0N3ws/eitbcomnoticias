@@ -1,1 +1,96 @@
-{}
+{
+  "titular": "Más de 220 colectivos apoyan la manifestación de este sábado en Bilbao a favor del derecho a la vivienda",
+  "categoria_emocional": "Movilización social",
+  "fecha_publicacion": "10 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9647515/mas-de-220-colectivos-apoyan-manifestacion-de-este-sabado-en-bilbao-a-favor-del-derecho-a-vivienda/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El 14 de diciembre de 2024, más de 220 colectivos respaldarán una manifestación en Bilbao bajo el lema '¡Por el derecho a la vivienda, acabemos con el negocio!'. Convocada por los sindicatos de vivienda de Euskal Herria, la movilización busca denunciar la mercantilización de la vivienda y sus consecuencias en la sociedad. Los organizadores señalan el incremento desmedido de alquileres e hipotecas, la turistificación, los desahucios y el aumento de personas sin hogar como síntomas de un problema estructural que afecta principalmente a la clase trabajadora.",
+  "contexto": "En los últimos años, el acceso a una vivienda digna se ha convertido en una preocupación central en el estado, especialmente en regiones como Euskal Herria. Factores como la especulación inmobiliaria, la proliferación de alquileres turísticos y la falta de políticas públicas efectivas han exacerbado la crisis habitacional. Movimientos sociales y sindicatos de vivienda han emergido para reclamar soluciones que prioricen el derecho a la vivienda sobre los intereses comerciales. La manifestación en Bilbao se enmarca en una serie de movilizaciones a nivel estatal que buscan visibilizar esta problemática y exigir cambios estructurales.",
+  "linea_tiempo": [
+    {
+      "fecha": "25 de octubre de 2024",
+      "descripcion": "Los sindicatos de vivienda de Euskal Herria convocan una manifestación en Bilbao para el 14 de diciembre, bajo el lema '¡Por el derecho a la vivienda, acabemos con el negocio!'."
+    },
+    {
+      "fecha": "28 de noviembre de 2024",
+      "descripcion": "Sindicatos de vivienda se movilizan en Pamplona por el acceso a una vivienda digna, denunciando el empobrecimiento de la clase trabajadora debido a la crisis habitacional."
+    },
+    {
+      "fecha": "5 de diciembre de 2024",
+      "descripcion": "Se anuncian movilizaciones en todo el estado contra las políticas de vivienda, reflejando una creciente preocupación social por el acceso a la vivienda."
+    },
+    {
+      "fecha": "10 de diciembre de 2024",
+      "descripcion": "Más de 220 colectivos confirman su apoyo a la manifestación en Bilbao, destacando la amplitud del respaldo social a la causa."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Sindicatos de Vivienda de Euskal Herria",
+      "descripcion": "Organizaciones que defienden el derecho a una vivienda digna en Euskal Herria, convocantes de la manifestación del 14 de diciembre."
+    },
+    {
+      "nombre": "Red de Sindicatos de Vivienda de Hego Euskal Herria",
+      "descripcion": "Colectivo que agrupa a sindicatos de vivienda del sur de Euskal Herria, apoyando la movilización en Bilbao."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Turistificación",
+      "definicion": "Proceso por el cual áreas urbanas se transforman para satisfacer las demandas del turismo, a menudo desplazando a residentes locales."
+    },
+    {
+      "termino": "Especulación inmobiliaria",
+      "definicion": "Compra de bienes inmuebles con el objetivo de venderlos a un precio mayor, sin intención de uso personal, contribuyendo al aumento de precios."
+    },
+    {
+      "termino": "Desahucio",
+      "definicion": "Proceso legal mediante el cual se expulsa a una persona de una propiedad, generalmente por impago de alquiler o hipoteca."
+    },
+    {
+      "termino": "Fondos buitre",
+      "definicion": "Fondos de inversión que adquieren activos devaluados o en dificultades para obtener beneficios elevados, a menudo en detrimento de comunidades locales."
+    }
+  ],
+  "impacto_esperado": "La manifestación busca visibilizar la crisis habitacional y presionar a las autoridades para implementar políticas que garanticen el acceso universal a una vivienda digna, priorizando el bienestar social sobre los intereses comerciales.",
+  "comparativas": "En ciudades como Berlín, se han implementado medidas como la congelación de alquileres para combatir la especulación inmobiliaria y proteger el derecho a la vivienda.",
+  "opinion_publica": [
+    {
+      "fuente": "Noticias de Navarra",
+      "reaccion": "Destacan que sindicatos de vivienda se movilizan en Pamplona por el acceso a una vivienda digna, denunciando el empobrecimiento de la clase trabajadora."
+    },
+    {
+      "fuente": "El Confidencial Digital",
+      "reaccion": "Informan sobre la preparación de movilizaciones en todo el estado contra las políticas de vivienda, reflejando una creciente preocupación social."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que, tras la manifestación, los colectivos involucrados presenten propuestas concretas a las autoridades y continúen con acciones de presión hasta lograr cambios legislativos y sociales en materia de vivienda.",
+  "datos_relevantes": [
+    {
+      "dato": "Más de 220 colectivos han mostrado su apoyo a la manifestación en Bilbao.",
+      "fuente": "EITB"
+    },
+    {
+      "dato": "En los últimos años, se ha registrado un incremento desmedido de los precios de alquileres e hipotecas en la región.",
+      "fuente": "Sindicato de Vivienda"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Más de 220 colectivos apoyan la manifestación del 14 de diciembre en Bilbao.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La información ha sido corroborada por los organizadores de la manifestación y confirmada en fuentes oficiales."
+      }
+    },
+    {
+      "afirmacion": "La manifestación denuncia la mercantilización de la vivienda y sus efectos en la clase trabajadora.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Los organizadores han declarado explícitamente estos objetivos en sus comunicados oficiales."
+      }
+    }
+  ],
+  "reflexion_breve": "La movilización en Bilbao refleja la creciente tensión social ante la crisis habitacional, subrayando la urgencia de abordar este problema estructural con políticas que prioricen el bienestar ciudadano.",
+  "bsky_msg": "Movilización social – Más de 220 colectivos apoyan la manifestación en Bilbao para exigir el derecho a la vivienda digna –"
+}
