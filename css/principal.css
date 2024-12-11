@@ -23,6 +23,7 @@ body {
   overflow-x: visible; 
   display: block; 
 }
+
 a, a:hover {
     color: #000;
 }
@@ -36,9 +37,9 @@ a, a:hover {
     padding-top: 200px;
     position: relative;
     z-index: -2; 
-    
-
+  
   }
+
   .layer {
     position: absolute;
     top:0;
@@ -54,6 +55,7 @@ a, a:hover {
     color: #fff;
     padding: 16px 16px 40px 16px;
   }
+
   .emotional {
     display: inline-block;
     margin-bottom: 16px;
@@ -224,6 +226,7 @@ a, a:hover {
 
 .card:last-child {
   margin-right: 0; 
+}
 
 .card:active {
   transform: scale(0.98); 
