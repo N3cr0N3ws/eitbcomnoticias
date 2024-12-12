@@ -1,1 +1,96 @@
-{}
+{
+  "titular": "Las enfermedades cardiovasculares, principal causa de defunción en el mundo y segunda en Euskadi",
+  "categoria_emocional": "Preocupación global",
+  "fecha_publicacion": "12 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9643585/las-enfermedades-cardiovasculares-principal-causa-de-defuncion-en-mundo-y-segunda-en-euskadi/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Las enfermedades cardiovasculares son responsables del 32% de las muertes a nivel mundial, causando 17,9 millones de fallecimientos anuales. En la Comunidad Autónoma Vasca, representaron el 25,4% de las defunciones en 2023, siendo la principal causa de muerte entre las mujeres (26,3%) y la segunda entre los hombres (24,4%), después de los tumores.",
+  "contexto": "Las enfermedades cardiovasculares abarcan trastornos del corazón y vasos sanguíneos, incluyendo hipertensión, enfermedad coronaria, insuficiencia cardíaca y accidentes cerebrovasculares. En la Comunidad Autónoma Vasca, factores como la obesidad y el sobrepeso afectan al 52,7% de la población, incrementando el riesgo de estas enfermedades. Modificar hábitos como mejorar la alimentación, aumentar la actividad física, evitar el tabaco y reducir el consumo de alcohol puede prevenir hasta el 90% de los casos.",
+  "linea_tiempo": [
+    {
+      "fecha": "1 de enero de 2023",
+      "descripcion": "La OMS informa que las enfermedades cardiovasculares causan 17,9 millones de muertes anuales, representando el 32% de las defunciones globales."
+    },
+    {
+      "fecha": "26 de junio de 2024",
+      "descripcion": "Se reporta que los tumores y las enfermedades del sistema circulatorio son las principales causas de muerte en la Comunidad Autónoma Vasca."
+    },
+    {
+      "fecha": "6 de octubre de 2024",
+      "descripcion": "El Gobierno Vasco amplía el registro 'Bihotzez' para incluir datos de infartos de miocardio de la sanidad privada, integrándolo en el sistema de información de salud de la región."
+    },
+    {
+      "fecha": "12 de diciembre de 2024",
+      "descripcion": "EITB Maratoia lanza la campaña 'Escucha a tu corazón' para recaudar fondos destinados a la investigación de enfermedades cardiovasculares."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Organización Mundial de la Salud (OMS)",
+      "descripcion": "Agencia de las Naciones Unidas especializada en salud pública, que proporciona liderazgo en temas sanitarios globales y establece normas internacionales."
+    },
+    {
+      "nombre": "EITB Maratoia",
+      "descripcion": "Iniciativa solidaria del grupo de comunicación EITB que organiza campañas anuales para recaudar fondos destinados a la investigación de diversas enfermedades."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Enfermedad coronaria",
+      "definicion": "Afección causada por la acumulación de placa en las arterias que suministran sangre al corazón, lo que puede llevar a ataques cardíacos."
+    },
+    {
+      "termino": "Hipertensión arterial",
+      "definicion": "Elevación persistente de la presión sanguínea en las arterias, aumentando el riesgo de enfermedades cardiovasculares."
+    },
+    {
+      "termino": "Accidente cerebrovascular",
+      "definicion": "Interrupción del flujo sanguíneo al cerebro, que puede causar daño cerebral y discapacidad."
+    },
+    {
+      "termino": "Insuficiencia cardíaca",
+      "definicion": "Condición en la que el corazón no puede bombear suficiente sangre para satisfacer las necesidades del cuerpo."
+    }
+  ],
+  "impacto_esperado": "La alta prevalencia de enfermedades cardiovasculares en la Comunidad Autónoma Vasca implica una carga significativa para el sistema de salud y la economía, además de afectar la calidad de vida de la población. Iniciativas como EITB Maratoia buscan financiar la investigación para desarrollar mejores métodos de prevención y tratamiento, lo que podría reducir la mortalidad y mejorar la salud pública.",
+  "comparativas": "En países como Finlandia, la implementación de programas nacionales de salud pública centrados en la reducción de factores de riesgo cardiovascular, como campañas antitabaco y promoción de dietas saludables, ha logrado disminuir significativamente la mortalidad por estas enfermedades.",
+  "opinion_publica": [
+    {
+      "fuente": "Departamento de Salud del Gobierno Vasco",
+      "reaccion": "Destaca la importancia de la prevención y el diagnóstico temprano de las enfermedades cardiovasculares, promoviendo hábitos de vida saludables y controles médicos periódicos."
+    },
+    {
+      "fuente": "Asociación Española del Corazón",
+      "reaccion": "Subraya la necesidad de aumentar la inversión en investigación y concienciación pública para combatir la alta incidencia de enfermedades cardiovasculares."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que las autoridades sanitarias intensifiquen las campañas de prevención y promoción de hábitos saludables, además de fortalecer la colaboración con instituciones privadas para mejorar el registro y tratamiento de las enfermedades cardiovasculares.",
+  "datos_relevantes": [
+    {
+      "dato": "El 52,7% de la población de la Comunidad Autónoma Vasca presenta sobrepeso u obesidad.",
+      "fuente": "Cardio Alianza"
+    },
+    {
+      "dato": "Hasta el 90% de las enfermedades cardiovasculares son prevenibles mediante cambios en el estilo de vida.",
+      "fuente": "Organización Mundial de la Salud"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Las enfermedades cardiovasculares son la principal causa de muerte en el mundo.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Según la OMS, representan el 32% de las defunciones globales."
+      }
+    },
+    {
+      "afirmacion": "En la Comunidad Autónoma Vasca, las enfermedades cardiovasculares son la segunda causa de muerte.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Datos oficiales indican que en 2023 fueron responsables del 25,4% de las muertes, situándose después de los tumores."
+      }
+    }
+  ],
+  "reflexion_breve": "La elevada incidencia de enfermedades cardiovasculares subraya la importancia de adoptar estilos de vida saludables y la necesidad de invertir en investigación y políticas públicas efectivas para reducir su impacto en la sociedad.",
+  "bsky_msg": "Preocupación global – Las enfermedades cardiovasculares son la principal causa de muerte mundial y la segunda en la Comunidad Autónoma Vasca, afectando especialmente a las mujeres –"
+}
