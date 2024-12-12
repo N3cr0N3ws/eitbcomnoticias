@@ -1,1 +1,72 @@
-{}
+{
+  "titular": "Ábalos declara ante el juez del Supremo por el 'caso Koldo'",
+  "categoria_emocional": "Tensión política",
+  "fecha_publicacion": "12 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9648841/jose-luis-abalos-declara-ante-juez-del-supremo-por-caso-koldo-12-de-diciembre-de-2024/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El exministro de Transportes, José Luis Ábalos, ha comparecido ante el Tribunal Supremo en relación con el 'caso Koldo', una presunta trama de adjudicaciones irregulares durante la pandemia. Ábalos busca refutar las acusaciones del empresario Víctor de Aldama y de la Guardia Civil, que le atribuyen un papel relevante en la supuesta trama.",
+  "contexto": "El 'caso Koldo' investiga una presunta trama de corrupción vinculada a la adjudicación irregular de contratos de material sanitario durante la pandemia de COVID-19. José Luis Ábalos, exministro de Transportes, está acusado de haber tenido un papel principal en esta trama, supuestamente facilitando contratos a cambio de comisiones ilegales. El empresario Víctor de Aldama y Koldo García, exasesor de Ábalos, también están implicados en el caso.",
+  "linea_tiempo": [
+    {
+      "fecha": "12 de octubre de 2024",
+      "descripcion": "José Luis Ábalos solicita declarar voluntariamente ante el juez como testigo para tratar de evitar su imputación en el 'caso Koldo'."
+    },
+    {
+      "fecha": "2 de diciembre de 2024",
+      "descripcion": "El Tribunal Supremo cita a José Luis Ábalos a declarar de forma voluntaria el 12 de diciembre como investigado en el 'caso Koldo'."
+    },
+    {
+      "fecha": "4 de diciembre de 2024",
+      "descripcion": "Ábalos comunica al Supremo su intención de declarar voluntariamente el 12 de diciembre para 'evitar dilaciones indebidas'."
+    },
+    {
+      "fecha": "12 de diciembre de 2024",
+      "descripcion": "José Luis Ábalos comparece ante el Tribunal Supremo para declarar en relación con el 'caso Koldo'."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "José Luis Ábalos",
+      "descripcion": "Exministro de Transportes y exsecretario de Organización del PSOE, investigado por su presunta implicación en el 'caso Koldo'."
+    },
+    {
+      "nombre": "Víctor de Aldama",
+      "descripcion": "Empresario señalado como presunto conseguidor en la trama de adjudicaciones irregulares del 'caso Koldo'."
+    },
+    {
+      "nombre": "Koldo García",
+      "descripcion": "Exasesor de José Luis Ábalos en el Ministerio de Transportes, también investigado en el 'caso Koldo'."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Caso Koldo",
+      "definicion": "Investigación sobre una presunta trama de corrupción en la adjudicación de contratos de material sanitario durante la pandemia."
+    },
+    {
+      "termino": "Adjudicaciones irregulares",
+      "definicion": "Asignación de contratos públicos de manera indebida, generalmente a cambio de beneficios personales o comisiones ilegales."
+    },
+    {
+      "termino": "Tráfico de influencias",
+      "definicion": "Delito que consiste en utilizar la posición de poder para influir en decisiones administrativas o judiciales en beneficio propio o de terceros."
+    },
+    {
+      "termino": "Cohecho",
+      "definicion": "Delito que implica la solicitud o aceptación de sobornos por parte de una autoridad o funcionario público."
+    }
+  ],
+  "impacto_esperado": "Este caso podría tener implicaciones significativas en la percepción pública sobre la integridad de las instituciones y funcionarios del estado, afectando la confianza ciudadana en la gestión pública.",
+  "opinion_publica": [
+    {
+      "fuente": "Óscar Puente, ministro de Transportes",
+      "reaccion": "Defiende a Ábalos, señalando que solo uno de los contratos presentados por Aldama fue licitado durante su período ministerial."
+    },
+    {
+      "fuente": "Míriam Nogueras, portavoz de Junts",
+      "reaccion": "Expresa dudas sobre la posibilidad de negociar los Presupuestos, citando la mala situación actual entre su partido y el PSOE."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que el Tribunal Supremo evalúe la declaración de Ábalos y determine si procede continuar con la instrucción del caso o archivar las diligencias. Además, las declaraciones de otros implicados, como Víctor de Aldama y Koldo García, serán fundamentales para el avance del proceso.",
+  "bsky_msg": "Tensión política – Ábalos declara ante el juez del Supremo por el 'caso Koldo' –"
+}
