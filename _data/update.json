@@ -1,1 +1,99 @@
-{}
+{
+  "titular": "El comité de Astilleros Balenciaga pide al Gobierno español que se integre en la mesa para salvar la empresa",
+  "categoria_emocional": "Preocupación laboral",
+  "fecha_publicacion": "13 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9649956/el-comite-de-astilleros-balenciaga-pide-al-gobierno-espanol-que-se-integre-en-mesa-para-salvar-empresa/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El comité de empresa de Astilleros Balenciaga ha solicitado al Gobierno español que participe en una mesa interinstitucional, junto con el Gobierno Vasco, la Diputación de Gipuzkoa y el Ayuntamiento de Zumaia, para buscar soluciones que aseguren el futuro del astillero, actualmente en proceso de concurso de acreedores.",
+  "contexto": "Astilleros Balenciaga, ubicado en Zumaia, ha solicitado el concurso de acreedores tras la negativa de Cofides al plan de reestructuración propuesto. La empresa cuenta con una plantilla de 70 trabajadores directos y su continuidad es vital para la economía local. Las instituciones vascas han mostrado disposición para formar una mesa conjunta que aborde la situación, mientras que se espera la respuesta del Gobierno español.",
+  "linea_tiempo": [
+    {
+      "fecha": "Noviembre de 2024",
+      "descripcion": "Cofides rechaza el plan de reestructuración de Astilleros Balenciaga, llevando a la empresa a solicitar el concurso de acreedores."
+    },
+    {
+      "fecha": "29 de noviembre de 2024",
+      "descripcion": "La delegada del Gobierno en Euskadi, Marisol Garmendia, insta a las instituciones vascas a implicarse en la búsqueda de una solución para Balenciaga."
+    },
+    {
+      "fecha": "4 de diciembre de 2024",
+      "descripcion": "Trabajadores de Balenciaga se concentran en Vitoria para exigir la creación de una mesa de trabajo conjunta que garantice la viabilidad del astillero."
+    },
+    {
+      "fecha": "13 de diciembre de 2024",
+      "descripcion": "El comité de empresa de Astilleros Balenciaga solicita al Gobierno español que se integre en la mesa interinstitucional para salvar la empresa."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Astilleros Balenciaga",
+      "descripcion": "Empresa naval ubicada en Zumaia, dedicada a la construcción de buques y con más de un siglo de historia."
+    },
+    {
+      "nombre": "Cofides",
+      "descripcion": "Compañía Española de Financiación del Desarrollo, entidad público-privada que ofrece financiación a proyectos de inversión."
+    },
+    {
+      "nombre": "Marisol Garmendia",
+      "descripcion": "Delegada del Gobierno en Euskadi, involucrada en las gestiones para encontrar una solución a la situación de Astilleros Balenciaga."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Concurso de acreedores",
+      "definicion": "Procedimiento legal al que se acogen empresas en situación de insolvencia para reorganizar sus deudas y evitar la quiebra."
+    },
+    {
+      "termino": "Plan de reestructuración",
+      "definicion": "Estrategia diseñada para reorganizar la estructura financiera y operativa de una empresa con el fin de superar dificultades económicas."
+    },
+    {
+      "termino": "Mesa interinstitucional",
+      "definicion": "Foro de trabajo conjunto que reúne a diversas instituciones para abordar y solucionar problemas específicos."
+    },
+    {
+      "termino": "Cofides",
+      "definicion": "Compañía Española de Financiación del Desarrollo, entidad que financia proyectos de inversión en el exterior y en España."
+    }
+  ],
+  "impacto_esperado": "La participación del Gobierno español en la mesa interinstitucional es crucial para coordinar esfuerzos y recursos que permitan la viabilidad de Astilleros Balenciaga, protegiendo empleos y la economía local.",
+  "opinion_publica": [
+    {
+      "fuente": "Comité de empresa de Astilleros Balenciaga",
+      "reaccion": "Expresa indignación por la falta de respuesta del Gobierno español y exige su implicación en la solución del conflicto."
+    },
+    {
+      "fuente": "Delegada del Gobierno en Euskadi, Marisol Garmendia",
+      "reaccion": "Subraya la necesidad de que todas las instituciones, incluyendo las vascas, se impliquen en la búsqueda de una solución viable para el astillero."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que el Gobierno español responda a la solicitud del comité de empresa y participe en la mesa interinstitucional. Además, se prevén nuevas movilizaciones y reuniones con partidos políticos para recabar apoyos.",
+  "datos_relevantes": [
+    {
+      "dato": "Astilleros Balenciaga emplea a 70 trabajadores directos.",
+      "fuente": "Comité de empresa de Astilleros Balenciaga"
+    },
+    {
+      "dato": "La empresa ha solicitado el concurso de acreedores tras el rechazo de Cofides a su plan de reestructuración.",
+      "fuente": "Comité de empresa de Astilleros Balenciaga"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "El Gobierno Vasco, la Diputación de Gipuzkoa y el Ayuntamiento de Zumaia han aceptado formar una mesa conjunta para buscar soluciones.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Según el comité de empresa, estas instituciones han mostrado disposición para formar la mesa interinstitucional."
+      }
+    },
+    {
+      "afirmacion": "El Gobierno español no ha respondido a la solicitud de participar en la mesa interinstitucional.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "El comité de empresa ha manifestado no haber recibido respuesta del Gobierno español hasta la fecha."
+      }
+    }
+  ],
+  "reflexion_breve": "La situación de Astilleros Balenciaga pone de manifiesto la importancia de la colaboración interinstitucional para preservar el tejido industrial y los empleos en momentos de crisis.",
+  "bsky_msg": "Preocupación laboral – El comité de Astilleros Balenciaga solicita al Gobierno español integrarse en la mesa para salvar la empresa"
+}
