@@ -1,1 +1,104 @@
-{}
+{
+  "titular": "Amazon y Meta donarán 1 millón de dólares cada una para la investidura de Trump",
+  "categoria_emocional": "Interés corporativo",
+  "fecha_publicacion": "13 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9650336/amazon-y-meta-donaran-1-millon-de-dolares-cada-para-investidura-de-trump/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Amazon y Meta han anunciado donaciones de 1 millón de dólares cada una para la ceremonia de investidura del presidente electo de Estados Unidos, Donald Trump, programada para el 20 de enero de 2025. Además, Amazon transmitirá el evento en directo a través de Prime Video, lo que representa una donación adicional en especie valorada en otro millón de dólares. Estas contribuciones se producen después de que Trump ofreciera 'ventajas' a los grandes donantes que aportaran más de un millón de dólares, incluyendo acceso a eventos con futuros miembros del Gobierno.",
+  "contexto": "Históricamente, las empresas tecnológicas han mantenido relaciones complejas con la administración de Donald Trump. Durante su primer mandato, Trump criticó a compañías como Amazon y Meta, especialmente a sus líderes Jeff Bezos y Mark Zuckerberg. Sin embargo, tras su reelección, estas empresas buscan acercarse al nuevo gobierno mediante donaciones significativas para la ceremonia de investidura, posiblemente con el objetivo de influir en futuras políticas y regulaciones que afecten al sector tecnológico.",
+  "linea_tiempo": [
+    {
+      "fecha": "8 de diciembre de 2024",
+      "descripcion": "Donald Trump anuncia que ofrecerá 'ventajas' a los donantes que contribuyan con más de un millón de dólares a su comité de investidura."
+    },
+    {
+      "fecha": "13 de diciembre de 2024",
+      "descripcion": "Amazon y Meta confirman donaciones de 1 millón de dólares cada una para la ceremonia de investidura de Trump."
+    },
+    {
+      "fecha": "13 de diciembre de 2024",
+      "descripcion": "Se informa que Amazon transmitirá en directo la investidura a través de Prime Video, una donación en especie valorada en otro millón de dólares."
+    },
+    {
+      "fecha": "14 de diciembre de 2024",
+      "descripcion": "Jeff Bezos, fundador de Amazon, anuncia una reunión con Donald Trump para la próxima semana."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Donald Trump",
+      "descripcion": "Presidente electo de Estados Unidos, asumirá su segundo mandato el 20 de enero de 2025."
+    },
+    {
+      "nombre": "Jeff Bezos",
+      "descripcion": "Fundador y presidente ejecutivo de Amazon, propietario del diario The Washington Post."
+    },
+    {
+      "nombre": "Mark Zuckerberg",
+      "descripcion": "Cofundador y director ejecutivo de Meta, empresa matriz de Facebook e Instagram."
+    },
+    {
+      "nombre": "JD Vance",
+      "descripcion": "Vicepresidente electo de Estados Unidos, asumirá el cargo junto a Donald Trump."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Investidura presidencial",
+      "definicion": "Ceremonia oficial en la que el presidente electo de Estados Unidos asume el cargo."
+    },
+    {
+      "termino": "Donación en especie",
+      "definicion": "Contribución no monetaria que se realiza mediante bienes o servicios."
+    },
+    {
+      "termino": "Comité de investidura",
+      "definicion": "Organismo encargado de planificar y financiar los eventos relacionados con la toma de posesión del presidente."
+    },
+    {
+      "termino": "Regulación tecnológica",
+      "definicion": "Conjunto de leyes y normativas que gobiernan el funcionamiento y las prácticas de las empresas del sector tecnológico."
+    }
+  ],
+  "impacto_esperado": "Estas donaciones podrían mejorar las relaciones entre las empresas tecnológicas y la administración Trump, facilitando un entorno regulatorio más favorable para el sector. Además, podrían influir en futuras políticas gubernamentales relacionadas con la tecnología y la economía digital.",
+  "comparativas": "En 2016, empresas como AT&T y Bank of America realizaron donaciones significativas para la investidura de Trump, buscando establecer relaciones con la nueva administración.",
+  "opinion_publica": [
+    {
+      "fuente": "Michael Beckel, Issue One",
+      "reaccion": "La influencia del dinero en la política es significativa, y estas donaciones reflejan el deseo de las empresas de ganar favor con la nueva administración."
+    },
+    {
+      "fuente": "Portavoz de Meta",
+      "reaccion": "Estamos comprometidos a trabajar con el gobierno para promover la innovación y la libertad de expresión en nuestras plataformas."
+    }
+  ],
+  "posibles_proximos_pasos": "Se anticipa que otras empresas tecnológicas sigan el ejemplo de Amazon y Meta, realizando donaciones para la investidura y buscando reuniones con la administración entrante para discutir políticas y regulaciones que afecten al sector.",
+  "datos_relevantes": [
+    {
+      "dato": "En 2017, la ceremonia de investidura de Trump recaudó 107 millones de dólares en donaciones.",
+      "fuente": "The New York Times"
+    },
+    {
+      "dato": "La investidura de Joe Biden en 2021 recibió 64 millones de dólares en contribuciones.",
+      "fuente": "The Washington Post"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Amazon y Meta donarán 1 millón de dólares cada una para la investidura de Trump.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Ambas empresas han confirmado las donaciones para la ceremonia de investidura del presidente electo."
+      }
+    },
+    {
+      "afirmacion": "Amazon transmitirá en directo la investidura a través de Prime Video.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Amazon ha anunciado que ofrecerá la transmisión en vivo del evento en su plataforma Prime Video."
+      }
+    }
+  ],
+  "reflexion_breve": "Las contribuciones de Amazon y Meta a la investidura de Trump reflejan la dinámica entre el sector tecnológico y la política, donde las empresas buscan influir en las decisiones gubernamentales que afectan sus operaciones y el entorno regulatorio.",
+  "bsky_msg": "Interés corporativo – Amazon y Meta aportan 1 millón de dólares cada una para la investidura de Trump"
+}
