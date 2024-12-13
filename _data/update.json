@@ -1,1 +1,89 @@
-{}
+{
+  "titular": "Exalumnas de la Ikastola Urretxindorra de Bilbao denuncian haber sido acosadas por un profesor",
+  "categoria_emocional": "Preocupación social",
+  "fecha_publicacion": "13 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/sociedad/detalle/9650295/exalumnas-de-ikastola-urretxindorra-de-bilbao-denuncian-haber-sido-acosadas-por-profesor/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Varias exalumnas de la Ikastola Urretxindorra de Bilbao han denunciado en redes sociales haber sufrido acoso por parte de un profesor durante su etapa escolar. Aseguran que, pese a informar a la dirección del centro, no se tomaron medidas y el docente continúa en su puesto. La ikastola ha comunicado que ha trasladado la información al Departamento de Educación y está dispuesta a recoger testimonios adicionales.",
+  "contexto": "En el estado, los casos de acoso en entornos educativos han generado creciente preocupación. Instituciones y autoridades educativas han implementado protocolos para prevenir y abordar estas situaciones, aunque persisten desafíos en su aplicación efectiva.",
+  "linea_tiempo": [
+    {
+      "fecha": "Septiembre de 2021",
+      "descripcion": "Una niña de 5 años sufre bullying y abusos en el Colegio Hijas de la Caridad Nuestra Señora de Begoña en Bilbao."
+    },
+    {
+      "fecha": "Marzo de 2022",
+      "descripcion": "Finaliza el periodo durante el cual la menor fue víctima de agresiones sin que el centro tomara medidas efectivas."
+    },
+    {
+      "fecha": "14 de noviembre de 2024",
+      "descripcion": "El Colegio Hijas de la Caridad Nuestra Señora de Begoña es condenado a pagar 40.000 euros por inacción ante el caso de bullying."
+    },
+    {
+      "fecha": "13 de diciembre de 2024",
+      "descripcion": "Exalumnas de la Ikastola Urretxindorra denuncian públicamente haber sido acosadas por un profesor durante su etapa escolar."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Ikastola Urretxindorra",
+      "descripcion": "Centro educativo en Bilbao donde ocurrieron los presuntos casos de acoso denunciados por exalumnas."
+    },
+    {
+      "nombre": "Departamento de Educación",
+      "descripcion": "Entidad gubernamental a la que la ikastola ha trasladado la información sobre las denuncias para su investigación."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Acoso",
+      "definicion": "Conducta de persecución o molestia hacia una persona, generando un ambiente hostil."
+    },
+    {
+      "termino": "Ikastola",
+      "definicion": "Centro educativo en el País Vasco que imparte enseñanza en euskera."
+    },
+    {
+      "termino": "Departamento de Educación",
+      "definicion": "Órgano del gobierno encargado de la gestión y supervisión del sistema educativo."
+    },
+    {
+      "termino": "Protocolo de acoso",
+      "definicion": "Conjunto de procedimientos establecidos para prevenir y actuar ante situaciones de acoso en entornos educativos."
+    }
+  ],
+  "impacto_esperado": "Estas denuncias pueden generar una revisión de los protocolos de actuación en casos de acoso en centros educativos, promoviendo entornos más seguros y la implementación de medidas preventivas más efectivas.",
+  "comparativas": "En países como Finlandia, se han establecido programas integrales de prevención del acoso escolar, involucrando a toda la comunidad educativa y obteniendo resultados positivos en la reducción de estos casos.",
+  "opinion_publica": [
+    {
+      "fuente": "Asociación de Madres y Padres de Alumnos",
+      "reaccion": "Ha expresado su preocupación y solicitado una investigación exhaustiva para garantizar la seguridad del alumnado."
+    },
+    {
+      "fuente": "Expertos en educación",
+      "reaccion": "Han señalado la importancia de reforzar la formación del personal docente en la detección y manejo de situaciones de acoso."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que las autoridades educativas realicen una investigación detallada de los hechos y, de confirmarse las denuncias, se adopten medidas disciplinarias y se refuercen los protocolos de prevención y actuación ante el acoso en centros educativos.",
+  "datos_relevantes": [
+    {
+      "dato": "El 25% de los estudiantes en el estado ha sufrido algún tipo de acoso escolar.",
+      "fuente": "Ministerio de Educación"
+    },
+    {
+      "dato": "Solo el 15% de los casos de acoso escolar son denunciados a las autoridades.",
+      "fuente": "Defensor del Pueblo"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "El centro escolar ha informado mediante un comunicado que ha trasladado toda la información de la que dispone al Departamento de Educación.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La ikastola ha emitido un comunicado indicando que ha trasladado la información al Departamento de Educación y está dispuesta a recoger testimonios adicionales."
+      }
+    }
+  ],
+  "reflexion_breve": "La protección del alumnado debe ser una prioridad en cualquier institución educativa. Es fundamental que las denuncias de acoso se aborden con seriedad y prontitud para garantizar entornos seguros y propicios para el desarrollo integral de los estudiantes.",
+  "bsky_msg": "Preocupación social – Exalumnas de la Ikastola Urretxindorra de Bilbao denuncian acoso por parte de un profesor durante su etapa escolar –"
+}
