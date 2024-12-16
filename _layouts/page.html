@@ -133,12 +133,13 @@ layout: default
     </div>
 
     <!-- Reflexion -->
-    {% if page.reflexion_breve %}      
+    {% if page.reflexion_breve and page.reflexion_breve != "" %}
     <div class="reflexion">
       <p><img id="avatar" src="https://api.dicebear.com/9.x/notionists/svg?seed=random287&size=60&&body=variant22" /><span>Reflexión breve</span> {{ page.reflexion_breve }}</p>
     </div>
     {% endif %}
 
+    <!-- footer -->
     <div class="footer">
       <div class="source">
         <p>¿Te ha intrigado este contexto? Sumérgete en la <a href="{{ page.url_canonical }}" target="_blank">noticia completa</a> para descubrir todos los detalles.</p>
