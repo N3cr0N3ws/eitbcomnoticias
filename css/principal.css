@@ -436,6 +436,64 @@ li {
     border-top: #ecd102 4px solid;
 }
 
+
+/* Data checked */
+.data-checked-container {
+  position: relative;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+  margin-top:-40px;
+  background-color: #000;
+  padding: 24px;
+  z-index: 7;
+  pointer-events: none;
+}
+
+.data-checked-container h2 {
+  color: #fff;
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 120%;
+}
+
+.data-checked {
+  position: relative;
+  padding: 0;
+  margin-top: 16px;
+  list-style: none;
+}
+
+.data-checked-afirmacion {
+  color: #fff;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+
+.data-checked-conclusion {
+  color: #555;
+  font-size: 0.8em;
+  margin-left:16px;
+  border-left: 2px solid #ecd102;
+  padding-left: 16px;
+}
+
+.data-checked-conclusion span {
+  color: #ecd102;
+  margin-top: 1em;
+  display: block;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.data-checked-conclusion p {
+  color: #bbbbbb;
+  font-size: 1.1em;
+  font-style: italic;
+  padding-bottom: 8px;
+}
+
+
 /* Reflexion  */
 .reflexion {
   position: relative;
@@ -454,9 +512,17 @@ li {
   width: 80px; 
   border-radius: 50%;
 }
-.reflexion p {
 
-  padding-top: 24px;
+.reflexion h2 {
+  color: #000;
+  padding-top: 50px;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 120%;
+}
+
+.reflexion p {
+  padding-top: 8px;
   color: #000;
   font-size: 0.88em;
 }
