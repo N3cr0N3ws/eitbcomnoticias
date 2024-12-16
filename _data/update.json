@@ -1,1 +1,114 @@
-{}
+{
+  "titular": "Aldama declara al Supremo que hubo hasta 4 millones en comisiones por obras, y que parte era para el PSOE",
+  "categoria_emocional": "Corrupción política",
+  "fecha_publicacion": "16 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/politica/detalle/9651697/aldama-dice-al-supremo-que-hubo-hasta-4-millones-en-comisiones-por-obras-y-que-parte-era-para-psoe/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El empresario Víctor de Aldama ha declarado ante el Tribunal Supremo que se pagaron entre 3,5 y 4 millones de euros en comisiones por la adjudicación de obras públicas, implicando al exministro de Transportes José Luis Ábalos, su exasesor Koldo García y al PSOE. Aldama presentó como pruebas conversaciones de WhatsApp y un documento manuscrito que respaldarían sus afirmaciones. ",
+  "contexto": "El 'caso Koldo' investiga una presunta trama de corrupción en la adjudicación de contratos públicos durante la gestión del exministro de Transportes José Luis Ábalos. Víctor de Aldama, empresario y presunto conseguidor en esta trama, ha implicado a altos cargos del PSOE en el reparto de comisiones ilegales. Estas acusaciones han generado una intensa polémica política y mediática en el estado.",
+  "linea_tiempo": [
+    {
+      "fecha": "21 de noviembre de 2024",
+      "descripcion": "Víctor de Aldama declara ante la Audiencia Nacional, afirmando haber pagado comisiones en efectivo a altos cargos del PSOE, incluyendo a José Luis Ábalos y Santos Cerdán. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "fecha": "22 de noviembre de 2024",
+      "descripcion": "El PSOE presenta una querella conjunta por injurias y calumnias contra Víctor de Aldama, negando las acusaciones realizadas por el empresario. :contentReference[oaicite:1]{index=1}"
+    },
+    {
+      "fecha": "12 de diciembre de 2024",
+      "descripcion": "José Luis Ábalos comparece ante el Tribunal Supremo, negando cualquier implicación en la presunta trama de comisiones ilegales. :contentReference[oaicite:2]{index=2}"
+    },
+    {
+      "fecha": "16 de diciembre de 2024",
+      "descripcion": "Víctor de Aldama declara nuevamente, esta vez ante el Tribunal Supremo, ratificando sus acusaciones y aportando nuevas supuestas pruebas, como conversaciones de WhatsApp y un documento manuscrito. "
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Víctor de Aldama",
+      "descripcion": "Empresario y presunto conseguidor en la trama de comisiones ilegales conocida como 'caso Koldo'."
+    },
+    {
+      "nombre": "José Luis Ábalos",
+      "descripcion": "Exministro de Transportes del Gobierno español, acusado por Aldama de recibir comisiones ilegales por adjudicaciones de obras públicas."
+    },
+    {
+      "nombre": "Koldo García",
+ : "Exasesor de José Luis Ábalos en el Ministerio de Transportes, también implicado en las acusaciones de recibir comisiones ilegales."
+    },
+    {
+      "nombre": "Santos Cerdán",
+      "descripcion": "Secretario de Organización del PSOE, señalado por Aldama de haber recibido un sobre con 15.000 euros en efectivo."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Comisiones ilegales",
+      "definicion": "Pagos no autorizados realizados a funcionarios o intermediarios a cambio de favores o adjudicaciones en contratos públicos."
+    },
+    {
+      "termino": "Caso Koldo",
+      "definicion": "Investigación judicial sobre una presunta trama de corrupción en la adjudicación de contratos públicos, implicando a altos cargos del PSOE y empresarios."
+    },
+    {
+      "termino": "Audiencia Nacional",
+      "definicion": "Tribunal español con jurisdicción en todo el territorio del estado, encargado de casos de especial relevancia, como delitos económicos y de corrupción."
+    },
+    {
+      "termino": "Tribunal Supremo",
+      "definicion": "Máximo órgano judicial en España, que conoce de los recursos y causas en última instancia."
+    }
+  ],
+  "impacto_esperado": "Las declaraciones de Víctor de Aldama y las acusaciones contra altos cargos del PSOE podrían tener repercusiones políticas significativas, afectando la imagen del partido y generando desconfianza en la gestión pública. Además, podrían derivar en procesos judiciales que impliquen sanciones penales para los involucrados, en caso de confirmarse las acusaciones.",
+  "opinion_publica": [
+    {
+      "fuente": "Pedro Sánchez",
+      "reaccion": "El presidente del Gobierno ha expresado que su Ejecutivo es 'un Gobierno limpio' y ha restado credibilidad a las declaraciones de Aldama, calificándolas de 'calumnias sin pruebas'. :contentReference[oaicite:3]{index=3}"
+    },
+    {
+      "fuente": "Alberto Núñez Feijóo",
+      "reaccion": "El líder del Partido Popular ha insinuado que las críticas del Gobierno a los jueces podrían estar motivadas por el temor a que surjan nuevos escándalos de corrupción. :contentReference[oaicite:4]{index=4}"
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que el Tribunal Supremo continúe con las investigaciones, incluyendo la comparecencia de otros implicados, como Koldo García. El PSOE podría intensificar su defensa legal y mediática para contrarrestar las acusaciones. Además, podrían surgir nuevas revelaciones o pruebas que amplíen el alcance de la investigación y sus implicaciones políticas.",
+  "datos_relevantes": [
+    {
+      "dato": "Se estima que entre 3,5 y 4 millones de euros en comisiones ilegales se habrían repartido por adjudicaciones de obras públicas.",
+      "fuente": "Declaraciones de Víctor de Aldama al Tribunal Supremo"
+    },
+    {
+      "dato": "Un documento manuscrito presentado como prueba supuestamente detalla el reparto de las comisiones.",
+      "fuente": "Información obtenida en la declaración judicial"
+    },
+    {
+      "dato": "La Fiscalía Anticorrupción está investigando los pagos en efectivo mencionados por Aldama.",
+      "fuente": "Fuentes judiciales citadas en medios"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "Víctor de Aldama aseguró haber pagado entre 3,5 y 4 millones de euros en comisiones ilegales.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La declaración de Aldama ante el Supremo incluye esta cifra, respaldada por supuestas pruebas documentales."
+      }
+    },
+    {
+      "afirmacion": "Koldo García, exasesor de Ábalos, estaba implicado en el reparto de comisiones.",
+      "verificacion": {
+        "estado": "En investigación",
+        "explicacion": "La implicación de García se menciona en las declaraciones de Aldama, pero aún no ha sido corroborada judicialmente."
+      }
+    },
+    {
+      "afirmacion": "El PSOE recibió parte de las comisiones ilegales.",
+      "verificacion": {
+        "estado": "En investigación",
+        "explicacion": "Aunque Aldama hizo esta afirmación, se necesita más evidencia para confirmarla judicialmente."
+      }
+    }
+  ],
+  "reflexion_breve": "El 'caso Koldo' es un recordatorio del impacto que la corrupción puede tener en la confianza pública. La resolución de este caso es clave para demostrar el compromiso del sistema judicial con la transparencia y la rendición de cuentas.",
+  "bsky_msg": "Corrupción política – Aldama afirma que hasta 4 millones en comisiones ilegales por obras públicas iban al PSOE –"
+}
