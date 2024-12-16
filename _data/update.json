@@ -84,10 +84,6 @@
       "afirmacion": "El 55% de los argentinos son pobres, sumando 25 millones de personas.",
       "verificacion": {
         "estado": "Confirmado",
-        {
-      "afirmacion": "El 55% de los argentinos son pobres, sumando 25 millones de personas.",
-      "verificacion": {
-        "estado": "Confirmado",
         "explicacion": "Según los datos presentados en el artículo de Público, esta cifra refleja la situación actual de pobreza en Argentina tras un año de políticas de austeridad."
       }
     },
@@ -109,4 +105,3 @@
   "reflexion_breve": "La situación en Argentina refleja los peligros de aplicar medidas de austeridad extrema sin considerar su impacto social. Aunque las reformas buscan resolver problemas económicos estructurales, el costo humano ha sido devastador. Se necesitan políticas más equilibradas que prioricen tanto la sostenibilidad fiscal como la protección de los sectores vulnerables.",
   "bsky_msg": "Crisis alarmante – El 55% de los argentinos vive en la pobreza tras un año de las políticas de Milei –"
 }
- 
