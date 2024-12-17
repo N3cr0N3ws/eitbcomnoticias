@@ -1,1 +1,101 @@
-{}
+{
+  "titular": "El Ayuntamiento de Gasteiz abre investigación sobre la cascada de bajas en la Policía Local",
+  "categoria_emocional": "Preocupación institucional",
+  "fecha_publicacion": "17 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9652304/el-ayuntamiento-de-gasteiz-abre-investigacion-sobre-cascada-de-bajas-en-policia-local/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El Ayuntamiento de Vitoria-Gasteiz ha iniciado una investigación para esclarecer las numerosas bajas médicas presentadas por agentes de la Policía Local el pasado domingo, coincidiendo con la celebración de la Media Maratón de la ciudad. La ausencia de un número significativo de agentes obligó al Consistorio a reorganizar los servicios para garantizar la seguridad del evento. Este incidente se produce en un contexto de conflicto laboral entre los agentes y el Ayuntamiento, marcado por una huelga de celo y reivindicaciones sobre mejoras en las condiciones laborales. ",
+  "contexto": "La Policía Local de Vitoria-Gasteiz ha estado inmersa en un conflicto laboral, con agentes realizando una huelga de celo para exigir mejoras en sus condiciones de trabajo. El pasado domingo, durante la Media Maratón, numerosos agentes del turno de mañana presentaron bajas médicas, lo que generó complicaciones en la organización del evento. El Ayuntamiento ha expresado su preocupación por esta situación y ha instado a los sindicatos a reflexionar sobre las acciones emprendidas, enfatizando que la ciudadanía no debe verse afectada por estas reivindicaciones. ",
+  "linea_tiempo": [
+    {
+      "fecha": "15 de diciembre de 2024",
+      "descripcion": "Numerosos agentes de la Policía Local presentan bajas médicas coincidiendo con la Media Maratón de Vitoria-Gasteiz, lo que obliga al Ayuntamiento a reorganizar los servicios para garantizar la seguridad del evento. "
+    },
+    {
+      "fecha": "16 de diciembre de 2024",
+      "descripcion": "La alcaldesa Maider Etxebarria califica de 'curiosa' la coincidencia de las bajas médicas con un evento tan relevante y solicita a los sindicatos una reflexión sobre sus acciones. "
+    },
+    {
+      "fecha": "17 de diciembre de 2024",
+      "descripcion": "El Ayuntamiento de Vitoria-Gasteiz anuncia la apertura de una investigación para esclarecer las circunstancias de las bajas masivas en la Policía Local y evitar que futuros eventos se vean afectados. "
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Maider Etxebarria",
+      "descripcion": "Alcaldesa de Vitoria-Gasteiz, responsable de la administración municipal y de velar por el bienestar de la ciudadanía."
+    },
+    {
+      "nombre": "Policía Local de Vitoria-Gasteiz",
+      "descripcion": "Cuerpo de seguridad municipal encargado de mantener el orden público y garantizar la seguridad en la ciudad."
+    },
+    {
+      "nombre": "CCOO y Sipla",
+      "descripcion": "Sindicatos que representan a los agentes de la Policía Local en las negociaciones laborales con el Ayuntamiento."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Huelga de celo",
+      "definicion": "Forma de protesta laboral en la que los trabajadores cumplen estrictamente con todas las normativas y procedimientos, ralentizando así la productividad para presionar en negociaciones."
+    },
+    {
+      "termino": "Baja médica",
+      "definicion": "Situación en la que un trabajador es declarado temporalmente incapacitado para desempeñar sus funciones laborales por motivos de salud."
+    },
+    {
+      "termino": "Media Maratón",
+      "definicion": "Carrera de larga distancia con una longitud de 21,0975 kilómetros, popular en eventos deportivos urbanos."
+    },
+    {
+      "termino": "Conflicto laboral",
+      "definicion": "Disputa entre empleados y empleadores relacionada con condiciones de trabajo, salarios u otros aspectos del entorno laboral."
+    }
+  ],
+  "impacto_esperado": "La investigación podría derivar en medidas disciplinarias si se detecta un uso indebido de las bajas médicas. Además, se anticipa una intensificación en las negociaciones entre el Ayuntamiento y los sindicatos para resolver el conflicto laboral y evitar que situaciones similares afecten futuros eventos en la ciudad.",
+  "opinion_publica": [
+    {
+      "fuente": "Organizadores de la Media Maratón",
+      "reaccion": "Han expresado su preocupación por las ausencias de los agentes y el impacto potencial en la seguridad del evento, calificando la situación de 'boicot'. :contentReference[oaicite:0]{index=0}"
+    },
+    {
+      "fuente": "Ciudadanía de Vitoria-Gasteiz",
+      "reaccion": "Algunos residentes manifiestan inquietud por la posibilidad de que futuros eventos se vean comprometidos debido a conflictos laborales en la Policía Local."
+    }
+  ],
+  "posibles_proximos_pasos": "El Ayuntamiento continuará con la investigación para determinar la legitimidad de las bajas presentadas y tomará medidas para garantizar la seguridad en eventos futuros. Se prevé una reanudación de las negociaciones con los sindicatos para abordar las demandas laborales y buscar soluciones que eviten perjuicios a la ciudadanía.",
+  "datos_relevantes": [
+    {
+      "dato": "Un número significativo de agentes de la Policía Local presentó bajas médicas el día de la Media Maratón, coincidiendo con una huelga de celo en curso. ",
+      "fuente": "EITB"
+    },
+    {
+      "dato": "El Ayuntamiento tuvo que reorganizar los servicios policiales para garantizar la seguridad del evento deportivo.       "fuente": "EITB"
+    }
+  ],
+  "chequeo_datos": [    
+    {
+      "afirmacion": "Numerosos agentes de la Policía Local presentaron bajas médicas el día de la Media Maratón.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "El Ayuntamiento de Vitoria-Gasteiz y fuentes policiales confirmaron que un número significativo de agentes no acudió a su puesto alegando bajas médicas."
+      }
+    },
+    {
+      "afirmacion": "El Ayuntamiento ha abierto una investigación para esclarecer las bajas masivas.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La alcaldesa Maider Etxebarria anunció públicamente el inicio de una investigación municipal sobre el incidente."
+      }
+    },
+    {
+      "afirmacion": "La Media Maratón se vio afectada por la falta de efectivos policiales.",
+      "verificacion": {
+        "estado": "Parcialmente confirmado",
+        "explicacion": "Aunque la seguridad del evento se garantizó con reorganización de efectivos, la falta inicial de personal generó preocupación entre los organizadores y ciudadanos."
+      }
+    }
+  ],
+  "reflexion_breve": "La coincidencia entre un conflicto laboral y un evento de gran relevancia pone de manifiesto la necesidad de reforzar la comunicación y negociación entre administraciones y cuerpos de seguridad. El bienestar ciudadano no debería verse comprometido por disputas laborales, y soluciones constructivas deben primar en estos casos.",
+  "bsky_msg": "Preocupación institucional – Gasteiz investiga la cascada de bajas en la Policía Local durante la Media Maratón –"
+}
