@@ -21,6 +21,4 @@ incremental: true
 
 # Configuración de Liquid para manejo estricto de variables
 liquid:
-  error_mode: strict
-  strict_variables: true
   strict_filters: true
