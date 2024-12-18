@@ -1,1 +1,108 @@
-{}
+{
+  "titular": "Pediatras advierten sobre regalar móviles a los niños en Navidad: \"El móvil no es un regalo, es un problema\"",
+  "categoria_emocional": "Preocupación constructiva",
+  "fecha_publicacion": "18 de diciembre de 2024",
+  "url_canonical": "https://www.deia.eus/actualidad/sociedad/2024/12/18/pediatras-advierten-regalar-moviles-ninos-9068094.html",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Pediatras alertan sobre los riesgos de regalar teléfonos móviles a niños durante las fiestas navideñas, enfatizando que su uso excesivo puede derivar en problemas de salud física y mental. Recomiendan retrasar la entrega de estos dispositivos hasta que los menores alcancen una mayor madurez y establecer límites claros para su uso.",
+  "contexto": "En los últimos años, ha aumentado la preocupación por el uso temprano y excesivo de dispositivos móviles entre los menores en el estado. Estudios recientes indican que una proporción significativa de niños de 11-12 años ya posee un smartphone, utilizándolo principalmente para comunicarse y consumir contenido en línea. Los expertos señalan que este uso prematuro puede afectar negativamente el desarrollo cognitivo, emocional y físico de los menores, destacando la importancia de la supervisión parental y la educación en el uso responsable de la tecnología.",
+  "linea_tiempo": [
+    {
+      "fecha": "5 de diciembre de 2024",
+      "descripcion": "La Asociación Española de Pediatría actualiza sus recomendaciones, aconsejando cero pantallas antes de los 6 años y menos de una hora diaria hasta los 12 años."
+    },
+    {
+      "fecha": "16 de diciembre de 2024",
+      "descripcion": "Padres del colegio La Salle en Santiago de Compostela acuerdan no comprar móviles a sus hijos de 1º de ESO para evitar riesgos asociados al uso temprano de smartphones."
+    },
+    {
+      "fecha": "18 de diciembre de 2024",
+      "descripcion": "Un estudio de la Universidad del País Vasco revela que dos de cada tres niños de 11-12 años en Euskadi ya poseen un smartphone, utilizándolo principalmente para comunicarse y ver vídeos."
+    },
+    {
+      "fecha": "18 de diciembre de 2024",
+      "descripcion": "Pediatras de Atención Primaria en España advierten que regalar un móvil a los niños en Navidad puede ser perjudicial, asociándolo con problemas de salud física y mental."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Teresa Cenarro",
+      "descripcion": "Vicepresidenta de la Asociación Española de Pediatría de Atención Primaria, quien ha destacado los riesgos asociados al uso temprano de móviles en niños."
+    },
+    {
+      "nombre": "Eneko Tejada",
+      "descripcion": "Investigador y coordinador del estudio de la Universidad del País Vasco sobre el uso de smartphones entre niños de 11-12 años en Euskadi."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Smartphone",
+      "definicion": "Teléfono móvil con capacidades avanzadas, como acceso a internet y aplicaciones diversas."
+    },
+    {
+      "termino": "Control parental",
+      "definicion": "Herramientas y configuraciones que permiten a los padres supervisar y limitar el uso de dispositivos digitales por parte de sus hijos."
+    },
+    {
+      "termino": "Ciberacoso",
+      "definicion": "Acoso o intimidación que se produce a través de medios digitales, como redes sociales, mensajes de texto o correos electrónicos."
+    },
+    {
+      "termino": "Sedentarismo",
+      "definicion": "Estilo de vida caracterizado por la falta de actividad física regular, asociado a diversos problemas de salud."
+    }
+  ],
+  "impacto_esperado": "La advertencia de los pediatras busca concienciar a las familias sobre los riesgos asociados al uso temprano de smartphones, promoviendo decisiones más informadas y responsables. Se espera que, con estas recomendaciones, se reduzca la incidencia de problemas de salud relacionados con el uso excesivo de dispositivos móviles en niños, mejorando su bienestar general.",
+  "comparativas": "En países como Francia, se ha implementado la prohibición del uso de móviles en escuelas primarias y secundarias para limitar la exposición de los menores a las pantallas y fomentar la interacción social directa.",
+  "opinion_publica": [
+    {
+      "fuente": "Asociación Española de Pediatría",
+      "reaccion": "Recomienda retrasar la entrega de smartphones a los niños y establecer límites claros para su uso, enfatizando la importancia de la supervisión parental."
+    },
+    {
+      "fuente": "Padres de familia",
+      "reaccion": "Algunos grupos de padres han comenzado a organizarse para acordar no regalar móviles a sus hijos hasta cierta edad, preocupados por los efectos negativos en su desarrollo."
+    }
+  ],
+  "posibles_proximos_pasos": "Se anticipa que más asociaciones de padres y centros educativos promuevan acuerdos para retrasar la entrega de móviles a los menores. Además, es probable que se desarrollen campañas de concienciación sobre el uso responsable de la tecnología y se implementen políticas públicas que regulen la exposición de los niños a dispositivos digitales.",
+  "datos_relevantes": [
+    {
+      "dato": "El 75,5% de los niños de 12 años en el estado utiliza dispositivos móviles.",
+      "fuente": "Asociación Española de Pediatría"
+    },
+    {
+      "dato": "El 96% de los adolescentes de 15 años en el estado posee un smartphone.",
+      "fuente": "Asociación Española de Pediatría"
+    }
+  ],
+  "chequeo_datos": [
+    {
+      "afirmacion": "El uso excesivo de smartphones en niños contribuye a problemas como retrasos en el lenguaje, sedentarismo y trastornos del sueño.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "La Asociación Española de Pediatría ha señalado que el uso excesivo de dispositivos móviles en niños está asociado con diversos problemas de salud física y mental."
+      }
+    },
+    {
+      "afirmacion": "Dos de cada tres niños de 11-12 años en Euskadi tienen un smartphone.",
+      "verificacion": {
+        "estado": "Confirmado",
+        "explicacion": "Un estudio de la Universidad del País Vasco revela que aproximadamente el 66% de los niños en esta franja de edad poseen un smartphone."
+      }
+    }
+  ],
+  "reflexion_breve": "La tecnología es una herramienta poderosa que, utilizada de manera adecuada, puede enriquecer nuestras vidas. Sin embargo, es fundamental que, como sociedad, guiemos a las nuevas generaciones en su uso responsable, asegurando que su desarrollo no se vea comprometido. Fomentar actividades al aire libre, la lectura y la interacción social directa son pilares que no deben ser olvidados en la educación de los niños."
+  "noticias_relacionadas": [
+    {
+      "titular_noticia": "Francia prohíbe el uso de móviles en escuelas para niños menores de 15 años",
+      "nombre_medio": "Le Monde",
+      "url_noticia": "https://www.lemonde.fr/education/france-prohibe-mobiles-ecoles"
+    },
+    {
+      "titular_noticia": "El impacto de las pantallas en la salud infantil: nuevas recomendaciones médicas",
+      "nombre_medio": "El País",
+      "url_noticia": "https://elpais.com/salud/impacto-pantallas-infancia"
+    }
+  ],
+  "bsky_msg": "Preocupación constructiva – Pediatras alertan sobre regalar móviles a niños en Navidad: riesgos para la salud física y mental –"
+}
