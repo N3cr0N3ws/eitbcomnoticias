@@ -16,3 +16,9 @@ exclude:
   - vendor
   - assets/css
   - index.html
+
+# Configuración de Liquid para manejo estricto de variables
+liquid:
+  error_mode: strict
+  strict_variables: true
+  strict_filters: true

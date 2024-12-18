@@ -133,26 +133,25 @@ layout: default
     </div>
 
     <!-- Data checked -->
-    {% if page.chequeo_datos and page.chequeo_datos != "" %}
-    
+    {% if page.chequeo_datos and page.chequeo_datos != null and page.chequeo_datos.size > 0 %}
     <div class="data-checked-container">
       <h2>Checkeo de datos</h2>
       <ul class="data-checked">
-        {% for data-checked in page.chequeo_datos %}
+        {% for data_checked in page.chequeo_datos %}
         <li class="data-checked-item">
-          <div class="data-checked-afirmacion">&raquo; {{ data-checked.afirmacion }}</div>
+          <div class="data-checked-afirmacion">&raquo; {{ data_checked.afirmacion }}</div>
           <div class="data-checked-conclusion">
-            <span>{{ data-checked.verificacion.estado }}</span>
-            <p>{{ data-checked.verificacion.explicacion }}</p>
+            <span>{{ data_checked.verificacion.estado }}</span>
+            <p>{{ data_checked.verificacion.explicacion }}</p>
           </div>
         </li>
         {% endfor %}
       </ul>
     </div>
     {% endif %}
-    
+
     <!-- Reflexion -->
-    {% if page.reflexion_breve and page.reflexion_breve != "" %}
+    {% if page.reflexion_breve and page.reflexion_breve != null and page.reflexion_breve.size > 0 %}
     <div class="reflexion">
       <h2>Reflexión breve</h2>
       <p><img id="avatar" src="https://api.dicebear.com/9.x/notionists/svg?seed=random287&size=60&&body=variant22" /> {{ page.reflexion_breve }}</p>
