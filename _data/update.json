@@ -1,1 +1,54 @@
-{}
+{
+  "titular": "El Tribunal europeo exige registrar la jornada laboral de empleadas del hogar",
+  "categoria_emocional": "Avance positivo",
+  "fecha_publicacion": "19 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/economia/detalle/9654623/el-tribunal-europeo-exige-registrar-jornada-laboral-de-empleados-del-hogar/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El Tribunal de Justicia de la Unión Europea (TJUE) ha dictaminado que los empleadores domésticos deben llevar un registro diario de las horas trabajadas por las empleadas del hogar, contradiciendo la normativa española que exime de esta obligación.",
+  "contexto": "En el estado, las empleadas del hogar representan un colectivo mayoritariamente femenino que, hasta ahora, no estaba obligado a registrar su jornada laboral, lo que dificultaba la protección de sus derechos laborales. La sentencia del TJUE busca equiparar sus condiciones laborales con las de otros sectores, garantizando un control efectivo del tiempo trabajado.",
+  "linea_tiempo": [
+    {
+      "fecha": "14 de mayo de 2019",
+      "descripcion": "El TJUE establece la obligación general de registrar la jornada laboral para todos los trabajadores en la Unión Europea."
+    },
+    {
+      "fecha": "12 de mayo de 2019",
+      "descripcion": "Entra en vigor en el estado el Real Decreto-ley que obliga a las empresas a registrar diariamente la jornada de sus trabajadores, excluyendo a las empleadas del hogar."
+    },
+    {
+      "fecha": "28 de octubre de 2024",
+      "descripcion": "El Tribunal Superior de Justicia de la Comunidad Valenciana rechaza la obligatoriedad del registro de jornada para las empleadas del hogar, al considerar que su relación laboral es de carácter especial."
+    },
+    {
+      "fecha": "19 de diciembre de 2024",
+      "descripcion": "El TJUE dicta que los empleadores domésticos deben establecer un sistema para registrar la jornada laboral diaria de las empleadas del hogar, contradiciendo la normativa española vigente."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Tribunal de Justicia de la Unión Europea (TJUE)",
+      "descripcion": "Máxima autoridad judicial de la Unión Europea encargada de interpretar el derecho comunitario y garantizar su aplicación uniforme en todos los Estados miembros."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Registro de jornada laboral",
+      "definicion": "Sistema que permite contabilizar las horas de trabajo realizadas por un empleado, incluyendo la hora de inicio y fin de la jornada."
+    },
+    {
+      "termino": "Empleadas del hogar",
+      "definicion": "Trabajadoras que realizan tareas domésticas en hogares particulares, como limpieza, cocina o cuidado de personas."
+    },
+    {
+      "termino": "Discriminación indirecta",
+      "definicion": "Situación en la que una disposición, criterio o práctica aparentemente neutra pone a personas de un determinado grupo en desventaja particular respecto a otras."
+    },
+    {
+      "termino": "Directiva europea",
+      "definicion": "Acto legislativo de la Unión Europea que obliga a los Estados miembros a alcanzar determinados objetivos, permitiéndoles decidir cómo implementarlos en su legislación nacional."
+    }
+  ],
+  "impacto_esperado": "La sentencia del TJUE podría conducir a una modificación de la normativa estatal, obligando a los empleadores domésticos a implementar sistemas de registro horario. Esto mejoraría la protección de los derechos laborales de las empleadas del hogar, asegurando una remuneración justa y el respeto de los límites de la jornada laboral.",
+  "reflexion_breve": "La decisión del TJUE representa un paso significativo hacia la igualdad laboral, reconociendo la importancia del trabajo doméstico y la necesidad de proteger a quienes lo realizan. Garantizar condiciones justas para las empleadas del hogar no solo es un avance legal, sino también un reflejo de una sociedad que valora y respeta todos los tipos de trabajo.",
+  "bsky_msg": "Avance positivo – El Tribunal europeo exige registrar la jornada laboral de empleadas del hogar"
+}
