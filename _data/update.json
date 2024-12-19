@@ -1,1 +1,66 @@
-{}
+{
+  "titular": "Roberto Muñoz Bolaños: «La historia oficial del 23F estuvo bien para 1981, pero cuarenta años después hace agua»",
+  "categoria_emocional": "Revelación histórica",
+  "fecha_publicacion": "18 de diciembre de 2024",
+  "url_canonical": "https://www.jotdown.es/2024/12/roberto-munoz-bolanos-entrevista-23f/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "En esta entrevista, el historiador Roberto Muñoz Bolaños analiza las recientes filtraciones de conversaciones entre el rey Juan Carlos y Bárbara Rey, que mencionan al general Armada, condenado por el 23F. Muñoz Bolaños sostiene que, aunque la versión oficial del golpe de Estado de 1981 fue adecuada en su momento, cuatro décadas después resulta insuficiente y presenta lagunas significativas.",
+  "contexto": "El 23 de febrero de 1981, el estado vivió un intento de golpe de Estado conocido como 23F, cuando un grupo de militares irrumpió en el Congreso de los Diputados durante la investidura de Leopoldo Calvo-Sotelo. Aunque el golpe fracasó y se consolidó la transición democrática, aún persisten interrogantes sobre la implicación de diversas figuras y sectores en estos acontecimientos.",
+  "linea_tiempo": [
+    {
+      "fecha": "23 de febrero de 1981",
+      "descripcion": "Intento de golpe de Estado en el estado, conocido como 23F, liderado por el teniente coronel Tejero, quien irrumpió en el Congreso de los Diputados."
+    },
+    {
+      "fecha": "24 de febrero de 1981",
+      "descripcion": "El rey Juan Carlos I, en un mensaje televisado, condena el golpe y reafirma su apoyo a la democracia, contribuyendo a la desarticulación del intento golpista."
+    },
+    {
+      "fecha": "3 de junio de 1982",
+      "descripcion": "Sentencia del Consejo Supremo de Justicia Militar que condena a los principales implicados en el 23F, incluyendo al general Armada y al teniente coronel Tejero."
+    },
+    {
+      "fecha": "18 de diciembre de 2024",
+      "descripcion": "Publicación de la entrevista con Roberto Muñoz Bolaños, quien cuestiona la versión oficial del 23F y señala la necesidad de una revisión histórica."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Roberto Muñoz Bolaños",
+      "descripcion": "Historiador y profesor en diversas universidades, especializado en la historia militar contemporánea del estado, con énfasis en el estudio del 23F."
+    },
+    {
+      "nombre": "Juan Carlos I",
+      "descripcion": "Rey del estado durante el intento de golpe de Estado del 23F, cuya intervención pública fue clave para la desarticulación del mismo."
+    },
+    {
+      "nombre": "General Armada",
+      "descripcion": "Militar condenado por su implicación en el 23F; según las filtraciones recientes, mantuvo conversaciones con el rey Juan Carlos antes del golpe."
+    },
+    {
+      "nombre": "Bárbara Rey",
+      "descripcion": "Artista y personalidad pública que mantuvo una relación cercana con el rey Juan Carlos; sus conversaciones filtradas han reavivado el debate sobre el 23F."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "23F",
+      "definicion": "Intento de golpe de Estado ocurrido el 23 de febrero de 1981 en el estado, protagonizado por militares que buscaban revertir la transición democrática."
+    },
+    {
+      "termino": "Solución Armada",
+      "definicion": "Plan propuesto por sectores militares y civiles para sustituir al presidente Suárez y dar un giro conservador al gobierno durante la transición."
+    },
+    {
+      "termino": "Red Territorial de Mando (RTM)",
+      "definicion": "Línea especial de comunicación del Ejército utilizada por los capitanes generales durante el 23F, cuyas conversaciones no podían ser grabadas."
+    },
+    {
+      "termino": "Transición democrática",
+      "definicion": "Proceso de cambio político que llevó al estado de una dictadura a una democracia parlamentaria, iniciado tras la muerte de Francisco Franco en 1975."
+    }
+  ],
+  "impacto_esperado": "Las revelaciones y análisis presentados por Muñoz Bolaños podrían impulsar una revisión de la narrativa oficial sobre el 23F, fomentando un debate público sobre la transparencia y la necesidad de esclarecer completamente los hechos históricos. Esto podría fortalecer la confianza en las instituciones democráticas y en la importancia de la memoria histórica.",
+  "reflexion_breve": "La historia es una construcción dinámica que requiere ser revisada y actualizada a la luz de nuevas evidencias. Profundizar en la comprensión de eventos como el 23F no solo honra la verdad, sino que también fortalece nuestra democracia al aprender de los errores del pasado y promover una sociedad más informada y consciente.",
+  "bsky_msg": "Revelación histórica – Roberto Muñoz Bolaños cuestiona la versión oficial del 23F, sugiriendo que, tras cuarenta años, presenta lagunas significativas"
+}
