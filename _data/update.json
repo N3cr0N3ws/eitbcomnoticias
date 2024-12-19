@@ -1,1 +1,62 @@
-{}
+{
+  "titular": "Sentencia del caso Pelicot: penas de cárcel para Dominique Pelicot y otros 50 hombres acusados",
+  "categoria_emocional": "Justicia restaurativa",
+  "fecha_publicacion": "19 de diciembre de 2024",
+  "url_canonical": "https://www.eitb.eus/es/noticias/internacional/detalle/9654498/sentencia-del-caso-pelicot-penas-de-carcel-para-dominique-pelicot-y-otros-50-hombres-acusados/",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "El Tribunal Penal de Aviñón ha condenado a Dominique Pelicot a 20 años de prisión por drogar y violar a su exesposa, Gisèle Pelicot, durante casi una década. Otros 50 hombres también han sido declarados culpables y recibirán penas de entre 3 y 13 años de cárcel por su participación en los abusos.",
+  "contexto": "Este caso ha conmocionado al estado y al mundo, destacando la gravedad de la violencia de género y la importancia del consentimiento en las relaciones. Gisèle Pelicot, de 72 años, se ha convertido en un símbolo de resistencia al optar por un juicio público para que la vergüenza recaiga en los agresores.",
+  "linea_tiempo": [
+    {
+      "fecha": "2011",
+      "descripcion": "Inicio de los abusos de Dominique Pelicot hacia su esposa Gisèle, drogándola y permitiendo que otros hombres la violaran mientras estaba inconsciente."
+    },
+    {
+      "fecha": "2020",
+      "descripcion": "Descubrimiento de los abusos por parte de Gisèle Pelicot y denuncia a las autoridades, iniciando la investigación del caso."
+    },
+    {
+      "fecha": "2 de septiembre de 2024",
+      "descripcion": "Comienzo del juicio en el Tribunal Penal de Aviñón contra Dominique Pelicot y otros 50 acusados."
+    },
+    {
+      "fecha": "19 de diciembre de 2024",
+      "descripcion": "Sentencia del tribunal que condena a Dominique Pelicot a 20 años de prisión y a los demás acusados a penas de entre 3 y 13 años."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Dominique Pelicot",
+      "descripcion": "Exesposo de Gisèle Pelicot, condenado a 20 años de prisión por drogar y violar a su esposa durante casi una década, además de permitir que otros hombres la agredieran sexualmente."
+    },
+    {
+      "nombre": "Gisèle Pelicot",
+      "descripcion": "Víctima de los abusos de su exmarido Dominique y de otros 50 hombres. Su valentía al hacer público el juicio la ha convertido en un símbolo de resistencia contra la violencia de género."
+    },
+    {
+      "nombre": "Jean-Pierre Maréchal",
+      "descripcion": "Conocido como el 'discípulo' de Pelicot, condenado a 12 años de prisión por drogar y violar a su propia esposa, inspirado por las acciones de Dominique Pelicot."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Sumisión química",
+      "definicion": "Práctica delictiva que consiste en administrar sustancias a una persona sin su consentimiento para anular su voluntad y abusar de ella."
+    },
+    {
+      "termino": "Violación agravada",
+      "definicion": "Delito de violación que incluye circunstancias que aumentan su gravedad, como el uso de violencia extrema o la participación de múltiples agresores."
+    },
+    {
+      "termino": "Consentimiento",
+      "definicion": "Aprobación voluntaria y consciente para participar en una actividad, fundamental en las relaciones interpersonales y sexuales."
+    },
+    {
+      "termino": "Violencia de género",
+      "definicion": "Violencia dirigida contra una persona debido a su género, incluyendo actos que causan daño físico, sexual o psicológico."
+    }
+  ],
+  "impacto_esperado": "Se espera que este caso genere una mayor conciencia sobre la violencia de género y la sumisión química, impulsando cambios en las leyes y políticas para proteger a las víctimas y sancionar a los agresores de manera más efectiva.",
+  "reflexion_breve": "La valentía de Gisèle Pelicot al enfrentar públicamente a sus agresores nos recuerda la importancia de alzar la voz contra la injusticia. Su ejemplo inspira a construir una sociedad más justa y consciente, donde el respeto y la dignidad sean pilares fundamentales.",
+  "bsky_msg": "Justicia restaurativa – Tribunal Penal de Aviñón condena a Dominique Pelicot a 20 años de prisión por drogar y violar a su exesposa, junto a otros 50 hombres acusados"
+}
