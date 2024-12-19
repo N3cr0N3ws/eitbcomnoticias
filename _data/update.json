@@ -1,1 +1,62 @@
-{}
+{
+  "titular": "Detenido el exfutbolista del Athletic 'Txutxi', huido desde 2015 tras ser condenado por tráfico de cocaína",
+  "categoria_emocional": "Justicia restaurada",
+  "fecha_publicacion": "19 de diciembre de 2024",
+  "url_canonical": "https://www.elcorreo.com/athletic/detenido-exfutbolista-athletic-txutxi-huido-2015-tras-20241219110759-nt.html",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Jesús Emilio Díez de Mier, conocido como 'Txutxi', exjugador del Athletic Club, ha sido detenido en El Puerto de Santa María tras permanecer huido desde 2015. Fue condenado por su implicación en el tráfico de 950 kilos de cocaína en la 'Operación Ciclón'.",
+  "contexto": "Jesús Emilio Díez de Mier, 'Txutxi', exfutbolista del Athletic Club, fue condenado en 2015 por la Audiencia Nacional por su participación en una organización criminal que introdujo 950 kilos de cocaína en el estado entre 2008 y 2009. Desde entonces, permanecía prófugo hasta su reciente detención en El Puerto de Santa María.",
+  "linea_tiempo": [
+    {
+      "fecha": "2008",
+      "descripcion": "La organización criminal comienza a introducir cocaína desde Argentina a los puertos de Algeciras y Valencia."
+    },
+    {
+      "fecha": "2009",
+      "descripcion": "Se incautan 950 kilos de cocaína, valorados en más de 32 millones de euros, en la 'Operación Ciclón'."
+    },
+    {
+      "fecha": "14 de marzo de 2014",
+      "descripcion": "La Audiencia Nacional condena a 'Txutxi' y otros implicados a penas de entre 5 y 12 años de prisión por narcotráfico."
+    },
+    {
+      "fecha": "15 de diciembre de 2024",
+      "descripcion": "Tras nueve años huido, 'Txutxi' es detenido en El Puerto de Santa María durante un control rutinario."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Jesús Emilio Díez de Mier 'Txutxi'",
+      "descripcion": "Exfutbolista del Athletic Club, jugó como defensa central en la temporada 1995-1996. Condenado por narcotráfico en 2014, permaneció prófugo hasta su detención en 2024."
+    },
+    {
+      "nombre": "Zoran Matijevic",
+      "descripcion": "Representante de futbolistas y agente FIFA, considerado financiador de la organización criminal desmantelada en la 'Operación Ciclón'."
+    },
+    {
+      "nombre": "Predrag Stankovic",
+      "descripcion": "Exfutbolista que jugó en el Hércules CF, implicado y condenado en la misma operación de narcotráfico que 'Txutxi'."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Operación Ciclón",
+      "definicion": "Operativo policial llevado a cabo entre 2008 y 2009 que desmanteló una red de narcotráfico responsable de introducir grandes cantidades de cocaína en el estado."
+    },
+    {
+      "termino": "Audiencia Nacional",
+      "definicion": "Tribunal superior de justicia en el estado con competencia en delitos de especial relevancia, como el narcotráfico y el terrorismo."
+    },
+    {
+      "termino": "Narcotráfico",
+      "definicion": "Comercio o tráfico ilegal de sustancias estupefacientes a gran escala."
+    },
+    {
+      "termino": "Prófugo",
+      "definicion": "Persona que huye de la justicia para evitar ser detenida o cumplir una condena."
+    }
+  ],
+  "impacto_esperado": "La detención de 'Txutxi' refuerza la confianza en las fuerzas de seguridad y en el sistema judicial, demostrando que los delitos graves no quedan impunes, incluso después de varios años.",
+  "reflexion_breve": "La captura de 'Txutxi' subraya la importancia de la integridad personal y profesional, recordándonos que las decisiones tomadas fuera del ámbito deportivo pueden tener consecuencias duraderas y afectar tanto al individuo como a la comunidad que lo rodea.",
+  "bsky_msg": "Justicia restaurada – Detenido el exfutbolista del Athletic 'Txutxi', huido desde 2015 tras ser condenado por tráfico de cocaína –"
+}
