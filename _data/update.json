@@ -1,1 +1,86 @@
-{}
+{
+  "titular": "Los hermanos Williams, premiados por su labor solidaria en Ghana",
+  "categoria_emocional": "Reconocimiento altruista",
+  "fecha_publicacion": "20 de diciembre de 2024",
+  "url_canonical": "https://www.deia.eus/athletic/2024/12/20/hermanos-williams-premiados-labor-solidaria-9072205.html",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Iñaki y Nico Williams, futbolistas del Athletic Club, han sido galardonados por CaixaBank por su proyecto de remodelación de una escuela en Ghana, país de origen de sus padres. La iniciativa ha mejorado las instalaciones educativas para 500 estudiantes, reflejando el compromiso de los hermanos con la educación y el desarrollo comunitario.",
+  "contexto": "Los hermanos Williams, reconocidos futbolistas del Athletic Club, han demostrado un fuerte compromiso con sus raíces africanas y la educación en Ghana. Su proyecto de remodelación de una escuela en el país de origen de sus padres ha beneficiado a 500 estudiantes, mejorando significativamente las condiciones educativas y contribuyendo al desarrollo de la comunidad local.",
+  "linea_tiempo": [
+    {
+      "fecha": "15 de junio de 1994",
+      "descripcion": "Nacimiento de Iñaki Williams en Bilbao, hijo de padres ghaneses que emigraron al estado en busca de un futuro mejor."
+    },
+    {
+      "fecha": "12 de julio de 2002",
+      "descripcion": "Nacimiento de Nico Williams en Pamplona, siguiendo los pasos de su hermano mayor en el mundo del fútbol."
+    },
+    {
+      "fecha": "1 de noviembre de 2024",
+      "descripcion": "Estreno del documental 'Los Williams', que narra la historia familiar y deportiva de los hermanos, destacando su conexión con Ghana y su compromiso social."
+    },
+    {
+      "fecha": "20 de diciembre de 2024",
+      "descripcion": "CaixaBank otorga a Iñaki y Nico Williams un premio por su labor solidaria en Ghana, reconociendo su proyecto de remodelación de una escuela que beneficia a 500 estudiantes."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Iñaki Williams",
+      "descripcion": "Delantero del Athletic Club, nacido en Bilbao en 1994, hijo de padres ghaneses. Reconocido por su velocidad y compromiso tanto dentro como fuera del campo."
+    },
+    {
+      "nombre": "Nico Williams",
+      "descripcion": "Extremo del Athletic Club, nacido en Pamplona en 2002. Hermano menor de Iñaki, destaca por su habilidad y proyección en el fútbol profesional."
+    },
+    {
+      "nombre": "CaixaBank",
+      "descripcion": "Entidad financiera que ha reconocido la labor solidaria de los hermanos Williams en Ghana, otorgándoles un premio por su proyecto educativo."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Athletic Club",
+      "definicion": "Club de fútbol con sede en Bilbao, conocido por su política de cantera y por contar con jugadores vascos o formados en el País Vasco."
+    },
+    {
+      "termino": "CaixaBank",
+      "definicion": "Entidad financiera española que ofrece servicios bancarios y financieros, comprometida con iniciativas de responsabilidad social corporativa."
+    },
+    {
+      "termino": "Ghana",
+      "definicion": "País de África Occidental, lugar de origen de los padres de Iñaki y Nico Williams, con una rica herencia cultural y una creciente economía."
+    },
+    {
+      "termino": "Filantropía",
+      "definicion": "Acción de promover el bienestar de los demás, generalmente a través de donaciones de dinero, recursos o tiempo para causas benéficas."
+    }
+  ],
+  "impacto_esperado": "La remodelación de la escuela en Ghana por parte de los hermanos Williams mejorará significativamente las condiciones educativas de 500 estudiantes, proporcionando un entorno de aprendizaje más adecuado y recursos mejorados. Este tipo de iniciativas pueden inspirar a otros deportistas y figuras públicas a involucrarse en proyectos solidarios que generen un impacto positivo en comunidades necesitadas.",
+  "opinion_publica": [
+    {
+      "fuente": "Diario AS",
+      "reaccion": "Iñaki Williams ha sido galardonado con el Premio de Filantropía de CaixaBank Banca Privada por su compromiso con la educación infantil en Ghana."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que los hermanos Williams continúen su labor solidaria en Ghana, posiblemente ampliando su proyecto educativo a otras comunidades o involucrándose en nuevas iniciativas que promuevan el desarrollo social y educativo en el país.",
+  "datos_relevantes": [
+    {
+      "dato": "Ghana cuenta con una población de más de 31 millones de personas y es conocida por su estabilidad política y crecimiento económico en África Occidental.",
+      "fuente": "Wikipedia"
+    },
+    {
+      "dato": "El Athletic Club es uno de los tres clubes que nunca ha descendido de la Primera División en la liga española de fútbol.",
+      "fuente": "Wikipedia"
+    }
+  ],
+  "reflexion_breve": "La dedicación de los hermanos Williams a mejorar la educación en Ghana es un recordatorio poderoso de cómo las figuras públicas pueden utilizar su influencia y recursos para generar cambios positivos en la sociedad. Su compromiso no solo enriquece las vidas de los beneficiarios directos, sino que también inspira a otros a contribuir al bienestar global, demostrando que el verdadero éxito se mide por el impacto positivo que dejamos en el mundo.",
+  "noticias_relacionadas": [
+    {
+      "titular_noticia": "Iñaki Williams, premiado por su vena filantrópica",
+      "nombre_medio": "Diario AS",
+      "url_noticia": "https://as.com/futbol/inaki-williams-premiado-por-su-vena-filantropica-n/"
+    }
+  ],
+  "bsky_msg": "Reconocimiento altruista – Los hermanos Williams, premiados por su labor solidaria en Ghana –"
+}
