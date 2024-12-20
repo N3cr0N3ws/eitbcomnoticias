@@ -1,1 +1,87 @@
-{}
+{
+  "titular": "ChatGPT ya está disponible en WhatsApp",
+  "categoria_emocional": "Innovación tecnológica",
+  "fecha_publicacion": "19 de diciembre de 2024",
+  "url_canonical": "https://elpais.com/tecnologia/2024-12-19/chatgpt-ya-esta-disponible-en-whatsapp.html",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "OpenAI ha integrado ChatGPT en WhatsApp, permitiendo a los usuarios interactuar con la inteligencia artificial directamente desde la aplicación de mensajería. Para utilizar este servicio, se debe añadir el número +1 (800) 242-8478 a los contactos y comenzar una conversación. Aunque esta versión no permite búsquedas en tiempo real ni procesamiento de imágenes, ofrece funcionalidades básicas de ChatGPT para quienes no tienen la aplicación dedicada.",
+  "contexto": "La integración de ChatGPT en WhatsApp representa un avance significativo en la accesibilidad de herramientas de inteligencia artificial para los usuarios del estado. WhatsApp, propiedad de Meta, es la aplicación de mensajería más utilizada en Europa, y esta colaboración con OpenAI facilita el acceso a tecnologías avanzadas sin necesidad de aplicaciones adicionales. Sin embargo, la versión integrada presenta limitaciones en comparación con la aplicación original de ChatGPT.",
+  "linea_tiempo": [
+    {
+      "fecha": "30 de noviembre de 2022",
+      "descripcion": "Lanzamiento de ChatGPT por OpenAI, marcando un hito en la inteligencia artificial generativa."
+    },
+    {
+      "fecha": "1 de febrero de 2023",
+      "descripcion": "Aparición de métodos no oficiales para integrar ChatGPT en WhatsApp mediante bots de terceros."
+    },
+    {
+      "fecha": "19 de diciembre de 2024",
+      "descripcion": "Anuncio oficial de la integración de ChatGPT en WhatsApp, permitiendo a los usuarios interactuar con la IA directamente desde la aplicación."
+    },
+    {
+      "fecha": "20 de diciembre de 2024",
+      "descripcion": "Usuarios expresan críticas sobre las limitaciones de la versión de ChatGPT en WhatsApp, destacando su desactualización y falta de funcionalidades avanzadas."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "OpenAI",
+      "descripcion": "Organización de investigación en inteligencia artificial responsable del desarrollo de ChatGPT."
+    },
+    {
+      "nombre": "Meta",
+      "descripcion": "Empresa matriz de WhatsApp, anteriormente conocida como Facebook, que ha colaborado con OpenAI para integrar ChatGPT en su plataforma de mensajería."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "ChatGPT",
+      "definicion": "Modelo de lenguaje desarrollado por OpenAI capaz de generar texto de manera coherente y contextual."
+    },
+    {
+      "termino": "WhatsApp",
+      "definicion": "Aplicación de mensajería instantánea propiedad de Meta, ampliamente utilizada para comunicaciones personales y profesionales."
+    },
+    {
+      "termino": "Inteligencia Artificial Generativa",
+      "definicion": "Rama de la inteligencia artificial enfocada en la creación de contenido nuevo y original a partir de datos existentes."
+    },
+    {
+      "termino": "Integración Tecnológica",
+      "definicion": "Proceso de combinar diferentes sistemas o tecnologías para trabajar de manera conjunta y ofrecer nuevas funcionalidades."
+    }
+  ],
+  "impacto_esperado": "La integración de ChatGPT en WhatsApp podría democratizar el acceso a herramientas de inteligencia artificial, permitiendo a una base de usuarios más amplia interactuar con estas tecnologías sin necesidad de aplicaciones adicionales. Sin embargo, las limitaciones actuales de la versión integrada podrían afectar la percepción y adopción por parte de los usuarios.",
+  "opinion_publica": [
+    {
+      "fuente": "The Scottish Sun",
+      "reaccion": "Usuarios critican la nueva función de ChatGPT en WhatsApp por considerarla desactualizada y cuestionan su utilidad."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que OpenAI y Meta trabajen en mejorar la integración de ChatGPT en WhatsApp, ampliando sus capacidades para incluir funciones como búsquedas en tiempo real, procesamiento de imágenes y uso del modo de voz, con el fin de ofrecer una experiencia más completa y satisfactoria a los usuarios.",
+  "datos_relevantes": [
+    {
+      "dato": "WhatsApp cuenta con más de 2.000 millones de usuarios activos en todo el mundo.",
+      "fuente": "Wikipedia"
+    },
+    {
+      "dato": "ChatGPT es un modelo de lenguaje desarrollado por OpenAI que utiliza aprendizaje profundo para generar texto similar al humano.",
+      "fuente": "Wikipedia"
+    }
+  ],
+  "reflexion_breve": "La incorporación de herramientas de inteligencia artificial en aplicaciones de uso cotidiano como WhatsApp refleja el avance constante de la tecnología en nuestra vida diaria. Aunque las primeras versiones pueden presentar limitaciones, estas integraciones abren la puerta a futuras mejoras que facilitarán aún más la interacción entre humanos y máquinas, promoviendo una comunicación más eficiente y accesible para todos.",
+  "noticias_relacionadas": [
+    {
+      "titular_noticia": "ChatGPT ya está disponible en tu teléfono: la inteligencia artificial llega a WhatsApp",
+      "nombre_medio": "Cadena SER",
+      "url_noticia": "https://cadenaser.com/nacional/2024/12/19/chatgpt-ya-esta-disponible-en-tu-telefono-la-inteligencia-artificial-llega-a-whatsapp-cadena-ser/"
+    },
+    {
+      "titular_noticia": "Cómo chatear con ChatGPT por WhatsApp para preguntarle lo que quieras",
+      "nombre_medio": "Cinco Días",
+      "url_noticia": "https://cincodias.elpais.com/smartlife/lifestyle/2024-12-19/usar-chatgpt-en-whatsapp.html"
+    }
+  ],
+  "bsky_msg": "Innovación tecnológica – OpenAI integra ChatGPT en WhatsApp, permitiendo consultas directas desde la app de mensajería –"
+}
