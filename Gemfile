@@ -3,6 +3,7 @@ source "https://rubygems.org"
 # Gemas necesarias para Jekyll
 gem "jekyll", "~> 4.3.2" # Última versión estable de Jekyll
 gem "faraday-retry"      # Dependencia adicional personalizada
+gem 'webrick'
 
 # Dependencias estándar de Ruby para evitar advertencias
 gem "csv"                # Elimina advertencia sobre la futura exclusión de CSV
