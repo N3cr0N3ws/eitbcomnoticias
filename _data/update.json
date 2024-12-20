@@ -1,1 +1,97 @@
-{}
+{
+  "titular": "El rodaje de series y películas se dispara en Euskadi por los incentivos fiscales forales",
+  "categoria_emocional": "Crecimiento cultural",
+  "fecha_publicacion": "1 de noviembre de 2024",
+  "url_canonical": "https://cincodias.elpais.com/extras/pais-vasco/2024-11-01/el-rodaje-de-series-y-peliculas-se-dispara-en-euskadi-por-los-incentivos-fiscales-forales.html",
+  "url_imagen": "https://picsum.photos/800/900",
+  "resumen": "Las diputaciones forales de Euskadi han implementado desgravaciones fiscales que permiten deducir entre el 35% y el 70% de los costes de producción audiovisual, lo que ha incrementado significativamente los rodajes en la región. Estas medidas han atraído tanto a empresas como a profesionales independientes, fomentando la inversión en el sector cinematográfico.",
+  "contexto": "Las diputaciones forales de Bizkaia, Gipuzkoa y Álava han establecido incentivos fiscales para atraer producciones audiovisuales al estado. Bizkaia fue pionera en 2023, permitiendo deducciones fiscales de hasta el 70% para producciones rodadas íntegramente en euskera. Gipuzkoa y Álava han seguido esta iniciativa, ofreciendo desgravaciones similares para fomentar la industria cinematográfica en sus territorios.",
+  "linea_tiempo": [
+    {
+      "fecha": "1 de enero de 2023",
+      "descripcion": "Entrada en vigor de la norma foral en Bizkaia que amplía los incentivos fiscales para producciones audiovisuales, con deducciones de hasta el 70%."
+    },
+    {
+      "fecha": "22 de mayo de 2024",
+      "descripcion": "Las Juntas Generales de Álava aprueban incentivos fiscales atractivos para captar rodajes de cine y televisión, sumándose a Bizkaia y Gipuzkoa."
+    },
+    {
+      "fecha": "1 de noviembre de 2024",
+      "descripcion": "Se reporta un aumento significativo en los rodajes de series y películas en Euskadi debido a los incentivos fiscales forales."
+    }
+  ],
+  "quien_es_quien": [
+    {
+      "nombre": "Álex de la Iglesia",
+      "descripcion": "Director y guionista español, conocido por películas como 'El día de la bestia'. Ha constituido en Bilbao la empresa Pokeepsietexa para aprovechar los incentivos fiscales en Euskadi."
+    },
+    {
+      "nombre": "Carolina Bang",
+      "descripcion": "Actriz y productora española, esposa de Álex de la Iglesia. Juntos han fundado la productora Pokeepsietexa en Bilbao."
+    },
+    {
+      "nombre": "Juanma Bajo Ulloa",
+      "descripcion": "Director de cine español, ganador de la Concha de Oro en 1991 por 'Alas de mariposa'. Ha constituido en Vitoria la AIE 'El Mal-La Película' para su nuevo largometraje."
+    }
+  ],
+  "glosario_terminos": [
+    {
+      "termino": "Incentivos fiscales",
+      "definicion": "Beneficios tributarios otorgados para fomentar determinadas actividades económicas, como las producciones audiovisuales."
+    },
+    {
+      "termino": "Deducción fiscal",
+      "definicion": "Reducción de la base imponible en la declaración de impuestos, disminuyendo la carga tributaria."
+    },
+    {
+      "termino": "Agrupación de Interés Económico (AIE)",
+      "definicion": "Entidad jurídica que permite a varias empresas colaborar en proyectos comunes sin perder su independencia."
+    },
+    {
+      "termino": "Producción audiovisual",
+      "definicion": "Proceso de creación de contenidos para medios visuales y sonoros, como películas y series de televisión."
+    }
+  ],
+  "impacto_esperado": "Se anticipa un fortalecimiento de la industria audiovisual en Euskadi, con la creación de empleo y el impulso de la economía local. Además, estas medidas pueden posicionar al estado como un referente en producciones cinematográficas, atrayendo inversiones nacionales e internacionales.",
+  "comparativas": "Regiones como Navarra y Canarias también han implementado incentivos fiscales para atraer producciones audiovisuales, ofreciendo deducciones de hasta el 40% y 45% respectivamente. Sin embargo, las deducciones de hasta el 70% en Euskadi son de las más altas en Europa.",
+  "opinion_publica": [
+    {
+      "fuente": "El Economista",
+      "reaccion": "Euskadi se ha convertido en un 'paraíso fiscal' para la producción audiovisual, atrayendo numerosos rodajes gracias a sus incentivos fiscales."
+    },
+    {
+      "fuente": "Cadena SER",
+      "reaccion": "Euskadi es el plató de moda, gracias a los incentivos fiscales a la producción audiovisual, que han incrementado los rodajes en la región."
+    }
+  ],
+  "posibles_proximos_pasos": "Se espera que otras regiones analicen la efectividad de estos incentivos y consideren implementar medidas similares para atraer producciones audiovisuales. Asimismo, las diputaciones forales podrían evaluar la ampliación o ajuste de los incentivos actuales para mantener la competitividad y sostenibilidad del sector.",
+  "datos_relevantes": [
+    {
+      "dato": "En 2023, Bizkaia atrajo 151 producciones que generaron un impacto de 58,5 millones de euros en el PIB del territorio.",
+      "fuente": "Cinco Días"
+    },
+    {
+      "dato": "Las deducciones fiscales en Euskadi oscilan entre el 35% y el 70% de los costes de producción.",
+      "fuente": "El Economista"
+    }
+  ],
+  "reflexion_breve": "Los incentivos fiscales en Euskadi no solo impulsan la economía local, sino que también enriquecen la oferta cultural y fortalecen la identidad del estado como un referente en la industria audiovisual. Esta estrategia demuestra cómo las políticas fiscales pueden ser herramientas efectivas para el desarrollo cultural y económico.",
+  "noticias_relacionadas": [
+    {
+      "titular_noticia": "Bizkaia cuadruplica su negocio del cine con incentivos fiscales de récord en Europa",
+      "nombre_medio": "Cinco Días",
+      "url_noticia": "https://cincodias.elpais.com/companias/2024-01-29/bizkaia-cuadruplica-su-negocio-del-cine-con-incentivos-fiscales-de-record-en-europa.html"
+    },
+    {
+      "titular_noticia": "Euskadi, 'paraíso fiscal' para la producción audiovisual",
+      "nombre_medio": "El Economista",
+      "url_noticia": "https://www.eleconomista.es/actualidad/noticias/12827120/05/24/euskadi-paraiso-fiscal-para-la-produccion-audiovisual.html"
+    },
+        {
+      "titular_noticia": "El auge del cine en Euskadi gracias a incentivos fiscales",
+      "nombre_medio": "Cadena SER",
+      "url_noticia": "https://cadenaser.com/noticias/2024/11/01/el-auge-del-cine-en-euskadi-gracias-a-incentivos-fiscales.html"
+    }
+  ],
+  "bsky_msg": "Crecimiento cultural – Euskadi lidera el auge del cine gracias a deducciones fiscales que alcanzan el 70%"
+}
