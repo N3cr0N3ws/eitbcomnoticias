@@ -5,8 +5,18 @@ const { es } = require('date-fns/locale');
 
 // Configuración
 const DOMAIN = 'https://eitbnoticias.com';
-const UPDATED_JSON_PATH = path.join(__dirname, '..', '_data', 'source.json');
-const OUTPUT_SITEMAP_PATH = path.join(__dirname, '..', 'sitemap.xml');
+const UPDATED_JSON_PATH = path.join(__dirname, '..', '_data', 'source.json'); // JSON de entrada
+const OUTPUT_SITEMAP_PATH = path.join(__dirname, '..', 'sitemap.xml'); // Salida del sitemap
+
+// Función para generar slugs de forma consistente con Jekyll
+function slugify(string) {
+    if (!string || string.trim() === '') return 'sin-titulo';
+    return string
+        .toLowerCase()
+        .trim()
+        .replace(/\s+/g, '-') // Reemplazar espacios por guiones
+        .replace(/[^\w-]+/g, ''); // Eliminar caracteres no permitidos
+}
 
 // Función para convertir fechas
 function parseDate(fecha) {
@@ -14,12 +24,12 @@ function parseDate(fecha) {
         return parse(fecha, 'd \'de\' MMMM \'de\' yyyy', new Date(), { locale: es });
     } catch (e) {
         console.error(`Error al parsear la fecha: ${fecha}`);
-        return new Date(); // Fecha por defecto
+        return new Date(); // Fecha por defecto si no es válida
     }
 }
 
 // Función para generar el sitemap
-function generateSitemapFromJSON() {
+function generateSitemapFromUpdatedJSON() {
     try {
         // Leer el archivo JSON
         const data = JSON.parse(fs.readFileSync(UPDATED_JSON_PATH, 'utf8'));
@@ -27,19 +37,19 @@ function generateSitemapFromJSON() {
 
         // Iterar sobre los datos del JSON
         data.forEach(entry => {
-            // Busca el slug en el JSON
-            const slug = entry.slug; // Ajusta esto si el slug tiene otro nombre en el JSON
+            // Crear el slug desde el titular
+            const slug = slugify(entry.titular);
             if (!slug) {
-                console.warn(`Advertencia: Falta el slug para un artículo: ${JSON.stringify(entry)}`);
-                return; // Salta esta entrada si no tiene slug
+                console.warn(`Advertencia: No se pudo generar un slug para el artículo: ${JSON.stringify(entry)}`);
+                return; // Ignora artículos sin slug válido
             }
 
-            // Convierte la fecha de publicación
+            // Convertir la fecha de publicación
             const fechaPublicacion = entry.fecha_publicacion ? parseDate(entry.fecha_publicacion) : new Date();
 
             // Construir la URL
             urls.push({
-                loc: `${DOMAIN}/pages/${slug}`, // Ajusta la ruta si es necesario
+                loc: `${DOMAIN}/pages/${slug}`, // URL basada en el slug
                 lastmod: fechaPublicacion.toISOString().split('T')[0],
                 changefreq: 'monthly',
                 priority: '1.0'
@@ -72,4 +82,4 @@ function generateSitemapFromJSON() {
     }
 }
 
-generateSitemapFromJSON();
+generateSitemapFromUpdatedJSON();
