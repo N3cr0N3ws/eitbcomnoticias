@@ -3,7 +3,7 @@ const path = require('path');
 
 // Configuración
 const DOMAIN = 'https://eitbnoticias.com';
-const UPDATED_JSON_PATH = path.join(__dirname, '_data', 'source.json'); // Ruta al JSON en main
+const UPDATED_JSON_PATH = path.join(__dirname, '..', '_data', 'source.json'); // Ruta al JSON en main
 const OUTPUT_SITEMAP_PATH = path.join(__dirname, 'sitemap.xml'); // Generar en la raíz de main
 
 // Función para generar el sitemap
