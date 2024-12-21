@@ -5,7 +5,7 @@ const { es } = require('date-fns/locale');
 
 // Configuración
 const DOMAIN = 'https://eitbnoticias.com';
-const UPDATED_JSON_PATH = path.join(__dirname, '..', '_data', 'source.json');
+const PAGES_DIR = path.join(__dirname, '..', '_site', 'page');
 const OUTPUT_SITEMAP_PATH = path.join(__dirname, '..', 'sitemap.xml');
 
 // Función para convertir fechas
@@ -14,27 +14,33 @@ function parseDate(fecha) {
         return parse(fecha, 'd \'de\' MMMM \'de\' yyyy', new Date(), { locale: es });
     } catch (e) {
         console.error(`Error al parsear la fecha: ${fecha}`);
-        return null;
+        return new Date(); // Fecha por defecto
     }
 }
 
 // Función para generar el sitemap
-function generateSitemapFromUpdatedJSON() {
+function generateSitemap() {
     try {
-        const data = JSON.parse(fs.readFileSync(UPDATED_JSON_PATH, 'utf8'));
         const urls = [];
 
-        // Construir URLs desde el JSON
-        data.forEach(entry => {
-            const slug = entry.slug || 'slug-no-disponible';
-            const fecha = parseDate(entry.fecha_publicacion) || new Date();
+        // Leer todos los archivos dentro de `_site/page`
+        const files = fs.readdirSync(PAGES_DIR);
 
-            urls.push({
-                loc: `${DOMAIN}/${slug}`,
-                lastmod: fecha.toISOString().split('T')[0],
-                changefreq: 'monthly',
-                priority: '1.0'
-            });
+        files.forEach(file => {
+            const filePath = path.join(PAGES_DIR, file);
+
+            // Verifica que sea un archivo HTML
+            if (fs.statSync(filePath).isFile() && file.endsWith('.html')) {
+                const slug = file.replace('.html', ''); // Remueve la extensión
+                const fechaPublicacion = new Date(); // Puedes ajustar esto si tienes fechas asociadas
+
+                urls.push({
+                    loc: `${DOMAIN}/page/${slug}`,
+                    lastmod: fechaPublicacion.toISOString().split('T')[0],
+                    changefreq: 'monthly',
+                    priority: '1.0'
+                });
+            }
         });
 
         // Generar contenido del sitemap
@@ -61,6 +67,6 @@ function generateSitemapFromUpdatedJSON() {
             } catch (error) {
                 console.error('Error generando el sitemap:', error.message);
             }
-    }
+}
 
-generateSitemapFromUpdatedJSON();
+generateSitemap();
