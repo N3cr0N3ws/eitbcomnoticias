@@ -1,10 +1,22 @@
 const fs = require('fs');
 const path = require('path');
+const { parse } = require('date-fns');
+const { es } = require('date-fns/locale');
 
 // Configuración
 const DOMAIN = 'https://eitbnoticias.com';
-const UPDATED_JSON_PATH = path.join(__dirname, '..', '_data', 'source.json'); // Ruta al JSON en main
-const OUTPUT_SITEMAP_PATH = path.join(__dirname, 'sitemap.xml'); // Generar en la raíz de main
+const UPDATED_JSON_PATH = path.join(__dirname, '..', '_data', 'source.json');
+const OUTPUT_SITEMAP_PATH = path.join(__dirname, '..', 'sitemap.xml');
+
+// Función para convertir fechas
+function parseDate(fecha) {
+    try {
+        return parse(fecha, 'd \'de\' MMMM \'de\' yyyy', new Date(), { locale: es });
+    } catch (e) {
+        console.error(`Error al parsear la fecha: ${fecha}`);
+        return null;
+    }
+}
 
 // Función para generar el sitemap
 function generateSitemapFromUpdatedJSON() {
@@ -15,12 +27,12 @@ function generateSitemapFromUpdatedJSON() {
         // Construir URLs desde el JSON
         data.forEach(entry => {
             const slug = entry.slug || 'slug-no-disponible';
-            const fecha = entry.fecha_publicacion || new Date().toISOString();
+            const fecha = parseDate(entry.fecha_publicacion) || new Date();
 
             urls.push({
                 loc: `${DOMAIN}/${slug}`,
-                lastmod: new Date(fecha).toISOString().split('T')[0],
-                changefreq: 'yearly',
+                lastmod: fecha.toISOString().split('T')[0],
+                changefreq: 'monthly',
                 priority: '1.0'
             });
         });
