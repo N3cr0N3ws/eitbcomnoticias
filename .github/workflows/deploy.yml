@@ -72,6 +72,10 @@ jobs:
       - name: Merge update.json into source.json
         run: node mergeJson.js merge
 
+      - name: Generate Sitemap
+        run: |
+          node scripts/generate-sitemap.js
+
       - name: Configure Git
         run: |
           git config user.name "${{ github.actor }}"
